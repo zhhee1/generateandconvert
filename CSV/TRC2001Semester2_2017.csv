@@ -1,0 +1,1285 @@
+1
+                                     
+  
+Unit Guide
+  
+TRC2001
+Introduction to systems engineering
+Semester 2, 2017
+Table of contents
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          5
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                        9
+Learning outcomes                                                                                                                        10
+Your feedback to us                                                                                                                       10
+Previous student evaluations of this unit                                                                                   10
+Unit schedule - Clayton campus                                                                                                       10
+Assessment requirements                                                                                                                 12
+Assessment summary                                                                                                                   12
+Hurdle requirements                                                                                                                      12
+Assessment tasks                                                                                                                          12
+Examination(s)                                                                                                                               14
+Section B: For Malaysia students                                                                                                      15
+Academic Overview                                                                                                                          16
+Teaching and learning method                                                                                                      17
+Learning outcomes                                                                                                                    18
+OBE requirements to learning outcomes (LOs)                                                                     18
+Relationship between unit learning outcomes and program outcomes                                 19
+Your feedback to us                                                                                                                       19
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Previous student evaluations of this unit                                                                                   19
+Unit schedule - Malaysia campus                                                                                                     21
+Assessment Summary                                                                                                                   22
+Hurdle requirements                                                                                                                  23
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                24
+Relationship between Assessments and Complex Problems/Activities                                    25
+Assessment requirements                                                                                                                 25
+Assessment tasks                                                                                                                          25
+Examination(s)                                                                                                                               27
+Section C: All students                                                                                                                      28
+Extensions and penalties                                                                                                               28
+Returning assignments                                                                                                                  28
+Resubmission of assignments                                                                                                       28
+Plagiarism and collusion                                                                                                                28
+Referencing requirements                                                                                                             28
+Assignment submission                                                                                                                 28
+Feedback to you                                                                                                                            29
+Learning resources                                                                                                                        29
+Required resources                                                                                                                       29
+Technological requirements                                                                                                          29
+Additional unit costs                                                                                                                       29
+Other information                                                                                                                              29
+Policies                                                                                                                                          30
+Graduate Attributes Policy                                                                                                             30
+Student Charter                                                                                                                             30
+Student Services                                                                                                                           30
+Monash University Library                                                                                                             30
+Disability Support Services                                                                                                            30
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit introduces students to the fundamental principles of some basic systems comprising of - 
+Mechanical, Electrical, Electronic, Computing and Electro-mechanical sub-systems, with an 
+intention to introduce cross-links between them for an integrated design approach towards their 
+application to the development of complex systems.
+Special emphasis will be made on introducing sub-systems required for - 'inception to completion' 
+of mechatronic systems with practical design examples. The enabling sub-systems for integrated 
+approach such as sensors and actuators, hardware interfacing, data acquisition for control and 
+feedback of such systems, as well as strategies for risk assessment, interface definition, system 
+integration, human integration, measurement and analysis as required in mechatronics product 
+design & development will also be introduced.
+This unit would outline the breadth of the knowledge that the mechatronics systems engineer must 
+acquire regarding the features of diverse sub-systems and components that constitute the total 
+system.
+Mode of delivery
+Malaysia (Day)
+Clayton (Day)
+Workload requirements
+3 hours lectures, 3 hours of laboratory/practice classes and six hours of private study per week.
+Unit relationships
+ 
+Prerequisites
+24 Credit points
+Prohibitions
+TRC2000
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Chris Davies, Professor Manos Varvarigos
+Unit Coordinator(s)
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Unit Coordinator(s)
+Name: Dr Chao Chen
+Email: Chao.Chen@monash.edu
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Dr Chao Chen
+ Email: Chao.Chen@monash.edu
+ 31123Building: , Room: 
+Consultation hours: TBA
+Lecturer(s) Dr Chao ChenName: 
+ Email: Chao.Chen@monash.edu
+ 31, Room: 123Building: 
+ 
+  
+Malaysia campus
+Campus Coordinator Assoc Professor Tan Chee PinName: 
+ Email: Tan.Chee.Pin@monash.edu
+  Building: , Room: 
+Consultation hours: By appointment
+Lecturer(s)Name:  Assoc Professor Tan Chee Pin
+Email: Tan.Chee.Pin@monash.edu
+Building: , Room: 
+ 
+Name:  Dr Veera Ragavan
+Email: veera.ragavan@monash.edu
+Building: , Room: 
+ 
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of competencyIndicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+1,5
+1.2 Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering discipline.
+a) Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering discipline.
+2,3,4
+1.3 In-depth understanding of 
+specialist bodies of knowledge within 
+the engineering discipline.
+a) Proficiently applies advanced 
+technical knowledge and skills in at 
+least one specialist practice domain 
+of the engineering discipline.
+2,4,5,7
+1.4 Discernment of knowledge 
+development and research directions 
+within the engineering discipline.
+a) Identifies and critically appraises 
+current developments, advanced 
+technologies,emerging issues and 
+interdisciplinary linkages in at least 
+one specialist practice domain of the 
+engineering discipline.
+2
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+b) Interprets and applies selected 
+research literature to inform 
+engineering application in at least 
+one specialist domain of the 
+engineering discipline.
+4,7
+1.5 Identifies and applies systematic 
+principles of engineering design 
+relevant to the engineering discipline.
+a) Identifies and applies systematic 
+principles of engineering design 
+relevant to the engineering discipline.
+2,3,5
+1.6 Understanding of the scope, 
+principles, norms, accountabilities 
+and bounds of sustainable 
+engineering practice in the specific 
+discipline.
+a) Appreciates the basis and 
+relevance of standards and codes of 
+practice, as well as legislative and 
+statutory requirements applicable to 
+the engineering discipline.
+1
+b) Appreciates the principles of 
+safety engineering, risk management 
+and the health and safety 
+responsibilities of the professional 
+engineer, including legislative 
+requirements applicable to the 
+engineering discipline.
+4,7
+d) Understands the fundamental 
+principles of engineering project 
+management as a basis for planning, 
+organising and managing resources.
+7
+2. Engineering application ability
+2.1 Application of established 
+engineering methods to complex 
+engineering problem solving.
+a) Identifies, discerns and 
+characterises salient issues, 
+determines and analyses causes and 
+effects, justifies and applies 
+appropriate simplifying assumptions, 
+predicts performance and behaviour, 
+synthesises solution strategies and 
+develops substantiated conclusions.
+1
+c) Competently addresses 
+engineering problems involving 
+uncertainty, ambiguity, imprecise 
+information and wide-ranging and 
+sometimes conflicting technical and 
+non-technical factors.
+5,7
+f) Conceptualises alternative 
+engineering approaches and 
+evaluates potential outcomes against 
+appropriate criteria to justify an 
+optimal solution choice.
+3,7
+2.2 Fluent application of engineering 
+techniques, tools and resources.
+a) Proficiently identifies, selects and 
+applies the materials, components, 
+devices, systems, processes, 
+resources, plant and equipment 
+relevant to the engineering discipline.
+1,4,7
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+d) Applies a wide range of 
+engineering tools for analysis, 
+simulation, visualisation, synthesis 
+and design, including assessing the 
+accuracy and limitations of such 
+tools, and validation of their results.
+2,3,5
+i) Understands the need for 
+systematic management of the 
+acquisition, commissioning, operation,
+upgrade, monitoring and 
+maintenance of engineering plant, 
+facilities, equipment and systems.
+6,7
+2.3 Application of systematic 
+engineering synthesis and design 
+processes.
+a) Proficiently applies technical 
+knowledge and open ended problem 
+solving skills as well as appropriate 
+tools and resources to design 
+components, elements, systems, 
+plant, facilities and/or processes to 
+satisfy user requirements.
+1,2,3,4,5
+c) Executes and leads a whole 
+systems design cycle approach.
+6,7
+2.4 Application of systematic 
+approaches to the conduct and 
+management of engineering projects.
+a) Contributes to and/or manages 
+complex engineering project activity, 
+as a member and/or as the leader of 
+an engineering team.
+7
+c) Accommodates relevant 
+contextual issues into all phases of 
+engineering project work, including 
+the fundamentals of business 
+planning and financial management
+6
+3. Professional and personal attributes
+3.1 Ethical conduct and professional 
+accountability.
+c) Understands the accountabilities 
+of the professional engineer and the 
+broader engineering team for the 
+safety of other people and for 
+protection of the environment.
+1,7
+3.2 Effective oral and written 
+communication in professional and 
+lay domains.
+a) Is proficient in listening, speaking, 
+reading and writing English
+1,2,3,4,5
+b) Prepares high quality engineering 
+documents such as progress and 
+project reports, reports of 
+investigations and feasibility studies, 
+proposals, specifications, design 
+records, drawings, technical 
+descriptions and presentations 
+pertinent to the engineering discipline.
+6,7
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+3.3 Creative, innovative and pro-
+active demeanour.
+a) Applies creative approaches to 
+identify and develop alternative 
+concepts, solutions and procedures, 
+appropriately challenges engineering 
+practices from technical and non-
+technical viewpoints; identifies new 
+technological opportunities.
+1,3,4,6
+c) Is aware of broader fields of 
+science, engineering, technology and 
+commerce from which new ideas and 
+interfaces may be drawn and readily 
+engages with professionals from 
+these fields to exchange ideas.
+7
+3.4 Professional use and 
+management of information.
+a) Is proficient in locating and utilising 
+information - including accessing, 
+systematically searching,analysing, 
+evaluating and referencing relevant 
+published works and data; is 
+proficient in the use of indexes, 
+bibliographic databases and other 
+search facilities.
+1,7
+3.5 Orderly management of self, and 
+professional conduct.
+a) Demonstrates commitment to 
+critical self-review and performance 
+evaluation against appropriatecriteria 
+as a primary means of tracking 
+personal development needs and 
+achievements.
+6,7
+3.6 Effective team membership and 
+team leadership.
+a) Understands the fundamentals of 
+team dynamics and leadership.
+4,7
+b) Functions as an effective member 
+or leader of diverse engineering 
+teams, including those with multi-
+level, multi-disciplinary and multi-
+cultural dimensions.
+4,7
+Teaching and learning method
+●lecture and tutorials or problem classes; laboratory-based classes; case-based teaching; 
+problem-based learning; work-integrated learning;
+The unit consists of lectures and practice classes. Learning in the unit is mainly through lectures 
+and the group project which goes for the whole semester and has a number of components which 
+build to form the final project. The “Problem-based learning” is important in this unit, which requires 
+students to be involved with the project and proactive learners. There are no right or wrong 
+answers to some project questions. Some solutions will be better than others as they achieve the 
+criteria in a better way.
+Communication, participation and feedback
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+●Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies. In this unit it will take the form of group feedback via 
+practice classes, individual feedback, peer feedback, self-comparison, verbal and written 
+feedback, discussions in class, as well as more formal feedback related to assignment 
+marks and grades. Students/You are encouraged to draw on a variety of feedback to 
+enhance their/your learning.
+Learning outcomes
+Upon successful completion of this unit, students will be able to:
+1. describe what knowledge and skills are required to become a Mechatronics and Systems 
+Engineer
+2. interpret and classify cross-links and design interfaces required between subsystems of a 
+system, both as hardware and software approach
+3. map and define design specifications and solve unstructured problems
+4. apply an integrated approach that can help design better and smarter products and 
+processes
+5. understand and implement basic tools and methods for system design.
+6. review and conduct structured analysis of systems
+7. plan, design and generate smart products and processes
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●This unit is now made an independent unit in Mechatronics, in order to make sure a full 
+integration of the teaching materials and the associated project work.
+Student feedback has highlighted the following strength(s) in this unit:
+●The project work is interesting and practical.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Unit schedule - Clayton campus
+The order of lectures might vary due to the requirements on different campuses
+WeekLecturesProject-based Assessment
+1Introduction to systems engineering
+2PLCQuiz 1
+33D PrintingQuiz 2
+4Mechanical systemsQuiz 3
+Submit initial proposal
+5System engineering and design 
+integration
+Quiz 4
+6PneumaticsQuiz 5
+On line test (Closed book)
+7Pneumatic and hydraulic actuationQuiz 6
+8Electrical actuationsQuiz 7
+9Sensors and transducersQuiz 8
+10TolerancesQuiz 9
+11Control and microcontrollersQuiz10
+Construction marking
+12Mechatronics systems case studiesPull down and clean up
+Submit final report
+Submit 3D printed part
+Submit users guide
+Submit video
+Submit logo program
+SWOT VACNo formal assessment is undertaken in 
+SWOT VAC
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Examination periodwww.policy.monash.edu/policybank
+/academic/education/assessment
+/assessment-in-coursework-policy.html
+Assessment requirements
+Assessment summary
+Continuous assessment: 60%
+Examination (2 hours): 40%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taskValueDue date
+Project assessment50%Various dates during semester
+Assignment assessment10%weekly
+Examination40%To be advised
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment tasks
+Assessment title: Project assessment
+  Mode of delivery:Project and Assignments
+Details of task: On line quizzes (Individual) x 10
+Design proposal (Group)
+Mid semester test (Individual)
+Final Video (Group)
+Final construction (Group)
+Final report (Group)
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Final report (Group)
+3D part (Group)
+Week 2 onwardsRelease dates (where applicable): 
+ NAWord limit (where applicable):
+Various dates during semesterDue date: 
+50%Value: 
+5 minute recorded videoPresentation requirements: 
+Hurdle appliesHurdle requirements (where applicable): 
+GroupIndividual assessment in group tasks (where applicable): 
+refer to moodle site for marking criteriaCriteria for marking: 
+ NAAdditional remarks:
+ 
+Assessment title: Assignment assessment
+ Mode of delivery:Assignments (Individual) x 10 (10% in total)
+Details of task: Assignment 1
+Assignment 2
+Assignment 3
+Assignment 4
+Assignment 5
+Assignment 6
+Assignment 7
+Assignment 8
+Assignment 9
+Assignment 10
+each weekRelease dates (where applicable): 
+ NAWord limit (where applicable):
+weeklyDue date: 
+10%Value: 
+N/APresentation requirements: 
+hurdle appliesHurdle requirements (where applicable): 
+individualIndividual assessment in group tasks (where applicable): 
+marking schemesCriteria for marking: 
+ N/AAdditional remarks:
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+ N/AAdditional remarks:
+ 
+Examination(s)
+ExaminationExam title: 
+40%Weighting: 
+3 hoursLength: 
+ Closed bookType (Open/closed book):
+ Hurdle appliesHurdle requirements (where applicable):
+Approved CalculatorElectronic devices allowed: 
+NARemarks (where applicable): 
+ 
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Section B: For Malaysia students
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who are: Mechatronics 
+1. competent in engineering Mechatronics 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program Outcomes (POs) for all  Mechatronics 
+of its graduates based on the competencies required by the Malaysian Engineering Accreditation 
+Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Engineering Knowledge: Mechatronics 
+Apply knowledge of mathematics, natural 
+science, engineering fundamentals and 
+specialisation in engineering to  Mechatronics 
+the solution of complex engineering problems
+Cognitive:  Lab exercises, Written 
+assignments, Final exam
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse complex
+engineering problems reaching Mechatronics 
+substantiated conclusions using first principles 
+of mathematics, natural sciences and 
+engineering sciences
+Cognitive: Design assignment, Project 
+proposal, Logbook, Project presentation, 
+demo and report
+PO3  Design/Development of Solutions:
+Design solutions for complex Mechatronics 
+engineering problems and design systems, 
+components or processes that meet specified 
+needs.
+Cognitive: 
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex Mechatronics 
+engineering problems using research-based 
+knowledge and research methods including 
+design of experiments, (analysis and 
+interpretation of data, and synthesis of 
+information to provide valid conclusions.
+Cognitive: 
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex 
+engineering problems, with an Mechatronics 
+understanding of the limitations
+Cognitive: 
+Psychomotor: 
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Mechatronics 
+engineering problems
+Affective: 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complex Mechatronics 
+engineering problems in environmental 
+contexts.
+Cognitive: 
+Affective: 
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate effectively Communication:
+on complexengineering  Mechatronics 
+activities with the engineering community and 
+with society at large, such as being able to 
+comprehend and write effective reports and 
+design documentation, make effective 
+presentations, and give and receive clear 
+instructions
+Affective:  Project presentation, demo and 
+report
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective:  Logbook and peer assessment 
+during project work
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective: 
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: Project proposal, Project 
+presentation and report
+Affective: 
+Teaching and learning method
+●lecture and tutorials or problem classes; laboratory-based classes; case-based teaching; 
+problem-based learning; work-integrated learning;
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+The unit consists of lectures and practice classes. Learning in the unit is mainly through lectures 
+and the group project which goes for the whole semester and has a number of components which 
+build to form the final project. The “Problem-based learning” is important in this unit, which requires 
+students to be involved with the project and proactive learners. There are no right or wrong 
+answers to some project questions. Some solutions will be better than others as they achieve the 
+criteria in a better way.
+Communication, participation and feedback
+●Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies. In this unit it will take the form of group feedback via 
+practice classes, individual feedback, peer feedback, self-comparison, verbal and written 
+feedback, discussions in class, as well as more formal feedback related to assignment 
+marks and grades. Students/You are encouraged to draw on a variety of feedback to 
+enhance their/your learning.
+Learning outcomes
+Upon successful completion of this unit, students will be able to:
+1. describe what knowledge and skills are required to become a Mechatronics and Systems 
+Engineer
+2. interpret and classify cross-links and design interfaces required between subsystems of a 
+system, both as hardware and software approach
+3. map and define design specifications and solve unstructured problems
+4. apply an integrated approach that can help design better and smarter products and 
+processes
+5. understand and implement basic tools and methods for system design.
+6. review and conduct structured analysis of systems
+7. plan, design and generate smart products and processes
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome Based 
+Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO1) 
+Describe the roles and properties of basic sub-
+systems (Mechanical, Electrical, Electronic, 
+Computing, Electro-mechanical) which make up a 
+mechatronics system.
+LO1) 
+describe what knowledge and skills are 
+required to become a Mechatronics and 
+Systems Engineer
+LO2) 
+Plan the design and fabrication of a mechatronics 
+system, with consideration for functional/design 
+specifications, resource planning and timeline 
+planning.
+LO2) 
+interpret and classify cross-links and 
+design interfaces required between 
+subsystems of a system, both as hardware 
+and software approach
+LO3) LO3) 
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Learning Outcomes (LOs) for Outcome Based 
+Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+Integrate the sub-systems to produce a 
+mechatronics system.
+map and define design specifications and 
+solve unstructured problems
+LO4) Communicate the design and 
+implementation (incl. 1-3 above) through an oral 
+presentation, project demonstration and report
+LO4) apply an integrated approach that 
+can help design better and smarter 
+products and processes
+LO5) understand and implement basic 
+tools and methods for system design
+LO6) review and conduct structured 
+analysis of systems
+LO7) plan, design and generate smart 
+products and processes
+Relationship between unit learning outcomes and program outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√
+LO2√√
+LO3√√
+LO4√√√
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●This unit is now made an independent unit in Mechatronics, in order to make sure a full 
+integration of the teaching materials and the associated project work.
+Student feedback has highlighted the following strength(s) in this unit:
+●The project work is interesting and practical.
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Unit schedule - Malaysia campus
+WeekLecturesLabAssessment tasks
+1Introduction to systems 
+engineering and 
+mechatronics, and 
+project management
+Introduction and 
+soldering, crimping, 
+wiring, addressing
+Soldering (1%)
+(individual, assessed in-
+lab)
+2Introduction to fluid 
+power - pneumatics
+Lab exercises + project 
+preparation
+Lab exercises (1%)
+(group, assessed in-lab)
+Project proposal
+(submit in week 5)
+3Introduction to fluid 
+power - hydraulics
+Lab exercises + project 
+preparation
+Lab exercises (1%)
+(group, assessed in-lab)
+4Electrical actuation - 
+relays, switches
+Lab exercises + project 
+preparation
+Lab exercises (1%)
+(assessed in-lab)group, 
+5Programmable logic 
+controllers (PLCs)
+Lab exercises + project 
+preparation
+Lab exercises (1%)
+(assessed in-lab)group, 
+Project proposal 
+submission (5%), group
+Written assignment 1 
+issued
+(submit in week 7)
+6MechanismsProject begins (see note 1 
+below)
+7Automation - system 
+design and integration
+Project work
+Lab exercises
+Lab exercises (1%)
+(assessed in-lab)group, 
+Written assignment 1 
+submission (5%), 
+individual
+Integrated design 
+assignment
+(submit in week 9)
+8Automation - system 
+design and integration
+Project work
+9SensorsProject workIntegrated design 
+assignment submission 
+(4%), group
+Written assignment 2 
+issued
+(submit in week 11)
+10ToleranceProject work
+113D printingProject work
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+1.  
+2.  
+3.  
+4.  
+1.  
+2.  
+Written assignment 2 
+submission (5%), 
+individual
+12Basics of feedback 
+control and 
+microcontrollers
+Project workProject assessment
+(see note 2 below), group
+Note 1: 
+Select from a set of projects
+First come first served basis allocation (fixed number of kits will be available)
+Concepts to be built-up from the lab assignments done previously.
+Students will be assessed for Innovation and Value addition
+Note 2:
+May be carried out in week 12 or 13, depending on progress made and other factors
+Assessment will be:
+, and ((a) Project presentation, demo, final report (30%)b) Logbook and teamwork (5%) - this 
+will be performed and assessed from week 7 onwards (when project component begins)
+More details (assessment sub-components and criteria) will be released as the time draws nearer
+Note (overall schedule) - the schedule may change depending on the progress of students
+Assessment Summary
+Continuous assessment: 60%
+Examination (2 hours): 40%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taskValueDue date
+Soldering1% Lab session of week 1
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+Assessment taskValueDue date
+Lab exercises5%Assessed in-lab; see unit schedule 
+Written assignments10%See unit schedule 
+Integrated design assessment4%See unit schedule 
+Project proposal5%See unit schedule
+Logbook and teamwork assessment5%See unit schedule
+Project presentation, demo, final report30%Week 12 or week 13
+Final exam40%Exam period
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+Application:
+Uses learning 
+in new and 
+concrete 
+Analysis:
+Understands 
+both the 
+content and 
+Synthesis:
+ Formulates 
+new 
+structures 
+Evaluation:
+ Judges 
+the value 
+of material 
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+Remembers 
+previously 
+learned 
+material
+level of 
+understanding)
+situations 
+(higher level 
+of 
+understanding)
+structure of 
+material
+from 
+existing 
+knowledge 
+and skills
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+AssessmentLearning Outcomes
+LO1LO2LO3LO4LO5LO6
+1Soldering task (1%)C2
+2Lab exercises (5%)C3
+3Written assignments (10%)C4
+4Integrated design assignment (4%)C3
+5Project proposal (5%)C3
+6Logbook and teamwork (5%)C3, A3
+7Project presentation, demo, final report 
+(30%)
+A2
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+8Final exam (40%)C3
+Relationship between Assessments and Complex Problems
+/Activities
+The following assessment tasks involve Complex Problems under WP2
+- Integrated design assessment (4%)
+- Project proposal (5%)
+- Project presentation, demo, final report (30%)
+Assessment requirements
+Assessment tasks
+Assessment title:  Soldering exercise
+ Hands-onMode of delivery:
+ You will be given a video on proper soldering techniques. Following that, each of Details of task:
+you will have to perform a soldering task.
+ Week 1Release dates (where applicable): 
+  Not applicableWord limit (where applicable): 
+  In-lab (on the spot)Due date: 
+  1%Value: 
+  Presentation requirements: Not applicable
+Not applicableHurdle requirements (where applicable):  
+  Individual assessmentIndividual assessment in group tasks (where applicable): 
+Criteria for marking:  Marks will be given based on quality of soldering
+ NoneAdditional remarks: 
+Assessment title:  Lab exercises
+ Hands-onMode of delivery:
+ You will be given lab exercises on related topics (which will build up your Details of task:
+knowledge to carry out your project) in weeks 2, 3, 4, 5, 7 (tentatively). 
+ Weeks 2, 3, 4, 5, 7 (tentative)Release dates (where applicable): 
+  Not applicableWord limit (where applicable): 
+  In-lab (on the spot)Due date: 
+  1% per exercise to give a total of 5%Value: 
+  NonePresentation requirements: 
+NoneHurdle requirements (where applicable):  
+  Group assessmentIndividual assessment in group tasks (where applicable): 
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+  Group assessmentIndividual assessment in group tasks (where applicable): 
+Marks will be given based on how well the objective is achievedCriteria for marking:  
+ NoneAdditional remarks: 
+Assessment title:  Project proposal
+ Take-home assignmentMode of delivery:
+ This will be the proposal for your project. You will also need to incorporate the Details of task:
+project management tools covered in the lectures.
+ Week 2Release dates (where applicable): 
+  NoneWord limit (where applicable): 
+  Week 5Due date: 
+  5%Value: 
+  To be announcedPresentation requirements: 
+NoneHurdle requirements (where applicable):  
+  Group assessmentIndividual assessment in group tasks (where applicable): 
+Criteria and rubrics will be released laterCriteria for marking:  
+ NoneAdditional remarks: 
+Assessment title:  Written assignments
+ Take-home assignmentMode of delivery:
+ You will be given written assignments based on the lecture material.Details of task:
+ Weeks 7 and 9Release dates (where applicable): 
+  NoneWord limit (where applicable): 
+  Weeks 9 and 11Due date: 
+  5% each to give a total of 10%Value: 
+  NonePresentation requirements: 
+NoneHurdle requirements (where applicable):  
+  Individual assessmentIndividual assessment in group tasks (where applicable): 
+According to solutions and marking schemeCriteria for marking:  
+ NoneAdditional remarks: 
+Assessment title:  Integrated design assessment
+ Take-home design assignmentMode of delivery:
+ You will be given a integrated design assignment culminating from all prior lab Details of task:
+exercises
+ Week 7Release dates (where applicable): 
+  NoneWord limit (where applicable): 
+  Week 9Due date: 
+  4%Value: 
+  NonePresentation requirements: 
+NoneHurdle requirements (where applicable):  
+  Group assessmentIndividual assessment in group tasks (where applicable): 
+Based on solution and marking schemeCriteria for marking:  
+ NoneAdditional remarks: 
+Assessment title:  Logbook and teamwork assessment
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+Assessment title:  Logbook and teamwork assessment
+ Continuously throughout the project periodMode of delivery:
+ During the course of your project, you are required to maintain a logbook of Details of task:
+activities. It will also be used to assess teamwork.
+ Week 2Release dates (where applicable): 
+  NoneWord limit (where applicable): 
+  Week 12 or 13Due date: 
+  5%Value: 
+  NonePresentation requirements: 
+NoneHurdle requirements (where applicable):  
+  Individual assessment in group tasks (where applicable): Logbook will be assessed as a group
+Teamwork will be assessed individually
+Based on rubrics which will be released laterCriteria for marking:  
+ NoneAdditional remarks: 
+Assessment title:  Project demo, presentation and report
+ Oral presentation, live demonstration and reportMode of delivery:
+ At the end of the project, you will be required to make a presentation and Details of task:
+demonstration of your project, and also write a report on it.
+ Not applicableRelease dates (where applicable): 
+  NoneWord limit (where applicable): 
+  Week 12 or 13Due date: 
+  30%Value: 
+  To be announced laterPresentation requirements: 
+NoneHurdle requirements (where applicable):  
+  Most of the tasks will be assessed as a Individual assessment in group tasks (where applicable): 
+group, and some items (such as individual contribution) will be assessed individually. More details 
+to be given later.
+As per rubricsCriteria for marking:  
+ NoneAdditional remarks: 
+Examination(s)
+ Final examExam title: 
+ 40%Weighting: 
+Standard exam paper lengthLength: 
+ Closed bookType (Open/closed book): 
+  Minimum of 45% is requiredHurdle requirements (where applicable): 
+ Standard Faculty-approved calculatorsElectronic devices allowed: 
+ NoneRemarks (where applicable): 
+ 
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+Section C: All students 
+Extensions and penalties
+The due dates for the submission of assignments are stated clearly. Please
+make every effort to submit work by the due dates. Students are advised to NOT assume that 
+granting of an extension is a matter of course.
+If you need an extension for any of the assignments, you must submit a written request 48hours 
+the due time and date, and attach supportive evidence such as medical certificate.before 
+Returning assignments
+Via Email
+Resubmission of assignments
+Students may resubmit certain assignments as stated on the moodle site
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+All material that is not your own must be referenced.
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
+29
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at http://my.monash.edu.au under the heading 'Learning and teaching tools'. Please keep 
+a copy of tasks completed for your records.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+This unit has been structured to make the learning outcomes clearer; to make the unit more 
+stimulating; to improve resources and to improve the level of tutoring and feedback. Feedback is 
+always welcome at any time throughout the semester. Please use email to send it to the unit co-
+ordinator, or in person.
+Learning resources
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Technological requirements
+Students must regularly check Moodle for announcements.
+Additional unit costs
+Students may be expected to contribute a small amount of money towards one of the projects
+Other information
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (28) Break----------------
+30
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (29) Break----------------
+31
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+TRC2001 Introduction to systems engineering - Semester 2 (S2-01) - 2017
+----------------Page (30) Break----------------

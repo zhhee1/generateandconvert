@@ -1,0 +1,850 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE4043
+Optical communications
+Semester 2, 2017
+Table of contents
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                       4
+Campus Coordinator(s)                                                                                                                4
+Lecturer(s)                                                                                                                                    5
+Academic Overview                                                                                                                            6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                      10
+Learning outcomes                                                                                                                        10
+Your feedback to us                                                                                                                       11
+Previous student evaluations of this unit                                                                                   11
+Unit schedule                                                                                                                                    12
+Assessment requirements                                                                                                                 13
+Assessment summary                                                                                                                   13
+Hurdle requirements                                                                                                                      13
+Assessment tasks                                                                                                                          13
+Examination(s)                                                                                                                               14
+Examination material or equipment                                                                                           15
+Extensions and penalties                                                                                                               15
+Returning assignments                                                                                                                  16
+Resubmission of assignments                                                                                                       16
+Plagiarism and collusion                                                                                                                16
+Referencing requirements                                                                                                             16
+Assignment submission                                                                                                                 17
+Feedback to you                                                                                                                            17
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Learning resources                                                                                                                        17
+Required resources                                                                                                                       17
+Technological requirements                                                                                                          18
+Other information                                                                                                                              18
+Policies                                                                                                                                          18
+Graduate Attributes Policy                                                                                                             18
+Student Charter                                                                                                                             18
+Student Services                                                                                                                           18
+Monash University Library                                                                                                             18
+Disability Support Services                                                                                                            19
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+Students will study the characteristics of key components that make up optical communications 
+systems including: lasers and advanced lightwave sources and direct modulation, optical 
+modulators, optical fibres, optical amplifiers, filters and multiplexers, optical receivers and 
+associated electronics. Secondly, students will use this knowledge to analyse and design optical 
+communications systems. Examples will include local-area networks, metropolitan area networks, 
+long-haul links and transcontinental networks.
+Mode of delivery
+Clayton (Day)
+Workload requirements
+3 hours lectures, 3 hours laboratory and practice classes and 6 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+ECE2021 (or ECE3202 or PHS2022) and ECE2041 (or ECE3402)
+Prohibitions
+ECE4405, ECE5043, ECE5405
+Co-requisites
+None
+Chief Examiner(s)
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Dr Bill Corcoran
+Email: Bill.Corcoran@monash.edu
+ 
+Campus Coordinator(s)
+Name: Dr Bill Corcoran
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Name: Dr Bill Corcoran
+Email: Bill.Corcoran@monash.edu
+Building: 35, Room: 216
+Consultation hours: 9am - 5pm. Contact for appointment.
+ 
+Lecturer(s)
+Name: Dr Bill Corcoran
+Email: Bill.Corcoran@monash.edu
+Building: 35, Room: 216
+Consultation hours: Contact bill.corcoran@monash.edu to arrange meeting times.
+ 
+Name: Dr Valery Rozental
+Email: Valery.Rozental@monash.edu
+Building: , Room: 
+ 
+Students will study the characteristics of key components that make up optical communications 
+systems, including: lasers and advanced lightwave sources and direct modulation, optical 
+modulators, optical fibres, optical amplifiers, filters and multiplexers, optical receivers and 
+associated electronics. Secondly, students will use this knowledge to analyse and design optical 
+communications systems. Examples will include local-area networks, metropolitan area networks, 
+long-haul links and transcontinental networks.
+By the end of the course, you should have:
+Knowledge of characteristics of fibres, including dispersion and non-linearity, and of multiplexers, 
+filters and Raman optical amplifiers. Ability to prepare a power budget for an optical 
+communications link. Understanding of the dispersion limits and compensation techniques for 
+optical links. Knowledge of wavelength division multiplexing in links and networks. Skills to design 
+optical communications links for short, medium and long-haul applications, and select appropriate 
+components during link design. Ability to simulate the interactions of components and understand 
+performance measures. Ability to propose optical network architectures for access and 
+metropolitan networks. Ability to specify the performance of networks from an operator's 
+perspective. Experience in making basic measurements on optical components and systems.
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of competencyIndicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological level, 
+applying sciences and engineering 
+fundamentals to systematic 
+investigation, interpretation, analysis and 
+innovative solution of complex problems 
+and broader aspects of engineering 
+practice.
+1
+1.2 Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, 
+evaluation, knowledge 
+management and communication 
+tools and techniques pertinent to 
+the engineering discipline.
+a) Develops and fluently applies relevant 
+investigation analysis, interpretation, 
+assessment, characterisation, prediction, 
+evaluation, modelling, decision making, 
+measurement, evaluation, knowledge 
+management and communication tools 
+and techniques pertinent to the 
+engineering discipline.
+1
+1.3 In-depth understanding of 
+specialist bodies of knowledge 
+within the engineering discipline.
+a) Proficiently applies advanced 
+technical knowledge and skills in at least 
+one specialist practice domain of the 
+engineering discipline.
+1
+1.4 Discernment of knowledge 
+development and research 
+directions within the engineering 
+discipline.
+a) Identifies and critically appraises 
+current developments, advanced 
+technologies,emerging issues and 
+interdisciplinary linkages in at least one 
+specialist practice domain of the 
+engineering discipline.
+1
+b) Interprets and applies selected 
+research literature to inform engineering 
+application in at least one specialist 
+domain of the engineering discipline.
+1
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+1.5 Identifies and applies 
+systematic principles of 
+engineering design relevant to the 
+engineering discipline.
+a) Identifies and applies systematic 
+principles of engineering design relevant 
+to the engineering discipline.
+1
+b) Identifies and understands the 
+interactions between engineering 
+systems and people in the social, 
+cultural, environmental, commercial, 
+legal and political contexts in which they 
+operate, including both the positive role 
+of engineering in sustainable 
+development and the potentially adverse 
+impacts of engineering activity in the 
+engineering discipline.
+1
+c) Appreciates the issues associated 
+with international engineering practice 
+and global operating contexts.
+1
+1.6 Understanding of the scope, 
+principles, norms, accountabilities 
+and bounds of sustainable 
+engineering practice in the 
+specific discipline.
+d) Understands the fundamental 
+principles of engineering project 
+management as a basis for planning, 
+organising and managing resources.
+1
+e) Appreciates the formal structures and 
+methodologies of systems engineering 
+as a holistic basis for managing 
+complexity and sustainability in 
+engineering practice.
+1
+2. Engineering application ability
+2.1 Application of established 
+engineering methods to complex 
+engineering problem solving.
+a) Identifies, discerns and characterises 
+salient issues, determines and analyses 
+causes and effects, justifies and applies 
+appropriate simplifying assumptions, 
+predicts performance and behaviour, 
+synthesises solution strategies and 
+develops substantiated conclusions.
+1
+b) Ensures that all aspects of an 
+engineering activity are soundly based 
+on fundamental principles - by 
+diagnosing, and taking appropriate 
+action with data, calculations, results, 
+proposals, processes, practices, and 
+documented information that may be ill-
+founded, illogical, erroneous, unreliable 
+or unrealistic.
+1
+c) Competently addresses engineering 
+problems involving uncertainty, 
+ambiguity, imprecise information and 
+wide-ranging and sometimes conflicting 
+technical and non-technical factors.
+1
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+d) Investigates complex problems using 
+research-based knowledge and research 
+methods.
+1
+e) Partitions problems, processes or 
+systems into manageable elements for 
+the purposes of analysis,modelling or 
+design and then re-combines to form a 
+whole, with the integrity and 
+performance of the overall system as the 
+paramount consideration.
+1
+f) Conceptualises alternative engineering 
+approaches and evaluates potential 
+outcomes against appropriate criteria to 
+justify an optimal solution choice.
+1
+g) Critically reviews and applies relevant 
+standards and codes of practice 
+underpinning the engineering discipline 
+and nominated specialisations.
+1
+2.2 Fluent application of 
+engineering techniques, tools and 
+resources.
+a) Proficiently identifies, selects and 
+applies the materials, components, 
+devices, systems, processes, resources, 
+plant and equipment relevant to the 
+engineering discipline.
+1
+b) Constructs or selects and applies 
+from a qualitative description of a 
+phenomenon, process, system, 
+component or device a mathematical, 
+physical or computational model based 
+on fundamental scientific principles and 
+justifiable simplifying assumptions.
+1
+c) Determines properties, performance, 
+safe working limits, failure modes, and 
+other inherent parameters of materials, 
+components and systems relevant to the 
+engineering discipline.
+1
+d) Applies a wide range of engineering 
+tools for analysis, simulation, 
+visualisation, synthesis and design, 
+including assessing the accuracy and 
+limitations of such tools, and validation 
+of their results.
+1
+e) Applies formal systems engineering 
+methods to address the planning and 
+execution of complex, problem solving 
+and engineering projects.
+1
+f) Designs and conducts experiments, 
+analyses and interprets result data and 
+formulates reliable conclusions.
+1
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+g) Analyses sources of error in applied 
+models and experiments; eliminates, 
+minimises or compensates for such 
+errors; quantifies significance of errors to 
+any conclusions drawn.
+1
+2.3 Application of systematic 
+engineering synthesis and design 
+processes.
+a) Proficiently applies technical 
+knowledge and open ended problem 
+solving skills as well as appropriate tools 
+and resources to design components, 
+elements, systems, plant, facilities and
+/or processes to satisfy user 
+requirements.
+1
+b) Addresses broad contextual 
+constraints such as social, cultural, 
+environmental, commercial, legal 
+political and human factors, as well as 
+health, safety and sustainability 
+imperatives as an integral part of the 
+design process.
+1
+c) Executes and leads a whole systems 
+design cycle approach.
+1
+d) Is aware of the accountabilities of the 
+professional engineer in relation to the 
+‘design authority’ role.
+1
+3. Professional and personal attributes
+3.1 Ethical conduct and 
+professional accountability.
+b) Understands the need for due-
+diligence in certification, compliance and 
+risk management processes.
+1
+3.2 Effective oral and written 
+communication in professional 
+and lay domains.
+a) Is proficient in listening, speaking, 
+reading and writing English
+1
+b) Prepares high quality engineering 
+documents such as progress and project 
+reports, reports of investigations and 
+feasibility studies, proposals, 
+specifications, design records, drawings, 
+technical descriptions and presentations 
+pertinent to the engineering discipline.
+1
+3.3 Creative, innovative and pro-
+active demeanour.
+a) Applies creative approaches to 
+identify and develop alternative 
+concepts, solutions and procedures, 
+appropriately challenges engineering 
+practices from technical and non-
+technical viewpoints; identifies new 
+technological opportunities.
+1
+b) Seeks out new developments in the 
+engineering discipline and 
+specialisations and applies fundamental 
+knowledge and systematic processes to 
+evaluate and report potential.
+1
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+c) Is aware of broader fields of science, 
+engineering, technology and commerce 
+from which new ideas and interfaces 
+may be drawn and readily engages with 
+professionals from these fields to 
+exchange ideas.
+1
+3.4 Professional use and 
+management of information.
+a) Is proficient in locating and utilising 
+information - including accessing, 
+systematically searching,analysing, 
+evaluating and referencing relevant 
+published works and data; is proficient in 
+the use of indexes, bibliographic 
+databases and other search facilities.
+1
+b) Critically assesses the accuracy, 
+reliability and authenticity of information.
+1
+3.5 Orderly management of self, 
+and professional conduct.
+d) Manages time and processes 
+effectively, prioritises competing 
+demands to achieve personal,career and 
+organisational goals and objectives.
+1
+e) Thinks critically and applies an 
+appropriate balance of logic and 
+intellectual criteria to analysis,judgement 
+and decision making.
+1
+Teaching and learning method
+The unit consists of lecture and practice/tutorial classes with a mix of computer based and 
+practical laboratory exercises and a design project.
+Lecture and tutorials or problem classes seminars:
+The lectures provide an environment for learning about the fundamental concepts of optical 
+communications, as well as an opportunity for feedback on student understanding through informal 
+quizzes. The tutorials are an opportunity for problem-based leaning, taking the concepts from the 
+lectures and providing concrete examples of their application.
+Laboratory-based classes:
+The laboratory session allow for problem-based learning with an element of enquiry-based 
+approaches. They allow students to work on their skills in analysis. Model systems will help 
+students identify key problem-solving approaches to the design and implementation of optical 
+communication systems.
+Simulation or virtual practice:
+The design task in the latter weeks of the course provides a more open, enquiry-based learning 
+approach, focused on a real-world problem of designing a long-haul optical fibre link in and 
+Australian context. This task approximates the kind of project one might encounter working in 
+optical communications.
+Learning outcomes
+At the successful completion of this unit you will be able to:
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+1. Describe the underlying physical principles of optical subsystems, and apply this 
+understanding to predict and quantify the effect on optical fibre communication system 
+performance.
+2. Generate and analyse methods for increasing the data bandwidth of optical systems.
+3. Quantify the performance of optical components within optical systems, and design 
+systems to mitigate the effects of the performance constraints from components.
+4. Simulate and predict the interactions of components, and both quantify and reflect upon 
+their impact on performance metrics.
+5. Research and appraise state-of-the-art optical technologies, and justify their incorporation 
+into optical communications links for short-, medium- and long-haul applications.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●Feedback was good, no specific recommendation was made. Laboratory exercises have 
+been refined to ensure students get the most out of their time.
+Student feedback has highlighted the following strength(s) in this unit:
+●Feedback was good, no specific recommendation was made.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Unit schedule
+WeekLectureTutorialLabAssignment /ctivity
+Week 1
+25 July
+Introduction: Light, the 
+global fibre network, 
+and everything
+N/AN/AN/A
+Week 2
+1 August
+The transmitter (Tx): 
+Lasers & Modulation
+Tutorial 
+problems
+Lab 1: Hands-
+on with OTDR
+N/A
+Week 3
+8 August
+The receiver (Rx): 
+Photodiodes and noise
+Tutorial 
+problems
+Lab 2: 
+Modulation
+Submit Lab report 
+1
+Week 4
+15 August
+The channel: Optical 
+fibre and binary 
+signalling
+Tutorial 
+problems
+Lab 3: 
+Dispersion
+Submit Lab report 
+2
+Week 5
+22 August
+Optical AmplifiersTutorial 
+problems
+Lab 4: Noise 
+Figures & 
+OSNR
+Submit Lab report 
+3
+Week 6
+29 August
+Penalties in optical 
+links & Wavelength 
+Division Multiplexing
+Tutorial 
+problems
+Lab 5: Loss 
+and Optical 
+Noise Limits
+Submit Lab report 
+4
+Distribute Design 
+Assignment
+Week 7
+5 October
+Challenges in installed 
+links& phase  
+modulation
+Tutorial 
+problems
+Design ProjectSubmit Lab report 
+5
+Week 8
+12 
+October
+Coherent optical 
+communications & Mid 
+Semester Revision
+Tutorial 
+problems
+Design ProjectN/A
+Week 9
+19 
+October
+Mid Semester 
+Revision, standards 
+and analogue links
+In-tutorial testDesign ProjectIn-tutorial test
+Semester break: 26-20 September 2016
+Week 10
+3 October
+Project support & 
+signal processing
+Tutorial 
+problems
+Design ProjectN/A
+Week 11
+10 
+October
+Future trends in optical 
+communications
+Tutorial 
+problems
+Design ProjectN/A
+Week 12
+17 
+October
+Pre-Exam RevisionTutorial 
+problems
+Design ProjectDesign Report 
+Submission
+Swot Vac.: 24 - 28 October 2016
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Examination period. LINK to Assessment Policy:  http://www.
+policy.monash.edu/policy-bank/academic/education
+/assessment/assessment-in-coursework-policy.html
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Assessment Task 1: Tutorial and laboratories10%Progressive
+Assessment Task 2: Class Test15%when sat (within tutorial session).
+Assessment Task 3: Design Project15%Week 12
+Final Exam60%To be advised
+ 
+Hurdle requirements 
+ attend laboratory sessions. > 45% mark required for exam.Must
+Assessment tasks
+Assessment title: Assessment Task 1: Tutorial and laboratories
+ Mode of delivery:On Campus
+ Details of task: Tutorial and laboratory sessions
+OngoingRelease dates (where applicable): 
+ Not applicableWord limit (where applicable):
+ProgressiveDue date: 
+10%Value: 
+ Presentation requirements:  attend laboratory sessionsMust
+ Hurdle requirements (where applicable):  attend laboratory sessionsMust
+Individual assessment in group tasks (where applicable): Yes
+Criteria for marking: Attendance and laboratory report.
+ Additional remarks:This component is designed to help with your overall understanding of the 
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+ Additional remarks:This component is designed to help with your overall understanding of the 
+subject matter, rather than as a major assessment component.
+ 
+Assessment title: Assessment Task 2: Class Test
+ Mode of delivery:On Campus
+Details of task: Written examination, closed book, calculator allowed. Covers previous lectures 
+ material.
+week 2Release dates (where applicable): 
+ Not applicableWord limit (where applicable):
+when sat (within tutorial session).Due date: 
+15%Value: 
+Write clearly.Presentation requirements: 
+Hurdle requirements (where applicable): Built-in within the continuous assessment’s hurdle 
+requirements 
+Individual test.Individual assessment in group tasks (where applicable): 
+Methodology/approach and answers.Criteria for marking: 
+ Additional remarks:This task is aimed at helping you find out where your understanding of 
+ examinable topics and quantitative approaches may be lacking.
+ 
+Assessment title: Assessment Task 3: Design Project
+ Mode of delivery:On campus
+Design an optical communications link using VPI softwareDetails of task: 
+Week 7Release dates (where applicable): 
+ Not applicableWord limit (where applicable):
+Week 12Due date: 
+15%Value: 
+Written report, in the form of an executive summary (2-3 pages) and Presentation requirements: 
+detailed design document (max 10 pages).
+Hurdle requirements (where applicable): None.
+Individual assessment in group tasks (where applicable): Yes
+Written report - Clear, concise summary of system and results in written Criteria for marking: 
+report. Sensible approach to problem. 20% on executive summary, 65% on design document, 15% 
+on the simulation itself.
+ This is a major assessment component for this course. You will be using Additional remarks:
+advanced industrial design software, addressing a real-world problem. As experienced engineering 
+students, you are expected to manage this project independently. Expect to use the full 6 weeks 
+set aside for this task - make sure you plan your time well.
+ 
+Examination(s)
+Final ExamExam title: 
+60%Weighting: 
+ 2 hoursLength: 
+ Closed bookType (Open/closed book):
+ Hurdle requirements (where applicable):Students are required to achieve at least 45% in the final 
+examination.
+  
+Calculators.Electronic devices allowed: 
+Based (at least in part) of tutorial questions.Remarks (where applicable): 
+ 
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+ 
+Calculators
+A faculty approved calculator is permitted (meaning only scientific calculators that are not 
+programmable and detailed in the list below will be permitted in the examination. These calculators 
+must be checked by the faculty and have either a Faculty of Engineering or a Faculty of Science 
+approved sticker)
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+www.eng.monash.edu.au/current-students/calculators.html
+ Only these listed calculators with the : IMPORTANTauthorised “Monash University-Science” or 
+will be allowed into the examination by the invigilators.“Monash University-Engineering” STICKER 
+Examination material or equipment 
+The exam will be close book. Further clarifications will be made via Moodle before the exam.
+Extensions and penalties
+Due dates and extensions
+The due dates for the submission of assignment and lab reports are given in the previous sections. 
+Please make every effort to submit work by the due dates. Students are advised to NOT assume 
+that granting of an extension is a matter of course.
+If you need an extension for any of the assignments, you must submit a written request 48-hours 
+the due time and date, and attach supportive evidence such as medical certificate. before The 
+sent to the unit coordinator. The form should preferably be forwarded as an email attachment, 
+email should be sent from your University email address with your name typed in lieu of signature. 
+Note that other lecturers cannot grant extensions. Lecturer-in- charge (unit coordinator) will 
+indicate at the time of granting the extension whether any penalty in marks will apply to the 
+submitted work. If an extension is granted, the approval must be attached to the assignment.
+Late submission
+If you are late in applying for an extension or you don’t have a good reason, you should still submit 
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+If you are late in applying for an extension or you don’t have a good reason, you should still submit 
+the work, but 10% of the total marks available for that assessment component will usually be 
+deducted for each day late. No assignment/report will be accepted once an assignment/report has 
+been returned to the class.
+Deferred tests and examinations may be granted in cases of extenuating personal circumstances 
+such as serious personal illness or bereavement.
+Remember, you are required to keep an up-to-date copy of all submitted assignments to safeguard 
+against the loss of work through accident or error.
+Returning assignments
+Students can expect assignments to be returned within two weeks of the submission date or after 
+receipt, whichever is later.
+Resubmission of assignments
+Resubmission is not allowed, but late submission is allowed under extreme health or similar 
+extreme situations on which student did not have any control.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+The Department of Electrical and Computer Systems Engineering uses the IEEE referencing 
+standards. Please refer to the link below and click IEEE.
+http://www.lib.monash.edu/tutorials/citing/ieee.html
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at www.lib.monash.edu.au
+/tutorials/citing/
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+ Assignments must include a cover sheet. The coversheet is accessible via Hard Copy Submission:
+the Monash portal page located at  under the heading ‘Learning and http://my.monash.edu.au
+teaching tools.’
+If no conflicting instructions are given through the course, please return assignments between 9am 
+and 5pm to rm. 211, bld. 35, Clayton campus.
+Please keep a copy of tasks completed for your records.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Monash aims to provide a learning environment in which students receive a range of feedback 
+throughout their studies. In this unit the student will receive feedback on conceptual understanding 
+through exercises in lectures, problem solving during the tutorial sessions and analytical skills 
+during the laboratories from lecturers. You are encouraged to draw upon these sources of 
+feedback to enhance your learning. In particular, students will receive feedback through:
+●Group feedback via informal quizzes during lectures
+●Group and individual feedback via problem–solving tasks in tutorials
+●Individual and group mentoring in laboratory classes and the design project
+●Written individual feedback through the class test
+Learning resources
+Prescribed textbooks
+Gerd Keiser, Optical Fiber Communications, 4th ed, McGraw-Hill, 2010.
+Recommended textbooks
+G.P. Agrawal, Fiber Optic Communications System, Academic Press, 2002.
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+VPI software is available in the laboratory for the lab tasks and the design project. The instructions 
+for each lab will be available. Experimental equipment/ accessories are also available to offer.
+Technological requirements
+Students should regularly check the Moodle site for updates and announcements. Students are 
+encouraged to bring a laptop/tablet/smart-phone/etc to class for quick quizzes, however these 
+devices are not required to complete the course.
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at:
+ http://www.monash.edu/students
+Monash University Library
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information. 
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE4043 Optical communications - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------

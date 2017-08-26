@@ -1,0 +1,1423 @@
+1
+                                     
+  
+Unit Guide
+  
+ENG1003
+Engineering mobile apps
+Semester 2, 2017
+Table of contents
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          4
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                        9
+Learning outcomes                                                                                                                          9
+Your feedback to us                                                                                                                         9
+Previous student evaluations of this unit                                                                                     9
+Unit schedule - Clayton campus                                                                                                       10
+Assessment requirements                                                                                                                 12
+Assessment summary                                                                                                                   12
+Hurdle requirements                                                                                                                      12
+Assessment tasks                                                                                                                          12
+Examination(s)                                                                                                                               15
+Section B: For Malaysia students                                                                                                      16
+Academic Overview                                                                                                                          17
+Teaching and learning method                                                                                                      18
+Learning outcomes                                                                                                                    18
+OBE requirements to learning outcomes (LOs)                                                                     19
+Relationship between unit learning outcomes and program outcomes                                 19
+Your feedback to us                                                                                                                       20
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Previous student evaluations of this unit                                                                                   20
+Unit schedule - Malaysia campus                                                                                                     21
+Assessment Summary                                                                                                                   22
+Hurdle requirements                                                                                                                  22
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                24
+Relationship between Assessments and Complex Problems/Activities                                    24
+Assessment requirements                                                                                                                 25
+Assessment tasks                                                                                                                          25
+Examination(s)                                                                                                                               28
+Section C: All students                                                                                                                      29
+Extensions and penalties                                                                                                               29
+Returning assignments                                                                                                                  29
+Plagiarism and collusion                                                                                                                29
+Referencing requirements                                                                                                             29
+Assignment submission                                                                                                                 29
+Feedback to you                                                                                                                            30
+Learning resources                                                                                                                        30
+Required resources                                                                                                                       31
+Additional unit costs                                                                                                                       31
+Other information                                                                                                                              31
+Policies                                                                                                                                          31
+Graduate Attributes Policy                                                                                                             31
+Student Charter                                                                                                                             31
+Student Services                                                                                                                           31
+Monash University Library                                                                                                             32
+Disability Support Services                                                                                                            32
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit introduces students to the use of Information Technology (IT) in modern engineering 
+practice. Students will learn an object-oriented approach to both computer systems and software 
+engineering for solving engineering problems.
+Students will work in small teams to develop a mobile application that meets a contemporary need 
+in engineering. The fundamental stages in the software development lifecycle will be introduced, 
+including requirements analysis, design, implementation and verification. Students will use IT tools 
+to support the engineering process.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+2 hours lectures, 3 hours of laboratory/workshop activities and 7 hours of private study per week.
+Unit relationships
+ 
+Prerequisites
+None
+Prohibitions
+None
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Julia Lamborn
+Unit Coordinator(s)
+Name: Dr Michael Wybrow
+Email: Michael.Wybrow@monash.edu
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Dr Michael Wybrow
+ Email: Michael.Wybrow@monash.edu
+ H635Building: , Room: 
+Consultation hours: See Moodle page.
+Lecturer(s) Dr Michael WybrowName: 
+ Email: Michael.Wybrow@monash.edu
+ H6, Room: 35Building: 
+ 
+  
+Malaysia campus
+Campus Coordinator Dr Imran GhaniName: 
+ Email: Imran.Ghani@monash.edu
+  Building: , Room: 
+Consultation hours: TBA
+Lecturer(s)Name:  Mr Teobee Guan
+Email: Teobee.Guan@monash.edu
+Building: , Room: 
+ 
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of competencyIndicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological level, 
+applying sciences and engineering 
+fundamentals to systematic investigation, 
+interpretation, analysis and innovative 
+solution of complex problems and 
+broader aspects of engineering practice.
+1
+1.2 Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and 
+techniques pertinent to the 
+engineering discipline.
+a) Develops and fluently applies relevant 
+investigation analysis, interpretation, 
+assessment, characterisation, prediction, 
+evaluation, modelling, decision making, 
+measurement, evaluation, knowledge 
+management and communication tools 
+and techniques pertinent to the 
+engineering discipline.
+2
+1.3 In-depth understanding of 
+specialist bodies of knowledge 
+within the engineering discipline.
+a) Proficiently applies advanced technical 
+knowledge and skills in at least one 
+specialist practice domain of the 
+engineering discipline.
+1,2
+1.5 Identifies and applies 
+systematic principles of 
+engineering design relevant to the 
+engineering discipline.
+a) Identifies and applies systematic 
+principles of engineering design relevant 
+to the engineering discipline.
+2,3
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+b) Identifies and understands the 
+interactions between engineering 
+systems and people in the social, 
+cultural, environmental, commercial, legal 
+and political contexts in which they 
+operate, including both the positive role 
+of engineering in sustainable 
+development and the potentially adverse 
+impacts of engineering activity in the 
+engineering discipline.
+1
+d) Is aware of the founding principles of 
+human factors relevant to the 
+engineering discipline.
+1
+1.6 Understanding of the scope, 
+principles, norms, accountabilities 
+and bounds of sustainable 
+engineering practice in the 
+specific discipline.
+d) Understands the fundamental 
+principles of engineering project 
+management as a basis for planning, 
+organising and managing resources.
+3,5
+e) Appreciates the formal structures and 
+methodologies of systems engineering as 
+a holistic basis for managing complexity 
+and sustainability in engineering practice.
+3
+2. Engineering application ability
+2.1 Application of established 
+engineering methods to complex 
+engineering problem solving.
+c) Competently addresses engineering 
+problems involving uncertainty, 
+ambiguity, imprecise information and 
+wide-ranging and sometimes conflicting 
+technical and non-technical factors.
+2
+e) Partitions problems, processes or 
+systems into manageable elements for 
+the purposes of analysis,modelling or 
+design and then re-combines to form a 
+whole, with the integrity and performance 
+of the overall system as the paramount 
+consideration.
+2
+2.2 Fluent application of 
+engineering techniques, tools and 
+resources.
+a) Proficiently identifies, selects and 
+applies the materials, components, 
+devices, systems, processes, resources, 
+plant and equipment relevant to the 
+engineering discipline.
+3
+c) Determines properties, performance, 
+safe working limits, failure modes, and 
+other inherent parameters of materials, 
+components and systems relevant to the 
+engineering discipline.
+1
+d) Applies a wide range of engineering 
+tools for analysis, simulation, 
+visualisation, synthesis and design, 
+including assessing the accuracy and 
+limitations of such tools, and validation of 
+their results.
+2
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+e) Applies formal systems engineering 
+methods to address the planning and 
+execution of complex, problem solving 
+and engineering projects.
+3
+j) Understands the role of quality 
+management systems, tools and 
+processes within a culture of continuous 
+improvement
+1
+2.3 Application of systematic 
+engineering synthesis and design 
+processes.
+c) Executes and leads a whole systems 
+design cycle approach.
+4
+2.4 Application of systematic 
+approaches to the conduct and 
+management of engineering 
+projects.
+d) Proficiently applies basic systems 
+engineering and/or project management 
+tools and processes to the planning and 
+execution of project work, targeting the 
+delivery of a significant outcome to a 
+professional standard.
+3,5
+3. Professional and personal attributes
+3.2 Effective oral and written 
+communication in professional 
+and lay domains.
+a) Is proficient in listening, speaking, 
+reading and writing English
+4,5,6
+b) Prepares high quality engineering 
+documents such as progress and project 
+reports, reports of investigations and 
+feasibility studies, proposals, 
+specifications, design records, drawings, 
+technical descriptions and presentations 
+pertinent to the engineering discipline.
+2,4
+3.3 Creative, innovative and pro-
+active demeanour.
+c) Is aware of broader fields of science, 
+engineering, technology and commerce 
+from which new ideas and interfaces may 
+be drawn and readily engages with 
+professionals from these fields to 
+exchange ideas.
+1
+3.4 Professional use and 
+management of information.
+a) Is proficient in locating and utilising 
+information - including accessing, 
+systematically searching,analysing, 
+evaluating and referencing relevant 
+published works and data; is proficient in 
+the use of indexes, bibliographic 
+databases and other search facilities.
+1,2
+c) Is aware of common document 
+identification, tracking and control 
+procedures.
+3
+3.5 Orderly management of self, 
+and professional conduct.
+a) Demonstrates commitment to critical 
+self-review and performance evaluation 
+against appropriatecriteria as a primary 
+means of tracking personal development 
+needs and achievements.
+5
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+f) Presents a professional image in all 
+circumstances, including relations with 
+clients, stakeholders, as well as with 
+professional and technical colleagues 
+across wide ranging disciplines.
+4,6
+3.6 Effective team membership 
+and team leadership.
+a) Understands the fundamentals of team 
+dynamics and leadership.
+5,6
+b) Functions as an effective member or 
+leader of diverse engineering teams, 
+including those with multi-level, multi-
+disciplinary and multi-cultural dimensions.
+5
+Teaching and learning method
+The teaching approach is blended learning. Students will be introduced to topics via online written 
+and video material. Lectures take the form of expert-led workshops where concepts are 
+demonstrated interactively with the class. Students gain further practical experience via hands-on 
+practical classes.
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Describe the capabilities and limitations of mobile computing devices, as well as the 
+interaction between developments in IT and their use in modern Engineering practice.
+2. Construct mobile applications that utilise device capabilities to solve engineering problems 
+using a simple object-oriented software approach.
+3. Use IT tools for aspects of the software engineering process, including a code editor, 
+debugger, shared code repository and version control system, task-tracking and team 
+communication tools.
+4. Generate written technical documentation in a standard design format from a template.
+5. Execute tasks as part of a team, and communicate effectively with team members.
+6. Compile and deliver oral presentations in a professional engineering format.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●We have produced additional pre-workshop and pre-practical videos for the Alexandria 
+content. 
+●We have removed a topic on data structures. This was difficult and not relevant to the apps 
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+●We have removed a topic on data structures. This was difficult and not relevant to the apps 
+we create.
+●We now allow multiple attempts for the pre-workshop quizzes up until deadline. Attempts 
+draw random questions from a question bank.
+●We now allow reassessment of prac work, where students can show completed or revised 
+work to their demonstrator the following week to raise their prac mark.
+●We will hold informal assignment stand-up meetings in prac classes to check on early 
+assignment progress.
+●We have improved prac and presentation marking processes to provide better feedback to 
+students.
+Student feedback has highlighted the following strength(s) in this unit:
+●The teaching material is structured and presented from personal experience.
+●Students have said the unit gives a good understanding and appreciation of the Software 
+Engineering discipline.
+●Students have enjoyed understanding how apps are made and also the satisfaction of 
+learning how to create a working app themselves. 
+●Students have said the practical classes were great and they appreciate the hands-on 
+experience they gain from them.
+●Students enjoy being exposed to topics that are relevant to today's digital society, but they 
+had not necessarily considered before.
+●Teamwork activities in the practical classes and assignments are considered a valuable 
+experience.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+WeekActivitiesAssessment
+0Pre-workshop study for week 1.No formal assessment is undertaken in week 
+0.
+1Quiz. 2-hour Workshop: ENG1003 
+unit introduction, web application 
+components. 3-hour practical class.
+Pre-workshop study for week 2.
+Quiz. Practical class work.
+2Quiz. 2-hour Workshop: JavaScript 
+variables, data types, operations, 
+debugging JavaScript. 3-hour practical 
+class.
+Pre-workshop study for week 3.
+Quiz. Practical class work.
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+WeekActivitiesAssessment
+3Quiz. 2-hour Workshop: Working with 
+mobile web apps, JavaScript 
+execution control structures. 3-hour 
+practical class
+Pre-workshop study for week 4.
+Quiz. Practical class work.
+4Quiz. 2-hour Workshop: JavaScript 
+functions, variable scope and lifetime, 
+callback functions. 3-hour practical 
+class
+Pre-workshop study for week 5.
+Quiz. Practical class work.
+5Quiz. 2-hour Workshop: Object 
+Orientation in JavaScript. 3-hour 
+practical class.
+Pre-workshop study for week 6.
+Quiz. Practical class work. Assignment 1 due.
+6Quiz. 2-hour Workshop: Configuration 
+management, web app user 
+interfaces. 3-hour practical class.
+Pre-workshop study for week 7.
+Quiz.
+Practical class work. 
+Assignment 1 presentation (during practical 
+class).
+7Quiz. 2-hour Workshop: Storing data 
+persistently, Software engineering 
+processes. 3-hour practical class.
+Pre-workshop study for week 8.
+Quiz. Practical class work.
+8Quiz. 2-hour Workshop: Requirements 
+analysis, Software design. 3-hour 
+practical class.
+Pre-workshop study for week 9.
+Quiz. Practical class work.
+9Quiz. 2-hour Workshop: Software 
+verification, Internet architecture and 
+web services. 3-hour practical class.
+Pre-workshop study for week 10.
+Quiz. Practical class work.
+10Quiz. 2-hour Workshop: Algorithms 
+and efficiency, Problem solving with 
+algorithms. 3-hour practical class.
+Pre-workshop study for week 11.
+Quiz. Practical class work.
+11Quiz. 2-hour Workshop: Mobile 
+hardware architecture, User 
+experience. 3-hour practical class.
+Pre-workshop study for week 12.
+Quiz. Practical class work. Assignment 2 due.
+12Quiz. 2-hour Workshop: Security and 
+privacy, revision. 3-hour practical 
+class.
+Quiz.
+Practical class work. 
+Assignment 2 "client" presentation (during 
+practical class).
+SWOT VACNo formal assessment is undertaken during 
+SWOT VAC.
+Examination period
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+WeekActivitiesAssessment
+LINK to Assessment Policy: http://policy.
+monash.edu.au/policy-bank/academic
+/education/assessment/assessment-in-
+coursework-policy.html
+* Unit Schedule details will be maintained and communicated to you via your learning system.
+Assessment requirements
+Assessment summary
+Continuous assessment: 60%
+Examination (2 hours): 40%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taskValueDue date
+Pre-workshop quizzes12%Weekly, before delivery of the first workshop 
+(lecture) each week.
+Practical class work12%The end of each practical class.
+Assignment 1: Basic mobile 
+web app
+12%End of week 5. Team presentation during Week 6 
+practical class.
+Assignment 2: Complex mobile 
+web app
+24%End of week 11. Team presentation during Week 12 
+practical class.
+Examination 140%To be advised
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment tasks
+Assessment title: Pre-workshop quizzes
+  Mode of delivery:Online (Moodle quizzes)
+Details of task: Students will complete a total of twelve online weekly quizzes. These quizzes will 
+test students' comprehension of the week's preparatory reading and video material.
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Each quiz will be worth 1% of a student's final mark for the unit.
+-Release dates (where applicable): 
+ -Word limit (where applicable):
+Weekly, before delivery of the first workshop (lecture) each week.Due date: 
+12%Value: 
+-Presentation requirements: 
+-Hurdle requirements (where applicable): 
+-Individual assessment in group tasks (where applicable): 
+Criteria for marking: 
+●Comprehension of weekly preparatory materials
+ -Additional remarks:
+ 
+Assessment title: Practical class work
+ Mode of delivery:Interview during prac class.
+Details of task: At the end of each prac class, demonstrators will view the student's prac work and 
+assess each student via a short interview to gauge how well the student has met the outcomes of 
+the prac class. Some practical exercises will require individuals to work on their own while others 
+will require group work. In either case, students will be marked individually.
+Each assessed practical class will be worth 1% of a student's final mark for the unit. 
+-Release dates (where applicable): 
+ -Word limit (where applicable):
+The end of each practical class.Due date: 
+12%Value: 
+-Presentation requirements: 
+-Hurdle requirements (where applicable): 
+-Individual assessment in group tasks (where applicable): 
+Criteria for marking: 
+●Participation in and completion of prac exercises
+●Demonstrated having met the prac class outcomes
+ -Additional remarks:
+ 
+Assessment title: Assignment 1: Basic mobile web app
+ -Mode of delivery:
+Details of task: As a member of an assigned project team, students will create a Mobile Web App 
+that uses a device's sensors to solve a real-world engineering problem (skeleton code will be 
+provided). The source code of your app will be submitted as a team (worth 9%).
+Student teams will deliver a 10 minute oral presentation (in practical class) describing and 
+demonstrating their Assignment 1 app and detailing any issues they encountered. Presentations 
+will be given during practical classes, with each student presenting for 2-3 minutes (worth 3%).
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Beginning of Week 3. Release dates (where applicable): 
+ -Word limit (where applicable):
+End of week 5. Team presentation during Week 6 practical class.Due date: 
+12%Value: 
+-Presentation requirements: 
+-Hurdle requirements (where applicable): 
+Individual assessment in group tasks (where applicable): 
+●App code
+●Individual student's marks will be subject to peer review moderation based on 
+CATME feedback and scaling factors
+●Team presentation
+●Students will be assessed on their individual presentation style.
+Criteria for marking: 
+●App code:
+●Correctness of the produced app
+●Quality of app source code, including code documentation
+●Team presentation:
+●Clarity and quality of individual oral presentation
+ -Additional remarks:
+ 
+Assessment title: Assignment 2: Complex mobile web app
+  Mode of delivery:-
+Details of task: As a member of their assigned project team, students will create a Mobile Web App 
+that uses a device's sensors to solve a real-world engineering problem (skeleton code will be 
+provided). The source code of your app and associated documentation will be submitted as a team 
+(worth 9%).
+Students are expected to use a source code editor and debugger for writing code. They will use a 
+shared version control system for managing revisions of the app source and handling commits by 
+multiple team members. They will use online software for document management, team 
+communication and task tracking. Individual student's use of these tools will be used to moderate 
+their final mark for Assignment 2.
+As a team, students will produce technical documentation including a user guide and a project 
+management plan. Teams will be assessed based on the quality of these documents (worth 9%).
+Student teams will deliver a 15 minute oral presentation describing and demonstrating their 
+Assignment 2 app and detailing any issues they encountered. Presentations will be given during 
+practical classes, with each student presenting for 4-5 minutes (worth 6%)
+Beginning of Week 8.Release dates (where applicable): 
+ -Word limit (where applicable):
+End of week 11. Team presentation during Week 12 practical class.Due date: 
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+ -Word limit (where applicable):
+End of week 11. Team presentation during Week 12 practical class.Due date: 
+24%Value: 
+-Presentation requirements: 
+-Hurdle requirements (where applicable): 
+Individual assessment in group tasks (where applicable): 
+●App code and technical documentation
+●Individual student's marks will be subject to peer review moderation based on 
+CATME feedback and scaling factors
+●The history of a team member's interaction and use of the version control repository, 
+team communication system and shared documents will be examined and used to 
+moderate their individual mark.
+●Team presentation
+●​Students will be assessed on their individual presentation style (3%), as well as the 
+team presentation as a whole (3%).
+Criteria for marking: 
+●App code
+●Correct functionality and behaviour of the produced app
+●Quality of app source code, including code documentation
+●Technical documentation
+●Quality and comprehensiveness of technical documentation
+●Team presentation
+●Clarity and quality of individual oral presentation
+●Structure, appropriateness, and level of team-client presentation
+ -Additional remarks:
+ 
+Examination(s)
+Examination 1Exam title: 
+40%Weighting: 
+2 hoursLength: 
+ Closed bookType (Open/closed book):
+ Hurdle requirements (where applicable):Students are required to achieve at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Electronic devices allowed: None
+-Remarks (where applicable): 
+ 
+Calculators NOT permitted
+Calculators are not permitted in the exam.
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Section B: For Malaysia students
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who are: Software Engineering 
+1. competent in engineering Software Engineering 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program Outcomes (POs)  Software Engineering 
+for all of its graduates based on the competencies required by the Malaysian Engineering 
+Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1Engineering  Software Engineering 
+ Apply knowledge of mathematics, Knowledge:
+natural science, engineering fundamentals 
+and specialisation in  Software Engineering 
+engineering to the solution of complex 
+engineering problems
+Cognitive: 
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse complex
+engineering problems Software Engineering 
+reaching substantiated conclusions using first 
+principles of mathematics, natural sciences 
+and engineering sciences
+Cognitive: 
+PO3  Design/Development of Solutions:
+Design solutions for complex Software 
+engineering problems and design Engineering 
+systems, components or processes that meet 
+specified needs.
+Cognitive: 
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex Software 
+engineering problems using Engineering 
+research-based knowledge and research 
+methods including design of experiments, 
+(analysis and interpretation of data, and 
+synthesis of information to provide valid 
+conclusions.
+Cognitive: 
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex Software 
+engineering problems, with an Engineering 
+understanding of the limitations
+Cognitive: 
+Psychomotor: 
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+Affective: 
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Software 
+engineering problemsEngineering 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complex Software Engineering 
+engineering problems in environmental 
+contexts.
+Cognitive: 
+Affective: 
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate effectively Communication:
+on complexengineering  Software Engineering 
+activities with the engineering community and 
+with society at large, such as being able to 
+comprehend and write effective reports and 
+design documentation, make effective 
+presentations, and give and receive clear 
+instructions
+Affective: 
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective: 
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective: 
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: 
+Teaching and learning method
+The teaching approach is blended learning. Students will be introduced to topics via online written 
+and video material. Lectures take the form of expert-led workshops where concepts are 
+demonstrated interactively with the class. Students gain further practical experience via hands-on 
+practical classes.
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Describe the capabilities and limitations of mobile computing devices, as well as the 
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+1. Describe the capabilities and limitations of mobile computing devices, as well as the 
+interaction between developments in IT and their use in modern Engineering practice.
+2. Construct mobile applications that utilise device capabilities to solve engineering problems 
+using a simple object-oriented software approach.
+3. Use IT tools for aspects of the software engineering process, including a code editor, 
+debugger, shared code repository and version control system, task-tracking and team 
+communication tools.
+4. Generate written technical documentation in a standard design format from a template.
+5. Execute tasks as part of a team, and communicate effectively with team members.
+6. Compile and deliver oral presentations in a professional engineering format.
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome Based Education 
+(OBE) requirements
+Handbook Learning 
+Outcomes (LOs)
+LO1) LO1) 
+LO2) LO2) 
+LO3) LO3)
+Relationship between unit learning outcomes and program outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√√----------
+LO2----√-------
+LO3----√-------
+LO4--√---------
+LO5--√√√-----√√
+LO6---√√------√
+LO7-√------√---
+LO8--------√√--
+LO9--------√√--
+Key  
+    No emphasis
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+√ Emphasized and assessed in the unit
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●We have produced additional pre-workshop and pre-practical videos for the Alexandria 
+content. 
+●We have removed a topic on data structures. This was difficult and not relevant to the apps 
+we create.
+●We now allow multiple attempts for the pre-workshop quizzes up until deadline. Attempts 
+draw random questions from a question bank.
+●We now allow reassessment of prac work, where students can show completed or revised 
+work to their demonstrator the following week to raise their prac mark.
+●We will hold informal assignment stand-up meetings in prac classes to check on early 
+assignment progress.
+●We have improved prac and presentation marking processes to provide better feedback to 
+students.
+Student feedback has highlighted the following strength(s) in this unit:
+●The teaching material is structured and presented from personal experience.
+●Students have said the unit gives a good understanding and appreciation of the Software 
+Engineering discipline.
+●Students have enjoyed understanding how apps are made and also the satisfaction of 
+learning how to create a working app themselves. 
+●Students have said the practical classes were great and they appreciate the hands-on 
+experience they gain from them.
+●Students enjoy being exposed to topics that are relevant to today's digital society, but they 
+had not necessarily considered before.
+●Teamwork activities in the practical classes and assignments are considered a valuable 
+experience.
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Unit schedule - Malaysia campus
+WeekActivitiesAssessment
+0Pre-workshop study for week 1.No formal assessment is undertaken in week 
+0.
+1Quiz. 2-hour Workshop: ENG1003 unit 
+introduction, web application 
+components. 3-hour practical class. 
+Pre-workshop study for week 2.
+Quiz. Practical class work.
+2Quiz. 2-hour Workshop: JavaScript 
+variables, data types, operations, 
+debugging JavaScript. 3-hour practical 
+class. 
+Pre-workshop study for week 3.
+Quiz. Practical class work.
+3Quiz. 2-hour Workshop: Working with 
+mobile web apps, JavaScript 
+execution control structures. 3-hour 
+practical class 
+Pre-workshop study for week 4.
+Quiz. Practical class work.
+4Quiz. 2-hour Workshop: JavaScript 
+functions, variable scope and lifetime, 
+callback functions. 3-hour practical 
+class 
+Pre-workshop study for week 5.
+Quiz. Practical class work.
+5Quiz. 2-hour Workshop: Object 
+Orientation in JavaScript. 3-hour 
+practical class. 
+Pre-workshop study for week 6.
+Quiz. Practical class work. Assignment 1 due.
+6Quiz. 2-hour Workshop: Configuration 
+management, web app user 
+interfaces. 3-hour practical class. 
+Pre-workshop study for week 7.
+Quiz. 
+Practical class work. 
+Assignment 1 presentation (during practical 
+class).
+7Quiz. 2-hour Workshop: Storing data 
+persistently, Software engineering 
+processes. 3-hour practical class. 
+Pre-workshop study for week 8.
+Quiz. Practical class work.
+8Quiz. 2-hour Workshop: Requirements 
+analysis, Software design. 3-hour 
+practical class. 
+Pre-workshop study for week 9.
+Quiz. Practical class work.
+9Quiz. 2-hour Workshop: Software 
+verification, Internet architecture and 
+web services. 3-hour practical class.
+Pre-workshop study for week 10.
+Quiz. Practical class work.
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+WeekActivitiesAssessment
+10Quiz. 2-hour Workshop: Algorithms 
+and efficiency, Problem solving with 
+algorithms. 3-hour practical class. 
+Pre-workshop study for week 11.
+Quiz. Practical class work.
+11Quiz. 2-hour Workshop: Mobile 
+hardware architecture, User 
+experience. 3-hour practical class. 
+Pre-workshop study for week 12.
+Quiz. Practical class work. Assignment 2 due.
+12Quiz. 2-hour Workshop: Security and 
+privacy, revision. 3-hour practical 
+class.
+Quiz. 
+Practical class work. 
+Assignment 2 "client" presentation (during 
+practical class).
+SWOT VACNo formal assessment is undertaken during 
+SWOT VAC.
+Examination periodLINK to Assessment Policy: http://policy.
+monash.edu.au/policy-bank/academic
+/education/assessment/assessment-in-
+coursework-policy.html
+* Unit Schedule details will be maintained and communicated to you via your learning system.
+Assessment Summary
+Continuous assessment: 60%
+Examination (2 hours): 40%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taskValueDue date
+Pre-workshop 
+quizzes
+12%Weekly, before delivery of the first workshop (lecture) each 
+week.
+Practical class work12%The end of each practical class.
+Assignment 112%End of week 5. Team presentation during Week 6 practical 
+class.
+Assignment 224%End of week 11. Team presentation during Week 12 practical 
+class.
+Examination 140%To be advised.
+Hurdle requirements 
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+* The same mapping must be used in the "3 LO 
+Achievement" tab
+(Abbr.) 
+Assessments
+LO1LO2LO3LO4LO5LO6LO7LO8LO9
+(P) PracP1-P5P6-P8P9-
+P11
+(A) 
+Assignments
+A1A2
+(PR) 
+Presentations
+PR1PR2
+QuizzesQ1-
+Q12
+(E) Final 
+Exam
+Es1-6
+Relationship between Assessments and Complex Problems
+/Activities
+Complex Problems
+(Abbr.) 
+Assessments
+Depth of
+ Knowledge
+Range of
+Requirements
+Depth 
+of
+Analysis
+Infrequent
+Issues
+Extent 
+of
+Codes
+Stakeholders
+Involement
+Components
+ or Sub-
+problems
+(P) Prac11
+111
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+(A) 
+Assignments
+(PR) 
+Presentations
+1
+Quizzes1
+(E) Final 
+Exam
+1
+Assessment requirements
+Assessment tasks
+Assessment title: Pre-workshop quizzes
+ Mode of delivery:Online (Moodle quizzes)
+ Details of task:Students will complete a total of twelve online weekly quizzes. These quizzes will 
+test students' comprehension of the week's preparatory reading and video material. 
+Each quiz will be worth 1% of a student's final mark for the unit.
+ -Release dates (where applicable): 
+  -Word limit (where applicable): 
+  Weekly, before delivery of the first workshop (lecture) each week.Due date: 
+  12%Value: 
+  -Presentation requirements: 
+-Hurdle requirements (where applicable):  
+  -Individual assessment in group tasks (where applicable): 
+Criteria for marking:  
+●Comprehension of weekly preparatory materials
+ -Additional remarks: 
+Assessment title: Practical class work
+  Mode of delivery:Interview during prac class.
+ Details of task:At the end of each prac class, demonstrators will view the student's prac work and 
+assess each student via a short interview to gauge how well the student has met the outcomes of 
+the prac class. Some practical exercises will require individuals to work on their own while others 
+will require group work. In either case, students will be marked individually.
+Each assessed practical class will be worth 1% of a student's final mark for the unit. 
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+ -Release dates (where applicable): 
+  -Word limit (where applicable): 
+  The end of each practical class.Due date: 
+  12%Value: 
+  -Presentation requirements: 
+-Hurdle requirements (where applicable):  
+  -Individual assessment in group tasks (where applicable): 
+Criteria for marking:  
+●Participation in and completion of prac exercises
+●Demonstrated having met the prac class outcomes
+ -Additional remarks: 
+Assessment title: Assignment 1: Basic mobile web app
+ -Mode of delivery:
+ Details of task:As a member of an assigned project team, students will create a Mobile Web App 
+that uses a device's sensors to solve a real-world engineering problem (skeleton code will be 
+provided). The source code of your app will be submitted as a team (worth 10%).
+Student teams will deliver a 10 minute oral presentation (in practical class) describing and 
+demonstrating their Assignment 1 app and detailing any issues they encountered. Presentations 
+will be given during practical classes, with each student presenting for 2-3 minutes (worth 3%).
+ Beginning of Week 3. Release dates (where applicable): 
+  -Word limit (where applicable): 
+  End of week 5. Team presentation during Week 6 practical class.Due date: 
+  12%Value: 
+  -Presentation requirements: 
+-Hurdle requirements (where applicable):  
+  Individual assessment in group tasks (where applicable): 
+●App code
+●Individual student's marks will be subject to peer review moderation based on 
+CATME feedback and scaling factors
+●Team presentation
+●Students will be assessed on their individual presentation style.
+Criteria for marking:  
+●App code:
+●Correctness of the produced app
+●Quality of app source code, including code documentation
+●Team presentation:
+●Clarity and quality of individual oral presentation
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+ -Additional remarks: 
+Assessment title: Assignment 2: Complex mobile web app
+ -Mode of delivery:
+ Details of task:As a member of their assigned project team, students will create a Mobile Web App 
+that uses a device's sensors to solve a real-world engineering problem (skeleton code will be 
+provided). The source code of your app and associated documentation will be submitted as a team 
+(worth 9%).
+Students are expected to use a source code editor and debugger for writing code. They will use a 
+shared version control system for managing revisions of the app source and handling commits by 
+multiple team members. They will use online software for document management, team 
+communication and task tracking. Individual student's use of these tools will be used to moderate 
+their final mark for Assignment 2.
+As a team, students will produce technical documentation including a user guide and a project 
+management plan. Teams will be assessed based on the quality of these documents (worth 9%).
+Student teams will deliver a 15 minute oral presentation describing and demonstrating their 
+Assignment 2 app and detailing any issues they encountered. Presentations will be given during 
+practical classes, with each student presenting for 4-5 minutes (worth 6%).
+ Beginning of Week 8.Release dates (where applicable): 
+  -Word limit (where applicable): 
+  End of week 11. Team presentation during Week 12 practical class.Due date: 
+  24%Value: 
+  -Presentation requirements: 
+-Hurdle requirements (where applicable):  
+  Individual assessment in group tasks (where applicable): 
+●App code and technical documentation
+●Individual student's marks will be subject to peer review moderation based on 
+CATME feedback and scaling factors
+●The history of a team member's interaction and use of the version control repository, 
+team communication system and shared documents will be examined and used to 
+moderate their individual mark.
+●Team presentation
+●​Students will be assessed on their individual presentation style (3%), as well as the 
+team presentation as a whole (3%).
+Criteria for marking:  
+●App code
+●Correct functionality and behaviour of the produced app
+●Quality of app source code, including code documentation
+●Technical documentation
+●Quality and comprehensiveness of technical documentation
+●Team presentation
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+●Team presentation
+●Clarity and quality of individual oral presentation
+●Structure, appropriateness, and level of team-client presentation
+ -Additional remarks: 
+Examination(s)
+ Examination 1Exam title: 
+ 40%Weighting: 
+2 hoursLength: 
+ Closed bookType (Open/closed book): 
+  Hurdle requirements (where applicable): Students are required to achieve at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+ Electronic devices allowed: None
+ -Remarks (where applicable): 
+ 
+ Calculators NOT permitted
+Calculators are not permitted in this exam.
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
+29
+Section C: All students 
+Extensions and penalties
+Submission must be made by the due date otherwise penalties will be enforced. You must 
+negotiate any extensions formally with your campus unit leader via the in-semester special 
+consideration process: http://www.monash.edu.au/exams/special-consideration.html
+Returning assignments
+Students can expect assignments to be returned within two weeks of the submission date or after 
+receipt, whichever is later
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+Where you utilise programming code from a textbook or the internet, you must make this clear and 
+reference the source, just as you would in a written essay.
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at  under the heading 'Learning and teaching tools'. Please keep http://my.monash.edu.au
+a copy of tasks completed for your records.
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (28) Break----------------
+30
+1.  
+2.  
+3.  
+Please check with your Lecturer /tutor on the submission method for your assignment coversheet 
+(e.g. attach a file to the online assignment submission, hand-in a hard copy, or use an electronic 
+submission). Please note that it is your responsibility to retain copies of your assessments.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+ The CATME online peer assessment tool will be used to allow CATME Online Peer Assessment:
+team members to anonymously rate the contributions made to each team assignment by both 
+themselves and their team mates. Students will be required to complete a calibration process 
+which demonstrates how the system should be used. At the conclusion of each assignment they 
+will then rate themselves and their team mates on the basis of five key criteria, and using a 
+behaviourally anchored scale. The individual ratings you give each person are not viewable or 
+shared with other team members, but will be reviewed by the teaching staff. You will be asked to 
+justify (via comments) why you rated particular people high or low. You are NOT allowed to simply 
+rate everyone the same, or have your team all give each member the same ratings. Doing so will 
+incur an automatic penalty if you do so.
+Based on these ratings a Peer Assessment Factor will be calculated by the system for each team 
+member, and then reviewed and potentially moderated by the teaching staff in light of the written 
+comments. This factor is a number potentially between 0 and 1.15, but for the vast majority of 
+student it is usually between 0.9 and 1.05. This factor will be returned confidentially to students via 
+Moodle Gradebook, and will be used to generate an individual mark for each student's assignment 
+work, based on their team’s mark for each of the assignments.
+Upon release of the results, CATME will send each student a link which will allow them to see, for 
+each of the five questions, an arrow indicating:
+how they scored themselves;
+the AVERAGE of what the team scored them personally;
+the AVERAGE of what the team scored all team members CATME will also provide detailed 
+suggestions for improvement based on where your results fall relative to the rest of the team.
+For more information please visit this link: http://info.catme.org/
+Feedback to you 
+Types of feedback you can expect to receive in this unit are:
+●Feedback on work in prac classes
+●Graded assignments with comments
+●Graded assignments without comments
+●Quiz results with explanations
+●Answers to forum posts
+Learning resources
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (29) Break----------------
+31
+Learning resources
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Additional unit costs
+There is no additional unit cost unless students break the smartphones lent to their teams. 
+Possible penalties that align to Monash policy of ITS usage may be applied.
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (30) Break----------------
+32
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ENG1003 Engineering mobile apps - Semester 2 (S2-01) - 2017
+----------------Page (31) Break----------------

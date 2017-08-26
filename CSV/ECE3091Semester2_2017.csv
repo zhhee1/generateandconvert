@@ -1,0 +1,1505 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE3091
+Engineering design
+Semester 2, 2017
+Table of contents
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          5
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Teaching and learning method                                                                                                        8
+Learning outcomes                                                                                                                          8
+Your feedback to us                                                                                                                         8
+Previous student evaluations of this unit                                                                                     8
+Unit schedule - Clayton campus                                                                                                         9
+Assessment requirements                                                                                                                 10
+Assessment summary                                                                                                                   10
+Hurdle requirements                                                                                                                      11
+Assessment tasks                                                                                                                          11
+Examination(s)                                                                                                                               13
+Section B: For Malaysia students                                                                                                      15
+Academic Overview                                                                                                                          16
+Teaching and learning method                                                                                                      18
+Learning outcomes                                                                                                                    19
+OBE requirements to learning outcomes (LOs)                                                                     19
+Relationship between unit learning outcomes and program outcomes                                 20
+Your feedback to us                                                                                                                       21
+Previous student evaluations of this unit                                                                                   21
+Unit schedule - Malaysia campus                                                                                                     22
+Assessment Summary                                                                                                                   23
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Hurdle requirements                                                                                                                  23
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                25
+Relationship between Assessments and Complex Problems/Activities                                    25
+Complex Problems (CP) - attribute descriptions                                                             26
+Complex Activities (CA) - attribute descriptions                                                              26
+Assessment requirements                                                                                                                 27
+Assessment tasks                                                                                                                          27
+Section C: All students                                                                                                                      31
+Returning assignments                                                                                                                  31
+Resubmission of assignments                                                                                                       31
+Plagiarism and collusion                                                                                                                31
+Referencing requirements                                                                                                             31
+Assignment submission                                                                                                                 31
+Feedback to you                                                                                                                            32
+Learning resources                                                                                                                        32
+Required resources                                                                                                                       32
+Technological requirements                                                                                                          32
+Additional unit costs                                                                                                                       32
+Other information                                                                                                                              32
+Policies                                                                                                                                          32
+Graduate Attributes Policy                                                                                                             33
+Student Charter                                                                                                                             33
+Student Services                                                                                                                           33
+Monash University Library                                                                                                             33
+Disability Support Services                                                                                                            33
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit extends the level of complexity of electronic design by integrating and applying 
+knowledge from a number of second year units. Students will use knowledge from linear and non-
+linear electronics, computer engineering and communications engineering, to tackle a group 
+project, applying project management skills, and extending their experience of working in groups. 
+The project will extend the design processes introduced in the earlier units to a larger, more 
+complex, and less constrained situation. The project will be complemented by lectures in project 
+management, including working with teams, project management tools and techniques, and written 
+and verbal communication. Frameworks for analysing the life cycles of systems are introduced. 
+Tools and techniques to aid decision-making are provided.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+2 hours lectures, 3 hours laboratory and practice classes and 6 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+(ECE2041 or ECE3141) and (ECE2061 or ECE2131) and ECE2072 and (ECE2071 or (FIT1029 
+and FIT1040))
+Prohibitions
+ECE3905, TEC3191, TRC3000
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Mr Michael Zenere
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Name: Mr Michael Zenere
+Email: michael.zenere@monash.edu
+Name: Dr Ajay Achath Mohanan
+Email: ajay.mohanan@monash.edu
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Mr Michael Zenere
+ Email: Michael.Zenere@monash.edu
+ ALL16G11Building: , Room: 
+Consultation hours: By appointment
+Lecturer(s) Mr Michael ZenereName: 
+ Email: Michael.Zenere@monash.edu
+ ALL16, Room: G11Building: 
+Consultation hours: by appointment
+ 
+  
+Malaysia campus
+Campus Coordinator Dr Ajay Achath MohananName: 
+ Email: ajay.mohanan@monash.edu
+ 2 2-4-35Building: , Room: 
+Consultation hours: Email for appointment
+Lecturer(s)Name:  Dr Ajay Achath Mohanan
+Email: ajay.mohanan@monash.edu
+Building: 2, Room: 2-4-35
+Consultation hours: Email for appointment
+ 
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Stage 1 
+competencies
+Activities used in this unit to develop stage 1 competencies
+PE1.1 Knowledge 
+of science and 
+engineering 
+fundamentals​
+Teaching material is basic mechanical, electrical and electronic systems 
+support this
+PE1.2 In-depth 
+technical 
+competence in at 
+least one 
+engineering 
+discipline
+Examples of complicated mechatronic systems and project work support 
+this.
+PE1.3 Techniques 
+and resources
+IT tools such as PCB designer, FPGA software, CAD tools, etc are widely 
+adapted
+PE1.4 General 
+knowledge 
+As well as thorough understanding the area of their contribution to the 
+project they will also need to develop a general knowledge of the overall 
+project structure and aims. Evaluation of risks and impact on society must 
+be addressed in the design document. Ethical considertions regarding 
+safety are a major concern in this design unit.
+PE2.1 Ability to 
+undertake 
+problem 
+identification, 
+formulation, and 
+solution​
+The students are required to develop a requirements specification based 
+on discussions with the supervisor and industrial partner (the "customer"). 
+Possible solutions should be compared at an early stage. To develop an 
+optimum solution, students are expected to cast the problem into an 
+engineering formalism suitable for that sub-discipline, then apply 
+approriate solution techniques. The students are expected to demonstrate 
+that the solution satisfies the requirement specification be devising and 
+conducting an appropriate test and evaluation regime and demonstrate 
+the efficacy of their solution.
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+Stage 1 
+competencies
+Activities used in this unit to develop stage 1 competencies
+PE2.2 
+Understanding of 
+social, cultural, 
+global, and 
+environmental 
+responsibilities 
+and the need to 
+employ principles 
+of sustainable 
+development​
+The discussion of mechatronic systems supports this. The essential 
+nature of mechatronic systems is to find more economic solutions to 
+problems in all different areas.
+PE2.3 Ability 
+to utilise a 
+systems approach 
+to complex 
+problems and to 
+design and 
+operational 
+performance​
+Integrated mechatronic design approach will be discussed.
+PE2.4 Proficiency 
+in engineering 
+design​
+Student project supports this.
+PE2.5 Ability to 
+conduct an 
+engineering project
+Student project supports this.
+PE2.6 
+Understanding of 
+the business 
+environment
+The students are required to develop a requirements specification based 
+ondiscussions with the supervisor and industrial partner(the "customer").
+PE3.1 Ability to 
+communicate 
+effectively, with 
+the engineering 
+team and with the 
+community at large​
+Students work on the project in teams and are required to interact 
+effectively witht the other team members, participate in oralpresentations 
+and communicateeffectively in written reports. The project work requires 
+students to access and understand technical documentation on electronic 
+and sensor components. They must also document all aspects of their 
+project work.
+PE3.2 Ability to 
+manage 
+information and 
+documentation
+Project documentation and data management support this.
+PE3.3 Capacity 
+for creativity and 
+innovation
+Students are supposed to come up with new ideas and innovation to their 
+projects for better performance.
+PE3.4 
+Understanding of 
+professional and 
+ethical 
+responsibilities, 
+and commitment 
+to them
+Lectures and demonstrator guidance support this
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+Stage 1 
+competencies
+Activities used in this unit to develop stage 1 competencies
+PE3.5 Ability to 
+function effectively 
+as an individual 
+and in 
+multidisciplinary 
+and multicultural 
+teams, as a team 
+leader or manager 
+as well as an 
+effective team 
+member
+The project is team orientated and each member is required to take 
+charge of a different element of the design. The member will then need to 
+interact with other team members to ensure that they understand how 
+their contribution interfaces with the rest of the project
+PE3.6 Capacity 
+for lifelong 
+learning and 
+professional 
+development
+Project work is designed to encourage and inspire students to use their 
+talents and to explore their understanding of a given area of engineering. 
+The project seeks to develop new knowledge and expand human 
+understanding. The project is presented as the first step on the path of 
+lifelong learning.
+PE3.7 
+Professional 
+attitudes
+Lecture material and team base project will encourage this
+Teaching and learning method
+Teaching approach is mainly laboratory-based project work and classes, case-based teaching, 
+workshops, and research activities through team based problem solving.
+Learning outcomes
+1. Apply in-depth electrical and computer systems engineering knowledge to compose and 
+assess possible solutions for sub-problems in a complex engineering project, and select 
+suitable solutions based on available data.
+2. Analyse and identify possible causes for practical problems encountered in the complex 
+engineering project, and solve these problems through appropriate research methods.
+3. Design a sustainable prototype according to specified project constraints whilst complying 
+with health and safety requirements.
+4. Demonstrate commitment to carry out the design project as an individual and as a 
+member of a team
+5. Demonstrate effective project management skills to carry out a project in an organised 
+manner.
+6. Generate written reports and oral presentations to communicate the outcomes of the 
+project.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+The unit is one of the most loved one by ECSE students. The student usually lack time 
+management in completing the Robots. Lecturer need to advise the students from the beginning of 
+the unit.
+Student feedback has highlighted the following strength(s) in this unit:
+Opportunity for students to learn many new skills including software and CAD design
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+Week Some of the work to be doneCommentsTo be submitted or 
+assessed
+1Introduction, safety talk, parts 
+demonstration, group selection 
+and assigning of a team 
+leader, room access, more...
+(Please see moodle site)
+Quiz’s
+Weekly progress report
+2 Planning and constructionQuiz’s
+Weekly progress report
+Submit Project proposal
+3ConstructionQuiz’s
+Weekly progress report
+Submit robot arm design
+Submit robot gripper 
+design
+4 ConstructionQuiz’s
+Weekly progress report
+5 ConstructionQuiz’s
+Weekly progress report
+6   Construction.Quiz’s
+Weekly progress report
+Test
+7   Construction.Quiz’s
+Weekly progress report
+Preliminary competition
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+8   Construction.Quiz’s
+Weekly progress report
+9   Construction.Quiz’s
+Weekly progress report
+10 Construction.Quiz’s
+Weekly progress report
+11 Construction
+12 End of unit   LPeer assessment form
+Final competition
+Robot marking
+Submit video "Clayton" 
+(Project presentation)
+Submit final report
+Robot to be pulled down 
+and parts returned
+Student evaluation of unit 
+to be completed.
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Final project assessment: 60%
+Students are required to achieve at least (i) 45% in the continuous assessment component 
+(weekly progress reports, mid-semester project assessment and team presentation), (ii) 45% in the 
+final project assessment component and (iii) an overall mark of 50% to achieve a pass grade in the 
+unit. Students failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Quiz's4%Various dates during semester
+Weekly progress report6%Weekly from week 2
+Mid semester test5%Week 6
+Project proposal5%Week 2
+Preliminary competition10%See moodle for details
+Team presentation (Video)10%Week 12
+Final report20%Week 12
+Final Competition25%Week 12
+Robot construction10%Week 12
+Peer Assessment5%See moodle for details
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component 
+(quizzes, weekly progress reports, project proposal, preliminary competition, test and project 
+presentation) and at least 45% in the final project assessment component (robot construction, final 
+design competition, final report and peer assessment) and an overall mark of 50% to achieve a 
+pass grade in the unit. Students failing to achieve this requirement will be given a maximum of 
+45% in the unit.
+Assessment tasks
+Assessment title: Quiz's
+ Mode of delivery:On line
+Details of task: See moodle for details
+Week 2 onwardsRelease dates (where applicable): 
+ Not applicable.Word limit (where applicable):
+Various dates during semesterDue date: 
+4%Value: 
+Presentation requirements: Not applicable.
+Hurdle requirements (where applicable): Not applicable.
+IndividualIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Not applicable.
+ Additional remarks:Not applicable.
+ 
+Assessment title: Weekly progress report
+ Group orientated (On line)Mode of delivery:
+See moodle for detailsDetails of task: 
+Week 2Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Weekly from week 2Due date: 
+6%Value: 
+Presentation requirements: Not applicable.
+Hurdle requirements (where applicable): Not applicable.
+Individual assessment in group tasks (where applicable): Not applicable.
+See moodle for detailsCriteria for marking: 
+ Additional remarks:Not applicable.
+ 
+Assessment title: Mid semester test
+ On lineMode of delivery:
+See moodle for detailsDetails of task: 
+Week 6Release dates (where applicable): 
+ Not applicable.Word limit (where applicable):
+Week 6Due date: 
+5%Value: 
+Presentation requirements: Not applicable.
+Hurdle requirements (where applicable): Not applicable.
+IndividualIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Not applicable.
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Criteria for marking: Not applicable.
+ Additional remarks:Not applicable.
+ 
+Assessment title: Project proposal
+ WrittenMode of delivery:
+See moodle for detailsDetails of task: 
+Week 1Release dates (where applicable): 
+ Not applicable.Word limit (where applicable):
+Week 2Due date: 
+5%Value: 
+Presentation requirements: Not applicable.
+Hurdle requirements (where applicable): Not applicable.
+GroupIndividual assessment in group tasks (where applicable): 
+See moodle for detailsCriteria for marking: 
+ Additional remarks:Not applicable. 
+ 
+Assessment title: Preliminary competition
+ In classMode of delivery:
+See moodle for detailsDetails of task: 
+Week 2Release dates (where applicable): 
+ Not applicable.Word limit (where applicable):
+See moodle for detailsDue date: 
+10%Value: 
+See moodle for detailsPresentation requirements: 
+Hurdle requirements (where applicable): Not applicable.
+GroupIndividual assessment in group tasks (where applicable): 
+See moodle for detailsCriteria for marking: 
+ Additional remarks:Not applicable.
+ 
+Assessment title: Team presentation (Video)
+ VideoMode of delivery:
+Details of task: See moodle for details
+Week 2Release dates (where applicable): 
+ Not applicable.Word limit (where applicable):
+Week 12Due date: 
+10%Value: 
+5 minute videoPresentation requirements: 
+Hurdle requirements (where applicable): Not applicable.
+GroupIndividual assessment in group tasks (where applicable): 
+Criteria for marking: See moodle for details
+ Additional remarks:Not applicable.
+ 
+Assessment title: Final report
+ Via MoodleMode of delivery:
+Details of task: See moodle for details
+Week 2Release dates (where applicable): 
+ 5000Word limit (where applicable):
+Week 12Due date: 
+20%Value: 
+Presentation requirements: Not applicable.
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Presentation requirements: Not applicable.
+Hurdle requirements (where applicable): Not applicable.
+GroupIndividual assessment in group tasks (where applicable): 
+Criteria for marking: See moodle for details
+ Additional remarks:Not applicable.
+ 
+Assessment title: Final Competition
+ In classMode of delivery:
+Details of task: See moodle for details
+Week 2Release dates (where applicable): 
+ Not applicable.Word limit (where applicable):
+Week 12Due date: 
+25%Value: 
+Presentation requirements: Not applicable.
+Hurdle requirements (where applicable): Not applicable.
+GroupIndividual assessment in group tasks (where applicable): 
+Criteria for marking: See moodle for details
+ Additional remarks:Not applicable.
+ 
+Assessment title: Robot construction
+ In classMode of delivery:
+Details of task: See moodle for details
+Week 2Release dates (where applicable): 
+ Not applicable.Word limit (where applicable):
+Week 12Due date: 
+10%Value: 
+Presentation requirements: Not applicable.
+Hurdle requirements (where applicable): Not applicable.
+GroupIndividual assessment in group tasks (where applicable): 
+Criteria for marking: See moodle for details
+ Additional remarks:N/A
+ 
+Assessment title: Peer Assessment
+ On lineMode of delivery:
+Details of task: See moodle for details
+Week 2Release dates (where applicable): 
+ N/AWord limit (where applicable):
+See moodle for detailsDue date: 
+5%Value: 
+N/APresentation requirements: 
+N/AHurdle requirements (where applicable): 
+Individual assessment in group tasks (where applicable): See moodle for details
+Criteria for marking: See moodle for details
+ Additional remarks:See moodle for details
+ 
+Examination(s)
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Section B: For Malaysia students
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who  Electrical and Computer Systems 
+are:
+1. competent in engineering Electrical and Computer Systems 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program  Electrical and Computer Systems 
+Outcomes (POs) for all of its graduates based on the competencies required by the Malaysian 
+Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Electrical and Computer Systems 
+ Apply knowledge of Engineering Knowledge:
+mathematics, natural science, engineering 
+fundamentals and specialisation in  Electrical 
+engineering to the and Computer Systems 
+solution of complex engineering problems
+Cognitive:  Since this is a capstone unit for 
+ECSE, students will need to apply the 
+knowledge they have gathered in the past 
+units in order to come up with solutions for the 
+various problems encountered in the project. 
+The technical depth that students have 
+managed to exhibit in the various aspects of 
+the project will be tested in the quizzes, 
+project proposal, project presentation and final 
+report.
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complex Electrical and Computer Systems 
+engineering problems reaching substantiated 
+conclusions using first principles of 
+mathematics, natural sciences and 
+engineering sciences
+Cognitive: Students are required to come up 
+with possible solutions based on the project 
+requirements and these solutions should be 
+compared at an early stage. To develop an 
+optimum solution, students are expected to 
+cast the problem into an engineering 
+formalism suitable for that sub-discipline, then 
+apply appropriate solution techniques. The 
+students are expected to demonstrate that the 
+solution satisfies the requirements of the 
+project by devising and conducting an 
+appropriate test and evaluation regime and 
+demonstrate the efficacy of their solution.
+PO3  Design/Development of Solutions:
+Design solutions for complex Electrical and 
+engineering problems and Computer Systems 
+design systems, components or processes 
+that meet specified needs.
+Cognitive: The project requires development 
+of solutions in a number of areas such as 
+software programming for autonomous control 
+of the robot, sensor electronics and designing 
+the mechanical structure of the robot.
+Psychomotor: Students will be required to 
+check the functioning of their robots in real-
+time using software such as termite, construct 
+and test electronic circuits and perform 
+custom machining of the mechanical parts of 
+the robot.
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO4 Conduct Research-based Investigation: 
+investigations of complex Electrical and 
+engineering problems Computer Systems 
+using research-based knowledge and 
+research methods including design of 
+experiments, (analysis and interpretation of 
+data, and synthesis of information to provide 
+valid conclusions.
+Cognitive: Students will have to troubleshoot 
+practical problems encountered with the robot 
+during its functioning through survey of 
+research literature such as component 
+datasheets, designing specific test 
+environments for the robot, analyze data 
+obtained from the tests conducted and reach 
+valid conclusions.
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex Electrical 
+engineering and Computer Systems 
+problems, with an understanding of the 
+limitations
+Cognitive: The programs developed need to 
+be tested for their functionality, and the 3-D 
+printed parts of the robot needs to be tested 
+and improved for precision in order to ensure 
+smooth functioning of the robot, while 
+complying to the required specifications of the 
+project.
+Psychomotor: Students will need to convert 
+algorithms into a computer programs through 
+an understanding of software programming 
+concepts, convert a rough sketch of the 
+mechanical construction of the robot into 
+precise CAD drawings for 3-D printing and 
+also use PCB designing tools for electronic 
+circuitry.
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Electrical and 
+engineering problemsComputer Systems 
+Affective:  Students will have to follow proper 
+safety procedures when operating laboratory 
+equipment used for building and testing the 
+electronic circuitry, and mechanical 
+construction of the robot.
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work 
+in the solution of complex Electrical and 
+engineering problems in Computer Systems 
+environmental contexts.
+Cognitive: The students should optimize the 
+electronic circuitry and programming 
+techniques to design the robot such that it can 
+operate using minimal power. These details 
+need to provided in the final report.
+Affective: Students need to explain on how 
+the robot has been designed to operate based 
+on minimum power before the robot enters the 
+arena for the final design competition.
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective:  Students have to design the robot 
+based on the specified project constraints. 
+The robot must adhere to all the project rules 
+in order to enter the arena for the final design 
+competition.
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO9  Communicate Communication:
+effectively on complex Electrical and 
+engineering activities with Computer Systems 
+the engineering community and with society at 
+large, such as being able to comprehend and 
+write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective:  Students work on the project in 
+teams and are required to interact effectively 
+with the other team members, participate in 
+oral presentations and communicate 
+effectively in written reports. The project work 
+requires students to access and understand 
+technical documentation on electronic and 
+sensor components. They must also 
+document all aspects of their project work.
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective:  The project is team oriented and 
+each member is required to take charge of a 
+different element of the design. The member 
+will then need to interact with other team 
+members to ensure that they understand how 
+their contribution interfaces with the rest of the 
+project.
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological 
+change
+Affective:  Project work is designed to 
+encourage and inspire students to use their 
+talents and to explore their understanding of a 
+given area of engineering. The project seeks 
+to develop new knowledge and expand 
+human understanding.Students will need to 
+refer datasheets of electronic and software 
+components used in the project and 
+understand their functionality. This project is 
+presented as the first step on the path of 
+lifelong learning.
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: Students are supposed to provide a 
+description of the team profile and role of 
+team members in the project proposal and 
+final report. Further, a proposed project 
+budget and timeline needs to be provided in 
+the project proposal, and the actual budget 
+and project timeline needs to be provided in 
+the final report highlighting any reasons for 
+major deviations. The final report should also 
+contain details of the project planning process 
+using techniques work breakdown structure, 
+responsibility matrix and critical path 
+identification.
+Affective: Students should have a project 
+team meeting at least once a week to discuss 
+on the status of tasks in which the team was 
+involved during the particular week and also 
+come up with a plan for the following week's 
+project activities. The weekly progress reports 
+should summarize these aspects.
+Teaching and learning method
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Teaching approach is mainly laboratory-based project work and classes, case-based teaching, 
+workshops, and research activities through team based problem solving.
+Learning outcomes
+1. Apply in-depth electrical and computer systems engineering knowledge to compose and 
+assess possible solutions for sub-problems in a complex engineering project, and select 
+suitable solutions based on available data.
+2. Analyse and identify possible causes for practical problems encountered in the complex 
+engineering project, and solve these problems through appropriate research methods.
+3. Design a sustainable prototype according to specified project constraints whilst complying 
+with health and safety requirements.
+4. Demonstrate commitment to carry out the design project as an individual and as a 
+member of a team
+5. Demonstrate effective project management skills to carry out a project in an organised 
+manner.
+6. Generate written reports and oral presentations to communicate the outcomes of the 
+project.
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome 
+Based Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO1. Apply in-depth electrical and computer 
+systems engineering knowledge to propose 
+solutions for complex engineering project
+LO1 - LO4. Apply in-depth electrical and 
+computer systems engineering knowledge to 
+compose and assess possible solutions for sub-
+problems in a complex engineering project, and 
+select suitable solutions based on available data.LO2. Compose and assess various possible 
+solutions for the subproblems in the project 
+and select suitable solution based on the 
+available data
+LO3.
+Construct programs for the microcontroller 
+integrated to the prototype and evaluate the 
+constructed programs using suitable 
+software development tools such that the 
+prototype satisfactorily performs the 
+required tasks
+LO4. Research and use appropriate 
+resources such as electronic component 
+datasheets in order to compose relevant 
+information for the project
+LO5. Analyse and identify possible causes 
+for practical problems encountered in the 
+complex engineering project
+ Analyse and identify possible LO5 - LO6.
+causes for practical problems encountered in 
+the complex engineering project, and solve 
+these problems through appropriate research 
+methods.LO6. Solve practical problems in complex 
+engineering constructions through 
+application of appropriate research methods
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Learning Outcomes (LOs) for Outcome 
+Based Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO7. Adapt the design of the prototype to 
+enable its construction using techniques that 
+comply with relevant health and safety 
+requirements applicable to the project
+ Design a sustainable prototype LO7 - LO9.
+according to specified project constraints whilst 
+complying with health and safety requirements.
+LO8. Assess the power consumption of the 
+design and thereby, adapt the prototype 
+construction to operate using minimal power
+LO9. Formulate a multidisciplinary design 
+according to the specified project rules and 
+constraints
+LO10. Exhibit loyalty to carry out the design 
+project as an individual and as member of a 
+team
+ Demonstrate commitment to carry out the LO10.
+design project as an individual and as a 
+member of a team
+LO11.
+Demonstrate effective project management 
+skills to organise the project for seamless 
+execution and timely completion
+Demonstrate effective project LO11. 
+management skills to carry out a project in an 
+organised manner.
+LO12. Express the project in form of written 
+reports and oral presentation
+Generate written reports and oral LO12. 
+presentations to communicate the outcomes of 
+the project.
+Relationship between unit learning outcomes and program outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√
+LO2√
+LO3√
+LO4√
+LO5√
+LO6√
+LO7√
+LO8√
+LO9√
+LO10√
+LO11√
+LO12√
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+The unit is one of the most loved one by ECSE students. The student usually lack time 
+management in constructing the robot. Lecturer need to advise the students from the beginning of 
+the unit.
+A workshop on Solid Works CAD software will be organized early in the semester in order to get 
+the students familiarized on CAD drawing for 3D printing.
+Student feedback has highlighted the following strength(s) in this unit:
+Opportunity for students to learn how a robot works through an integration of software, electronics 
+and mechanical aspects.
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+Unit schedule - Malaysia campus
+Week Lecture ActivitiesSome of the work to be doneTo be submitted or 
+assessed
+1Introduction to the unit1. Team formation,
+safety induction,
+distribution of the kits.
+2. Robot construction +
+Planning
+3. Write the
+risk assessment sheet,
+and begin
+brainstorming.
+Quiz
+2 Methodical design/debug,
+Teamwork: forming groups, 
+meetings, conflict resolution 
+strategies
+1. Solder the switches,
+pins and sockets of the
+PSoC 5LP prototyping
+kit, and start learning
+how to use it.
+2. Robot construction +
+Planning
+Quiz
+Weekly Progress 
+Report
+Project Proposal
+3Mechanical considerations, 
+Project Management 1: 
+Introduction to Planning and 
+Scheduling
+Robot construction +
+Planning
+Quiz
+Weekly Progress 
+Report
+4 Control and practicalities, 
+Suitable sensors
+Robot construction +
+Strategic Planning and
+Implementation
+Quiz
+Weekly Progress 
+Report
+Peer Assessment
+5 Documentation and 
+referencing
+Robot construction +
+Strategic Planning and
+Implementation + Testing
+Quiz
+Weekly Progress 
+Report
+6   Motors and electronicsRobot construction +
+Strategic Planning and
+Implementation + Testing
+Quiz
+Weekly Progress 
+Report
+7   Project Management 2: 
+Planning, scheduling, 
+project management 
+techniques and software
+Robot construction +
+Testing
+.
+Quiz
+Weekly Progress 
+Report
+Preliminary competition
+8   Report writingRobot construction +
+Testing
+Quiz
+Weekly Progress 
+Report
+9   Presentation skillsTesting + Design and
+code optimization
+Quiz
+Weekly Progress 
+Report
+10 InteractionQuiz
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+Week Lecture ActivitiesSome of the work to be doneTo be submitted or 
+assessed
+Testing + Design and
+code optimization
+Weekly Progress 
+Report
+Test
+11 Team PresentationTesting + Design and
+code optimization
+Weekly Progress 
+Report
+12 Team PresentationPeer Assessment
+Robot Construction 
+Marking
+Final Design 
+Competition
+Final Report
+Assessment Summary
+Continuous assessment: 40%
+Final project assessment: 60%
+Students are required to achieve at least (i) 45% in the continuous assessment component 
+(weekly progress reports, mid-semester project assessment and team presentation), (ii) 45% in the 
+final project assessment component and (iii) an overall mark of 50% to achieve a pass grade in the 
+unit. Students failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+1. Quizzes4%Various dates during the semester
+2. Weekly Progress Report6%Week 2 - Week 11
+3. Project Proposal5%Week 2
+4. Preliminary Competition10%Week 7
+5. Test5%Week 10
+6. Project Presentation10%Week 11 or Week 12
+8. Robot construction10%Week 12
+8. Final Design Competition25%Week 12
+9. Final Report20%Week 12
+10. Peer Assessment5%Week 4 and Week 12
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component 
+(quizzes, weekly progress reports, project proposal, preliminary competition, test and project 
+presentation) and at least 45% in the final project assessment component (robot construction, final 
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+presentation) and at least 45% in the final project assessment component (robot construction, final 
+design competition, final report and peer assessment) and an overall mark of 50% to achieve a 
+pass grade in the unit. Students failing to achieve this requirement will be given a maximum of 
+45% in the unit.
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+AssessmentLO1LO2LO3LO4LO5LO6LO7LO8LO9LO10LO11LO12
+QuizzesC3
+Weekly 
+Progress 
+Report
+A4
+Project 
+Proposal
+C3C3A3
+Preliminary 
+Competition
+C3
+TestP7C6, 
+P7
+A3C4A3
+Project 
+Presentation
+C3C6A3A3
+Robot 
+Construction
+A4A4A4
+Final 
+Design 
+Competition
+C3
+Final ReportC3C6C6C3A3
+Peer 
+Assessment
+A3
+Relationship between Assessments and Complex Problems
+/Activities
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+AssessmentComplex Problems (CP)Complex Activities (CA)
+WP1WP2WP3WP4WP5WP6WP7EA1EA2EA3EA4EA5
+Quizzes√
+Weekly 
+Progress 
+Reports
+√√
+Project 
+Proposal
+√√√√√√√√√
+Preliminary 
+Competition
+√√√√√√√√√
+Test√√√√√√√√√
+Project 
+Presentation
+√√√√√√√√√
+Robot 
+Construction
+√√√√√√√√√√
+Final 
+Design 
+Competition
+√√√√√√√√√
+Final Report√√√√√√√√√√
+Peer 
+Assessment
+√√√√√√√√√
+Complex Problems (CP) - attribute descriptions
+Attribute CodeAttribute Description
+WP1Depth of Knowledge Required
+WP2Range of conflicting requirements
+WP3Depth of analysis required
+WP4Familiarity of issues
+WP5Extent of applicable codes
+WP6Extent of stakeholder involvement and conflicting requirements
+WP7Interdependence
+Complex Activities (CA) - attribute descriptions
+Attribute CodeAttribute Description
+EA1Range of resources
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+Attribute CodeAttribute Description
+EA2Level of interactions
+EA3Innovation
+EA4Consequences to society and the environment
+EA5Familiarity
+Assessment requirements
+Assessment tasks
+Assessment title:  Quizzes
+ Online on MoodleMode of delivery:
+  Details of task:Refer to Moodle for details
+ Week 2 onwardsRelease dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Various dates during the semesterDue date: 
+  4%Value: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  IndividualIndividual assessment in group tasks (where applicable): 
+N/ACriteria for marking:  
+ N/AAdditional remarks: 
+Assessment title:  Weekly Progress Report
+ To be submitted on MoodleMode of delivery:
+  Details of task:Refer to Moodle for details
+ Week 2Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Weekly from Week 2 onwardsDue date: 
+  6%Value: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  GroupIndividual assessment in group tasks (where applicable): 
+Refer to Moodle for detailsCriteria for marking:  
+ N/AAdditional remarks: 
+Assessment title:  Project Proposal
+ To be submitted on MoodleMode of delivery:
+ Refer to Moodle for detailsDetails of task:
+ Week 1Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Week 2Due date: 
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+  Week 2Due date: 
+  5%Value: 
+  Refer to Moodle for detailsPresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  GroupIndividual assessment in group tasks (where applicable): 
+Refer to Moodle for detailsCriteria for marking:  
+ N/AAdditional remarks: 
+Assessment title:  Preliminary Competition
+ At the ECE3091 competition arenaMode of delivery:
+ Refer to Moodle for detailsDetails of task:
+ Week 2Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Week 7Due date: 
+  10%Value: 
+  Refer to Moodle for detailsPresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  GroupIndividual assessment in group tasks (where applicable): 
+Refer to Moodle for detailsCriteria for marking:  
+ N/AAdditional remarks: 
+Assessment title:  Test
+ Viva-voce during the allocated lab sessionMode of delivery:
+ Refer to Moodle for detailsDetails of task:
+ Week 10Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Week 10Due date: 
+  5%Value: 
+  Not applicablePresentation requirements: 
+Not applicableHurdle requirements (where applicable):  
+  IndividualIndividual assessment in group tasks (where applicable): 
+Refer to Moodle for detailsCriteria for marking:  
+ N/AAdditional remarks: 
+Assessment title:  Project Presentation
+ Live-presentation during lectures in Week 11 or Week 12Mode of delivery:
+ Refer to Moodle for detailsDetails of task:
+ Week 2Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Week 11 or Week 12Due date: 
+  10%Value: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  Group (with individual component)Individual assessment in group tasks (where applicable): 
+Refer to Moodle for detailsCriteria for marking:  
+ N/AAdditional remarks: 
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
+29
+Assessment title:  Robot construction
+ On the final competition day before robot enters arenaMode of delivery:
+ Refer to Moodle for detailsDetails of task:
+ Week 2Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Week 12Due date: 
+  10%Value: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  GroupIndividual assessment in group tasks (where applicable): 
+Refer to Moodle for detailsCriteria for marking:  
+ N/AAdditional remarks: 
+Assessment title:  Final Design Competition
+ At the ECE3091 competition arenaMode of delivery:
+ Refer to Moodle for detailsDetails of task:
+ Week 2Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Week 12Due date: 
+  25%Value: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  GroupIndividual assessment in group tasks (where applicable): 
+Refer to Moodle for detailsCriteria for marking:  
+ N/AAdditional remarks: 
+Assessment title:  Final Report
+ To be submitted online on MoodleMode of delivery:
+ Refer to Moodle for detailsDetails of task:
+ Week 2Release dates (where applicable): 
+  5000Word limit (where applicable): 
+  Week 12Due date: 
+  20%Value: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  GroupIndividual assessment in group tasks (where applicable): 
+Refer to Moodle for detailsCriteria for marking:  
+ N/AAdditional remarks: 
+Assessment title:  Peer Assessment
+ Online on CATMEMode of delivery:
+ Refer to Moodle for detailsDetails of task:
+ Week 12Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Week 4 and Week 12Due date: 
+  5%Value: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (28) Break----------------
+30
+N/AHurdle requirements (where applicable):  
+  IndividualIndividual assessment in group tasks (where applicable): 
+N/ACriteria for marking:  
+ N/AAdditional remarks: 
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (29) Break----------------
+31
+Section C: All students 
+Returning assignments
+Moodle
+Resubmission of assignments
+Lecturer will advise if there any re-submission is required.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+Harvard
+IEEE
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at  under the heading 'Learning and teaching tools'. Please keep http://my.monash.edu.au
+a copy of tasks completed for your records.
+For Malaysia, you can submit in the pigeon hole with label ‘Dr. Ajay Achath Mohanan” available in 
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (30) Break----------------
+32
+For Malaysia, you can submit in the pigeon hole with label ‘Dr. Ajay Achath Mohanan” available in 
+Building 2, Level 4 School of IT staff mail box.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Feedback will be provided in following ways
+●written comments
+●verbal comments
+●feedback to the whole class, to groups, to individuals
+Learning resources
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Technological requirements
+Students must regularly check Moodle and Emails for announcements.
+Additional unit costs
+A basic set of components will be provided for each group. If students wish to investigate a wider 
+range of sensors/actuators/structural components then they must finance this themselves. The 
+limit of expenditure for additional parts per 4-student team is currently set at RM360.
+Other information
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (31) Break----------------
+33
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (32) Break----------------
+34
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE3091 Engineering design - Semester 2 (S2-01) - 2017
+----------------Page (33) Break----------------

@@ -1,0 +1,1129 @@
+1
+                                     
+  
+Unit Guide
+  
+ENG1060
+Computing for engineers
+Semester 2, 2017
+Table of contents
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          4
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Demonstrator(s)                                                                                                                           5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                        7
+Learning outcomes                                                                                                                          8
+Your feedback to us                                                                                                                         8
+Previous student evaluations of this unit                                                                                     8
+Unit schedule - Clayton campus                                                                                                         9
+Assessment requirements                                                                                                                 10
+Assessment summary                                                                                                                   10
+Assessment tasks                                                                                                                          10
+Examination(s)                                                                                                                               11
+Section B: For Malaysia students                                                                                                      13
+Academic Overview                                                                                                                          14
+Teaching and learning method                                                                                                      15
+Learning outcomes                                                                                                                    16
+OBE requirements to learning outcomes (LOs)                                                                     16
+Relationship between unit learning outcomes and program outcomes                                 17
+Your feedback to us                                                                                                                       17
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Previous student evaluations of this unit                                                                                   17
+Unit schedule - Malaysia campus                                                                                                     19
+Assessment Summary                                                                                                                   20
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                21
+Relationship between Assessments and Complex Problems/Activities                                    21
+Assessment requirements                                                                                                                 22
+Assessment tasks                                                                                                                          22
+Examination(s)                                                                                                                               23
+Section C: All students                                                                                                                      25
+Extensions and penalties                                                                                                               25
+Returning assignments                                                                                                                  25
+Resubmission of assignments                                                                                                       25
+Plagiarism and collusion                                                                                                                25
+Referencing requirements                                                                                                             25
+Assignment submission                                                                                                                 26
+Feedback to you                                                                                                                            26
+Learning resources                                                                                                                        26
+Required resources                                                                                                                       26
+Technological requirements                                                                                                          27
+Other information                                                                                                                              27
+Policies                                                                                                                                          27
+Graduate Attributes Policy                                                                                                             27
+Student Charter                                                                                                                             27
+Student Services                                                                                                                           27
+Monash University Library                                                                                                             27
+Disability Support Services                                                                                                            28
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+General rules for software development and design. Errors. Data types, variables, expressions, 
+control statements M-files. Numerical techniques: Gauss elimination, solution of non-linear 
+equations, optimisation, curve fitting, numerical calculus, ordinary differential equations.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+2 hrs lectures, 3 hrs laboratory and 7 hrs private study per week
+Unit relationships
+ 
+Prerequisites
+Mathematical methods (CAS) recommended.
+Prohibitions
+ENG1602
+Co-requisites
+ENG1091 or MTH1030 or MTH1035 or ENG1005
+Chief Examiner(s) 
+Professor Julia Lamborn
+Unit Coordinator(s)
+Name: Prof Murray Rudman
+Email: murray.rudman@monash.edu
+Clayton/Malaysia staff contact details
+ 
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Clayton campus
+Campus CoordinatorName:  Professor Murray Rudman
+ Email: murray.rudman@monash.edu
+ 82 (New Horizons)218Building: , Room: 
+Consultation hours: To be advised at start of semester
+Lecturer(s) Professor Murray RudmanName: 
+ Email: murray.rudman@monash.edu
+ 82 (New Horizons), Room: 218Building: 
+Consultation hours: To be advised at start of semester
+ 
+ Dr Tony VoName: 
+ Email: Tony.Vo@monash.edu
+ , Room: Building: 
+ 
+  
+Malaysia campus
+Campus Coordinator Ms Teoh Boon EanName: 
+ Email: teoh.boon.ean@monash.edu
+ 5 5-4-23Building: , Room: 
+Consultation hours: To be advised at start of semester
+Lecturer(s)Name:  Ms Teoh Boon Ean
+Email: teoh.boon.ean@monash.edu
+Building: 5, Room: 5-4-23
+ 
+Demonstrator(s)
+Clayton Campus
+Head Demonstrator:
+Tony Vo
+Tony.Vo@monash.edu
+Email to organize meeting
+Malaysian Campus
+Lab Demonstrators: 
+ ()Dr. Md Abdus Samad KamalMd.Abdus.Samad@monash.edu
+ 
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of competencyIndicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+1,2,3,4
+1.2 Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering discipline.
+a) Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering discipline.
+1,2,3,4
+1.3 In-depth understanding of 
+specialist bodies of knowledge within 
+the engineering discipline.
+a) Proficiently applies advanced 
+technical knowledge and skills in at 
+least one specialist practice domain 
+of the engineering discipline.
+1,2,3,4
+2. Engineering application ability
+2.1 Application of established 
+engineering methods to complex 
+engineering problem solving.
+e) e) Partitions problems, processes 
+or systems into manageable 
+elements for the purposes of analysis,
+modelling or design and then re-
+combines to form a whole, with the 
+4
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+integrity and performance of the 
+overall system as the paramount 
+consideration.
+2.2 Fluent application of engineering 
+techniques, tools and resources.
+a) Proficiently identifies, selects and 
+applies the materials, components, 
+devices, systems, processes, 
+resources, plant and equipment 
+relevant to the engineering discipline.
+1,2
+b) Constructs or selects and applies 
+from a qualitative description of a 
+phenomenon, process, system, 
+component or device a mathematical, 
+physical or computational model 
+based on fundamental scientific 
+principles and justifiable simplifying 
+assumptions.
+2,3,4
+d) Applies a wide range of 
+engineering tools for analysis, 
+simulation, visualisation, synthesis 
+and design, including assessing the 
+accuracy and limitations of such 
+tools, and validation of their results.
+1,2,3,4
+g) Analyses sources of error in 
+applied models and experiments; 
+eliminates, minimises or 
+compensates for such errors; 
+quantifies significance of errors to 
+any conclusions drawn.
+4
+3. Professional and personal attributes
+3.3 Creative, innovative and pro-
+active demeanour.
+a) Applies creative approaches to 
+identify and develop alternative 
+concepts, solutions and procedures, 
+appropriately challenges engineering 
+practices from technical and non-
+technical viewpoints; identifies new 
+technological opportunities.
+4
+Teaching and learning method
+Lectures: The unit comprises 24 hours of lectures. The lectures are intended to introduce topics 
+and to guide the student through the general principles and concepts required to use a computer 
+to solve fundamental engineering problems. The class notes will be made available in electronic 
+form through Moddle. These should be consulted and printed out prior to lectures. After the 
+lectures, video recordings of the lectures can be downloaded from Moodle.
+3-hour Computer Laboratories: In the computer laboratory classes, the students will have the 
+opportunity to apply the material covered in previous lectures. Each lab consists of a number of 
+exercises for students to solve using MATLAB, which is available at all Engineering Computer 
+Labs.
+Computer laboratory sessions are scheduled to run weekly. Students should allocate themselves 
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+Computer laboratory sessions are scheduled to run weekly. Students should allocate themselves 
+to a laboratory session through the Allocate+ system.
+Students are also expected to study and revise for 7 hours every week
+Laboratory allocation
+There are 3 hours of laboratory classes scheduled each week, commencing in week 2. Students 
+must enroll in a lab class only using Allocate Plus. Students not allocated to a particular class will 
+not be accepted into that session without the written consent of the unit coordinator. Once a 
+particular session is full, no more students will be accepted, unless evidence is shown that the 
+student has a timetabling clash.
+Communication, participation and feedback
+Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies.  In this unit it will take the form of group feedback via lab 
+classes, individual feedback, peer feedback, self-comparison, verbal and written feedback, 
+discussions in class, online discussions as well as more formal feedback related to assignment 
+marks and grades.  Students are encouraged to draw on a variety of feedback to enhance their 
+learning.
+You can also find information on inclusive teaching practices for students with learning disabilities 
+or mental health conditions at:
+http://www.monash.edu.au/lls/inclusivity/
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Identify appropriate MATLAB programming structures to solve simple computational tasks.
+2. Identify and describe which numerical methods can be used to solve common engineering 
+problems.
+3. Construct short computer programs that implement these numerical methods.
+4. Apply these numerical methods and programs to basic engineering problems.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+In response to previous SETU results of this unit, the following changes have been made:
+●Improved audio and video lecture recordings.
+●The use of MARS ( MonashAudience Response System).
+●Improved laboratory material.
+Student feedback has highlighted the following strength(s) in this unit:
+Improved laboratory classes with rapid feedback on assessment tasks
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+WeekLectureLabAssignment
+1Lecture 1 Introduction
+Lecture 2 MATLAB Basics
+NONE
+2Lecture 3 Matrices
+Lecture 4 Matrix Calculations & Plotting
+Intro Lab
+/Lab1
+3Lecture 5 Good Programming Practices
+Lecture 6 Functions
+Lab 2
+4Lecture 7 Input and Output
+Lecture 8 IF Statements
+Lab 3
+5Lecture 9 Loops
+Lecture 10 Loops
+Lab 4
+6Lecture 11 Debugging MATLAB 
+Programs
+Lecture 12 Advanced Functions and 
+Limitation of MATLAB
+Lab5
+7Lecture 13 Roots and Optimization (1)
+Lecture 14 Roots and Optimization (2)
+Lab 6
+8Lecture 15 Curve Fitting (1)
+Lecture 16 Curve Fitting (2)
+Lab 7Available on 
+Moodle
+9Lecture 17 Numerical Integration (1)
+Lecture 18 Numerical Integration (2)
+Lab 8
+Mid Semester Break
+10Lab 9
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+Lecture 19 Ordinary Differential 
+Equations (1)
+Lecture 20 Ordinary Differential 
+Equations (2)
+11Lecture 21 Linear Systems (1)
+Lecture 22 Linear Systems (2)
+Lab 10Assignment due 
+Friday
+12Lecture 23 Feedback on Assignment
+Lecture 24 Exam Info Session
+Assignment
+marking
+Assignment 
+marking
+during lab session
+SWOT VAC
+31 October - 
+18 November
+Examination periodLINK to Assessment Policy:
+http://www.policy.monash.edu
+/policy-bank/academic/education
+/assessment/assessment-in-
+coursework-policy.html
+Assessment requirements
+Assessment summary
+Written examination (3 hours): 60%
+Continuous assessment: 40%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taskValueDue date
+Laboratory30% (3x10)weekly
+Assignment10%Friday Week 11
+Examination60%To be advised
+Assessment tasks
+Assessment title: Laboratory
+ In computer labMode of delivery:
+Details of task: Students will be assessed over 10 laboratory class. In particular, they will be 
+assessed on the logic and efficiency of their computer programs to satisfy the laboratory 
+requirements. Each laboratory will be worth 3%, giving a total of 30%. Laboratory attendance is 
+ mandatory.
+WeeklyRelease dates (where applicable): 
+ N/AWord limit (where applicable):
+weeklyDue date: 
+30% (3x10)Value: 
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+weeklyDue date: 
+30% (3x10)Value: 
+To be specified in classPresentation requirements: 
+Students must receive 45% or more in the TOTAL in-Hurdle requirements (where applicable): 
+semester assessments (i.e. Labs + Assignment)
+N/AIndividual assessment in group tasks (where applicable): 
+Explained in lab sheetCriteria for marking: 
+ NoneAdditional remarks:
+ 
+Assessment title: Assignment
+ Assignment sheetMode of delivery:
+Details of task: Students will be asked to submit an assignment in the second half of the semester 
+involving the written and computer generated solution of a number of simple engineering 
+problems. Further details will be made available during the semester. The assignment is worth 
+10%.
+Your assignments are to be submitted electronically via the ENG1060 Moodle website.  Further 
+instructions will be given during semester.
+Week 8Release dates (where applicable): 
+  N/AWord limit (where applicable):
+Friday Week 11Due date: 
+10%Value: 
+Presentation requirements:  
+Students must receive 45% or more in the TOTAL in-Hurdle requirements (where applicable): 
+semester assessments (i.e. Labs + Assignment)
+N/AIndividual assessment in group tasks (where applicable): 
+Explained on assignment sheetCriteria for marking: 
+ NoneAdditional remarks:
+ 
+Examination(s)
+ExaminationExam title: 
+60%Weighting: 
+3 hoursLength: 
+ ClosedType (Open/closed book):
+ Students must receive at least 45% in the Exam to pass Hurdle requirements (where applicable):
+the unit.
+Faculty of Engineering and Faculty of Science approved calculators Electronic devices allowed: 
+ONLY
+NoneRemarks (where applicable): 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+The following scientific calculators that are programmable, but are capable ofnot 
+1-variable and 2-variable statistics, (with the authorised “Monash University-Science, or 
+) for use in this unit examination:Engineering” sticker are approved 
+Graphical calculators and programmable calculators are not permitted in exams.
+APPROVED Scientific Calculators:
+Caieion: FM-83
+Canon: F720, F720i
+Casio: fx-82, fx-83, fx-85, fx-100, fx-115, fx-350, fx-570, fx-911, fx-991 and fx-992 series
+Citizen: SR-135, SR-260, SR-270, SR-275
+Hewlett Packard: HP-6s, HP-8s, HP-9s, HP-10s, HP-30s
+Texas instruments: TI-30 and TI-34 series
+Texet: Albert 2, Albert 3, Albert 5
+Sharp: EL-506, EL-509, EL-520 and EL-531WH series 
+The sticker will be available from the Faculty office ground floor building 72. You must bring your 
+calculator with you to the Faculty office at any time during the semester to receive a sticker. We 
+recommend you do this well in advance of the exam.
+Note: This list is updated from time to time.  The latest list may be found at
+http://www.eng.monash.edu.au/current-students/download/approved-calculator-list.pdf
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Section B: For Malaysia students
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who are: School of 
+1. competent in engineering School of 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program Outcomes (POs) for all of its  School of 
+graduates based on the competencies required by the Malaysian Engineering Accreditation 
+Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Apply Engineering Knowledge: School of 
+knowledge of mathematics, natural science, 
+engineering fundamentals and specialisation 
+in engineering to the solution of  School of 
+complex engineering problems
+Cognitive: 
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse complex
+engineering problems reaching School of 
+substantiated conclusions using first principles 
+of mathematics, natural sciences and 
+engineering sciences
+Cognitive: 
+PO3  Design/Development of Solutions:
+Design solutions for complex School of 
+engineering problems and design systems, 
+components or processes that meet specified 
+needs.
+Cognitive: 
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex School of 
+engineering problems using research-based 
+knowledge and research methods including 
+design of experiments, (analysis and 
+interpretation of data, and synthesis of 
+information to provide valid conclusions.
+Cognitive: 
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex School 
+engineering problems, with an of 
+understanding of the limitations
+Cognitive: 
+Psychomotor: 
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+Affective: 
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+and solutions to complex School of 
+engineering problems
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complexengineering  School of 
+problems in environmental contexts.
+Cognitive: 
+Affective: 
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate effectively Communication:
+on complexengineering activities  School of 
+with the engineering community and with 
+society at large, such as being able to 
+comprehend and write effective reports and 
+design documentation, make effective 
+presentations, and give and receive clear 
+instructions
+Affective: 
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective: 
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective: 
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: 
+Teaching and learning method
+Lectures: The unit comprises 24 hours of lectures. The lectures are intended to introduce topics 
+and to guide the student through the general principles and concepts required to use a computer 
+to solve fundamental engineering problems. The class notes will be made available in electronic 
+form through Moddle. These should be consulted and printed out prior to lectures. After the 
+lectures, video recordings of the lectures can be downloaded from Moodle.
+3-hour Computer Laboratories: In the computer laboratory classes, the students will have the 
+opportunity to apply the material covered in previous lectures. Each lab consists of a number of 
+exercises for students to solve using MATLAB, which is available at all Engineering Computer 
+Labs.
+Computer laboratory sessions are scheduled to run weekly. Students should allocate themselves 
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Computer laboratory sessions are scheduled to run weekly. Students should allocate themselves 
+to a laboratory session through the Allocate+ system.
+Students are also expected to study and revise for 7 hours every week
+Laboratory allocation
+There are 3 hours of laboratory classes scheduled each week, commencing in week 2. Students 
+must enroll in a lab class only using Allocate Plus. Students not allocated to a particular class will 
+not be accepted into that session without the written consent of the unit coordinator. Once a 
+particular session is full, no more students will be accepted, unless evidence is shown that the 
+student has a timetabling clash.
+Communication, participation and feedback
+Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies.  In this unit it will take the form of group feedback via lab 
+classes, individual feedback, peer feedback, self-comparison, verbal and written feedback, 
+discussions in class, online discussions as well as more formal feedback related to assignment 
+marks and grades.  Students are encouraged to draw on a variety of feedback to enhance their 
+learning.
+You can also find information on inclusive teaching practices for students with learning disabilities 
+or mental health conditions at:
+http://www.monash.edu.au/lls/inclusivity/
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Identify appropriate MATLAB programming structures to solve simple computational tasks.
+2. Identify and describe which numerical methods can be used to solve common engineering 
+problems.
+3. Construct short computer programs that implement these numerical methods.
+4. Apply these numerical methods and programs to basic engineering problems.
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for 
+Outcome Based Education 
+(OBE) requirements
+Handbook Learning Outcomes (LOs)
+1. Apply basic programming 
+syntax and build-in functions 
+To develop structured 
+problem solving 
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+to develop programming 
+solution
+techniques and to develop 
+a knowledge of 
+programming concepts 
+and the ability to write 
+simple programs 
+2. Create solutions for 
+complex problem using 
+structured problem solving 
+techniques
+To develop an understanding of 
+commonly used numerical 
+methods for solving engineering 
+problems; the ability to 
+appropriately apply numerical 
+methods to engineering 
+problems and to know some of 
+the limitations of such methods
+3. Operate software package 
+(i.e. MATLAB) to develop 
+and demonstrate complex 
+programming solution
+4. Design and evaluate 
+numerical solutions for 
+complex engineering 
+problem using suitable 
+numerical method and 
+software tool
+Relationship between unit learning outcomes and program outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√
+LO2√
+LO3√√
+LO4√
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●Improved audio and video lecture recordings.
+●The use of MARS ( MonashAudience Response System).
+●Improved laboratory material.
+Student feedback has highlighted the following strength(s) in this unit:
+Improved laboratory classes with rapid feedback on assessment tasks
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Improved laboratory classes with rapid feedback on assessment tasks
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Unit schedule - Malaysia campus
+WeekLectureLabAssignment
+1Lecture 1 Introduction
+Lecture 2 MATLAB Basics
+NONE
+2Lecture 3 Matrices
+Lecture 4 Matrix Calculations & Plotting
+Intro Lab
+/Lab1
+3Lecture 5 Good Programming Practices
+Lecture 6 Functions
+Lab 2
+4Lecture 7 Input and Output
+Lecture 8 IF Statements
+Lab 3
+5Lecture 9 Loops
+Lecture 10 Loops
+Lab 4
+6Lecture 11 Debugging MATLAB 
+Programs
+Lecture 12 Advanced Functions and 
+Limitation of MATLAB
+Lab5
+7Lecture 13 Roots and Optimization (1)
+Lecture 14 Roots and Optimization (2)
+Lab 6
+8Lecture 15 Curve Fitting (1)
+Lecture 16 Curve Fitting (2)
+Lab 7Available on 
+Moodle
+9Lecture 17 Numerical Integration (1)
+Lecture 18 Numerical Integration (2)
+Lab 8
+Mid Semester Break
+10Lecture 19 Ordinary Differential 
+Equations (1)
+Lecture 20 Ordinary Differential 
+Equations (2)
+Lab 9
+11Lecture 21 Linear Systems (1)
+Lecture 22 Linear Systems (2)
+Lab 10Assignment due 
+Friday
+12Lecture 23 Feedback on Assignment
+Lecture 24 Exam Info Session
+Assignment
+marking
+Assignment 
+marking
+during lab session
+SWOT VAC
+31 October - 
+18 November
+Examination periodLINK to Assessment Policy:
+http://www.policy.monash.edu
+/policy-bank/academic/education
+/assessment/assessment-in-
+coursework-policy.html
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Assessment Summary
+Written examination (3 hours): 60%
+Continuous assessment: 40%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taskValueDue date
+1. Labs30%Weekly
+2. Assignment10%Friday Week 11
+4. Exam60%Exam Period
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+Assessment
+Learning OutcomesOpen-ended 
+LabsLO1LO2LO3LO4
+1Lab1P3-
+2Lab 2 - Lab 5C3-
+3Lab 6 - Lab 10C4-
+4AssignmentC5-
+5Final Exam - Part AC4-
+6Final Exam - Part BC4-
+Relationship between Assessments and Complex Problems
+/Activities
+AssessmentComplex ProblemsComplex Activities
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+1Lab 1xx
+2Lab 2 - 
+Lab 5
+xx
+3Lab 6 - 
+Lab 10
+xx
+4Assignmentxx
+5Final 
+Exam - 
+Part A
+xx
+6Final 
+Exam - 
+Part B
+xx
+Assessment requirements
+Assessment tasks
+Assessment title:  Lab
+ Mode of delivery: Computer Labs
+ Students will be assessed over 10 laboratory classes. The lab questions are Details of task:
+designed to test the recollection of the lecture material. Students are required to write MATLAB 
+programs that produce correct answer and satisfy the question’s requirement. Laboratory 
+attendance is mandatory.
+ One week in advanceRelease dates (where applicable): 
+   Not applicableWord limit (where applicable): 
+  WeeklyDue date: 
+  30% (3% for each lab, Lab 1-10).Value: 
+  Presentation requirements:  As detailed in Labs
+-Hurdle requirements (where applicable):  
+  Individual assessment in group tasks (where applicable):  Not applicable
+The labs will be assessed on the correctness, logic and efficiency of the Criteria for marking:  
+computer programs to satisfy the laboratory. Marking scheme for each lab is different depending 
+on the question’s requirement.
+ Additional remarks: 2 weeks after the due dateEstimated return date: 
+Assessment title:  Assignment
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+Assessment title:  Assignment
+ Mode of delivery: Not applicable
+ Students will be asked to submit an assignment in the second half of the semester Details of task:
+involving the written and computer generated solution of a number of simple engineering 
+problems. Further details will be made available during the semester.
+ Week 8Release dates (where applicable): 
+   Not applicableWord limit (where applicable): 
+  Friday Week 11Due date: 
+  10%Value: 
+  Presentation requirements:  Refer to Moodle for up-to-date information
+Hurdle requirements (where applicable):  -
+  Individual assessment in group tasks (where applicable):  Not applicable
+The code produces correct results automatically (without user intervention) Criteria for marking:  
+and is well written based on good programming practices discussed  in lecture.
+ Additional remarks: Early Week 13Estimated return date: 
+Examination(s)
+ ExaminationExam title: 
+ 60%Weighting: 
+3 hoursLength: 
+ Closed bookType (Open/closed book): 
+  Hurdle requirements (where applicable): Students must obtain at least 45% in the Exam to pass 
+the unit.
+ Faculty approved calculatorElectronic devices allowed: 
+ Remarks (where applicable): The three hour closed book examination (60%) forms the major part 
+of the assessment in this subject. You will need to bring a calculator to this examination. The 
+examination is designed to test not only your MATLAB knowledge and ability to solve problems, 
+but also your understanding of the numerical methods and techniques, and will comprise a number 
+ of questions similar to those encountered in the computer labs and the assignment.
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+The following scientific calculators that are programmable, but are capable ofnot 
+1-variable and 2-variable statistics, (with the authorised “Monash University-Science, or 
+) for use in this unit examination:Engineering” sticker are approved 
+Graphical calculators and programmable calculators are not permitted in exams.
+APPROVED Scientific Calculators:
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+APPROVED Scientific Calculators:
+Caieion: FM-83
+Canon: F720, F720i
+Casio: fx-82, fx-83, fx-85, fx-100, fx-115, fx-350, fx-570, fx-911, fx-991 and fx-992 series
+Citizen: SR-135, SR-260, SR-270, SR-275
+Hewlett Packard: HP-6s, HP-8s, HP-9s, HP-10s, HP-30s
+Texas instruments: TI-30 and TI-34 series
+Texet: Albert 2, Albert 3, Albert 5
+Sharp: EL-506, EL-509, EL-520 and EL-531WH series 
+The sticker will be available from the Faculty office ground floor building 72. You must bring your 
+calculator with you to the Faculty office at any time during the semester to receive a sticker. We 
+recommend you do this well in advance of the exam.
+Note: This list is updated from time to time.  The latest list may be found at
+http://www.eng.monash.edu.au/current-students/download/approved-calculator-list.pdf
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+Section C: All students 
+Extensions and penalties
+The due dates for the submission of assignments are given in previous sections. Please make 
+every effort to submit work by the due dates. Students are advised to NOT assume that granting of 
+an extension is a matter of course.
+If you need an extension for any of the assignments, you must submit a written request 48- hours 
+such as medical certificate.before the due time and date, and attach supportive evidence 
+The request should preferably be forwarded as an email attachment, sent to the unit coordinator. 
+The email should be sent from your University email address with your name typed in lieu of 
+signature.
+Note that other lecturers cannot grant extensions. Lecturer-in-charge (unit coordinator) will indicate 
+at the time of granting the extension whether any penalty in marks will apply to the submitted work.
+If an extension is granted, the approval must be attached to the assignment.
+Returning assignments
+Assignments will be returned via Moodle
+Resubmission of assignments
+Resubmissions are explicitly allowed through Moodle until the due date.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+ 
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+ 
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Lab grades and informal feedback from demonstrators, written comments attached with 
+assignment grade, online discussion board.
+Learning resources
+Recommended textbooks
+Textbook
+●
+ENG1060 Computing for Engineers, Prepared by Wai Ho Li, ISBN 9780070285125
+●
+Introduction , William J. Palm III, McGraw-Hillto MATLAB 7 for Engineers
+●
+Applied Numerical Methods with MATLAB for Engineers and Scientists, S. C. Chapra, Second 
+Edition, McGraw-Hill, 2008.
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Electronic of all lecture notes, recorded lectures and laboratory questions are available on Moodle 
+for reference. MATLAB software is available in all computers in the computer labs and 
+library. Monash Library Unit  Reading List:  http://readinglists.lib.monash.edu/index.html
+Technological requirements
+Students should regularly check the Moodle site for this unit together with their student emails for 
+updates and information related to this unit.
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ENG1060 Computing for engineers - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------

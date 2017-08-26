@@ -1,0 +1,869 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE2191
+Probability models in engineering
+Semester 2, 2017
+Table of contents
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          5
+Clayton/Malaysia staff contact details                                                                                          5
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Demonstrator(s)                                                                                                                           5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                        6
+Learning outcomes                                                                                                                          7
+Your feedback to us                                                                                                                         7
+Previous student evaluations of this unit                                                                                     7
+Unit schedule - Clayton campus                                                                                                         7
+Assessment requirements                                                                                                                   8
+Assessment summary                                                                                                                     8
+Assessment tasks                                                                                                                            9
+Examination material or equipment                                                                                             9
+Section B: For Malaysia students                                                                                                      10
+Academic Overview                                                                                                                          11
+Teaching and learning method                                                                                                      12
+Learning outcomes                                                                                                                    13
+OBE requirements to learning outcomes (LOs)                                                                     14
+Relationship between unit learning outcomes and program outcomes                                 14
+Your feedback to us                                                                                                                       15
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Previous student evaluations of this unit                                                                                   15
+Unit schedule - Malaysia campus                                                                                                     16
+Assessment Summary                                                                                                                   16
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                18
+Relationship between Assessments and Complex Problems/Activities                                    18
+Assessment requirements                                                                                                                 19
+Assessment tasks                                                                                                                          19
+Examination material or equipment                                                                                           19
+Section C: All students                                                                                                                      20
+Extensions and penalties                                                                                                               20
+Resubmission of assignments                                                                                                       20
+Plagiarism and collusion                                                                                                                20
+Referencing requirements                                                                                                             20
+Assignment submission                                                                                                                 20
+Feedback to you                                                                                                                            21
+Learning resources                                                                                                                        21
+Required resources                                                                                                                       21
+Other information                                                                                                                              21
+Policies                                                                                                                                          21
+Graduate Attributes Policy                                                                                                             21
+Student Charter                                                                                                                             21
+Student Services                                                                                                                           21
+Monash University Library                                                                                                             22
+Disability Support Services                                                                                                            22
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit will introduce fundamental concepts of probability theory applied to engineering problems 
+in a manner that combines intuition and mathematical precision. The treatment of probability 
+includes elementary set operations, sample spaces and probability laws, conditional probability, 
+independence, and notions of combinatorics. A discussion of discrete and continuous random 
+variables, common distributions, functions, and expectations forms an important part of this unit. 
+Transform methods, limit theorems, convergences, and bounding techniques are also covered. 
+Special consideration is given to the law of large numbers and the central limit theorem. Markov 
+chain, transition probabilities and steady state distribution will be discussed.
+Application examples from engineering, science, and statistics will be provided: The Gaussian 
+distribution in source and channel coding, the exponential, Chi-square, and Gamma distributions in 
+wireless communications and Bayesian statistics, the Rayleigh distribution in wireless 
+communications, the Cauchy distribution in detection theory, the Poisson and Erlang distributions 
+in traffic engineering, queuing theory and networking, the Gaussian, Laplacian and generalised 
+Gaussian distributions in image processing, the Weibull distribution in high voltage engineering 
+and electrical insulation, Markov chain in queuing theory, and first-order Markov process in 
+predictive speech/image compression.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+3 hours lectures, 3 hours laboratories/tutorials and 6 hours of private study per week.
+Unit relationships
+ 
+Prerequisites
+ENG1091 or ENG1005
+Prohibitions
+ENG2092
+Co-requisites
+None
+Chief Examiner(s) 
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Professor Zixiang Xiong
+Email: Zixiang.Xiong@monash.edu
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Professor Zixiang Xiong
+ Email: Zixiang.Xiong@monash.edu
+ Building: , Room: 
+Consultation hours: Check the ENG2191 website on Moodle
+Lecturer(s) Professor Zixiang XiongName: 
+ Email: Zixiang.Xiong@monash.edu
+ , Room: Building: 
+ 
+  
+Malaysia campus
+Campus Coordinator Dr Mohamed Hisham JawardName: 
+ Email: Mohamed.Hisham@monash.edu
+ 2 2431Building: , Room: 
+Consultation hours: Would be displayed outside the room
+Lecturer(s)Name:  Dr Mohamed Hisham
+Email: Mohamed.Hisham@monash.edu
+Building: , Room: 
+ 
+Demonstrator(s)
+ ArjomandiLarry) (larry.m.arjomandi@monash.edu
+Anindya Harchowdhury ()anindya.harchowdhury@monash.edu
+Anchal Sareen ()anchal.sareen@monash.edu
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of competencyIndicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and innovative 
+solution of complex problems and 
+broader aspects of engineering 
+practice.
+1,2,3,4,5,6,7
+2. Engineering application ability
+2.1 Application of established 
+engineering methods to complex 
+engineering problem solving.
+a) Identifies, discerns and 
+characterises salient issues, 
+determines and analyses causes and 
+effects, justifies and applies 
+appropriate simplifying assumptions, 
+predicts performance and behaviour, 
+synthesises solution strategies and 
+develops substantiated conclusions.
+7
+Teaching and learning method
+Lectures: The lectures will be delivered using a set of lecture notes. Electronic version of these 
+notes will be available on Moodle site of this unit.
+Tutorials: In tutorials you will work on problem sets under the guidance of a tutor. Electronic 
+version of the problem set will be available on Moodle.
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+Writing in mathematics: In this unit we will pay great attention to how you write mathematics. The 
+degree to which you will have to put an effort into improving your mathematics writing will depend 
+very much on the good or bad habits you developed so far. You will be given opportunities to 
+improve your mathematics writing in lectures and in tutorials.
+You can also find information on inclusive teaching practices for students with learning disabilities 
+or mental health conditions at: www.monash.edu.au/lls/inclusivity/
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Describe random variables including probability mass functions, cumulative distribution 
+functions and probability density functions including the commonly encountered Gaussian 
+random variables.
+2. Characterise the distributions of functions of random variables.
+3. Examine the properties of multiple random variables using joint probability mass 
+functions, joint probability density functions, correlation, covariance and the correlation 
+coefficient.
+4. Estimate the sample mean, standard deviation, cumulative distribution function of a 
+random variable from a series of independent observations.
+5. Describe the law of large numbers and the central limit theorem, and illustrate how these 
+two theorems can be employed to model random phenomena.
+6. Calculate confidence intervals and use this statistical tool to interpret engineering data.
+7. Apply probability models to current engineering examples in reliability, communication 
+networks, power distribution, traffic and signal processing.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+N/A
+Student feedback has highlighted the following strength(s) in this unit:
+N/A
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+Unit schedule - Clayton campus
+WeekActivitiesAssessment
+0No formal assessment
+1Introduction & Mathematical ReviewNo formal assessment
+2Basic Concepts of ProbabilityNo formal assessment
+3Conditional ProbabilityNo formal assessment
+4Equiprobable Outcomes and CombinatoricsAssignment 1
+5Discrete Random VariablesNo formal assessment
+6Discrete ExpectationsAssignment 2
+7Discrete Random VectorsNo formal assessment
+8Continuous Random VariablesAssignment 3
+9Functions and Derived DistributionsNo formal assessment
+10General Expectations and BoundsAssignment 4
+11Empirical DistributionsNo formal assessment
+12Real-World ApplicationsAssignment 5
+SWOT VACNo formal assessmentSWOT VAC
+Examination 
+period
+LINK to Assessment Policy:
+www.policy.monash.edu/policybank/academic
+/education/asse  ssment/assessment-in-
+coursework-policy.html
+Examination period
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+Assessment taskValueDue date
+Assignments8% eachMonday of Week 4, 6, 8, 10, 12
+Examination60%To be advised
+Assessment tasks
+Assessment title: Assignments
+ Mode of delivery:Each assignment will be released and available on Moodle two weeks prior to its 
+due date.
+Details of task: Assignments will be released and available on Moodle in Weeks 2, 4, 6, 8, and 10. 
+Students get two weeks to complete their assignments. Submission is online.
+Two weeks prior to due dateRelease dates (where applicable): 
+ N/AWord limit (where applicable):
+Monday of Week 4, 6, 8, 10, 12Due date: 
+8% eachValue: 
+Online submission of written reports. If MATLAB is used for the Presentation requirements: 
+assignment, the MATLAB codes as well as the generated output must be submitted along.
+Please refer to section on Hurdle requirements.Hurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+N/ACriteria for marking: 
+ N/AAdditional remarks:
+ 
+ExaminationExam title: 
+60%Weighting: 
+2 hoursLength: 
+ Open bookType (Open/closed book):
+ Hurdle requirements (where applicable):Students are required to achieve at least 45% in the total 
+continuous assessment component and at least 45% in the final examination component and an 
+overall mark  of 50% to achieve a pass grade in the unit. Students failing to achieve this 
+requirement will be given a maximum of 45% in the unit.
+NoneElectronic devices allowed: 
+Remarks (where applicable): Students are permitted to bring with them one double-sided A4  
+sheet of their own notes.
+ 
+Calculators NOT permitted
+No electronic (e.g., calculators or handheld) devices are permitted.
+Examination material or equipment 
+Students are permitted to bring with them one double-sided A4 sheet of their own notes.
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+Section B: For Malaysia students
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who  Electrical and Computer Systems 
+are:
+1. competent in engineering Electrical and Computer Systems 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program  Electrical and Computer Systems 
+Outcomes (POs) for all of its graduates based on the competencies required by the Malaysian 
+Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Electrical and Computer Systems 
+ Apply knowledge of Engineering Knowledge:
+mathematics, natural science, engineering 
+fundamentals and specialisation in  Electrical 
+engineering to the and Computer Systems 
+solution of complex engineering problems
+Cognitive:  Apply knowledge of probably 
+models to engineering problems
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse complex
+engineering Electrical and Computer Systems 
+problems reaching substantiated conclusions 
+using first principles of mathematics, natural 
+sciences and engineering sciences
+Cognitive: Analyse random processes using 
+probability concepts
+PO3  Design/Development of Solutions:
+Design solutions for complex Electrical and 
+engineering problems and Computer Systems 
+design systems, components or processes 
+that meet specified needs.
+Cognitive: 
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex Electrical and 
+engineering problems Computer Systems 
+using research-based knowledge and 
+research methods including design of 
+experiments, (analysis and interpretation of 
+data, and synthesis of information to provide 
+valid conclusions.
+Cognitive: 
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex Electrical 
+engineering problems, and Computer Systems 
+with an understanding of the limitations
+Cognitive: 
+Psychomotor: 
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+Affective: 
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Electrical and 
+engineering problemsComputer Systems 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complex Electrical and 
+engineering problems in Computer Systems 
+environmental contexts.
+Cognitive: 
+Affective: 
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate effectively Communication:
+on complex Electrical and Computer Systems 
+engineering activities with the engineering 
+community and with society at large, such as 
+being able to comprehend and write effective 
+reports and design documentation, make 
+effective presentations, and give and receive 
+clear instructions
+Affective: 
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective: 
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective: 
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: 
+Teaching and learning method
+Teaching and learning method
+The unit consists of lectures and tutorial classes. Learning in the unit is mainly through lectures 
+and working on the tutorial problem sets and assignments, which consist of a wide range of 
+problems. By working on different types of problems, students will develop a deeper understanding 
+to the subject materials.
+Tutorial allocation
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Tutorial allocation
+There are 2-hours of practice classes scheduled each week, commencing in week 1. Students 
+must enroll in the practice class using Allocate Plus.
+Communication, participation and feedback
+Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies. In this unit it will take the form of group feedback via practice 
+classes, individual feedback, peer feedback, self-comparison, verbal and written feedback, 
+discussions in class, as well as more formal feedback related to assignment marks and grades. 
+Students are encouraged to draw on a variety of feedback to enhance their learning.
+Teaching Approach
+Lectures: The lectures will be delivered using a set of lecture notes. Electronic version of these 
+notes will be available on Moodle site of this unit.
+Tutorials: In tutorials you will work on problem sets under the guidance of a tutor. Electronic 
+version of the problem set will be available on Moodle.
+Writing in mathematics: In this unit we will pay great attention to how you write mathematics. The 
+degree to which you will have to put an effort into improving your mathematics writing will depend 
+very much on the good or bad habits you developed so far. You will be given opportunities to 
+improve your mathematics writing in lectures and in tutorials.
+You can also find information on inclusive teaching practices for students with learning disabilities 
+or mental health conditions at: www.monash.edu.au/lls/inclusivity/
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Describe random variables including probability mass functions, cumulative distribution 
+functions and probability density functions including the commonly encountered Gaussian 
+random variables.
+2. Characterise the distributions of functions of random variables.
+3. Examine the properties of multiple random variables using joint probability mass 
+functions, joint probability density functions, correlation, covariance and the correlation 
+coefficient.
+4. Estimate the sample mean, standard deviation, cumulative distribution function of a 
+random variable from a series of independent observations.
+5. Describe the law of large numbers and the central limit theorem, and illustrate how these 
+two theorems can be employed to model random phenomena.
+6. Calculate confidence intervals and use this statistical tool to interpret engineering data.
+7. Apply probability models to current engineering examples in reliability, communication 
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+1.  
+2.  
+3.  
+4.  
+1.  
+2.  
+1.  
+7. Apply probability models to current engineering examples in reliability, communication 
+networks, power distribution, traffic and signal processing.
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome Based 
+Education
+(OBE) requirements
+Handbook Learning
+Outcomes (LOs)
+LO1 – Analyse random processes using 
+probability concepts such probability mass 
+functions, cumulative distribution functions 
+and probability density functions
+Describe random variables including 
+probability mass functions, cumulative 
+distribution functions and probability 
+density functions including the 
+commonly encountered Gaussian 
+random variables.
+Characterise the distributions of 
+functions of random variables.
+Examine the properties of multiple 
+random variables using joint probability 
+mass functions, joint probability density 
+functions, correlation, covariance and 
+the correlation coefficient.
+Estimate the sample mean, standard 
+deviation, cumulative distribution 
+function of a random variable from a 
+series of independent observations.
+LO2-  Use statistical tools such confidence 
+intervals, law of large numbers and centra 
+limit theorem to interpret engineering data
+Describe the law of large numbers and 
+the central limit theorem, and illustrate 
+how these two theorems can be 
+employed to model random phenomena.
+Calculate confidence intervals and use 
+this statistical tool to interpret 
+engineering data.
+LO3 – Apply knowledge of probably models to 
+engineering problems.Apply probability models to current 
+engineering examples in reliability, 
+communication networks, power 
+distribution, traffic and signal processing.
+Relationship between unit learning outcomes and program outcomes
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1x
+LO2x
+LO3x
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+N/A
+Student feedback has highlighted the following strength(s) in this unit:
+N/A
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Unit schedule - Malaysia campus
+WeekActivitiesAssessment
+0No formal assessment
+1Introduction & Mathematical ReviewNo formal assessment
+2Basic Concepts of ProbabilityNo formal assessment
+3Conditional ProbabilityNo formal assessment
+4Equiprobable Outcomes and CombinatoricsAssignment 1
+5Discrete Random VariablesNo formal assessment
+6Discrete ExpectationsAssignment 2
+7Discrete Random VectorsNo formal assessment
+8Continuous Random VariablesAssignment 3
+9Functions and Derived DistributionsNo formal assessment
+10General Expectations and BoundsAssignment 4
+11Empirical DistributionsNo formal assessment
+12Real-World ApplicationsAssignment 5
+SWOT VACNo formal assessmentSWOT VAC
+Examination 
+period
+LINK to Assessment Policy:
+www.policy.monash.edu/policybank/academic
+/education/asse  ssment/assessment-in-
+coursework-policy.html
+Examination period
+Assessment Summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Assessment taskValueDue date
+Assignments8% each Monday of Week 4, 6, 8, 10, 12
+Examination60%To be advised
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+discrete 
+steps
+confidence 
+and 
+proficiency
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+No.Learning OutcomesAssignmentsFinal Exam
+1Analyse random 
+processes using 
+probability concepts 
+such probability mass 
+functions, cumulative 
+distribution functions 
+and probability density 
+functions
+C4C4
+2Use statistical tools 
+such confidence 
+intervals, law of large 
+numbers and centra 
+limit theorem to interpret 
+engineering data
+C3C3
+3Apply knowledge of 
+probably models to 
+engineering problems.
+C3C3
+Relationship between Assessments and Complex Problems
+/Activities
+AssessmentComplex Problems
+(CP)
+WP1WP2WP3WP4WP5WP6WP7
+1Assignmentsxxx
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+2Final Examxx
+Assessment requirements
+Assessment tasks
+Assessment title: Assignments
+ Each assignment will be released and available on Moodle two weeks prior to its Mode of delivery:
+due date
+ Details of task:Assignments will be released and available on Moodle in Weeks 2, 4, 6, 8, and 
+10. Students get two weeks to complete their assignments. Online submission.
+ Two weeks prior to due dateRelease dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Monday of Week 4, 6, 8, 10, 12Due date: 
+  8% eachValue: 
+  Online submission of written reports. If MATLAB is used for the Presentation requirements: 
+assignment, the MATLAB codes as well as the generated output must be submitted together
+Please refer to section on Hurdle requirementsHurdle requirements (where applicable):  
+  N/AIndividual assessment in group tasks (where applicable): 
+Critical analysis of the problem will be awarded bonus marksCriteria for marking:  
+ N/AAdditional remarks: 
+ ExaminationExam title: 
+ 60%Weighting: 
+2 hoursLength: 
+ Open bookType (Open/closed book): 
+  Hurdle requirements (where applicable): Students are required to achieve at least 45% in the 
+total continuous assessment component and at least 45% in the final examination component and 
+an overall mark of 50% to achieve a pass grade in the unit. Students failing to achieve 
+this requirement will be given a maximum of 45% in the unit.
+ NoneElectronic devices allowed: 
+ Remarks (where applicable): Students are permitted to bring with them one double-sided A4 
+sheet of their own notes.
+ 
+ Calculators NOT permitted
+Calculators are not allowed.
+Examination material or equipment
+Students are permitted to bring with them one double-sided A4 sheet of their own notes.
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Section C: All students 
+Extensions and penalties
+No late homework submission will be accepted.
+Resubmission of assignments
+Not allowed.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+N/A
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+No need.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Feedback to you 
+Feedback will be given to students via graded assignments (with written comments) and verbal comments to individual 
+students or to the whole class.
+Learning resources
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE2191 Probability models in engineering - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------

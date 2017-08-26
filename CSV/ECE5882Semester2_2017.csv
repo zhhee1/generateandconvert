@@ -1,0 +1,543 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE5882
+Advanced electronics design
+Semester 2, 2017
+Table of contents
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                       4
+Campus Coordinator(s)                                                                                                                5
+Lecturer(s)                                                                                                                                    5
+Demonstrator(s)                                                                                                                           5
+Academic Overview                                                                                                                            5
+Engineers Australia Stage 2 competencies                                                                                     5
+Teaching and learning method                                                                                                        7
+Learning outcomes                                                                                                                          7
+Your feedback to us                                                                                                                         8
+Previous student evaluations of this unit                                                                                     8
+Unit schedule                                                                                                                                      9
+Assessment requirements                                                                                                                 10
+Assessment summary                                                                                                                   10
+Hurdle requirements                                                                                                                      10
+Assessment tasks                                                                                                                          11
+Examination(s)                                                                                                                               12
+Examination material or equipment                                                                                           12
+Extensions and penalties                                                                                                               12
+Returning assignments                                                                                                                  12
+Resubmission of assignments                                                                                                       12
+Plagiarism and collusion                                                                                                                12
+Referencing requirements                                                                                                             13
+Assignment submission                                                                                                                 13
+Feedback to you                                                                                                                            13
+Learning resources                                                                                                                        13
+Required resources                                                                                                                       14
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Technological requirements                                                                                                          14
+Other information                                                                                                                              14
+Policies                                                                                                                                          14
+Graduate Attributes Policy                                                                                                             14
+Student Charter                                                                                                                             14
+Student Services                                                                                                                           14
+Monash University Library                                                                                                             15
+Disability Support Services                                                                                                            15
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This an advanced unit in electronics design. Students will be provided with an in-depth knowledge 
+of radio frequency (RF) and microwave circuits and systems. The unit builds on students' basic 
+electronic knowledge obtained from their undergraduate engineering degree to a more advanced 
+analog and RF electronics, with more theory and applications of electronics.
+The unit will teach students the detailed design principles of passive and active electronic devices 
+at radio frequencies. Students will learn to use CAD design software packages for assignments 
+and projects. Important analogue and RF building components such as amplifiers, filters, 
+oscillators, modulators, mixers and phase locked loops will be taught. Topics such as noise and 
+interference in electronics circuits will also be covered.
+Students will undertake a group project where RF/mixed signal circuits will be designed, built and 
+tested in the laboratory.
+Mode of delivery
+Clayton (Day)
+On Campus, Clayton Second semester 2017
+Workload requirements
+3 hours lectures, 3 hours tutorial/laboratory and 6 hours of private study per week.
+3 hours lectures, 3 hours laboratory and practice classes and 6 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+The students should have a basic knowledge of electronics and electrical circuit analysis as would 
+typically be covered in undergraduate subjects in these areas.
+Prohibitions
+None
+Co-requisites
+None
+Chief Examiner(s)
+Professor Manos Varvarigos
+Unit Coordinator(s)
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Unit Coordinator(s)
+Name: Assoc Professor Mehmet Yuce
+Email: Mehmet.Yuce@monash.edu
+Campus Coordinator(s)
+Name: Assoc Professor Mehmet Yuce
+Email: Mehmet.Yuce@monash.edu
+Building: 72, Room: 229
+Consultation hours: TBA
+ 
+Lecturer(s)
+Name: Dr. Md Shamsul Arefin
+Email: md.arefin@monash.edu
+Building: 72, Room: 228
+Consultation hours: TBA
+ 
+Demonstrator(s)
+Dr. Gilbert Matig-A
+gilbert.matig-a@monash.edu
+Taiyang Wu
+taiyang.wu@monash.edu
+This is an advanced unit in electronics design. Students will be provided with an in-depth 
+knowledge of analog, radio frequency (RF) and microwave circuits and systems. The unit builds on 
+students' basic electronic knowledge obtained from their undergraduate engineering degree to a 
+more advanced analog and RF electronics, with more theory and applications of electronics.
+Academic Overview
+Engineers Australia Stage 2 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 2 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 2 competencies are relevant to each unit.
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Note: that not all stage 2 competencies are relevant to each unit.
+Stage 2 competenciesActivities used in this unit to develop stage 
+2 competencies
+PE1.1 Knowledge of science and engineering 
+fundamentals
+Acquired through lecture material , 
+prescribed texts and recommended reading
+PE1.2 In-depth technical competence in at least 
+one engineering discipline
+Technical competencies in following areas:
+Analog/RF electronics, Microwave theory, 
+Circuit design, practical circuit design and 
+testing
+PE1.3 Techniques and resourcesAnalog, RF and microwave circuits and 
+systems design can be learned through a 
+comprehensive set of lectures, tutorials and 
+practical sessions
+PE1.4 General knowledgeProblem-based learning can be achieved 
+through laboratory classes and project 
+based self-study that should be completed 
+by students as the practical assessment
+ PE2.1 Ability to undertake problem 
+identification, formulation, and solution
+Acquired through tutorials that promote 
+critical thinking, and a project that requires 
+students to put all the theories they learnt 
+into practice.
+PE2.2 Understanding of social, cultural, global, 
+and environmental responsibilities and the need 
+to employ principles of sustainable development
+The projects and laboratory work requires 
+students  to get an understanding of EMC 
+related issues that are associated with RF 
+design
+PE2.3 Ability to utilise a systems approach to 
+complex problems and to design and operational 
+performance
+Students are required to complete a 
+complex group project as their practical 
+assessment. This involves applying 
+systems approach to design of a complex 
+electronics circuit.
+PE2.4 Proficiency in engineering designStudent get proficiency in following areas 
+through laboratory classes and design 
+projects: Electronic circuit design, hardware, 
+testing of circuits, Altium PCB design
+PE2.5 Ability to conduct an engineering projectThis is achieved through participation in 
+structured lab sessions and project based 
+assessment
+PE2.6 Understanding of the business 
+environment
+A basic knowledge of electronic industry in 
+Australia is conveyed to student during 
+lectures
+PE3.1 Ability to communicate effectively, with 
+the engineering team and with the community at 
+large
+Students are required to work as a team to 
+complete their lab classes and project. They 
+are also required to produce a technical 
+report as a part of the project.
+PE3.2 Ability to manage information and 
+documentation
+Students are required to obtain information 
+from an extensive set of technical 
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+documentation in order to successfully 
+complete the project
+PE3.3 Capacity for creativity and innovationLaboratory classes and the project based 
+assessment provides students with the 
+opportunity to be creative and innovative in 
+analogue and RF circuit design
+PE3.4 Understanding of professional and ethical 
+responsibilities, and commitment to them
+PE3.5 Ability to function effectively as an 
+individual and in multidisciplinary and 
+multicultural teams, as a team leader or 
+manager as well as an effective team member
+PE3.7 Professional attitudes
+Team based activities that are promoted 
+through laboratory sessions and projects 
+encourages student to behave in a 
+professional and responsible manner. 
+Efficiency and proper work ethics in a team-
+based environment are essential for 
+successful completion of these activities
+PE3.6 Capacity for lifelong learning and 
+professional development
+This subject provides students with initial 
+background that is required to be successful 
+in the field of electronics engineering.
+Teaching and learning method
+●Lecture and problem solving classes
+●Laboratory-based classes
+The unit consists of lectures and practice classes with some computer laboratory classes. In 
+addition to lectures, learning in the unit is achieved through the laboratory, and has a number of 
+components, which build to form the final project. The main learning approach is “Problem- based 
+learning” which requires students to be involved with the project and proactive learners.
+Laboratory allocation
+There are 3-hours of laboratory classes scheduled each week. There is only one laboratory 
+session per week.
+Communication, participation and feedback
+Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies. In this unit it will take the form of group feedback via practice 
+classes, individual feedback, peer feedback, self-comparison, verbal and written feedback, 
+discussions in class, as well as more formal feedback related to assignment marks and grades. 
+Students/You are encouraged to draw on a variety of feedback to enhance their/your learning.
+Learning outcomes
+On successful completion of this unit, students will be able to:
+●analyse RF and microwave electronic components, circuits and systems
+●design and implement RF and mixed signal electronic devices
+●formulate, plan, create, document, validate and simulate RF and mixed signal electronic 
+designs with the effective use of appropriate modern CAD design software tools
+●test and characterise RF and microwave electronics using appropriate test equipment
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+●test and characterise RF and microwave electronics using appropriate test equipment
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+We will add a few more problems at the end of each lecture. These problems will make sure 
+students will understand the concept of electronics better.
+Student feedback has highlighted the following strength(s) in this unit:
+Students were happy with the unit in the last SETU. Many positive comments were received. e.g. 
+contents were inspiring, labs were very good, all important concepts of electronics were covered, 
+the unit is handled well etc.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+Unit schedule
+WeekActivitiesAssessment
+1
+26th July
+Introduction & Lecture-1: Passive and Active 
+Devices
+2
+2 Aug.
+Lecture 2: Analysis of Electronic Systems: Noise, 
+Linearity, Dynamic Range
+Lab 1: Spice Simulation
+3
+9 Aug.
+Lecture 3: Transmission Lines
+Lab 2: Passive Components
+4
+16 Aug.
+Lecture 4: Smith Chart, RF RLC Circuits and 
+Network Analysis
+Lab 3: Noise in Electronics
+5
+23 Aug.
+Lecture 5: RF Amplifiers, LNAs and Mixers,
+Lab 4: Altium
+6
+30 Aug.
+Lecture 6: Oscillators-Theory and Design
+Lab 5: ADS Lab
+7
+6 Sept.
+Lecture 7: Phase Locked loops (PLLs)-I,
+Lab 6: Mixers
+Assignment due 08 
+September
+(Friday, 5 pm)
+8
+13 Sep.
+Lecture 8: PLLs-II
+Lab 7: Oscillators
+9
+20 Sept
+Lecture 9: Analog and RF Filters
+Lab 8: PLL
+10
+4 Oct.
+Lecture 10: Wideband Analog Amplifiers
+/Instrumentation Amplifiers, Sensing Circuits
+Group Design Project
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+Lab: 
+Project Design Session
+11
+11 Oct.
+Project Help Desk
+Lab: 
+Project Design Session
+Group Design Project
+12
+18 Oct.
+Revision Lecture
+Lab:
+Project Design Session
+Group Design Project 
+(Due 20 October
+Friday, 5 pm)
+SWOT VAC
+23 Oct - 27 Oct
+No formal assessment is 
+undertaken in SWOT VAC
+Examination period
+30 Oct - 17 Nov
+LINK to Assessment 
+Policy:
+www.policy.monash.edu
+/policy bank/academic
+ /education/assessment
+ /assessment-in-
+coursework-policy.html
+Assessment requirements
+Assessment summary
+Continuous assessment: 50%
+Examination (2 hours): 50%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Circuit design with Spice10%Week 7 (08 September, Friday, 5 pm)
+Design Project20%20 October, Friday, 5 pm.
+Labs20%At the end of each lab session
+Examination50%To be advised
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignment, group project and laboratory) and at least 45% in the final examination component 
+and an overall mark of 50% to achieve a pass grade in the unit. Students failing to achieve this 
+requirement will be given a maximum of 45% in the unit
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+requirement will be given a maximum of 45% in the unit
+Participation
+Students are required to attend the laboratory sessions for obtaining LAB marks.
+Assessment tasks
+Assessment title: Circuit design with Spice
+ Mode of delivery:Not applicable
+Details of task: Not applicable
+Week 6Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Week 7 (08 September, Friday, 5 pm)Due date: 
+10%Value: 
+Presentation requirements: Not applicable
+Hurdle requirements (where applicable): It is a part of the hurdle set for the total continuous 
+assessments.
+Individual assessment in group tasks (where applicable): Not applicable
+Criteria for marking: Circuits should operate as per performance requirements requested in the 
+assignment. 
+ Estimated return date isAdditional remarks: Week 7
+ 
+Assessment title: Design Project
+ Mode of delivery:Not applicable
+Details of task: Not applicable 
+Week 9Release dates (where applicable): 
+ 15 pagesWord limit (where applicable):
+20 October, Friday, 5 pm.Due date: 
+20%Value: 
+Presentation requirements: Not applicable 
+Hurdle requirements (where applicable): It is a part of the hurdle set for the total continuous 
+assessments.
+Individual assessment in group tasks (where applicable): Yes
+Criteria for marking: See the project document that will be distributed during semester. 
+ Additional remarks:Estimated return date is Week 12 
+ 
+Assessment title: Labs
+ Mode of delivery:Not applicable
+Details of task: Students are required to attend the laboratory sessions for obtaining LAB marks.
+Not applicableRelease dates (where applicable): 
+ Not applicableWord limit (where applicable):
+At the end of each lab sessionDue date: 
+20%Value: 
+Presentation requirements: Not applicable
+Hurdle requirements (where applicable): It is a part of the hurdle set for the total continuous 
+assessments.
+Individual assessment in group tasks (where applicable): Not applicable
+Criteria for marking: Not applicable
+ Additional remarks:Not applicable
+ 
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Examination(s)
+ExaminationExam title: 
+50%Weighting: 
+2 hoursLength: 
+ Open bookType (Open/closed book):
+ Hurdle requirements (where applicable):Students are required to achieve at least 45%  in the final 
+examination component.
+Electronic devices allowed: Calculator
+Remarks (where applicable): Not applicable
+ 
+Calculators
+Any make or model of calculator is permitted to be used in this examination.
+ 
+Examination material or equipment 
+Students are allowed to bring textbooks, notes and lecture material to the examination venue.
+Extensions and penalties
+Please note that there will be no extensions to the submission deadlines.
+Returning assignments
+Students should submit project reports in Week 12.
+Resubmission of assignments
+Resubmission is allowed only if students provide a medical certificate.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+All the literature on reports should be properly cited using IEEE referencing format.
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at  under the heading 'Learning and teaching tools'. Please keep http://my.monash.edu.au
+a copy of tasks completed for your records.
+Please submit your hardcopy of the project report to the mail box of Mehmet Yuce (1 st floor/72, 
+close to the ECSE office).
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+In addition to the hardcopy submission, email your reports to the lecturer or the lab demonstrator.
+Feedback to you 
+Feedback to the student will be through written comments, verbal comments, and feedback to the 
+whole class.
+Learning resources
+Prescribed textbooks
+Main Text Books:
+●C. Coleman, An Introduction to Radio Frequency Engineering Cambridge, 2004, ISBN: 0 521 
+83481 3. –Main Book
+●Reinhold Ludwig and “RF Circuit Design: Theory and Application”, Prentice-Pavel Bretchko 
+Hall, (2000). ISBN: 0-13-095323-7 (New version of this book is also acceptable). –Alternative
+ book
+Additional reference book:
+●Thomas H. Lee, “ The design of CMOS Radio-Frequency Integrated Circuits,” Cambridge 2 
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+●Thomas H. Lee, “ The design of CMOS Radio-Frequency Integrated Circuits,” Cambridge 2 
+nd edition, ISBN: 0521835399
+These books are available from Monash library, with some copies available for online reading.
+http://readinglists.lib.monash.edu/lists/8176B42B-A812-282C-6956-6E0EF4532FFE.html
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Technological requirements
+Students must regularly check Moodle for announcements. Students are allowed to bring their own 
+laptops and tablets to the lab sessions.
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at:
+ http://www.monash.edu/students
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information. 
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE5882 Advanced electronics design - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------

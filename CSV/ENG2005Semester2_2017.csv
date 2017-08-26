@@ -1,0 +1,1156 @@
+1
+                                    
+  
+Unit Guide
+  
+ENG2005
+Advanced engineering mathematics
+Semester 2, 2017
+  
+  
+  
+  
+Handbook link:
+http://monash.edu.au/pubs/2017handbooks/units/ENG2005.html
+  
+ 
+Table of contents
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                5
+Chief Examiner(s)                                                                                                                            5
+Unit Coordinator(s)                                                                                                                       5
+Lecturer(s)                                                                                                                                    5
+Other staff details                                                                                                                         5
+Academic overview                                                                                                                             6
+Learning outcomes                                                                                                                          6
+Teaching approach                                                                                                                          6
+Feedback to you                                                                                                                              7
+Assessment summary                                                                                                                     8
+Assessment requirements                                                                                                                   9
+Assessment tasks                                                                                                                            9
+Examination(s)                                                                                                                               12
+Applications for special consideration                                                                                           12
+Assignment submission                                                                                                                 13
+Unit schedule                                                                                                                                    14
+Your feedback to us                                                                                                                       16
+Previous student evaluations of this unit                                                                                   16
+Unit resources                                                                                                                               17
+Learning resources                                                                                                                    17
+Required resources                                                                                                                    17
+Recommended resources                                                                                                          17
+Technology requirements                                                                                                          17
+Other information                                                                                                                              18
+Policies                                                                                                                                          18
+Graduate Attributes Policy                                                                                                             18
+Student Charter                                                                                                                             18
+Student Services                                                                                                                           18
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Monash University Library                                                                                                             18
+Disability Support Services                                                                                                            19
+Plagiarism, cheating and collusion                                                                                                19
+Extensions and penalties                                                                                                               19
+Other unit information                                                                                                                    20
+INFORMATION FOR MALAYSIA                                                                                              20
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+Advanced matrix algebra: mxn systems, linear independence, sparse matrices, introduction to 
+second-order tensors. Further ordinary differential equations: systems of ODEs, variation of 
+parameters; boundary-value problems. Fourier series: Euler formulae, convergence, half-range 
+series, solution of ODEs, spectra. Further multivariable calculus: change of variables and chain 
+rule, polar coordinates, line integrals; vector fields; del, divergence, curl and Laplacian; surface 
+and volume integrals; Gauss and Stokes theorems. Partial differential equations: simple PDEs, 
+Laplace, heat and wave equations, superposition, separation of variables, polar coordinates. 
+Advanced numerical methods: solution of linear systems, numerical solution of ODEs and simple 
+PDEs, accuracy, efficiency and stability; discrete Fourier transforms, introduction to PS and FE 
+methods.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+At Clayton and Malaysian campuses.
+Workload requirements
+Four 1-hour lectures (or equivalent), one 2-hour practice class and 6 hours of private study per 
+week
+The structure of the unit is: 
+●Three 1- hour  lectures
+●One 2-hour practice classes
+●Two hours of study on advanced numerical modules
+●Five hours of private study per week .
+The  fourth lecture mentioned in the unit handbook  is in fact the equivalent of the 2 hours of self 
+study allocated to the  advanced numerical modules (at Clayton only). 
+Students have access to Moodle (Modular Object-Oriented Dynamic Learning Environment) where 
+the online information about weekly workload (lecture, assignments, computer labs) is presented in 
+an interactive style.
+Unit relationships
+ 
+Prerequisites
+ENG1005 or ENG1091 or equivalent
+Prohibitions
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Prohibitions
+ENG2091, MTH2010, MTH2015
+Co-requisites
+None
+Chief Examiner(s)
+ (Sem 1+2)Dr Alina Donea
+Unit Coordinator(s)
+ (Clayton - Sem 1),  (Clayton - Sem 1)Dr Alina DoneaDr John Head
+ (Clayton - Sem 2)Dr Simon Clarke
+ (Malaysia Sem 1 and 2)Dr Ooi Ean Hin
+Lecturer(s)
+Name: Dr Simon Clarke
+Campus: Clayton
+Phone: 99054421
+Email: simon.clarke@monash.edu
+ 
+Name: Dr Christian Thomas
+Campus: Clayton
+Phone: 
+Email: christian.thomas@monash.edu
+ 
+Name: Dr Ooi Ean Hin
+Campus: Monash University Malaysia
+Phone:  +60 3 5514 4436
+Email: Ooi.Ean.Hin@monash.edu
+ 
+Name: Dr Chang Wei Sea
+Campus: Monash University Malaysia
+Phone: 
+Email: Chang.Wei.Sea@monash.edu
+ 
+Other staff details
+The numerical module of this unit will be run separately.  
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Unit Coordinator Assistant:
+Clayton Campus
+Coordinator of the Numerical 
+Module:
+Clayton Campus:
+Coordinator of the Numerical 
+Module:
+Malaysia Campus:
+Dr Santiago Barrera, 
+email:
+santiago.barrera.
+acevedo@monash.edu
+Dr Mark Flegg, 
+email: mark.flegg@monash.
+edu
+Dr Ean Hin Ooi
+Phone: +60 3 5514 4436
+Email: Ooi.Ean.
+Hin@monash.edu
+Academic overview
+Learning outcomes
+Upon successful completion of this unit, students will be able to:
+1. Use essential concepts related to mxn linear systems, including linear independence and 
+basis, and demonstrate a broad appreciation of tensors
+2. Solve systems of simple ordinary differential equations, establish and use their 
+eigenvalues, solve simple second-order boundary-value problems
+3. Represent a periodic function with a Fourier series, determine their convergence, 
+calculate even and odd series, and apply these to solving simple periodic systems
+4. Perform change of variables for multivariable functions with the chain rule, use polar 
+coordinates, represent 2D and 3D curves parametrically and solve line integrals on these 
+curves
+5. Manipulate and evaluate double and triple integrals in Cartesian, cylindrical and spherical 
+coordinates
+6. Calculate the gradient, divergence and curl vector operations, and apply these in the 
+evaluation of surface and volume integrals through the Gauss and Stokes theorems
+7. Solve elementary partial differential equations, apply boundary and initial conditions as 
+appropriate, and use the method of separation of variables with the wave equation, heat 
+equation and Laplace's equation
+8. Appreciate key issues related to the numerical solution of full and sparse linear systems
+9. Apply a range of suitable techniques for the numerical solution of ODEs, including using 
+discrete Fourier transforms, PS and FE methods
+10. Use a range of suitable simple numerical techniques for the solution of PDEs and 
+appreciate their advantages and disadvantages
+11. Use MATLAB and other appropriate software to assist in understanding these 
+mathematical techniques
+12. Express and explain mathematical techniques and arguments clearly in words.
+Teaching approach
+ENG2005 is taught using a combination of lectures, support classes and computer laboratories. At 
+the Clayton campus casual assistance is also available through the Mathematics Learning Centre 
+in 9, Rainforest Walk or consultation times with your lecturers.  The unit  will have all  lectures audio
+/videos recorded. Also,  students are encouraged to watch short videos  before the lecture
+ session, to revise previous material and become familiar with the learning outcomes of the lecture. 
+  Complementary videos Time is devoted in lecture  to new concepts, examples and discussions.
+related to each mathematical topic (demonstrations of mathematical problems) will be available on 
+Moodle to enhance the learning experience of students. Recorded (video) information 
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+Moodle to enhance the learning experience of students. Recorded (video) information 
+from lectures is also available  via Moodle. The lecture notes, the problem sets  and the tasks for 
+each numerical module are made available on the Moodle website for ENG2005. Assignments will 
+be posted also on Moodle.
+There will be thirty six lectures in Semester 2,  held weekly depending on the day of the week of 
+the timetabled lectures. 
+Written lecture notes will be made available, after lectures, on the Moodle site, under the 
+corresponding mathematical topic.
+Students should aim to attend: every lecture in order to gain full advantage of the teaching and use 
+the recordings to check on any points that they missed.
+Students are also expected to attend:
+●one two-hour support class per week fromweek of semester. The support  the second 
+classes are intended to help students gain assistance with the theory described in lectures 
+and the practice exercises given on the ‘problem sets’. Quizzes and assignments alternate. 
+Quizzes will happen in the practice classes. Each student will have about 11 support classes 
+for ENG2005 weeks 2-12.
+●one hour computer laboratory per fortnight (on either odd or even weeks on Monday-
+Wednesday) from the  week of semester. The computer laboratories are intended to second
+help students with the numerical modules. Students will be assessed on the numerical 
+which are due at the end of weeks 3, 5, 7, 9 and 11. modules 
+Optional drop-in sessions each week on Thursday and Friday will be made available for students 
+requiring additional assistance learning the material for the computer modules.
+At Clayton campus there are many different support classes each week (as well as options for 
+computer laboratories) and you will be assigned to a particular class though Allocate+ at 
+http://allocate.timetable.monash.edu. If your circumstances change you can alter your initial 
+allocation no later than the end of Week 3. Once you have been allocated to a particular support 
+class (or laboratory) you must attend only that support class.
+ 
+Feedback to you
+Feedback is provided to ENG2005 students in a variety of ways during the semester, to assist their 
+learning and help them identify the issues for which they may need to seek further assistance. This 
+includes through:
+●  individual or group consultations at the lecturer’s weekly consultation Consultation Times: 
+hours, at other times  by appointment via email;
+●  individual and group consultations and discussion with staff during the Support classes:
+weekly support classes;
+●  individual and group consultations with demonstrator during the Computer Laboratories:
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+●  individual and group consultations with demonstrator during the Computer Laboratories:
+weekly labs;
+●  assistance through the Mathematics Learning Centre (MLC) Mathematics Learning Centre:
+for mathematical questions (no assistance with the numerical modules can be provided)
+●Short Assignments: written feedback on the  five assignments submitted to your tutor, is 
+usually marked and returned at the next week support class  with sample solutions available 
+on Moodle. All assignments will be released via the Moodle webpage.
+●Short Quizzes:  five  short quizzes in the last 20 minutes of your support class, designed to 
+be run every two weeks; the marked quiz returned at the next class
+● encouraging students to ask questions in or after lecturesLectures: 
+●ENG2005 Forums: on Moodle.
+In particular, it is also strongly recommended that you take full advantage of the assistance and 
+feedback provided in the support classes for ENG2005.
+If you are having any sort of difficulties consult the appropriate staff (your support class tutor, your 
+lecturer or your campus unit  coordinator) as soon as possible after you become aware of the 
+difficulty.
+See  for information on some of the support services available http://www.monash.edu.au/students
+within the university.
+Important unit information:  No marks can be carried across from a previous enrolment in the unit.
+ 
+Assessment summary
+Weekly assignments, quizzes or exercises: 40%
+Examination (3 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Week
+     
+Weekly Theory Assess
+ment (% marks)
+Numerical Module 
+(NM) 
+Numerical Module
+Deadlines
+1No support classes 
+in Week 1.
+Assignment 1 
+released.
+Students set up 
+Matlab on home 
+computers and 
+familiarize with NM 
+requirements.
+No deadlines this week
+2Quiz 1 (2%) in last 20 
+minutes in your 
+allocated support class.
+Module 1 even week 
+labs
+No deadlines this week
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+3Assignment 1 (3%) to 
+be submitted to your 
+tutor.
+Assignment 2 
+released.
+Module 1 odd week 
+labs
+Module 1 codes submitted online 
+by Friday, 11:10 pm ( time).
+4Quiz 2 (2%) in last 20 
+minutes in your 
+allocated support class.
+Module 2 odd week 
+labs
+Module 1 results on Gradebook 
+prior to lab
+5Assignment 2 (3%) to 
+be submitted to your 
+tutor.
+Assignment 3 
+released.
+Module 2 even week 
+labs
+Module 1 results on Gradebook 
+prior to lab
+Module 2 codes submitted online 
+by Friday, 11:10 pm ( time).
+6Quiz 3 (2%) in last 20 
+minutes in your 
+allocated support class.
+Module 3 odd week 
+labs
+Module 2 results on Gradebook 
+prior to lab
+7Assignment 3 (3%) to 
+be submitted to your 
+tutor.
+Assignment 4 
+released.
+Module 3 even week 
+labs
+Module 2 results on Gradebook 
+prior to lab
+Module 3 codes submitted online 
+by Friday, 11:10 pm ( time).
+8Quiz 4 (2%) in last 20 
+minutes in your 
+allocated support class.
+Module 4 even week 
+labs
+Module 3 results on Gradebook 
+prior to lab
+9Assignment 4 (3%) to 
+be submitted to your 
+tutor.
+Assignment 5 
+released.
+Module 4 odd week 
+labs
+Module 3 results on Gradebook 
+prior to lab
+Module 4 codes submitted online 
+by Friday, 11:10 pm ( time).
+BREAK
+Sep 25
+10 Quiz 5 (2%) in last 20 
+minutes in your 
+allocated support class.
+Module 5 even week 
+labs
+Module 4 results on Gradebook 
+prior to lab
+11 Assignment 5 (3%) to 
+be submitted to your 
+tutor.
+Module 5 odd week 
+labs
+Module 4 results on Gradebook 
+prior to lab
+Module 5 codes submitted online 
+by Friday, 11:10 pm ( time).
+12Module 5 results on Gradebook 
+prior to Friday, 11:10 pm (
+ time).
+Assessment requirements
+Assessment tasks
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+Assessment tasks
+Quizzes and Assignments run alternatively, from week 2 till week 11 inclusive. Students are not 
+ Strict deadlines are imposed permitted to resit quizzes or resubmit assignments for ENG2005. 
+with continuous assessments (quizzes, assignments, numerical module). 
+Quizzes: There are 5 quizzes for the theoretical part of the unit.   Each quiz is worth 2% of the final 
+mark.  The quizzes will run for 20 minutes at the end of each 2-hour support class.
+The intention of the quizzes is to assist students in keeping up with and understanding the lecture 
+material, and to provide feedback on their performance. Sample solutions are not provided. If you 
+are unsure about the correct answer, please ask your support class leader to explain how the 
+correct answer is obtained preferably during the support class at which it is handed back to you. 
+Calculators are not permitted in quizzes, but formula sheets are provided if needed. Different 
+quizzes will be set for different support classes, and you must normally complete the work that is 
+assigned for the support class in which you are enrolled.
+Assignments: There are 5 assignments to be completed during the semester. The assignments 
+are due for submission every two weeks (read the assessment unit time table). All assignments 
+will be released via the Moodle webpage.  All assignments must be submitted in your support 
+ Each assignment is worth 3% of the final mark. Electronic class, to  your allocated tutor.
+Assignments must be submission of assignments will not be accepted under any circumstances. 
+submitted in hard copy with a signed cover sheet   of your allocated support class . at the start
+The intention of the assignments is to assist students in keeping up with and understanding the 
+lecture material, and to provide feedback on how to express themselves both mathematically and 
+in written English. Sample solutions are provided on Moodle. To be successful in this unit, students 
+must be able to express a written mathematical argument clearly, using appropriate wording along
+with mathematical symbols and notation. It is not just the correct answer that is important, but also 
+a clear and logical explanation for how it was obtained. In accordance with university policy, all 
+assignments must include a signed cover sheet (available on Moodle). While every care is taken, it 
+is that you make a copy of your assignment for your records before it is strongly recommended 
+submitted, for example on a scanner or your smartphone. Students who have previously attempted 
+ENG2005 must complete all assessment work again. No marks can be carried across from a 
+previous enrolment in the unit.
+ Numerical modules:
+There are 5 numerical modules in total. Students are expected to complete all the numerical 
+modules using resources that will be provided on Moodle and with the assistance of their 
+laboratory demonstrator. All the modules will be assessed electronically and feedback given in the 
+computer labs. There is a fortnightly deadline for students to submit their MATLAB codes on 
+Moodle. Watch the fortnightly announcement on Moodle (under advanced numerical methods) 
+about deadlines and assessments in each fortnight. Any adjustments or clarifications of these 
+procedures will also be announced on Moodle, so please check the latest announcements 
+carefully. If the student disagrees with their mark for a given module, it is the responsibility of the 
+student to show demonstrators the running MATLAB code that they uploaded to Moodle on the 
+machine they are working on.  This can be a computer in the lab or a personal computer. Students 
+are encouraged to challenge their grade for each module if they disagree since the Modules will be 
+marked with the partial aid of computer scripts which may contain some bugs. In the event that 
+student and demonstrator cannot agree, the dispute will be settled by coordinator of the numerical 
+modules. In such a situation, based on the judgement of the coordinator, students may be 
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+modules. In such a situation, based on the judgement of the coordinator, students may be 
+awarded more marks or less marks.
+The assessment of the numerical part is based on a pass/fail/DNC method (the demonstrator will 
+check if the MATLAB code for each lab problem is running correctly and if the results are correct). 
+Pass means that the work shows a satisfactory completion of all objectives of the module. Fail 
+indicates an unsatisfactory performance in the compulsory components. Did not complete (DNC) 
+will be given to a student who fails to hand in a their submission online by the due date or their 
+code does not show any serious attempt at answering the module questions.
+Late assessment: Under special consideration (strict rules), students may be assessed in the 
+following week. Only the unit coordinator of the numerical module, can approve late assessments. 
+For medical reasons, a doctor certificate should indicate that the student is incapable of using a 
+computer for a period of at least one week within the module period. Computer codes submitted or 
+presented in other ways other than via the Moodle system are not accepted and Moodle will be 
+electronically disabled for submissions at the due date and time for each Module.
+Additional support: At Clayton campus students can seek help on their numerical modules from 
+demonstrators in their allocated computer lab sessions. At Malaysia campus, the computer labs 
+may only be used for assessment feedback, as there is a space limitation. Students at Malaysia 
+campus may seek consultation from the unit coordinator, Dr Ooi. All students are encouraged to 
+utilise the Moodle forum for advanced numerical methods to discuss their works with their fellow 
+students. The forum is moderated by unit coordinators. Selected questions related to numerical 
+modules will be addressed in the forum.
+Video tutorials: A series of module specific MATLAB tutorial videos will be placed on Moodle to 
+further assist the learning of students. Keep an eye out for those if you require additional 
+assistance.
+Numerical module coordinator: The numerical module coordinator at Clayton is Dr Mark Flegg (
+). For Malaysian specific numerical module issues, coordinator Dr Ooi mark.flegg@monash.edu
+Ean Hin (ooi.ean.hin@monash.edu) is the local contact person.
+Important
+It is acknowledged that students can assist their learning by discussing difficulties and helping 
+each other to solve problems. However, there are limits to which they should assist each other in 
+assessed work without it being considered to be 'inappropriate collusion' or cheating. It is therefore 
+expected that all students should complete all final assessed work for ENG2005 individually and in 
+their own words. Among other things, markers (and our automatic computer scripts) will be looking 
+specifically for instances where the wording of submitted work is very similar and where there are 
+identical errors in algebraic working or logic. Markers may also assess work across multiple 
+classes. Instances of suspected cheating will be dealt with seriously, in accordance with Faculty 
+ Note that penalties may apply for the late submission of work please see and University policies.
+the section 'Extensions below. and penalties'.
+Errors in marking or recording grades
+Efforts are made to ensure that marks for assignments, quizzes  are awarded as consistently as 
+possible across the various support classes and markers. If you feel that an error may have been 
+made in the marking of any assessment, for example missed, working or incorrect addition of 
+marks, you should discuss that with your support-class leader initially. It is also your responsibility 
+to check in a timely manner that the correct mark for the work has been recorded on Moodle, and 
+to query that with your support-class leader initially. In accordance with Faculty of Science policy, 
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+to query that with your support-class leader initially. In accordance with Faculty of Science policy, 
+this should be done no later than two weeks after the return of that work. If you are not satisfied 
+with the response by your support-class leader you may contact the Chief Examiner of the unit 
+(listed on the front page) to arrange a meeting. 
+Examination(s)
+Continuous assessment: 40%
+Examination (3 hours): 60%
+●Work during semester determines 40% of the final unit mark for ENG2005, with the 
+remaining 60% based on results from the three-hour final examination, to be held in the 
+university examination period at the end of semester. Note that calculators are not permitted 
+in the final examination.
+●Students are required to achieve at least 45% in the total continuous assessment component 
+and at least 45% in the final examination component and an overall mark of 50% to achieve 
+a pass grade in the unit. Students failing to achieve this requirement will be given a 
+maximum of 45% in the unit.
+ 
+Applications for special consideration
+The purpose of Special Consideration is to give a student, whose work for a particular piece of 
+assessment has been adversely affected by exceptional circumstances beyond their control, a 
+further opportunity to demonstrate their ability.
+For matters related to special consideration, personal circumstances please first read the special 
+consideration policy: http://www.monash.edu/policy-bank/academic/education/learning-and-
+. It is based on the Monash University policy and teaching/special-consideration-procedures
+procedures for Special Consideration and it is the student's responsibility to read and understand 
+the information. If you feel you satisfy the criteria under the special consideration policy then 
+contact directly the  (as Malaysia Unit Coordinator or the Clayton Unit Coordinator Assistant
+appropriate).
+See also  for university information.http://www.monash.edu.au/exams/special-consideration.html
+A student whose work during a teaching period or whose performance in an examination or other 
+assessment has been affected by acute illness or other exceptional cause beyond their control 
+may apply in writing to the relevant Faculty for special consideration.
+The accepted causes are:
+●acute illness – e.g. hospital admission, serious injury, severe asthma, severe anxiety or 
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+●acute illness – e.g. hospital admission, serious injury, severe asthma, severe anxiety or 
+depression. This does not include minor illness such as a mild cold.
+●loss or bereavement  e.g. death of a close family member.–
+●family relationship breakdown.
+●hardship/trauma  e.g. victim of crime, sudden loss of income or employment, severe –
+disruption to domestic arrangements.
+ Students must lodge applications for in-semester special consideration related to the continuous 
+assessment, with the appropriate documentation and evidence, by the relevant method:
+●for special consideration, no later than two University working days after the due date of the 
+affected assessment.
+●students may lodge an application for early approval of a deferred assessment until five 
+University working days before the examination for which special consideration is sought.
+Assignment submission
+The assignments are due fortnightly (Assignment 1 will be released in Week 1, and is due in Week 
+3, Assignment ). Read the assessment table for details for each assignment. They should be 
+submitted to your allocated tutor in your support class. 
+If you are unable to attend your normal support class for any good reason (under special 
+considerations) then your assignment should be submitted to the unit coordinator in person or 
+under the office door, and write the date and time of submission on the cover sheet. Penalties will 
+apply for later submission. Email submission of assignments is not accepted.
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+1.  
+2.  
+3.  
+1.  
+2.  
+3.  
+1.  
+2.  
+3.  
+1.  
+2.  
+3.  
+1.  
+2.  
+3.  
+1.  
+Unit schedule
+The table below shows the planned schedule of activities and assessment for this unit but from 
+time to time it may be necessary to adjust this for operational reasons. Please listen for 
+announcements in lectures and/or check official announcements on Moodle regularly.
+WeekUNIT SCHEDULE (guide only)  LecturesAssessment
+1
+Linear nxn and mxn systems of equations
+Free and basic variables, solution spaces, LU-decomp
+Eigenvalues and eigenvectors, including multiple and 
+complex values
+2
+Cartesian tensors, properties, simple examples
+Partial derivatives, 2D chain rule, along curves, 
+change of coordinates (eg linear, polar)
+Double integrals, change of order of integration, 
+Jacobian, polar coordinates
+Quiz 1: basic linear 
+algebra
+3
+Triple integrals, order of integration, applications to 
+centre of mass, moment of inertia
+Triple integrals in cylindrical and spherical polar 
+coordinates
+Vector functions: scalar fields, vector fields in 2D and 
+3D.
+Assignment 1: 
+EigenValues
+/Eigenvectors Chain 
+rule
+4
+Tangents to curves, arc length of a curve
+The del operator, grad, div, Laplace operator, curl
+Line integrals and applications, conservative fields, 
+energy, path independence
+Quiz 2: Double 
+Integrals
+5
+Curves on a surface or surface element, orientation 
+/visualisation 
+Surface area of curved surfaces, examples and 
+visualisation 
+Surface flux integrals, Integration of a scalar field over 
+a curved surface
+Assignment 2: Triple 
+Integrals, Scalar and 
+Vector fields
+6Quiz 3: 
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+1.  
+2.  
+3.  
+1.  
+2.  
+3.  
+1.  
+2.  
+3.  
+1.  
+2.  
+3.  
+1.  
+2.  
+3.  
+1.  
+2.  
+3.  
+1.  
+2.  
+Divergence (Gauss) theorem; applications 
+Stokes theorem and applications 
+Path independence and Greens theorem in the plane
+Line integrals, Arc 
+length of a curve
+7
+Periodic functions (rectified, sawtooth)
+Fourier series and Fourier coefficients (real), 
+examples for simple 2π-periodic functions
+Fourier series of arbitrary period, further examples, 
+convergence 
+Assigment  3: Surface 
+area, Surface flux 
+integrals of curves 
+surfaces
+8
+Fourier cosine and sine series, half-range expansion 
+of non-periodic functions
+Application to forced oscillations, harmonics and 
+energy theorem 
+Homogeneous second-order ODEs, linear 
+independence, Wronskian, general solution
+Quiz 4: Divergence or 
+Stokes or  Green’s Th
+9
+Non-homogeneous first and second-order ODEs
+Systems of linear ODEs, convert to second-order 
+form, using eigenvalues/eigenvectors
+Boundary value problems in second order ODE; 
+method of separation of variables
+Assignment 4: Fourier 
+series coefficients of 
+simple 2 pi periodic 
+functions
+BREAK
+Sep 25
+10
+Partial differential equations. Linear PDEs
+Advection and  Wave equations; (linear) 
+characteristics and D'Alembert's solution
+Wave equation, discussions and applications
+Quiz 5: 
+Homogeneous ODE, 
+Wronskian
+11
+Heat equation by separation of variables part I - 
+finding general solution in rectangle
+Heat equation by separation of variables part II - 
+insulating BCs
+Laplace equation by separation of variables in 
+Cartesian coords
+Assignment 5: PDE
+12
+Laplace equation by separation of variables in polar 
+coords
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+2.  
+3.  
+Further examples and applications of second-order 
+PDEs
+Revision  
+13SWOT VACnone
+Module numberAdvanced numerical methods (Self-directed - 12 lectures equivalent)
+1 (weeks 2 and 3)Primer on MATLAB and linear systems
+2 
+(weeks 4 and 5)
+Numerical methods for initial value problems and boundary value problems
+3 
+(weeks 6 and 7)
+Introduction to Fast Fourier Transforms and Pseudo-Spectral Method for 
+ODEs
+4 
+(weeks 8 and 9)
+Numerical methods for hyperbolic and parabolic PDEs
+5 
+(weeks 10 and 
+11)
+Numerical methods for Elliptic PDEs and the Finite Element Method
+Due topublic holidays in Malaysia, some  topics will be delivered in the following lecture, with 
+ample material available online (videos taken by lecturers)
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+Based on the feedback received from students:
+●We make now available videos with more worked examples based on the maths concepts 
+introduced during lectures. 
+●Moodle site is now interactive, with a variety of resources available for different 
+student  learning style; we encourage to participate in the small  online questions  in Moodle 
+(effort is rewarded)
+●Quizzes and assignments are run now alternatively  every two weeks, with more marks 
+allocated for assignments. 
+●The Unit coordinator will have also the role of a roaming tutor, aiming at visiting all support 
+classes, to help and listen to students feedback on this unit.
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+1.  
+2.  
+3.  
+1.  
+If you wish to view how previous students rated this unit, please go to;
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+Unit resources
+Learning resources
+Monash Library Unit Reading List (if applicable to the unit):
+http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, refer to the Higher Education Administrative 
+Information for Providers, Chapter 18, Incidental Fees at http://education.gov.au/help-resources-
+providers
+Recommended resources
+The recommended text for ENG2005 is the very popular book by: Erwin Kreyszig,
+Advanced Engineering Mathematics 10th edition. John Wiley & Son Inc. 2011.
+ The book can be purchased in three forms:
+E-Text (E-texts are not available through campus bookshops)
+Binder Ready               
+Text (bookstore)
+Technology requirements
+Students must regularly check Moodle for announcements. The unit coordinator will send general 
+email to students about the content taught in lectures and warn about  future assessments, and 
+also suggest interesting material to read.
+The Moodle site has pre-lecture reading material  and post-lecture  thoughts, which help with the 
+learning outcomes.
+Required Software (and/or hardware)
+Students will use MATLAB  to assist in understanding the numerical module aspect of this 
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+1.  Students will use MATLAB  to assist in understanding the numerical module aspect of this 
+unit 
+Alina Donea will  use Java Applets, and cdf  Mathematica notebooks. To access  Mathematica
+notebooks (available on moodle), you can download the free cdf viewer from http://www.wolfram.
+ (available for linux, mac, and windows). This will allow you to view the text and com/cdf-player/
+images, run the animations, and use the manipulators. You won't be able to evaluate new 
+ code though. If you wish to install the full version of  instead, see the MathematicaMathematica
+instructions on the ENG2091 moodle page.
+You may find it helpful to use a calculator, graphic software or computer algebra software to help 
+with some calculations for the assignment (how all your work if you do that, explain all steps), but  
+Note that the use of calculators is not allowed in test and in the final examination.
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies.Contact your tutor if you need advice and see the range of services available at:
+http://www.monash.edu/students
+http://www.monash.edu.my/student-services/ 
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Go to  or or the library tab in http://www.monash.edu/libraryhttp://www.lib.monash.edu.my/ 
+ portal for more information.http://my.monash.edu
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+For students at Malaysia campus, please contact the Student Wellbeing and Activities Office 
+located in Building 2, Level 2, Room 2238.
+http://www.monash.edu.my/student-services/wellbeing-and-activities/disability-support
+Plagiarism, cheating and collusion
+Monash University has strict policies on plagiarism, cheating and collusion, and the penalties can 
+be severe. Full details of the policy can be found at:
+http://www.policy.monash.edu/policy-bank/academic/education/conduct/student-academic-integrity-
+policy.html
+Extensions and penalties
+Late assignment submissions for this unit may be accepted but will be penalised at 10% of the 
+maximum mark per calendar day (or part thereof), in accordance with the Faculty of Science ‘
+ at Penalty for late submission of work for assessment policy’http://intranet.monash.edu.au/science
+/staff/education/policies-procedures/late-submission.html
+Late Submission:
+In accordance with faculty policy, late submission of assignments will normally be penalised 
+at 10% of the maximum mark per calendar day (~1% per two-hour period, including over 
+weekends) until the time when solutions are published on Moodle, after which a zero mark is 
+awarded  Students with a valid reason for late submission of an assignment must provide the Unit
+/Campus Coordinator at their campus with originals (and a copy) of appropriate documentation as 
+soon as practicable after the normal deadline.
+Support-class leaders are not authorised to approve extensions to assignment submission 
+deadlines. See also  for university http://www.monash.edu.au/exams/special-consideration.html
+information.
+ 
+ 
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+1.  
+2.  
+3.  
+ 
+Other unit information
+The lecturers will use an electronic tablet or just overhead projectors to write  notes. The lectures 
+will be audio and video recorded too.  These written notes will be available after each lecture on 
+Moodle.
+ For additional maths problems linked to  the problem sets (see below), we will provide a list of 
+suggested worked examples from Kreyszig's book. So if you want to know more about the 
+materials studied in this unit or you want to have more practice, you will need to have access to 
+this books. Some copies are available in the library or available online, but there are around 600 
+students enrolled in ENG2005 this semester in two campuses, so you may find it easier to 
+purchase your own copy if you need more practice.
+Problem Sets
+The  ‘problem sets’, with practice exercises for the material covered in lectures, can be found in as 
+a separate book, covering the six major topics in the unit. Answers to these problems can be found 
+immediately following each problem set. Additional exercises can also be found in the relevant 
+sections of the textbooks. Limited solutions will be made available online.
+Advanced Numerical Modules:
+The pdf instructions on how to run each  numerical module  are on Moodle, under  the  topic: 
+"Advanced Numerical Modules". 
+Mathematics Learning Centre
+The School of Mathematical Sciences also operates a Mathematics Learning Centre, to provide 
+additional assistance to students who are encountering difficulties with lecture material and 
+exercises in any of their first and second-year mathematics units (including ENG2005). No 
+information on the numerical modules will be provided at MLC. The Mathematics Learning Centre 
+is located in on the ground floor of 9  Rainforest Walk (Mathematics Building) at the Clayton 
+campus and it is open from week 2 of semester on Monday to Friday from noon-2 pm. No 
+appointment is necessary.
+INFORMATION FOR MALAYSIA
+ACADEMIC OVERVIEW
+Program Education Objectives
+The Engineering programme expects to produce graduates, who
+have successful careers in Engineering
+engage in multicultural and globalized engineering teams
+demonstrate career progression towards senior management and leadership positions
+Program Outcomes
+The Mechanical Engineering has developed a set of Program Outcomes (POs) for all of its 
+graduates based on the Malaysian Engineering Accreditation Council’s manual.
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Program OutcomesActivities used in this unit to develop 
+program outcomes
+PO1 Engineering knowledge:
+Apply knowledge of mathematics, natural science, 
+engineering fundamentals and specialization in 
+Engineering to the solution of complex engineering 
+problems.
+The lectures, teaching materials and 
+support-class activities develop and 
+assess students’ knowledge of 
+mathematics and analysis techniques.
+PO2 Problem analysis:          
+Identify, formulate, survey research literature and 
+analyze complex engineering problems reaching 
+substantiated conclusions using first principles of 
+mathematics, natural sciences and engineering 
+sciences.
+NA
+PO3 Design/Development of solutions:      Design 
+solutions for complex engineering problems and 
+design systems, components or processes that 
+meet specified needs with appropriate 
+consideration for public health and safety, cultural, 
+societal, and environmental considerations.
+NA
+PO4 Research-based investigation of systems:
+                                                 Conduct 
+investigations of complex problems using research-
+based knowledge and research methods including 
+design of experiments, analysis and interpretation 
+of data, and synthesis of information to provide 
+valid conclusions.
+NA
+PO5 Modern tool usage:
+                               Create, select and apply 
+appropriate techniques, resources, and modern 
+engineering and IT tools, including prediction and 
+modelling, to complex engineering problems, with 
+an understanding of the limitations.
+Students undertake a self-directed 
+numerical module that requires them to 
+use Matlab to implement the different 
+numerical methods of the unit.
+PO6 Engineers and society:                   
+Apply reasoning informed by contextual 
+knowledge to assess societal, health, safety, legal 
+and cultural issues and the consequent 
+responsibilities relevant to professional 
+engineering practice and solutions to complex 
+engineering problems.
+NA
+PO7 Environment and sustainability:
+       Understand and evaluate the sustainability 
+and impact of professional engineering work in the 
+solution of complex engineering problems in 
+societal and environmental contexts.
+NA
+PO8 Professional ethics:                                Apply 
+ethical principles and commit to professional ethics 
+and responsibilities and norms of engineering 
+practice.
+NA
+PO9 Communication:
+                            Communicate effectively on 
+NA
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+complex engineering activities with the 
+engineering community and with society at large, 
+such as being able to comprehend and write 
+effective reports and design documentation, make 
+effective presentations, and give and receive clear 
+instructions.
+PO10 Individual and team work: 
+Function effectively as an individual, and as a 
+member or leader in diverse teams and in multi-
+disciplinary settings.
+NA
+PO11 Lifelong learning:
+                           Recognize the need for, and have 
+the preparation and ability to engage in 
+independent and life-long learning in the broadest 
+context of technological change.
+NA
+PO12 Project management and finance:
+ Demonstrate knowledge and understanding of 
+engineering management principles and economic 
+decision-making and apply these to one’s own 
+work, as a member and leader in a team, to 
+manage projects and in multidisciplinary 
+environments.
+NA
+Relationship between Unit Learning Outcomes and Program Outcomes
+PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1X
+LO2X
+LO3X
+KeyNo emphasis
+XEmphasized and assessed in the unit
+Mapping of LOs between handbook LOs (LC) and Malaysia OBE LOs
+LC1LC2LC3LC4LC5LC6LC7LC8LC9LC10LC11LC12
+LO1XXXXXXX
+LO2XXXXX
+LO3XXXX
+Relationship between Unit Learning Outcomes and Assessments
+No.Learning OutcomesAssessment
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+QuizAssignmentFinal exam
+1Apply concepts of vector calculus, periodic 
+functions, separation of variables, matrix 
+solution techniques, Fourier series 
+solutions and ODE solution principles to 
+solve mathematical and Engineering 
+problems.
+C2C3C6
+2Write, develop and optimize computer 
+codes for the numerical methods using 
+Matlab to solve mathematical problems of 
+the unit
+P3
+3Select appropriate numerical algorithm to 
+solve mathematical problems.
+C1
+The topics to be assessed can vary depending on how the semester is run.
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves  and the development of intellectual skills. This includes cognitiveknowledge
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the  with which someone deals with things emotionally, affective attitudes
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the table above:
+LevelCategory
+C1Remembering: Recall or retrieve previous learned information.
+C2Understanding: Comprehending the meaning, translation, interpolation, and 
+interpretation of instructions and problems. State a problem in one's own words.
+C3Applying: Use a concept in a new situation or unprompted use of an abstraction. 
+Applies what was learned in the classroom into novel situations in the work place.
+C4Analyzing: Separates material or concepts into component parts so that its 
+organizational structure may be understood. Distinguishes between facts and 
+inferences.
+C5Evaluating: Make judgments about the value of ideas or materials.
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+1.  
+2.  
+3.  
+4.  
+1.  
+2.  
+3.  
+4.  
+1.  
+2.  
+3.  
+C6Creating: Builds a structure or pattern from diverse elements. Put parts together to 
+form a whole, with emphasis on creating a new meaning or structure.
+Teaching Approach
+Three hours lecture per week: To introduce the mathematical theories to the students. 
+Replacement classes will be held on days when the scheduled lecture falls on a public 
+holiday.
+Two hours tutorial per week: To show some examples of how to apply the mathematical 
+theories learnt from the lectures.
+Complementary recorded lectures will be uploaded to help students to revise. However, note 
+that recorded lectures are substitutes for attending lectures or reading the lecture notes.NOT 
+Minimum of seven hours of independent study per week: Self-study by the students.
+Numerical Module
+One hour lecture per week: To introduce the theory and concept pertaining to the numerical 
+module to be covered on that particular week.
+The numerical module is a  module and students are expected to download the self-directed
+reading materials from Moodle and to answer all Problems.
+If students have any questions regarding the module, they may seek consultation either from 
+the unit coordinator Dr Ooi, Dr Chang  by posting their questions in a specialized forum in OR
+Moodle.
+Students must submit their codes/solutions in two forms, i.e. the *.m file and the PDF 
+containing responses to the solutions, online via the Moodle webpage according to the 
+assessment table shown below.
+Assignment submission
+All assignments are due fortnightly from the dates they are released in Moodle.
+All submissions must be done during the tutorial classes. Submission to assignment boxes 
+or to the Lecturer/Tutor outside of the allocated tutorials will not be accepted without a valid 
+reason.
+Students whose tutorials fall on a public holiday during the week of Assignment submissions 
+will submit their assignment through an allocated Assignment box.
+Assessment summary (Malaysia campus)
+WeekAssessment 
+(Support class)
+AssignmentNumerical Module 
+(NM)
+NM deadlines
+1
+(24 Jul)
+No support classAssignment 1 
+released
+Student 
+familiarize with 
+Matlab and NM 
+requirements
+2
+(31 Jul)
+Quiz 1 (2%)Module 1 released
+3
+(7 Aug)
+Assignment 1 
+submission (4%)
+Assignment 2 
+released
+Module 1 codes 
+submission by 11 
+Aug 11.10pm
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+4
+(14 Aug)
+Quiz 2 (2%)Module 2 released
+5
+(21 Aug)
+Assignment 2 
+submission (4%)
+Assignment 3 
+released
+Module 2 codes 
+submission by 25 
+Aug 11.10pm
+6
+(28 Aug)
+Quiz 3 (2%)Module 3 released
+7
+(4 Sep)
+Assignment 3 
+submission (4%)
+Assignment 4 
+released
+Module 3 codes 
+submission by   8 
+Sep 11.10pm
+8
+(11 Sep)
+Quiz 4 (2%)Module 4 released
+9
+(18 Sep)
+Assignment 4 
+submission (4%)
+Assignment 5 
+released
+Module 4 codes 
+submission by 22 
+Sep 11.10pm
+Mid semester break
+10
+(2 Oct)
+Quiz 5 (2%)Module 5 released
+11
+(9 Oct)
+Assignment 5 
+submission (4%)
+Module 5 codes 
+submission by 13 
+Oct 11.10pm
+12
+(16 Oct)
+*Arrangements will be made for quizzes for students whose tutorial classes fall on a public holiday.
+  
+  
+©Copyright  Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ENG2005 Advanced engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------

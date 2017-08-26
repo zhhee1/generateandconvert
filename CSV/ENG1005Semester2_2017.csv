@@ -1,0 +1,447 @@
+1
+                                    
+  
+Unit Guide
+  
+ENG1005
+Engineering mathematics
+Semester 2, 2017
+  
+  
+  
+  
+Handbook link:
+http://monash.edu.au/pubs/2017handbooks/units/ENG1005.html
+  
+ 
+Table of contents
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  3
+Synopsis                                                                                                                                          3
+Mode of delivery                                                                                                                              3
+Workload requirements                                                                                                                   3
+Unit relationships                                                                                                                             3
+Prerequisites                                                                                                                                3
+Prohibitions                                                                                                                                  3
+Co-requisites                                                                                                                                3
+Chief Examiner(s)                                                                                                                            3
+Unit Coordinator(s)                                                                                                                       3
+Lecturer(s)                                                                                                                                    4
+Academic overview                                                                                                                             4
+Learning outcomes                                                                                                                          4
+Teaching approach                                                                                                                          5
+Feedback to you                                                                                                                              5
+Assessment summary                                                                                                                     6
+Examination(s)                                                                                                                                 8
+Applications for special consideration                                                                                             8
+Unit schedule                                                                                                                                      9
+Your feedback to us                                                                                                                       10
+Previous student evaluations of this unit                                                                                   10
+Unit resources                                                                                                                               10
+Learning resources                                                                                                                    11
+Required resources                                                                                                                    12
+Other information                                                                                                                              12
+Policies                                                                                                                                          12
+Graduate Attributes Policy                                                                                                             12
+Student Charter                                                                                                                             12
+Student Services                                                                                                                           12
+Monash University Library                                                                                                             12
+Disability Support Services                                                                                                            13
+Plagiarism, cheating and collusion                                                                                                13
+Extensions and penalties                                                                                                               13
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Unit handbook information
+Synopsis
+Vector algebra and geometry: equations of lines and planes. Linear algebra: matrix operations, up 
+to 3x3 systems of linear equations, eigenvalues and eigenvectors. Calculus: improper integrals, 
+integration by parts. Sequences and series: fundamentals of convergence, Taylor series, use in 
+error analysis. Ordinary differential equations: first order, second order with constant coefficients, 
+repeated roots, simple non-homogeneous cases. Laplace transforms: elementary functions, 
+inversion by tables; shifting; derivatives, applications to ODEs. Multivariable calculus: partial 
+derivatives, gradient and directional derivatives, maxima and minima.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+Three 1-hour lectures (or equivalent), one 2-hour practice class and 7 hours of private study per 
+week
+Unit relationships
+ 
+Prerequisites
+VCE Specialist Mathematics or ENG1090 (or equivalent)
+Prohibitions
+ENG1091, MTH1030, MTH1035
+Co-requisites
+None
+Chief Examiner(s)
+ (Sem 1 and 2, Malaysia October intake 2017)Dr Leo Brewin
+Unit Coordinator(s)
+,  (Clayton - Sem 1)Dr Leo BrewinDr John Head
+ (Clayton - Sem 2)Dr Leo Brewin
+ (Malaysia Sem 1 and 2)Associate Professor Lan Boon Leong
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Lecturer(s)
+Name: Dr Leo Brewin
+Campus: Clayton
+Phone: +61 3 990 54456
+Email: Leo.Brewin@monash.edu
+ 
+Name: Assoc Professor Tim Garoni
+Campus: Clayton
+Phone: +61 3 990 54400
+Email: Tim.Garoni@monash.edu
+ 
+Name: Dr Santiago Barrera Acevedo
+Campus: Clayton
+Phone: +61 3 990 20909
+Email: Santiago.Barrera.Acevedo@monash.edu
+ 
+Name: Ms Lily Wong
+Campus: Monash University Malaysia
+Phone: 
+Email: Lily.Wong@monash.edu
+ 
+Academic overview
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Evaluate cross products of vectors, and use vectors to represent lines and planes.
+2. Perform matrix algebra.
+3. Solve up to 3x3 systems of linear equations and find eigenvalues and eigenvectors.
+4. Use hyperbolic functions.
+5. Evaluate improper integrals of elementary functions and use integration by parts.
+6. Appreciate convergence of numeric and power series, construct Taylor series and 
+estimate errors in numerical approximations .
+7. Solve first order ordinary differential equations, including by separable variables and 
+integrating factors.
+8. Solve second order linear differential equations with constant coefficients.
+9. Use differential equations to model simple engineering problems.
+10. Evaluate and invert Laplace transforms and use them to solve ordinary differential 
+equations.
+11. Calculate partial derivatives, use the gradient vector to find directional derivatives, and 
+find extreme values of two-variable functions.
+12. Express and explain mathematical techniques and arguments clearly in words.
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+12. Express and explain mathematical techniques and arguments clearly in words.
+Teaching approach
+In the first week of the semester there will be just three one-hour lectures. For the remainder of the 
+semester (weeks 2 to 12) there will be three one-hour lectures plus one two hour tutorial (also 
+known as a support, practice or laboratory class). Lectures will be recorded and will be available 
+online through the Echo 360 Learning Capture system. Every effort will be made to ensure that all 
+lectures are recorded but on rare occasions technical issues may cause the recording to 
+fail. Students are expected to attend one 2-hour support class per week during weeks 2 to 12 of 
+the semester. The support classes are intended to help students gain mastery of the material by 
+ working through set exercises with the assistance of other students and the class tutor.
+ 
+Feedback to you
+We will provide feedback in a number of ways, including
+Assignments an quizzes.
+Always look through the marked assignments and quizzes, and read the comments given by your 
+tutor either written on the assignment itself or in class to the whole group. Always ask if there is 
+something that it is not clear to you. All topics included in the assignments will be covered in the 
+final exam, therefore it is important that if you lost marks in a particular question that you find out 
+what you did wrong to avoid making the same mistake again in the exam!
+Tutorials.
+Tutorials are the best place to get feedback from both the tutor and your peers. Take the weekly 
+problem sets seriously, and clarify anything that you are unsure about. Many questions included in 
+the problem sets are from previous exams and they will give you an idea of what will be included in 
+your exam.
+Assistance outside scheduled classes.
+You can always seek help from the tutors in the Mathematics Learning Centre, located in room 
+G24, 9 Rainforest Walk (Building 28). The MLC is open from 11am to 2pm Monday to Friday from 
+week 2 until the end of exams in each semester.
+Sample exam.
+Towards the end of the semester a sample exam, with solutions, will be released on Moodle. Work 
+through the exam, and check through the solutions only once you finished your attempt.
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+ 
+Assessment summary
+Weekly assignments or quizzes: 40%
+Final examination (3 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taksValueDue in week
+Quiz 12%2
+Quiz 22%4
+Quiz 32%6
+Quiz 42%8
+Quiz 52%10
+Assignment 16%3
+Assignment 26%5
+Assignment 36%7
+Assignment 46%9
+Assignment 56%11
+It is strongly recommended that students take a copy of the final version of their assignments prior 
+to its submission, for example with their phone or using a scanner. Note: Some support classes 
+. Students in these classes will be allowed to hand their assignment will fall on public holidays
+either to the unit-coordinator or to any tutor . Student's with quizzes before the public holiday
+scheduled for a public holiday will have their mark for that quiz computed as the average for their 
+remaining quizzes.
+Students who have attempted this unit previously must complete all assessment tasks again. No 
+marks can be carried across from a previous enrolment in the unit.
+Assignments and quizzes.
+There will be five assignments each worth 6% plus five quizzes each worth 2% (for a total of 40%). 
+The quizzes will be run during the support class and will take about 20 minutes to complete.
+In order to get full marks for the assignments you must not only get the correct answer (what a 
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+In order to get full marks for the assignments you must not only get the correct answer (what a 
+surprise) you will also be expected to provide clear explanations as to how you arrived at your 
+answers. You will need to use, where appropriate, proper English sentences (this does not include 
+sms, txt or emojis) and you should employ correct mathematical terminology and pay due care to 
+how you present your answers. Marks will be deducted for sloppy presentations. 
+Examples of what we expect (and examples of what we hope never to see) can be found on the 
+unit web site.
+You are not required to use a word processor to prepare your assignments. Neat hand written 
+submissions will be perfectly acceptable.
+Assignment submission.
+There is only one way to submit your assignments for this unit: you must hand them to your tutor 
+. The submission dates are clearly during your tutorial in the week that the assignment is due
+stated on each assignment. All five assignments will be available at least two weeks before the 
+due date. This should give every student ample opportunity to complete each assignment by the 
+due date.
+If you have any reason why you are unable to submit your assignment by the due date you must 
+contact your campus coordinator  the due date. In all other cases late penalties will apply as before
+set out in the Faculty of Science policy (see below).
+Assignments submitted by e-mail will not be accepted.
+Assignment cover sheet. In accordance with school and university policy, all assignments must 
+include a signed cover sheet. The School of Mathematical Sciences cover sheet can be 
+downloaded from the unit website on Moodle. For Clayton students, hard copies of cover sheets 
+are often available from the School Enquiries Office on the fourth floor of the mathematics building 
+(near the lifts).
+Submitting late assignments. The Faculty of Science has a strict policy on late submission of work. 
+It stipulates that late assignments will normally be penalised at 10% of the maximum mark per 
+calendar day until one week after the due date, after which a zero mark is awarded. Note in 
+particular the use of . This means that all seven days of the week, including holidays, calendar days
+will be used when counting how many days have lapsed after the due date. It is part of your 
+learning experience at Monash to properly plan your time to meet the given deadlines.
+If you know in advance that you may have difficulty in meeting a deadline please contact your 
+campus coordinator as soon as possible  the due date. Only in exceptional circumstances before
+will extensions be given  the due date has passed.after
+Tutors are  to approve extensions to deadlines.not authorised
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+Return of marked work. Where possible marked assessments will be returned to you at your next 
+support class following the week in which the assessment was due. Your marks will also be posted 
+on the Grade Book on Moodle at around the same time and you should check these have been 
+recorded correctly. If any of them have been entered incorrectly you must query them with your 
+tutor in a timely manner. (If work is consistently being handed back late to you, or your marks are 
+not posted on Moodle within a week of receiving your marked work, please advise the Unit 
+Coordinator.) If you are unable to collect your work at the usual class, please ask your tutor at the 
+next class. Any uncollected work after the end of semester can be retrieved from the Unit 
+Coordinator up until the end of the examination period.
+If you believe that an error has been made in the marking of any assessment, for example missed 
+working or a mistake in the addition, you should discuss that with your tutor initially. If you are not 
+satisfied with their response you should contact your campus coordinator to arrange a meeting.
+Examination(s)
+The final exam will run for three hours and will contain between 8 and 12 questions. Each question 
+may contain many parts. A sample exam with solutions will be made available on the unit web site 
+during the semester.
+No calculators, textbooks or notes of any kind will be allowed in the exam. A basic formula sheet 
+will be provided with the exam and a copy will be available on the unit web site later in the 
+semester.
+The final unit mark will be sum of the marks for works submitted during the semester, worth a total 
+of 40%, and the final exam, worth 60%.
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+ 
+Applications for special consideration
+Students with a valid reason for late submission of an assignment must show the Chief Examiner 
+the originals (and provide a copy) of appropriate documentation within two working days of the 
+normal deadline for that piece of work. This application must be submitted directly to the Chief 
+Examiner in room 317 (or slip them under the door if there is nobody in the office at that time). The 
+Chief Examiner will advise you of the outcome of the application by email.
+See also  for university information.http://www.monash.edu.au/exams/special-consideration.html
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+Unit schedule
+The table below shows the planned schedule of activities and assessment for this unit but from 
+time to time it may be necessary to adjust this for operational reasons. Please listen for 
+announcements in lectures and/or check official announcements on Moodle regularly.
+Please note that the references in the following table refer to the 5th edition of Modern Engineering 
+ by Glyn James.Mathematics
+WeekTopicLecturesReference
+Single variable calculus
+1Integration1.0(8.8.4,12)
+Hyperbolic functions0.5(2.7.4-5,8.3.12,8.8.10)
+Improper integrals1.5(9.2)
+2Sequences and series1.5
+Taylor series, Euler's method1.5(9.4.1,10.6.1-2)
+Coordinate geometry and vectors
+3Vectors in 3d space1(4.2.8,4.2.10)
+Lines and planes in 3d space2(4.3.3)
+4Curves and surfaces in 3d space2
+Matrices
+Systems of equations1(5.5.2)
+5Gaussian elimination1
+Matrices1(5.2)
+Matrix determinant and inverse1(5.4)
+6Eigenvalues and eigenvectors1(5.7.1-2)
+Ordinary differential equations
+Introductions to ODEs1(10.2-3)
+Separable first order ODEs1(10.5.3,10.5.9)
+7The integrating factor1(10.5.9,10.4.2-3)
+Homogeneous 1st order ODEs1(10.9.1)
+Non-homogeneous 2nd order ODEs1(10.9.3)
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+WeekTopicLecturesReference
+8Application of ODEs1(10.10)
+Integral transforms
+Laplace transforms1(11.2)
+Inverse Laplace transform pt.11(11.2.7-9)
+9Inverse Laplace transform pt.21(11.2.7-9)
+Solving ODEs by Laplace transforms2(11.3,8.8.8,11.4)
+10Laplace transforms of integrals1
+Multivariable Calculus
+Functions of two variable1/2(9.6.1)
+Two dimensional surfaces1/2
+Partial differentiation1(9.6.2)
+11Directional derivatives1(9.6.3)
+Differentiation in spherical and polar coordinates1
+Tangent planes, local approximations1(9.7.1)
+12Maxima and minima in 2 dimensions1(9.7.2)
+Revision2
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+In 2017 there will be five mini-quizzes introduced in the sport classes. This was a common request 
+from the SETU surveys of 2016.
+If you wish to view how previous students rated this unit, please go to;
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+Unit resources
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Learning resources
+Text book.
+The prescribed textbook for this unit is  by Glyn James. You can Modern Engineering Mathematics
+purchase this from the Monash bookstore and there are a limited number of copies in the library.
+Please note that there is also an advanced version  by Advanced Modern Engineering Mathematics
+the same author but it is not appropriate for this unit. Please make sure you obtain the correct 
+version .Modern Engineering Mathematics
+Lecture notes.
+Detailed lecture notes will be available only in PDF form through Moodle. Printed notes will not be 
+provided. All unit information, assignments, exercises, marks and all announcements will be made 
+available through Moodle. Lectures will be recorded and will be available online through the Echo 
+360 Learning Capture system. Every effort will be made to ensure that all lectures are recorded but 
+on rare occasions technical issues may cause the recording to fail.
+Support classes.
+Support classes (also known as laboratory classes and tutorials) will begin in week 2 and run 
+through to week 12 (i.e., a total of 11 support classes). Each class will run for 2 hours during which 
+time students will have the opportunity to work on set exercises, to discuss problems and solutions 
+with other students and to seek assistance from the tutor.
+Students will be allocated to one of the support classes by a program known as . This Allocate+
+can be accessed from the web page . Note that changes http://www.monash.edu/timetables/login
+to your allocated supported class can only be made by you (the unit coordinator can not make 
+). Changes can be made through the  web page and will be changes on your behalfAllocate+
+accepted only in the first two weeks of the semester.
+Mathematics learning centre.
+The School of Mathematical Sciences also operates a Mathematics Learning Centre, to provide 
+additional assistance to students who are encountering difficulties with lecture material and 
+exercises in any of their first and second-year mathematics units (including ENG1005).
+The Mathematics Learning Centre (MLC) is located in Room G24 on the ground floor of Building 
+28 at the Clayton campus and it is open from week 2 to the end of exams daily from 11am--2pm. 
+No appointment is necessary.
+Monash Library Unit Reading List (if applicable to the unit):
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Monash Library Unit Reading List (if applicable to the unit):
+http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, refer to the Higher Education Administrative 
+Information for Providers, Chapter 18, Incidental Fees at http://education.gov.au/help-resources-
+providers
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies.Contact your tutor if you need advice and see the range of services available at:
+http://www.monash.edu/students
+http://www.monash.edu.my/student-services/ 
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or or the library tab in http://www.monash.edu/libraryhttp://www.lib.monash.edu.my/ 
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Go to  or or the library tab in http://www.monash.edu/libraryhttp://www.lib.monash.edu.my/ 
+ portal for more information.http://my.monash.edu
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+For students at Malaysia campus, please contact the Student Wellbeing and Activities Office 
+located in Building 2, Level 2, Room 2238.
+http://www.monash.edu.my/student-services/wellbeing-and-activities/disability-support
+Plagiarism, cheating and collusion
+Monash University has strict policies on plagiarism, cheating and collusion, and the penalties can 
+be severe. Full details of the policy can be found at:
+http://www.policy.monash.edu/policy-bank/academic/education/conduct/student-academic-integrity-
+policy.html
+Extensions and penalties
+Late assignment submissions for this unit may be accepted but will be penalised at 10% of the 
+maximum mark per calendar day (or part thereof), in accordance with the Faculty of Science 
+Penalty for late submission of work for assessment policy at http://intranet.monash.edu.au/science
+./staff/education/policies-procedures/late-submission.html
+If the assignment is submitted after any students have received back their marked work, or once 
+any sample solutions have been published on Moodle, then it may be marked for feedback 
+purposes, but no marks will be recorded for that piece of assessment.
+For information on the appropriate method of submission of late assessed work for this unit, and/or 
+how a Special Consideration application should be submitted, please see the information outlined 
+under  in this unit guide. In case of doubt, please contact the Unit Important unit information
+Coordinator of the unit in a timely manner.
+ 
+ 
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+ 
+  
+  
+©Copyright  Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ENG1005 Engineering mathematics - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------

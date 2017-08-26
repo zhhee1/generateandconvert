@@ -1,0 +1,835 @@
+1
+                                    
+  
+Unit Guide
+  
+ENG1090
+Foundation mathematics
+Semester 2, 2017
+  
+  
+  
+  
+Handbook link:
+http://monash.edu.au/pubs/2017handbooks/units/ENG1090.html
+  
+ 
+Note to students:
+It is your responsibility to read this Unit Guide carefully, especially in regard to the expectations 
+and assessment requirements for ENG1090. Please treat it as a detailed description of how the 
+unit will run this semester, and consult it first when unsure how to act or who to contact. You must 
+also check the Moodle site regularly, and take note of all official announcements during the 
+semester.
+The first assessed work for ENG1090 is a quiz held in your allocated support class (tutorial) in 
+week 2, covering revision material from prerequisite studies and counting 3.75% towards the final 
+unit mark. Please see the Moodle announcement during week 1 for details.
+Final version: 14 July 2017 (no changes since first posted)
+Table of contents
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                       4
+Lecturer(s)                                                                                                                                    4
+Academic overview                                                                                                                             5
+Learning outcomes                                                                                                                          5
+Teaching approach                                                                                                                          5
+Feedback to you                                                                                                                              6
+Assessment summary                                                                                                                     6
+Non-submission of assessed work                                                                                   7
+Use of calculators in ENG1090                                                                                         7
+Assessment requirements                                                                                                                   8
+Assessment tasks                                                                                                                            8
+Quizzes                                                                                                                             8
+Assignments                                                                                                                      8
+Examination(s)                                                                                                                                 9
+Applications for special consideration                                                                                             9
+Returning assignments                                                                                                                  10
+Errors in marking                                                                                                             10
+Errors in recording grades                                                                                              10
+Assignment submission                                                                                                                 10
+How and where to submit assignments                                                                          10
+Cover sheet                                                                                                                     11
+Academic integrity                                                                                                           11
+Submitting early or late assignments                                                                              11
+Unit schedule                                                                                                                                    12
+Your feedback to us                                                                                                                       13
+Previous student evaluations of this unit                                                                                   13
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Unit resources                                                                                                                               13
+Learning resources                                                                                                                    13
+Prescribed text                                                                                                                14
+Lecture notes                                                                                                                  14
+Problem sets                                                                                                                   14
+Weekly support classes                                                                                                  14
+Support class sheets                                                                                                       14
+Required resources                                                                                                                    15
+Other information                                                                                                                              15
+Policies                                                                                                                                          15
+Graduate Attributes Policy                                                                                                             15
+Student Charter                                                                                                                             15
+Student Services                                                                                                                           15
+Monash University Library                                                                                                             15
+Disability Support Services                                                                                                            16
+Plagiarism, cheating and collusion                                                                                                16
+Extensions and penalties                                                                                                               16
+Other unit information                                                                                                                    17
+Accreditation information for the Malaysia campus                                                                       17
+Academic Overview                                                                                                                17
+Program Education Objectives                                                                                       17
+Program Outcomes (POs)                                                                                              17
+Learning Outcomes                                                                                                                18
+OBE requirements to Learning Outcomes (LOs)                                                            18
+Relationship between Unit Learning Outcomes and Program Outcomes                      19
+Relationship between OBE Learning Outcomes and Assessments                               19
+Bloom’s Taxonomy                                                                                                         20
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+Functions and coordinate geometry: types of functions, composite functions, inverse functions, 
+modelling of periodic phenomena with trigonometric functions. Complex numbers. Differentiation 
+and integration: concepts and techniques, applications to related rate of change and optimisation 
+problems, areas, volume, and centre of mass. Vectors in two- and three-dimensional space, 
+application to motion and kinematics.
+Mode of delivery
+Malaysia (Day)
+Workload requirements
+Three 1 hour lectures ( or equivalent), one 2 hour practice class and 7 hours of private study per 
+week
+Unit relationships
+ 
+Prerequisites
+Mathematical Methods (CAS)
+Prohibitions
+MTH1020
+Co-requisites
+None
+Chief Examiner(s)
+Associate Professor Michael Page
+Unit Coordinator(s)
+ (Clayton),  (Malaysia)Associate Professor Michael PageAssociate Professor Rajendran Parthiban
+Lecturer(s)
+Name: Ms Lily Wong, Room 5-4-23
+Campus: School of Engineering, Monash University Malaysia
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Campus: School of Engineering, Monash University Malaysia
+Phone: N/A
+Email: Lily.Wong@monash.edu
+Consultation hours: Monday 10-11am
+ 
+Academic overview
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Demonstrate understanding of the properties of common functions and their graphs, use 
+composition of functions, and inverse functions; use trigonometric functions to model 
+periodic behaviour.
+2. Represent complex numbers in Cartesian, polar and exponential forms, and on the 
+complex plane.
+3. Perform arithmetic and algebra on complex numbers, including finding powers and 
+complex roots of polynomials.
+4. Demonstrate understanding of the concepts of limit, continuity, differentiable and 
+integrable functions.
+5. Evaluate limits of piecewise functions, and of rational functions at infinity.
+6. Use differentiation rules to find derivatives of implicit and explicit functions.
+7. Apply differentiation techniques to related rates of change problems and optimisation 
+problems.
+8. Use simple integration techniques to find definite and indefinite integrals, including by 
+substitution and partial fractions.
+9. Apply integration techniques to calculate areas, average values, volumes, and centres of 
+mass or moment.
+10. Perform operations with two and three-dimensional vectors, interpret them geometrically, 
+calculate dot products, find vector resolutes, and apply them to motion of a particle.
+11. Solve kinematics problems, and set up and solve problems involving Newton's laws of 
+motion.
+12. Express and explain mathematical techniques and arguments clearly in words.
+Teaching approach
+ENG1090 is taught using a combination of lectures and support classes (tutorials).
+There will be thirty three one-hour lectures with normally three one-hour lectures per week. The 
+ENG1090 lectures at the Malaysia campus are presented in lecture theatre 6006 on Mondays at 4-
+6pm and in lecture theatre 6005 on Tuesdays at 11am-noon. Students are advised to attend every 
+lecture in order to gain full advantage of the teaching and only use the printed materials on Moodle 
+as a fallback to check back on any points that they missed.
+Students are also expected to attend one two-hour support class (tutorial) per week from the 
+second week of semester (commencing Thursday 3 August). These support classes are intended 
+to help students gain assistance with the theory described in lectures and the practice exercises 
+provided on the ‘problem sets’ – see under 'Learning resources' below for additional details. Most 
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+provided on the ‘problem sets’ – see under 'Learning resources' below for additional details. Most 
+students will have eleven support classes for ENG1090 over weeks 2-12.
+ 
+Feedback to you
+Feedback is provided to ENG1090 students during the semester, to assist their learning and help 
+them identify the issues for which they may need to seek further assistance. This includes through:
+●individual and group consultations with staff during the weekly two-hour support classes;
+●written feedback on five short hand-written assignments submitted at some support classes, 
+usually marked and returned at the next class with sample solutions on Moodle;
+●six short quizzes in some support classes with the marked quiz returned at the next class;
+●encouraging students to ask questions during or after lectures;
+●individual or group consultations at the Lecturer’s office during their weekly consultation 
+hours, at other times by appointment via email;
+●prompt responses to administrative and curriculum queries via the ENG1090 discussion 
+groups on Moodle;
+●timely responses by the Lecturer to emails on individual/private matters (only).
+In particular, it is also strongly recommended that all ENG1090 students take full advantage of the 
+individual assistance and feedback provided in the support classes. The style of teaching and 
+learning at university is different from that at school, and students are expected to take 
+responsibility for their own learning – in most cases, . no one will be keeping a close eye on you
+This is not just true in this unit, but also most other units offered at any university! Assistance is 
+available, but you need to seek it out.
+ 
+Assessment summary
+Weekly assignments or quizzes: 40%
+Final examination (3 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taskValueWeek due:Submitted via:
+Quiz 1* (20 mins, on 'Background material')3.75%week 2*support class 1
+Assignment 13.5%week 3support class 2
+Quiz 2 (20 mins, on weeks 1-2)3.75%week 4support class 3
+Assignment 23.5%week 5support class 4
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+Quiz 3** (20 mins, on weeks 3-4)3.75%week 6**Monday 28 August in 6006
+Assignment 33.5%week 7support class 6
+Quiz 4 (20 mins, on weeks 5-6)3.75%week 8support class 7
+Assignment 4***3.5%week 9***support class 8
+Quiz 5 (20 mins, on weeks 7-8)3.75%week 10support class 9
+Assignment 53.5%week 11support class 10
+Quiz 6 (20 mins, on weeks 9-11)3.75%week 12support class 11
+Final examination (3 hours)60%Examination period
+Total assessment100%
+* The first assessment for ENG1090 is a quiz held in the first support class in week 2, covering 
+prerequisite mathematics knowledge (as listed on the 'Background material' sheet on Moodle).
+** As the normal support classes in week 6 fall on university holidays, Quiz 3 will be held at 5.30
+pm in the Monday lecture on that week.
+***  Students whose normal support class falls on a university holiday (such on Friday 22 
+September) must hand in their assignment to the Lecturer by 2.45pm on the previous working day.
+Non-submission of assessed work
+If you are unable to complete any assessed tasks for this unit, for reasons outside of your control, 
+please read carefully the section below on 'Applications for special consideration'. In accordance 
+with University policy, these must be submitted in a timely manner. See also the section 
+'Extensions and penalties' towards the end of this Unit Guide. 
+Use of calculators in ENG1090
+One of the objectives of ENG1090, and indeed university-level studies in general, is to help 
+students improve their knowledge and develop a sound understanding of the material in the 
+syllabus. Final answers for some of the problems covered in ENG1090 can often be obtained 
+using calculators (and/or software such as Mathematica or online resources such as ‘Wolfram 
+Alpha’), but unfortunately that can encourage a misleading and superficial ‘understanding’ of the 
+basis or meaning of that answer. For this reason and others, the use of calculators (and extensive 
+formula sheets) is not encouraged or expected in university-level mathematics units, and they are 
+not permitted in quizzes or the final examination in ENG1090. If you already have a suitable 
+calculator and know how to operate it, you may wish to make use of it (or other software) to double-
+check your answers to questions on the problem sets, but in our experience your effort will be 
+better spent in developing a sound knowledge and understanding by doing calculations by hand 
+initially, and accompanying that with a clear explanation (preferably in English sentences) of how 
+you obtained that answer. Those skills will take you much further.
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+Assessment requirements
+Assessment tasks
+Quizzes and assignments during semester determine 40% of the final unit mark for ENG1090, with 
+ the remaining 60% based on results from the three-hour final examination.
+Students who have attempted this unit previously must complete all assessment tasks again. No 
+marks can be carried across from a previous enrolment in the unit.
+Quizzes
+These are held in weeks 2, 4, 6, 8, 10 and 12 (although in at the start of your normal support class 
+week 6 it will be held earlier, at 5.30pm on the Monday). If you arrive once the quiz has already 
+started then you will have less time to complete it, as to minimise disruption to the class all 
+students must finish the quiz at the same time. Quizzes are 20 minutes in duration, with 5 minutes 
+reading time, and have a short-answer format, sometimes with a few multiple-choice questions. 
+The coverage of each quiz is listed in the 'Assessment summary table' above. The intention of the 
+quizzes is to assist students to keep up with and understand the lecture material, and to provide 
+feedback on their performance. Calculators (or electronic devices of any type) are not permitted at 
+quizzes and no formula sheet is included. Sample solutions are not provided – if you are unsure 
+about the correct answer once your marked quiz is returned, please ask your support-class leader 
+individually to explain how the question should be answered during the support class at which your 
+work is handed back to you.
+Absence from a quiz
+Absence from or arriving too late for any quiz will normally lead to a zero mark recorded for that 
+quiz, unless a Special Consideration application (see below) has been approved by the Lecturer. 
+With sufficient notice, it be possible to arrange that you sit a quiz at a different support class in may 
+the same week, but only when written permission has been granted  by the Lecturer (in in advance
+person or by email). Support-class leaders (tutors) are not authorised to approve exemptions from 
+quizzes.
+Assignments
+These are normally due in weeks 3, 5, 7, 9 and 11 at the start of your normal support class 
+(although Assignment 4 for the Friday support class is due on the Thursday at 2.45pm). The 
+requirements for each assignment will be made available on Moodle at the end of the last week of 
+material that they cover (at 3pm on Friday). The method of submission of assignments is 
+described in detail below under 'Assignment submission' so please read that carefully.
+Marking criteria for assignments
+Assignments for ENG1090 are marked on a range of criteria, including stating relevant reasons 
+behind the process or results used, writing out appropriate and clear steps in the working, doing 
+the working accurately, and then obtaining the correct final answer. All of these aspects are 
+marked individually, and it is not just the final answer that is important. Indeed, it is possible to not 
+pass an assignment by providing a correct answer with little (or an unclear) explanation. 
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+marked individually, and it is not just the final answer that is important. Indeed, it is possible to not 
+pass an assignment by providing a correct answer with little (or an unclear) explanation. 
+Conversely, quite a few (but not all) marks can be obtained when the stated answer is incorrect but 
+where a very clear and correct method was used, with all reasons provided and all appropriate 
+working shown. But if the final answer is incorrect, for whatever reason, the question will not 
+usually be awarded full marks - so check all working carefully, even for previous parts.
+In ENG1090 it is also expected that you will be able to communicate both by using mathematics 
+and by explaining that in written English. Some marks are awarded for each assignment on 
+. An outline of the expectations on this communication skills in explaining the mathematical content
+is provided in the ‘Guidelines for writing mathematics in ENG1090’ (which is available on Moodle). 
+The key point is that it is not only the answer that is important, but also explaining (in sentences) 
+clearly and logically how it was obtained.
+Examination(s)
+The final examination for ENG1090 will be held during the official university examination period at 
+the end of semester. Students must achieve at least 45% in both the total in-semester assessment 
+and the examination components, with an overall mark of at least 50%, to achieve a pass in 
+ The date, time and location of the ENG1090 final examination will be published later in ENG1090.
+the semester. In the meantime you must ensure that you are available for the entire three-week 
+examination period.
+The examination is closed-book, and calculators (of any kind) and summary sheets are NOT 
+. A very short list of useful (unusual) formulae will be provided at the end of the permitted
+examination paper, a copy of which will be provided on Moodle towards the end of semester. 
+However, note that this list will NOT include material that is expected to be well known and 
+understood for this and future units. Further information on the format of the final examination 
+paper for ENG1090 will be made available on Moodle towards the end of semester. In accordance 
+with policy for the engineering mathematics units, two sample examination papers (only) will be 
+provided at that time, one with written solutions. These sample papers will be made available not 
+earlier in the semester.
+ 
+Applications for special consideration
+If you are unable to complete an assignment, quiz or the final examination due to  exceptional
+circumstances, for reasons out of your control, then you may be eligible for Special Consideration. 
+The University has detailed procedures to be followed, see http://www.monash.edu.au/exams
+./special-consideration.html
+For issues related to quizzes and assignments in ENG1090 is important that you contact the 
+ of this unit as soon as practicable, by email or in person. Students with a valid reason for Lecturer
+late submission of an assignment, or for missing a quiz, must provide originals (and a copy) of 
+suitable supporting documentation  of the normal deadline for that work.within two working days
+Applications must be submitted directly to the  but can be sent by email initially and Lecturer
+followed-up by a meeting shortly afterwards. The Lecturer will advise you of the outcome of the 
+Special Consideration application by email, and if applicable will advise how to submit approved 
+late assignments.
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+These procedures are applied strictly for ENG1090 and late applications for Special Consideration 
+are only accepted in exceptional circumstances (such as total incapacity). See also ‘Extensions 
+and penalties’ towards the end of this Unit Guide.
+Special Consideration applications for final end-of-semester examinations are submitted in a 
+different manner, see .http://www.monash.edu.au/exams/special-consideration.html
+Returning assignments
+Return of marked work
+Marked quizzes and assignments are normally returned at your support class following the one at 
+which they were completed or submitted. Your marks will be posted on ‘Grades’ on Moodle at 
+around the same time and you should check regularly that they are entered accurately – and if any 
+have been entered incorrectly you must query them with your tutor . (If marked in a timely manner
+work is consistently being handed back late, or your marks are not posted within a week of 
+receiving your marked work, please advise the Lecturer.)
+If you are unable to collect your work at the usual support class, please ask your tutor at the next 
+class. Any uncollected work can be retrieved from the Lecturer up until after the end of semester 
+the end of the examination period.
+Errors in marking
+Efforts are made to ensure that marks for assignments, quizzes and tests are awarded as 
+consistently as possible across the various support classes (and markers if applicable). If you feel 
+that an error may have been made in the marking of any assessment, for example missed working 
+or incorrect addition of marks, you should discuss that with your support-class leader (tutor) 
+initially. If you are not satisfied with the response by your tutor you may contact either the Campus 
+Coordinator or Chief Examiner of ENG1090 to discuss your concerns.
+Errors in recording grades
+It is also your responsibility to check in a timely manner that the correct mark for the work has 
+been recorded on Moodle, and to query that with your support-class leader initially. In accordance 
+with the relevant Faculty policy, this should be done after the support no later than two weeks 
+class at which that piece of work is normally returned.  
+Assignment submission
+Completed hand-written assignments must normally be handed in to the tutor at the 
+. Separate sheets should be stapled, and each commencement of your assigned support class
+sheet must show your name and student ID. Write and set out your submission neatly.
+While care is taken, always make a copy of your final version prior to submission, for example with 
+a phone camera or a scanner.
+How and where to submit assignments
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Only hard-copy submissions are accepted, normally in person at your support class. Please DO 
+NOT ever email copies to the tutor or Lecturer, DO NOT give them to others to submit on your 
+behalf and DO NOT submit them via the School Office. See below about submitting assignments 
+late, and the penalties that may be applied in that situation.
+Cover sheet
+All assignments must include a completed  official cover sheet showing the and signedday and time
+of your normal support class and the of the class leader. The proforma for this sheet can be name 
+downloaded from the ENG1090 Moodle site. Read the 'Student statement' fully before signing it.
+Academic integrity
+It is expected that all students will complete all assessed work for ENG1090 individually, and in 
+their own words. Among other things, markers will be looking specifically for instances where the 
+wording of submitted work is very similar, including identical errors in algebraic working or logic. 
+Markers may also assess work across multiple support classes. Instances of suspected cheating 
+This may include will be dealt with seriously, in accordance with Faculty and University policies. 
+penalties when other students copy your work, so keep your completed assignment private.
+Submitting early or late assignments
+If you are unable to attend your normal support class for any good reason then your assignment 
+should be submitted in person, and write the date and time of submission on the to the Lecturer 
+cover sheet. See ‘Extensions and penalties’ later in this Unit Guide and, if appropriate, under 
+'Applications for special consideration' above. No responsibility is taken for any assignments that 
+are submitted in any manner other than those specified in this Unit Guide, including by email or 
+being handed to other members of staff.
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Unit schedule
+The table below shows the planned schedule of activities and assessment for this unit but from 
+time to time it may be necessary to adjust this for operational reasons. Please listen for 
+announcements in lectures and/or check official announcements on Moodle regularly.
+WeekLecturesAssessment
+11.1 Basic concepts of functions (revision)
+1.2 Inverse functions
+1.3 Circular functions I (revision)
+None
+21.4 Circular functions II
+1.5 Circular functions III
+1.6 Exponential functions (revision)
+Quiz 1
+(held at normal support class)
+31.7 Logarithmic functions
+2.1 Algebra of complex numbers
+2.2 Polar form of complex numbers
+Assignment 1 due
+(at normal support class)
+42.3 Exponential form
+2.4 De Moivre’s theorem and powers
+2.5 Roots of complex numbers
+Quiz 2
+(held at normal support class)
+53.1 Vector algebra
+3.2 Direction cosines
+3.3 The dot product
+Assignment 2 due
+(at normal support class)
+63.4 Applications of dot product
+      (followed by Quiz 3)
+4.1 Limits of discontinuous functions
+Quiz 3
+(held at Monday lecture)
+74.2 Continuity
+4.3 Infinite limits and limits at infinity
+4.4 Definition of derivative
+Assignment 3 due
+(at normal support class)
+84.5 Techniques of differentiation
+4.6 Implicit differentiation
+4.7 Applications of differentiation I
+Quiz 4
+(held at normal support class)
+94.8 Applications of differentiation II
+5.1 The definite integral
+5.2 The indefinite integral
+Assignment 4 due
+(at normal support class)
+Mid semester (study) break
+105.3 Integration by substitution
+5.4 Integration by partial fractions
+5.5 Applications of integration I
+Quiz 5
+(held at normal support class)
+115.6 Applications of integration II
+6.1 Initial value problems for differential equations
+6.2 DEs with separable variables
+Assignment 5 due
+(at normal support class)
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+126.3 Vector functions
+Revision lecture(s)
+Quiz 6
+(held at normal support class)
+Swot vacNone
+Examination periodFinal examination
+Where a quiz would normally fall on a university holiday (such as Quiz 3 above) then it will be 
+rescheduled, and see the Moodle announcements for details. Assignments due to be submitted on 
+a university holiday (such as Assignment 4 above) must be submitted to the Lecturer by the 
+notified deadline on the previous working day.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+The Moodle page for ENG1090 was completed restructured in 2017 in response to student 
+feedback. The teaching methods of solving problems live in the lecture (by hand), in combination 
+with detailed prepared slides shown on the screen, was originally developed for ENG1090 based 
+on student feedback, as was the recording of lectures (at Clayton). The regular pattern of 
+interspersed quizzes and assignments, and the marking of those within a week, apparently 
+continue to be favoured by many students. At Clayton, the printing all of the ENG1090 teaching 
+materials on Moodle as a spiral-bound book (and selling that to students via the Bookshop) was 
+originally introduced in response to student comments.
+The Unit Coordinator at Clayton examines all of the student SETU comments carefully each year 
+and adjustments to the teaching are often made where the comments and suggestions are 
+educationally sound. Identification of specific issues are particularly appreciated. (That said, it may 
+be better to make comments or raise issues to the end of semester so you may also benefit.)prior 
+If you wish to view how previous students rated this unit, please go to;
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+If you wish to view how previous students rated this unit, please go to;
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+Unit resources
+Learning resources
+Moodle site
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Students must check  for ENG1090 regularly for any announcements and act upon Moodle website
+that information in a timely manner. The online teaching materials and resources for this unit are 
+updated frequently throughout semester.
+Students without their own computer or device, can access these materials via the Monash 
+Library, or at an open-access computer laboratory.
+Prescribed text
+The prescribed textbook for ENG1090 (and the subsequent unit ENG1005) is James, Glyn: 
+,  edition 2015, Pearson/Prentice Hall. Some of the problems Modern Engineering Mathematicsfifth
+on the problem sets (see below) refer to this textbook so it is important to have access to it. Copies 
+are available in the library but with large numbers of students enrolled in ENG1090 and ENG1005 
+this semester it may be more convenient to have your own copy (and then perhaps sell it later).
+Lecture notes
+Copies of the lecture slides for ENG1090 are made available on Moodle. Note that the slides do 
+not provide a complete record of the lecture as they do not include the additional worked examples 
+that will be completed by the lecturer (live and by hand) on the screen during the lecture. Rather, 
+the intention of providing the slides in advance is to enable students to annotate their copy during 
+the lecture and to write in the worked examples for themselves. The material covered is quite 
+sequential and it is likely that students will fall behind quickly if they miss more than a lecture or 
+two in a row. You are therefore actively encouraged to keep up with the lectures and assessments.
+Problem sets
+A total of six ‘problem sets’, with practice exercises for the material covered in lectures, are 
+provided during the semester – one for each of the six major topic areas. These are included in the 
+book of lectures slides or can be downloaded from Moodle. Some questions from the textbook are 
+included on these problem sets, especially on applications in engineering contexts, so students will 
+need to have access to that book. Additional exercises can be found in the relevant sections of the 
+textbook, or in similar books in the library (eg on the same shelf).
+Weekly support classes
+Two-hour weekly support classes (or 'tutorials') for ENG1090 commence from the second week of 
+semester. If you have any difficulties with any material covered in lectures, or questions on the 
+problem sets, you should actively seek assistance in your support class or approach the lecturer. 
+Try all of the questions for yourself first but ask for help if you are having trouble getting started. 
+Short final answers for most of the exercises are provided but the intention is that further individual 
+assistance on to undertake and complete a problem is made available during each support how 
+class. Take advantage of that assistance in a timely manner. Note that if you leave all of your 
+queries to late in semester there may be insufficient time or support available to have them all 
+answered before the final examination. Therefore, it is advised that you address any strongly 
+difficulties .as soon as they become apparent
+Support class sheets
+‘Support class sheets’ will be provided on Moodle weekly, as a guide to the planned activities for 
+each support class. These identify a small number of problems that are recommended (and 
+expected) that all students will complete during that class and over the subsequent week. All of the 
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+expected) that all students will complete during that class and over the subsequent week. All of the 
+other questions on problem sets should be .completed in your own private study time
+Monash Library Unit Reading List (if applicable to the unit):
+http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, refer to the Higher Education Administrative 
+Information for Providers, Chapter 18, Incidental Fees at http://education.gov.au/help-resources-
+providers
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies.Contact your tutor if you need advice and see the range of services available at:
+http://www.monash.edu/students
+http://www.monash.edu.my/student-services/ 
+Monash University Library
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or or the library tab in http://www.monash.edu/libraryhttp://www.lib.monash.edu.my/ 
+ portal for more information.http://my.monash.edu
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+For students at Malaysia campus, please contact the Student Wellbeing and Activities Office 
+located in Building 2, Level 2, Room 2238.
+http://www.monash.edu.my/student-services/wellbeing-and-activities/disability-support
+Plagiarism, cheating and collusion
+Monash University has strict policies on plagiarism, cheating and collusion, and the penalties can 
+be severe. Full details of the policy can be found at:
+http://www.policy.monash.edu/policy-bank/academic/education/conduct/student-academic-integrity-
+policy.html
+Extensions and penalties
+For details on how a Special Consideration application must be submitted, please see that section 
+earlier in this unit guide.
+Other late assignment submissions for ENG1090 may be accepted but will be penalised at 10% of 
+the maximum mark per calendar day (or part thereof), in accordance with the relevant Faculty 
+policy on ‘. If you are unable to attend Penalty for late submission of work for assessment policy’
+your normal support class for any good reason then your assignment should be submitted directly 
+; either in person or under their office door (see the contact details early in this unit to the Lecturer
+guide), preferably with a concurrent follow-up email as a timestamp. If an assignment is submitted 
+after any students have received back their marked work, or once sample assignment solutions 
+have been published on Moodle, then that work may be marked for feedback purposes, but no 
+marks will be recorded or credited for that piece of assessment.
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+1.  
+2.  
+3.  
+Other tutors or staff are  authorised to approve extensions to assignment deadlines (or absence not
+from quizzes) and tutors must apply the normal faculty (10% per calendar day) penalty strictly to all 
+late assignments that they receive directly.
+If you have any queries in relation to extensions or penalties, please contact the Campus 
+Coordinator or Chief Examiner .in a timely manner
+ 
+ 
+ 
+Other unit information
+Accreditation information for the Malaysia campus
+Academic Overview
+Program Education Objectives
+The School of Engineering expects to produce graduates, who
+have successful careers in engineering
+engage in multicultural and globalized engineering teams
+demonstrate career progression towards senior management and leadership positions
+Program Outcomes (POs)
+The general engineering discipline has developed a set of Program Outcomes (POs) for all of its 
+graduates based on the competencies required by the Malaysian Engineering Accreditation 
+Council.
+Program OutcomesActivities used in this unit to 
+develop program outcomes
+PO1 Engineering knowledge:
+Apply knowledge of mathematics, natural science, engineering 
+fundamentals and specialization in engineering to the solution 
+of complex engineering problems.
+Assignments, quizzes and 
+the final examination.
+PO2 Problem solving and analysis:    
+Identify, formulate, survey research literature and analyze 
+complex engineering problems reaching substantiated 
+conclusions using first principles of mathematics, natural 
+sciences and engineering sciences.
+N/A
+PO3 Design/development of solutions:N/A
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Design solutions for complex engineering problems and design 
+systems, components or processes that meet specified needs 
+with appropriate consideration for public health and safety, 
+cultural, societal, and environmental considerations.
+PO4 Research-based investigation of systems:
+                                                 
+Conduct investigations of complex problems using research-
+based knowledge and research methods including design of 
+experiments, analysis and interpretation of data, and synthesis 
+of information to provide valid conclusions.
+N/A
+PO5                          Modern tool usage:
+Create, select and apply appropriate techniques, resources, 
+and modern engineering and IT tools, including prediction and 
+modelling, to complex engineering problems, with an 
+understanding of the limitations.
+N/A
+PO6                    Engineers and society:
+Apply reasoning informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural issues and the 
+consequent responsibilities relevant to professional 
+engineering practice and solutions to complex engineering 
+problems.
+N/A
+PO7       Environment and sustainability:
+Understand and evaluate the sustainability and impact of 
+professional engineering work in the solution of complex 
+engineering problems in societal and environmental contexts.
+N/A
+PO8                             Professional ethics:
+Apply ethical principles and commit to professional ethics and 
+responsibilities and norms of engineering practice.
+N/A
+PO9                            Communication:
+Communicate effectively on complex engineering activities with 
+the engineering community and with society at large, such as 
+being able to comprehend and write effective reports and 
+design documentation, make effective presentations, and give 
+and receive clear instructions.
+N/A
+PO10               Individual and team work:
+Function effectively as an individual, and as a member or 
+leader in diverse teams and in multi-disciplinary settings.
+N/A
+PO11                       Lifelong learning:
+Recognize the need for, and have the preparation and ability to 
+engage in independent and life-long learning in the broadest 
+context of technological change.
+N/A
+PO12 Project management and finance:
+Demonstrate knowledge and understanding of engineering 
+management principles and economic decision-making and 
+apply these to one’s own work, as a member and leader in a 
+team, to manage projects and in multidisciplinary environments.
+N/A
+Learning Outcomes
+ 
+OBE requirements to Learning Outcomes (LOs)
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10.  
+11.  
+12.  
+Learning Outcomes (LOs) for 
+Outcome Based Education 
+(OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO1 Apply suitable mathematical 
+techniques to solve problems 
+involving Geometry and Calculus.
+:Geometry
+●
+Vectors: dot products
+:Calculus
+●
+Functions and their graphs
+●
+Complex numbers
+●
+Limits and continuity
+●
+Differentiation
+●
+Integration
+●
+Solving differential equations
+Demonstrate understanding of the properties of 
+common functions and their graphs, use composition 
+of functions, and inverse functions; use trigonometric 
+functions to model periodic behaviour.
+Represent complex numbers in Cartesian, polar and 
+exponential forms, and on the complex plane.
+Perform arithmetic and algebra on complex 
+numbers, including finding powers and complex 
+roots of polynomials.
+Demonstrate understanding of the concepts of limit, 
+continuity, differentiable and integrable functions.
+Evaluate limits of piecewise functions, and of rational 
+functions at infinity.
+Use differentiation rules to find derivatives of implicit 
+and explicit functions.
+Apply differentiation techniques to related rates of 
+change problems and optimisation problems.
+Use simple integration techniques to find definite and 
+indefinite integrals, including by substitution and 
+partial fractions.
+Apply integration techniques to calculate areas, 
+average values, volumes, centres of mass, moment, 
+and work.
+Perform operations with two and three-dimensional 
+vectors, interpret them geometrically, calculate dot 
+products, find vector resolute, and apply them to 
+motion of a particle.
+Solve kinematics problems, and set up and solve 
+problems involving Newton’s laws of motion.
+Express and explain mathematical techniques and 
+arguments clearly in words.
+Relationship between Unit Learning Outcomes and Program Outcomes
+PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√
+Relationship between OBE Learning Outcomes and Assessments
+LO1
+Final Exam: 60%C3
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Quiz 1: 3.75%C3
+Quiz 2: 3.75%C3
+Quiz 3: 3.75%C3
+Quiz 4: 3.75%C3
+Quiz 5: 3.75%C3
+Quiz 6: 3.75%C3
+Assignment 1: 3.5%C3
+Assignment 2: 3.5%C3
+Assignment 3: 3.5%C3
+Assignment 4: 3.5%C3
+Assignment 5: 3.5%C3
+Note: Total of 5 Assignments and 6 Quizzes = 40%
+Bloom’s Taxonomy
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves  and the development of intellectual skills. This includes cognitiveknowledge
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the  with which someone deals with things emotionally, affective attitudes
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the table above:
+Cognitive
+LevelCategory
+C1Knowledge: Remembers previously learned material
+C2Comprehension: Grasps the meaning of material (lowest level of understanding)
+C3
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Application: Uses learning in new and concrete situations (higher level of 
+understanding)
+C4Analysis: Understands both the content and structure of material
+C5Synthesis: Formulates new structures from existing knowledge and skills
+C6Evaluation: Judges the value of material for a given purpose
+  
+  
+©Copyright  Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ENG1090 Foundation mathematics - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------

@@ -1,0 +1,1187 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE3121
+Engineering electromagnetics
+Semester 2, 2017
+Table of contents
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          4
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                      11
+Learning outcomes                                                                                                                        11
+Your feedback to us                                                                                                                       11
+Previous student evaluations of this unit                                                                                   11
+Unit schedule - Clayton campus                                                                                                       12
+Assessment requirements                                                                                                                 12
+Assessment summary                                                                                                                   12
+Hurdle requirements                                                                                                                      13
+Assessment tasks                                                                                                                          13
+Examination material or equipment                                                                                           14
+Section B: For Malaysia students                                                                                                      15
+Academic Overview                                                                                                                          16
+Teaching and learning method                                                                                                      17
+Learning outcomes                                                                                                                    17
+OBE requirements to learning outcomes (LOs)                                                                     18
+Relationship between unit learning outcomes and program outcomes                                 18
+Your feedback to us                                                                                                                       19
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Previous student evaluations of this unit                                                                                   19
+Unit schedule - Malaysia campus                                                                                                     20
+Assessment Summary                                                                                                                   20
+Hurdle requirements                                                                                                                  20
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                21
+Relationship between Assessments and Complex Problems/Activities                                    22
+Assessment requirements                                                                                                                 22
+Assessment tasks                                                                                                                          22
+Examination material or equipment                                                                                           24
+Section C: All students                                                                                                                      25
+Plagiarism and collusion                                                                                                                25
+Referencing requirements                                                                                                             25
+Assignment submission                                                                                                                 25
+Feedback to you                                                                                                                            25
+Learning resources                                                                                                                        25
+Required resources                                                                                                                       26
+Other information                                                                                                                              26
+Policies                                                                                                                                          26
+Graduate Attributes Policy                                                                                                             26
+Student Charter                                                                                                                             26
+Student Services                                                                                                                           26
+Monash University Library                                                                                                             26
+Disability Support Services                                                                                                            27
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit explores electrostatic, magnetostatic and electromagnetic fields, and their use to create 
+devices and systems. Mathematical concepts are used to describe the fields, and examine the 
+basic laws governing the generation of fields and their interactions with dielectric and magnetic 
+materials. This study results in Maxwell's field equations, and related Laplace, Poisson and 
+continuity equations. The real life applications of electromagnetic fields in radio communications 
+and devices such as scanners, printers and mass spectrometers are also explored in this unit. 
+Finally, plane wave propagation is analysed briefly as an extension of Maxwell's field equations.
+Mode of delivery
+Malaysia (Day)
+Clayton (Day)
+Workload requirements
+2 hours lectures, 3 hours laboratories/tutorials and 7 hours private study per week.
+Unit relationships
+ 
+Prerequisites
+ENG2005
+Prohibitions
+ECE2021
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Professor Malin Premaratne
+Email: malin.premaratne@monash.edu
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Professor Malin Premaratne
+ Email: malin.premaratne@monash.edu
+ 82114Building: , Room: 
+Consultation hours: 12pm to 1pm on Fridays (by email appointment)
+Lecturer(s) Professor Malin PremaratneName: 
+ Email: malin.premaratne@monash.edu
+ 82, Room: 114Building: 
+Consultation hours: 12pm to 1pm on Fridays (by email appointment)
+ 
+  
+Malaysia campus
+Campus Coordinator Dr Tridib SahaName: 
+ Email: tridib.saha@monash.edu
+ 2 2-4-39BBuilding: , Room: 
+Consultation hours: 1pm to 2 pm on Mondays (by email appointment)
+Lecturer(s)Name:  Dr Tridib Saha
+Email: tridib.saha@monash.edu
+Building: 2, Room: 2-4-39B
+Consultation hours: 1pm to 2 pm on Mondays (by email appointment)
+ 
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of 
+competency
+Indicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the 
+engineering discipline 
+at a phenomenological 
+level, applying 
+sciences and 
+engineering 
+fundamentals to 
+systematic 
+investigation, 
+interpretation, analysis 
+and innovative solution 
+of complex problems 
+and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological level, 
+applying sciences and engineering 
+fundamentals to systematic 
+investigation, interpretation, analysis 
+and innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+1,2,3,4,5
+1.2 Develops and 
+fluently applies relevant 
+investigation analysis, 
+interpretation, 
+assessment, 
+characterisation, 
+prediction, evaluation, 
+modelling, decision 
+making, measurement, 
+evaluation, knowledge 
+management and 
+communication tools 
+and techniques 
+pertinent to the 
+engineering discipline.
+a) Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering discipline.
+1,2,3,4,5
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+1.3 In-depth 
+understanding of 
+specialist bodies of 
+knowledge within the 
+engineering discipline.
+a) Proficiently applies advanced 
+technical knowledge and skills in at 
+least one specialist practice domain of 
+the engineering discipline.
+1,2,3,4,5
+1.4 Discernment of 
+knowledge 
+development and 
+research directions 
+within the engineering 
+discipline.
+a) Identifies and critically appraises 
+current developments, advanced 
+technologies,emerging issues and 
+interdisciplinary linkages in at least 
+one specialist practice domain of the 
+engineering discipline.
+1,2,3,4,5
+b) Interprets and applies selected 
+research literature to inform 
+engineering application in at least one 
+specialist domain of the engineering 
+discipline.
+1,2,3,4,5
+1.5 Identifies and 
+applies systematic 
+principles of 
+engineering design 
+relevant to the 
+engineering discipline.
+a) Identifies and applies systematic 
+principles of engineering design 
+relevant to the engineering discipline.
+4,5
+b) Identifies and understands the 
+interactions between engineering 
+systems and people in the social, 
+cultural, environmental, commercial, 
+legal and political contexts in which 
+they operate, including both the 
+positive role of engineering in 
+sustainable development and the 
+potentially adverse impacts of 
+engineering activity in the engineering 
+discipline.
+4,5
+1.6 Understanding of 
+the scope, principles, 
+norms, accountabilities 
+and bounds of 
+sustainable 
+engineering practice in 
+the specific discipline.
+a) Appreciates the basis and 
+relevance of standards and codes of 
+practice, as well as legislative and 
+statutory requirements applicable to 
+the engineering discipline.
+4,5
+b) Appreciates the principles of safety 
+engineering, risk management and the 
+health and safety responsibilities of 
+the professional engineer, including 
+legislative requirements applicable to 
+the engineering discipline.
+4,5
+c) Appreciates the social, 
+environmental and economic 
+principles of sustainable engineering 
+practice.
+1,2,3,4,5
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+d) Understands the fundamental 
+principles of engineering project 
+management as a basis for planning, 
+organising and managing resources.
+4,5
+2. Engineering application ability
+2.1 Application of 
+established 
+engineering methods to 
+complex engineering 
+problem solving.
+a) Identifies, discerns and 
+characterises salient issues, 
+determines and analyses causes and 
+effects, justifies and applies 
+appropriate simplifying assumptions, 
+predicts performance and behaviour, 
+synthesises solution strategies and 
+develops substantiated conclusions.
+1,2,4,5
+b) Ensures that all aspects of an 
+engineering activity are soundly based 
+on fundamental principles - by 
+diagnosing, and taking appropriate 
+action with data, calculations, results, 
+proposals, processes, practices, and 
+documented information that may be 
+ill-founded, illogical, erroneous, 
+unreliable or unrealistic.
+1,2,3,4,5
+c) Competently addresses 
+engineering problems involving 
+uncertainty, ambiguity, imprecise 
+information and wide-ranging and 
+sometimes conflicting technical and 
+non-technical factors.
+2,4,5
+h) Identifies, quantifies, mitigates and 
+manages technical, health, 
+environmental, safety and other 
+contextual risks associated with 
+engineering application in the 
+designated engineering discipline.
+4,5
+2.2 Fluent application 
+of engineering 
+techniques, tools and 
+resources.
+a) Proficiently identifies, selects and 
+applies the materials, components, 
+devices, systems, processes, 
+resources, plant and equipment 
+relevant to the engineering discipline.
+1,2,4,5
+b) Constructs or selects and applies 
+from a qualitative description of a 
+phenomenon, process, system, 
+component or device a mathematical, 
+physical or computational model 
+based on fundamental scientific 
+principles and justifiable simplifying 
+assumptions.
+1,2,4,5
+c) Determines properties, 
+performance, safe working limits, 
+failure modes, and other inherent 
+parameters of materials, components 
+and systems relevant to the 
+engineering discipline.
+1,2,4,5
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+d) Applies a wide range of 
+engineering tools for analysis, 
+simulation, visualisation, synthesis 
+and design, including assessing the 
+accuracy and limitations of such tools, 
+and validation of their results.
+1,2,4,5
+e) Applies formal systems engineering 
+methods to address the planning and 
+execution of complex, problem solving 
+and engineering projects.
+1,2,4,4,5
+f) Designs and conducts experiments, 
+analyses and interprets result data 
+and formulates reliable conclusions.
+1,2,5
+g) Analyses sources of error in applied 
+models and experiments; eliminates, 
+minimises or compensates for such 
+errors; quantifies significance of errors 
+to any conclusions drawn.
+1,2,4,5
+h) Safely applies laboratory, test and 
+experimental procedures appropriate 
+to the engineering discipline.
+4,5
+2.3 Application of 
+systematic engineering 
+synthesis and design 
+processes.
+a) Proficiently applies technical 
+knowledge and open ended problem 
+solving skills as well as appropriate 
+tools and resources to design 
+components, elements, systems, 
+plant, facilities and/or processes to 
+satisfy user requirements.
+1,2,3,4,5
+2.4 Application of 
+systematic approaches 
+to the conduct and 
+management of 
+engineering projects.
+a) Contributes to and/or manages 
+complex engineering project activity, 
+as a member and/or as the leader of 
+an engineering team.
+5
+b) Seeks out the requirements and 
+associated resources and realistically 
+assesses the scope, dimensions, 
+scale of effort and indicative costs of a 
+complex engineering project.
+5
+3. Professional and personal attributes
+3.1 Ethical conduct and 
+professional 
+accountability.
+a) Demonstrates commitment to 
+uphold the Engineers Australia - Code 
+of Ethics, and established norms of 
+professional conduct pertinent to the 
+engineering discipline
+5
+b) Understands the need for due-
+diligence in certification, compliance 
+and risk management processes.
+5
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+c) Understands the accountabilities of 
+the professional engineer and the 
+broader engineering team for the 
+safety of other people and for 
+protection of the environment.
+5
+d) Is aware of the fundamental 
+principles of intellectual property rights 
+and protection.
+5
+3.2 Effective oral and 
+written communication 
+in professional and lay 
+domains.
+a) Is proficient in listening, speaking, 
+reading and writing English
+5
+b) Prepares high quality engineering 
+documents such as progress and 
+project reports, reports of 
+investigations and feasibility studies, 
+proposals, specifications, design 
+records, drawings, technical 
+descriptions and presentations 
+pertinent to the engineering discipline.
+5
+3.3 Creative, innovative 
+and pro-active 
+demeanour.
+a) Applies creative approaches to 
+identify and develop alternative 
+concepts, solutions and procedures, 
+appropriately challenges engineering 
+practices from technical and non-
+technical viewpoints; identifies new 
+technological opportunities.
+5
+3.4 Professional use 
+and management of 
+information.
+a) Is proficient in locating and utilising 
+information - including accessing, 
+systematically searching,analysing, 
+evaluating and referencing relevant 
+published works and data; is proficient 
+in the use of indexes, bibliographic 
+databases and other search facilities.
+5
+b) Critically assesses the accuracy, 
+reliability and authenticity of 
+information.
+5
+3.5 Orderly 
+management of self, 
+and professional 
+conduct.
+b) Understands the importance of 
+being a member of a professional and 
+intellectual community,learning from 
+its knowledge and standards, and 
+contributing to their maintenance and 
+advancement.
+5
+c) Demonstrates commitment to life-
+long learning and professional 
+development.
+5
+d) Manages time and processes 
+effectively, prioritises competing 
+demands to achieve personal,career 
+and organisational goals and 
+objectives.
+5
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+e) Thinks critically and applies an 
+appropriate balance of logic and 
+intellectual criteria to analysis,
+judgement and decision making.
+5
+3.6 Effective team 
+membership and team 
+leadership.
+a) Understands the fundamentals of 
+team dynamics and leadership.
+5
+b) Functions as an effective member 
+or leader of diverse engineering 
+teams, including those with multi-level, 
+multi-disciplinary and multi-cultural 
+dimensions.
+5
+c) Earns the trust and confidence of 
+colleagues through competent and 
+timely completion of tasks.
+5
+d) Recognises the value of alternative 
+and diverse viewpoints, scholarly 
+advice and the importance of 
+professional networking.
+5
+e) Confidently pursues and discerns 
+expert assistance and professional 
+advice.
+5
+Teaching and learning method
+The teaching is based on lectures and tutorial which are coupled with the laboratory classes as 
+scheduled in the moodle site.
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Apply knowledge of mathematics to examine the behaviour of electric and magnetic fields 
+and relate them to suitable applications.
+2. Interpret Maxwell's equations and associated Laplace, Poisson and continuity equations 
+using mathematical principles.
+3. Describe electric and magnetic properties of metals, dielectrics and semiconductors.
+4. Select and use appropriate tools to complete electrical and magnetic fields related 
+laboratory tasks.
+5. Communicate their work effectively in teams.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+This is the first time this unit is offered so the unit is designed from ground up. Any feedback is 
+welcomed to improve the delivery of the content and to enhance the learning.
+Student feedback has highlighted the following strength(s) in this unit:
+This is the first time this unit is offered so the unit is designed from ground up. Any feedback is 
+welcomed to improve the delivery of the content and to enhance the learning.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+Week 1 - Lectures only. Lab time will be used to demonstrate some cool experiments.
+Week 2 to 11 - Lectures, Tutorial and Laboratories as per schedule of each student.
+Week 12 - Lectures and Tutorial time. No laboratory classes.
+Week 7 - there will be a class test of 10% during the first hour of the lecture time.
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment 
+task
+ValueDue date
+Laboratorytotal labs sum to 30% of the final 
+mark.
+one week after the laboratory 
+session.
+Class Test10% of the final markJust after the test is conducted.
+Final exam60%To be advised
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment tasks
+Assessment title: Laboratory
+ 2hr Laboratory classes starting from 2nd week of the semester. Students must Mode of delivery:
+attend the allocated laboratory session and complete the allocated tasks. No marks will be given if 
+students attend unallocated laboratory classes.
+The students must submit the laboratory report within one week of completing the Details of task: 
+laboratory. The marks will be made available through Moodle within 2 weeks of completing 
+laboratory. The total weight for all the laboratory exercises constitute 30% of the final mark.
+From second week onwards - weeklyRelease dates (where applicable): 
+ 10000Word limit (where applicable):
+one week after the laboratory session. Due date: 
+total labs sum to 30% of the final mark. Value: 
+ReportPresentation requirements: 
+Hurdle requirements are for the total lab component and Hurdle requirements (where applicable): 
+not for an individual lab component.
+The laboratory are done as a group and Individual assessment in group tasks (where applicable): 
+the marks will be given to each member based on the report provided.
+There is a marking scheme for each laboratory which available for instructors Criteria for marking: 
+only.
+ none.Additional remarks:
+ 
+Assessment title: Class Test
+ 1hr examination in 7th week during first hour of the lecture.Mode of delivery:
+Set of problems very much similar to the final examination.Details of task: 
+7 WeekRelease dates (where applicable): 
+ 10000Word limit (where applicable):
+Just after the test is conducted. Due date: 
+10% of the final markValue: 
+NonePresentation requirements: 
+Hurdle requirements (where applicable): None. The both laboratory and class test are combined 
+when hurdles are applied.
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+NAIndividual assessment in group tasks (where applicable): 
+A marking scheme is provided for this test.Criteria for marking: 
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+A marking scheme is provided for this test.Criteria for marking: 
+ none.Additional remarks:
+ 
+Final examExam title: 
+60%Weighting: 
+2hrsLength: 
+ closed bookType (Open/closed book):
+ 45%Hurdle requirements (where applicable):
+Faculty approved calculators are allowed.Electronic devices allowed: 
+The formulae sheet will be provided.Remarks (where applicable): 
+ 
+Examination material or equipment 
+Faculty approved calculators and formulae sheet available in the moodle site are allowed in the 
+exam. The latter sheet will be printed at the end of the final exam paper.
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Section B: For Malaysia students
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce  Electrical and Computer Systems Engineering 
+graduates, who are:
+1. competent in engineering Electrical and Computer Systems Engineering 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of  Electrical and Computer Systems Engineering 
+Program Outcomes (POs) for all of its graduates based on the competencies required by the 
+Malaysian Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Electrical and Computer Systems 
+ Apply Engineering Knowledge:Engineering 
+knowledge of mathematics, natural science, 
+engineering fundamentals and specialisation 
+in  Electrical and Computer Systems 
+engineering to the solution of Engineering 
+complex engineering problems
+Cognitive:  Lab experiments, class test, and 
+final exam
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse complex
+Electrical and Computer Systems Engineering 
+engineering problems reaching substantiated 
+conclusions using first principles of 
+mathematics, natural sciences and 
+engineering sciences
+Cognitive: Class test and final exam
+PO3  Design/Development of Solutions:
+Design solutions for complex Electrical and 
+engineering Computer Systems Engineering 
+problems and design systems, components or 
+processes that meet specified needs.
+Cognitive: Class test, and final exam
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex Electrical and 
+engineering Computer Systems Engineering 
+problems using research-based knowledge 
+and research methods including design of 
+experiments, (analysis and interpretation of 
+data, and synthesis of information to provide 
+valid conclusions.
+Cognitive: 
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex Electrical 
+and Computer Systems Engineering 
+engineering problems, with an understanding 
+of the limitations
+Cognitive: 
+Psychomotor: Lab experiments
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Electrical and 
+engineering Computer Systems Engineering 
+problems
+Affective: 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complex Electrical and 
+engineering Computer Systems Engineering 
+problems in environmental contexts.
+Cognitive: 
+Affective: 
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate effectively Communication:
+on complex Electrical and Computer Systems 
+engineering activities with the Engineering 
+engineering community and with society at 
+large, such as being able to comprehend and 
+write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective: 
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective: 
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective: 
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: 
+Teaching and learning method
+The teaching approach for this unit is primarily problem-based learning. The teaching is based on 
+lectures and tutorials which are coupled with the laboratory classes as scheduled in the moodle 
+site.
+Learning outcomes
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+On successful completion of this unit, students will be able to:
+1. Apply knowledge of mathematics to examine the behaviour of electric and magnetic fields 
+and relate them to suitable applications.
+2. Interpret Maxwell's equations and associated Laplace, Poisson and continuity equations 
+using mathematical principles.
+3. Describe electric and magnetic properties of metals, dielectrics and semiconductors.
+4. Select and use appropriate tools to complete electrical and magnetic fields related 
+laboratory tasks.
+5. Communicate their work effectively in teams.
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome 
+Based Education (OBE) requirements 
+Handbook Learning Outcomes (LOs) 
+LO1) Apply knowledge of mathematics, 
+physics and engineering fundamentals to 
+solving complex problems
+LO1) Apply knowledge of mathematics to 
+examine the behaviour of electric and 
+magnetic fields and relate them to suitable 
+applications.
+LO2) Interpret solutions to complex 
+electromagnetic problems using 
+mathematics, physics and other equations 
+LO2) Interpret Maxwell's equations and 
+associated Laplace, Poisson and continuity 
+equations using mathematical principles.
+LO3) Design solutions for complex 
+engineering problems in electromagnetism by 
+interpreting the electric and magnetic 
+properties of metals, dielectrics and 
+semiconductors
+LO3) Describe electric and magnetic 
+properties of metals, dielectrics and 
+semiconductors.
+LO4) Select and use appropriate software 
+and hardware tools to demonstrate related 
+laboratory tasks
+LO4) Select and use appropriate tools to 
+complete electrical and magnetic fields related 
+laboratory tasks.
+LO5) Communicate technical contents related 
+to electromagnetic theory effectively 
+individually and in a group 
+LO5) Communicate their work effectively in 
+teams.
+Relationship between unit learning outcomes and program outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√ 
+LO2√ 
+LO3√ 
+LO4√ 
+LO5√ 
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Keys
+No Emphasis
+√ Emphasized and assessed in the unit 
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+This is the first time this unit is being offered. So, the unit has been designed from ground up. Any 
+feedback is appreciated to improve the delivery of the content and to enhance the learning 
+experience.
+Student feedback has highlighted the following strength(s) in this unit:
+This is the first time this unit is being offered. So, the unit has been designed from ground up. Any 
+feedback is appreciated to improve the delivery of the content and to enhance the learning 
+experience.
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Unit schedule - Malaysia campus
+Week 1 - Lectures only.
+Week 2 to 11 - Lectures, Tutorial and Laboratories as per schedule of each student.
+Week 12 - Lectures and Tutorial time. No laboratory classes.
+Week 7 -  1 hour class test of 10% during lecture.
+Assessment Summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Laboratory 30 %One week after the laboratory session. 
+Class test10 %Just after the test is conducted. 
+Final Exam60 %To be advised.
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+No.Learning OutcomesAssessment
+LabsMid 
+sem 
+test
+Final 
+exam
+1Apply knowledge of mathematics, physics and engineering 
+fundamentals to solving complex problems
+C3C6
+2Interpret solutions to complex electromagnetic problems 
+using mathematics, physics and other equations 
+C3C6
+3Design solutions for complex engineering problems in 
+electromagnetism by interpreting the electric and magnetic 
+properties of metals, dielectrics and semiconductors
+C3C4C6
+4Select and use appropriate software and hardware tools to 
+demonstrate related laboratory tasks
+P4
+5Communicate technical contents related to electromagnetic 
+theory effectively individually and in a group 
+A2
+Relationship between Assessments and Complex Problems
+/Activities
+AssessmentComplex ProblemsComplex Activities
+1Laboratoryxxxx
+2Class testxxxx
+3Final examxxxx
+Assessment requirements
+Assessment tasks
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+Assessment title:  Laboratory
+ Mode of delivery:2hr Laboratory classes starting from 2nd week of the semester. Students must 
+attend the allocated laboratory session and complete the allocated tasks. No marks will be given if 
+students attend unallocated laboratory classes.
+ Details of task:The students must submit the laboratory report within one week of completing the 
+laboratory. The marks will be made available through Moodle within 2 weeks of completing 
+ laboratory. The total weight for all the laboratory exercises constitute 30% of the final mark.
+ From second week onwards - weeklyRelease dates (where applicable): 
+  10000Word limit (where applicable): 
+  one week after the laboratory session. Due date: 
+  total lab sums up to 30 % of final marksValue: 
+  ReportPresentation requirements: 
+Hurdle requirements (where applicable):  Hurdle requirements are for the total lab component and 
+not for an individual lab component.
+  Individual assessment in group tasks (where applicable): The laboratory are done as a group and 
+the marks will be given to each member based on the report provided.
+Criteria for marking:  There is a marking scheme for each laboratory which available for instructors 
+only.
+ None.Additional remarks: 
+Assessment title:  Class test
+ Mode of delivery:1hr examination in 7th week during lecture hours.
+ Details of task:Set of problems very much similar to the final examination.
+ Week 7Release dates (where applicable): 
+  10000Word limit (where applicable): 
+  Just after the test has concludedDue date: 
+  10 % of the final mark.Value: 
+  None.Presentation requirements: 
+Hurdle requirements (where applicable):  None. The both laboratory and class test are combined 
+when hurdles are applied.
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+  None.Individual assessment in group tasks (where applicable): 
+A marking scheme will be provided.Criteria for marking:  
+ None.Additional remarks: 
+ Final ExamExam title: 
+ 60 %Weighting: 
+2 hrsLength: 
+ Closed bookType (Open/closed book): 
+  45 %Hurdle requirements (where applicable): 
+ Electronic devices allowed: Faculty approved calculators are allowed.
+ Remarks (where applicable): The formulae sheet will be provided.
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+ Remarks (where applicable): The formulae sheet will be provided.
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+Only faculty approved calculators will be allowed.
+Examination material or equipment
+Faculty approved calculators and formulae sheet available in the moodle site are allowed in the 
+exam. The latter sheet will be printed at the end of the final exam paper.
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+Section C: All students 
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+All formulae and other details not covered in the lectures must be either derived from fundamentals 
+or referred published literature.
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Please email a copy of the laboratory reports within one week of the laboratory completion to the 
+demonstrator assigned to your class.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+All the laboratory report marks and class test results will be made available within 2 weeks of 
+completing the laboratory assignment/test.
+Learning resources
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+Learning resources
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE3121 Engineering electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------

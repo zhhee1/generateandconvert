@@ -1,0 +1,469 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE5884
+Wireless communications
+Semester 2, 2017
+Table of contents
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                       4
+Campus Coordinator(s)                                                                                                                4
+Academic Overview                                                                                                                            5
+Engineers Australia Stage 2 competencies                                                                                     5
+Teaching and learning method                                                                                                        5
+Learning outcomes                                                                                                                          5
+Your feedback to us                                                                                                                         6
+Previous student evaluations of this unit                                                                                     6
+Unit schedule                                                                                                                                      7
+Assessment requirements                                                                                                                   8
+Assessment summary                                                                                                                     8
+Assessment tasks                                                                                                                            8
+Examination(s)                                                                                                                               10
+Returning assignments                                                                                                                  10
+Resubmission of assignments                                                                                                       10
+Plagiarism and collusion                                                                                                                10
+Referencing requirements                                                                                                             11
+Assignment submission                                                                                                                 11
+Feedback to you                                                                                                                            11
+Learning resources                                                                                                                        12
+Required resources                                                                                                                       12
+Other information                                                                                                                              12
+Policies                                                                                                                                          12
+Graduate Attributes Policy                                                                                                             12
+Student Charter                                                                                                                             12
+Student Services                                                                                                                           12
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Monash University Library                                                                                                             13
+Disability Support Services                                                                                                            13
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit introduces the fundamentals of wireless communications and networking. Students will 
+learn about the characteristics of wireless channels, coding, modulation techniques, methods of 
+combating fading including space, time and frequency diversity, multiple access techniques and 
+cellular networks.
+A selection of more advanced topics will also be covered including MIMO systems, heterogeneous 
+networks, cognitive and cooperative communications.
+Mode of delivery
+Clayton (Day)
+Workload requirements
+3 hours lectures/tutorials, 3 hours laboratory and 6 hours of private study per week.
+Unit relationships
+ 
+Prerequisites
+None
+Prohibitions
+None
+Co-requisites
+None
+Chief Examiner(s)
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Dr Nikola Zlatanov
+Email: Nikola.Zlatanov@monash.edu
+Campus Coordinator(s)
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Campus Coordinator(s)
+Name: Dr Nikola Zlatanov
+Email: Nikola.Zlatanov@monash.edu
+Building: 72, Room: 227
+ 
+Name: Dr Gayathri Kongara
+Email: Gayathri.Kongara@monash.edu
+Building: 35, Room: 221A
+ 
+Academic Overview
+Engineers Australia Stage 2 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 2 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 2 competencies are relevant to each unit.
+TBD by the Faculty
+Teaching and learning method
+Lectures and Tutorials
+ 
+There will be three set contact hours per week for face-to-face teaching in this unit. We will 
+assume that relevant material has been read before these contact hours and this will be 
+encouraged through online quizzes and preliminary lab work. We will run these contact hours as a 
+mix between traditional lectures and tutorials and they will be very interactive. In the 
+implementation component of the unit you will work to implement a communication system using 
+software-defined-radios. The relevant laboratory will be open for seven hours every week to 
+enable you to complete the set tasks.
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Identify common radio channel impairments such as noise, fading and interference to 
+synthesise theoretical channel models.
+2. Determine theoretical error-performance of wireless systems for comparison against 
+practical measurements.
+3. Analyse theoretical capacity of wireless communication systems that employ spatial and 
+temporal diversity methods.
+4. Design appropriate transmitter and receiver signal processing functionalities for wireless 
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+4. Design appropriate transmitter and receiver signal processing functionalities for wireless 
+systems and demonstrate its performance on a software defined radio hardware platform.
+5. Assess space-time coding schemes that are capable of improving the channel capacity of 
+wireless systems.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+Need to revise the syllabus and start from the basics so that students can follow and relate to what 
+they previously studied.
+Student feedback has highlighted the following strength(s) in this unit:
+The teaching staff are all very good and have clear explanations.  
+The content is well organised.  
+Overall this was a good unit.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+Unit schedule
+WeekLectures Part ALectures Part BAssessment
+Parts A&B
+0Introductory Lecture
+LabVIEW
+No formal 
+assessment 
+is undertaken 
+in week 0
+1Wireless channel modelling: 
+Deterministic approach.
+Lab 2 discussion
+Platform introduction
+Demonstrations
+Quiz 1 based 
+on key paper
+(Marzetta).
+Lab 1 due
+2Wireless channel modelling: Baseband 
+and passband channel models.
+Path loss (log-
+distance), SISO versus 
+MIMO, RF system 
+parameters, Direct 
+conversion receiver 
+info and more
+Quiz 2 due
+3Wireless channel 
+modelling: Stochastic channel model.
+Wireless Channel and 
+fading
+Quiz 3 due
+Lab 2 due
+4Capacity of point-to-point channels 
+without fading.
+Digital 
+communications, 
+modulation 
+demodulation, BER, 
+source coding error 
+detection
+Quiz 4 due
+Assignment 1 
+due
+5Capacity of point-to-point wireless 
+channels with full channel state 
+information.
+Pulse shaping & 
+Matched Filtering-
+implementation
+Quiz 5 due
+Lab 3 due
+6Capacity and outage probability of point-
+to-point wireless channels with partial 
+channel state information.
+Pulse shaping & 
+Matched Filtering
+Quiz 6 due
+7Capacity and outage probabilities 
+of wireless channels with diversity.
+Synchronization timing 
+frame detection, 
+frequency offset 
+correction-
+implementation
+Quiz 7 due
+Lab 4 due
+8MIMO wireless channel model.Synchronization timing 
+frame detection, 
+frequency offset 
+correction
+Quiz 8 due
+Assignment 2 
+due
+9Capacity of MIMO wireless channels with 
+full channel state information.
+Channel estimation 
+and equalisation
+Quiz 9 due
+Lab 5 due
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+10Capacity and outage probability of MIMO 
+wireless channels with partial channel 
+state information.
+Channel estimation 
+and equalisation
+Quiz 10 due
+Lab 6 due
+11Multiuser wireless channels: Multiple-
+access channel.
+OFDM implementationQuiz 11 due
+12Multiuser wireless channels: Broadcast 
+channel.
+Quiz 12 due 
+Lab 7 due 
+Assignment 3 
+due
+SWOT VAC
+Examination period
+Assessment requirements
+Assessment summary
+Continuous assessment: 50%
+Examination (2 hours): 50%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Online Quizzes 
+(X12)
+5% (best 10 count, equally 
+weighted)
+Every Sunday evening of each week.
+Lectorial 
+participation (x12)
+5%Monday and Wednesday lectorials 
+every week
+Laboratory Reports 
+(x6)
+25% (equally weighted)6:00pm Friday of Weeks 2, 4, 6, 8, 10 
+and 12
+Assignments (x3)15% (equally weighted)6:00pm Friday of Weeks 4, 8 and 12
+Final Exam50%To be advised
+Assessment tasks
+Assessment title: Online Quizzes (X12)
+ Online via Moodle.Mode of delivery:
+Details of task: There will be 12 online quizzes, one due every week. Your best 10 quizzes only will 
+count and will be worth 5% in total (so no need to worry if you miss one or two). Quizzes will be 
+based on assigned pre-reading for the next lectorial, e.g. for next Monday’s lecture you will be 
+asked to read sections of Chapter 2 in the textbook and then complete an online quiz on the topics 
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+asked to read sections of Chapter 2 in the textbook and then complete an online quiz on the topics 
+ covered by Sunday evening. Lectorials will run assuming you have completed the pre-reading.
+OngoingRelease dates (where applicable): 
+ Not applicableWord limit (where applicable):
+Every Sunday evening of each week.Due date: 
+5% (best 10 count, equally weighted)Value: 
+n/aPresentation requirements: 
+n/aHurdle requirements (where applicable): 
+n/aIndividual assessment in group tasks (where applicable): 
+Based on the answers. Out of 12, only the best 10 count, equally weighted. Criteria for marking: 
+ n/aAdditional remarks:
+ 
+Assessment title: Lectorial participation (x12)
+ Mode of delivery:Clayton
+Details of task: We expect you to attend the lectorials. A lectorial participation mark will be 
+awarded based on your participation in lectorials throughout the semester. Participation includes 
+turning up, asking questions and answering questions, and generally being engaged in the 
+discussion. You will need to attend and actively participate in at least NINE Monday lectures and 
+  to obtain full marks. This will be worth 5% toward your final mark.NINE Wednesday lectures
+n/aRelease dates (where applicable): 
+ n/aWord limit (where applicable):
+Monday and Wednesday lectorials every weekDue date: 
+5%Value: 
+Presentation requirements: n/a
+n/aHurdle requirements (where applicable): 
+Individual assessment in group tasks (where applicable): n/a
+Attend and participate in at least nine Monday and Wednesday lectorials for Criteria for marking: 
+full marks. For less then nine participated lectorials, each participated lectorial on Monday is worth 
+10/27 percentage points and each participated lectorial on Wednesday is worth 5/27 percentage 
+points.
+ Additional remarks:n/a
+ 
+Assessment title: Laboratory Reports (x6)
+ ClaytonMode of delivery:
+Details of task: Part B will involve completion of six ‘laboratory’ reports due in Weeks 2, 4, 6, 8, 10 
+and 12. All laboratory reports will have equal value. You will need access to the Software Defined 
+Telecommunications Laboratory, G19, 16 Alliance Lane to complete the reports. It will be open for 
+your use on Wednesdays 3:00pm to 6:00pm ,Thursdays 12:00pm to 3:00pm and 6:00pm to 9:00 
+ pm.
+n/aRelease dates (where applicable): 
+ n/aWord limit (where applicable):
+6:00pm Friday of Weeks 2, 4, 6, 8, 10 and 12Due date: 
+25% (equally weighted)Value: 
+n/aPresentation requirements: 
+n/aHurdle requirements (where applicable): 
+n/aIndividual assessment in group tasks (where applicable): 
+Each completed laboratory report is equally weighted with 25/6 percentage Criteria for marking: 
+points.
+ n/aAdditional remarks:
+ 
+Assessment title: Assignments (x3)
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+Assessment title: Assignments (x3)
+ Mode of delivery:Online via Moodle.
+Details of task: Part A of the lectorials will be divided into three sections. You will have one 
+Assignment for each of these sections, due in Weeks 4, 8 and 12, and each worth 5%. Questions 
+in the assignments will be similar in nature to what you can expect on the final exam (although 
+sometimes the assignment questions will be longer and/or more difficult and/or involve some 
+ programming).
+n/aRelease dates (where applicable): 
+ n/aWord limit (where applicable):
+6:00pm Friday of Weeks 4, 8 and 12Due date: 
+15% (equally weighted)Value: 
+Presentation requirements: n/a
+Hurdle requirements (where applicable): n/a
+Individual assessment in group tasks (where applicable): n/a
+Based on the answers.Criteria for marking: 
+ Additional remarks:n/a
+ 
+Examination(s)
+Final ExamExam title: 
+50%Weighting: 
+2 hoursLength: 
+ Closed book.Type (Open/closed book):
+ Hurdle requirements (where applicable):Students are required to achieve at least 45% in the final 
+examination.
+Electronic devices allowed: Electronic devices are not allowed.
+Remarks (where applicable):  Based (at least in part) on the lectures.
+ 
+Calculators NOT permitted
+Calculators are not permitted.
+Returning assignments
+Students can expect assignments to be returned within two weeks of the submission date or after 
+receipt, whichever is later.
+Resubmission of assignments
+Resubmission is not allowed, but late submission is allowed under extreme health or similar 
+extreme situations on which student did not have any control.
+Plagiarism and collusion
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+The Department of Electrical and Computer Systems Engineering uses the IEEE referencing 
+standards. Please refer to the link below and click IEEE.
+http://www.lib.monash.edu/tutorials/citing/ieee.html
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing atwww.lib.monash.edu.au/tutorials
+/citing/
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at http://my.monash.edu.au under the heading ‘Learning and teaching tools.’ Please keep 
+a copy of tasks completed for your records.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+If Electronic Submission has been approved for your unit, please submit your work via the Moodle 
+site or other; as directed by your demonstator for this unit.
+Feedback to you 
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Feedback to you 
+You will receive feedback throughout the semester including: results from online quizzes, marks 
+and written comments on laboratory reports, and marks and written comments on assignments. 
+Useful feedback should also be derived from the interactive lectorials.
+Learning resources
+Prescribed textbooks
+[1] David Tse and Pramod Viswanath, "Fundamentals of wireless communication," Cambridge 
+University Press, 2005.
+[2] Andrea Goldsmith, "Wireless communications," Cambridge University Press, 2005.
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at:
+ http://www.monash.edu/students
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information. 
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE5884 Wireless communications - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------

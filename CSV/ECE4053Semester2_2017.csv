@@ -1,0 +1,600 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE4053
+Electrical energy - generation and supply
+Semester 2, 2017
+Table of contents
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                       4
+Campus Coordinator(s)                                                                                                                4
+Lecturer(s)                                                                                                                                    5
+Demonstrator(s)                                                                                                                           5
+Academic Overview                                                                                                                            6
+Engineers Australia Stage 1 competencies                                                                                     6
+Teaching and learning method                                                                                                        7
+Learning outcomes                                                                                                                          7
+Your feedback to us                                                                                                                         7
+Previous student evaluations of this unit                                                                                     7
+Unit schedule                                                                                                                                      8
+Assessment requirements                                                                                                                 10
+Assessment summary                                                                                                                   10
+Hurdle requirements                                                                                                                      10
+Assessment tasks                                                                                                                          11
+Examination(s)                                                                                                                               13
+Plagiarism and collusion                                                                                                                13
+Referencing requirements                                                                                                             14
+Assignment submission                                                                                                                 14
+Feedback to you                                                                                                                            15
+Learning resources                                                                                                                        15
+Required resources                                                                                                                       15
+Other information                                                                                                                              16
+Policies                                                                                                                                          16
+Graduate Attributes Policy                                                                                                             16
+Student Charter                                                                                                                             16
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Student Services                                                                                                                           16
+Monash University Library                                                                                                             16
+Disability Support Services                                                                                                            16
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit aims to develop an understanding of the structure and operation of electrical power 
+systems using different resources, and considering their environmental impacts. It covers current 
+and future energy scenarios for the world and Australia. This requires an understanding of the 
+basic concepts and modelling of electrical power systems, including techniques for power flow and 
+fault analysis, control of voltage, frequency, harmonic distortion, and system stability. Methods are 
+presented to identify and clear faults, maximise power system economy and estimate the capital 
+cost as well as unit price of electricity ($/kWh) using various energy conversion technologies.
+Mode of delivery
+Clayton (Day)
+Workload requirements
+3 hours lectures, 3 hours laboratory and practice classes and 6 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+ECE2061 or TRC2500
+Prohibitions
+ECE4503, ECE4057, ECE4507, ECE5507, ECE5053, ECE5503
+Co-requisites
+ECE3051 or (TRC3501 and TRC3600)
+Chief Examiner(s)
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Dr Behrooz Bahrani
+Email: Behrooz.Bahrani@monash.edu
+ 
+Campus Coordinator(s)
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Campus Coordinator(s)
+Name: Dr Behrooz Bahrani
+Email: Behrooz.Bahrani@monash.edu
+Building: 35, Room: G17
+ 
+Lecturer(s)
+Name: Prof. Fellow Peter Wallace
+Email: Peter.Wallace@monash.edu
+Building: 35, Room: G11
+ 
+Name: Assoc Professor Anthony Morton
+Email: Anthony.Morton@monash.edu
+Building: , Room: 
+ 
+Demonstrator(s)
+Dr James Brown <>james.i.brown@monash.edu
+Mr Daniel Ryan <>daniel.ryan@monash.edu
+Mr Alireza Ghassemi <>Alireza.Ghassemi@monash.edu
+Mr Mohammadreza Nabatirad < >mohammadreza.nabatirad@monash.edu
+Mr Md Didarul Islam <>Md.DidarulIslam@monash.edu
+Mr Reza Assadi <reza.assadi@yahoo.com.au>
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Stage 1 competenciesActivities used in this unit to develop stage 1 
+competencies
+PE1.1 Knowledge of science and engineering 
+fundamentals
+Theoretical lecture material, prescribed texts 
+and recommended reading
+PE1.2 In-depth technical competence in at 
+least one engineering discipline
+Laboratory experiments, tutorial problem 
+sheets
+PE1.3 Techniques and resourcesPractical laboratory experiments, industry-
+grade computer software for power systems 
+analysis
+PE1.4 General knowledgeLoad flow and dynamic stability analysis, 
+power system protection, power quality
+electricity generation and distribution, the 
+economic and technical bases for 
+generation scheduling and electricity market 
+operation
+PE2.1 Ability to undertake problem 
+identification, formulation, and solution
+Laboratory experiments, tutorial problems, 
+written assignments
+PE2.2 Understanding of social, cultural, 
+global, and environmental responsibilities and 
+the need to employ principles of sustainable 
+development
+Lectures on electricity generation from 
+renewable resources.
+PE2.3 Ability to utilise a systems approach to 
+complex problems and to design and 
+operational performance
+The entire unit content revolves around 
+electricity generation and supply as a system 
+PE2.4 Proficiency in engineering designWritten assignment on power system 
+protection
+PE3.1 Ability to communicate effectively, with 
+the engineering team and with the community 
+at large
+Team work in the lab, written assignment
+PE3.2 Ability to manage information and 
+documentation
+Laboratory experiments and reports
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+PE3.5 Ability to function effectively as an 
+individual and in multidisciplinary and 
+multicultural teams, as a team leader or 
+manager as well as an effective team member
+Laboratory experiment experience
+Teaching and learning method
+The unit consists of lectures, laboratory practice and tutorial classes. Laboratories and tutorials will 
+be of 3-hour duration. Students are required to complete prescribed preliminary work for each 
+laboratory experiment. The purpose of a tutorial is to resolve any difficulties that students might 
+have encountered while attempting to solve prescribed tutorial problems. It is essential that 
+students do attempt to solve problems prior to attending tutorials.
+Tutorial and laboratory allocation
+Students must enrol in a practice class only using Allocate+. Students not allocated to a particular 
+practice class will not be accepted into that session without the written consent of the unit 
+coordinator. Once a particular session is full, no more students will be accepted, unless evidence 
+is shown that timetabling means that is the only session possible. 
+Learning outcomes
+To understand energy conversion technologies, electric power system modelling, power flow 
+analysis faults in power systems electrical grid power and frequency control power stability and 
+quality of supply economy of electric power systems.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+N/A
+Student feedback has highlighted the following strength(s) in this unit:
+​N/A
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+Unit schedule
+WeekLectureTutorialPower LabSimulation Lab
+1
+24 July
+AC circuit fundamentals
+Load flow: the power- or 
+load-flow problem.
+Load flow: network and 
+component models
+3 phase systems
+Per-unit
+representation
+2
+31 July
+Load flow: nodal analysis 
+solution strategies, Newton, 
+Gauss
+Voltage control: reactive 
+power in AC systems, basic 
+stability concepts
+Voltage control: discrete 
+and continuous measures 
+Network 
+analysis Load 
+Flow (1)
+3
+7 Aug.
+3-phase transformers: 
+winding arrangements and 
+equivalent circuits
+3-phase transformers: 
+neutral currents, power 
+system earthing
+Fault studies: symmetrical 
+components theory 
+Load Flow
+4
+14 Aug.
+Fault studies: component 
+models
+Fault studies: fault types, 
+fault calculations
+Fault calculations: example
+Network 
+analysis Load 
+Flow (2)
+5
+21 Aug.
+Interconnected power 
+systems
+Frequency control: role of 
+governors
+Frequency control: single- 
+and multi-area systems
+Fault studies
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+6
+28 Aug.
+Voltage stability
+Small signal stability
+Transient stability 
+fundamentals: equal area 
+criterion
+3-phase 
+transformers
+7
+4 Sept.
+Mid-semester test
+Transient stability: system 
+implications
+Transient stability: stability 
+controls
+Symmetrical 
+components 
+8
+11 
+Sept.
+Generation scheduling: 
+optimal power flow and 
+constrained dispatch
+Introduction to electricity 
+markets
+Generation technology: 
+‘classical’ thermal, hydro
+System 
+operation 
+demonstration
+9
+18 
+Sept.
+Protection: Principles and 
+over-current protection
+Differential and directional 
+protection
+Distance/impedance 
+. Equipment protection
+protection applications
+Stability
+studies (1)
+Mid Semester Break
+10
+2 Oct. 
+Power quality: harmonics, 
+filter design
+Power quality: flicker etc
+HV circuit breakers: arc 
+quenching media, circuit 
+breaker types and 
+applications
+Market operation 
+and frequency 
+control
+11
+9 Oct. 
+Generation technology:  PV
+and "solid-state" sources
+Generation technology: wind
+and ""wet renewables
+System operation with 
+renewable resources
+Harmonics
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+12
+16 Oct.
+Transmission systems and 
+interconnection
+Energy storage
+Developments in distribution
+systems
+Stability
+studies (2)
+SWOT VAC
+Examination periodLINK to Assessment Policy:
+http://www.policy.monash.edu/policy-bank/academic
+/education/assessment/assessment-in-coursework-policy.
+html
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Laboratory Experiments and Simulations21%Weeks 2-4-6-7-8-9-11-12
+Mid-Term Test15%First Session of Week 7
+Assignment4%Week 11
+Final Exam60%To be advised
+ 
+Hurdle requirements 
+The unit coordinator reserves the right to moderate the assessments given by the individual tutors. 
+This process will occur at the end of the semester.
+Note: Attendance at the laboratory briefing session is a mandatory requirement. Students who 
+have not attended the briefing session will not be allowed to undertake laboratory work, and will 
+therefore not be able to pass the continuous assessment component of the unit.
+Assessment details and criteria
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Students are required to achieve at least 45% in the total continuous assessment component 
+(midsemester test, preliminary laboratory work, and laboratory experiments) and at least 45% in 
+the final examination component and an overall mark of 50% to achieve a pass grade in the unit.
+Students failing to achieve this requirement (hurdle) will be given a maximum of 45% in the unit.
+Assessment tasks
+Assessment title: Laboratory Experiments and Simulations
+ Laboratory work both with hardware and software (PSSE)Mode of delivery:
+Details of task: Each student must keep a laboratory record book, paper or electronic, in which all 
+experimental results and on the spot analysis are recorded. Failure to bring and use a laboratory 
+record book will be given an automatic zero for the experimental achievement section of the 
+laboratory assessment.
+ N/ARelease dates (where applicable): 
+  N/AWord limit (where applicable):
+Weeks 2-4-6-7-8-9-11-12Due date: 
+21%Value: 
+Presentation requirements:  
+Hurdle requirements (where applicable): A minimum of 45% in the continuous assessment must 
+ be achieved for a pass. 
+Individual assessment in group tasks (where applicable):  N/A
+Criteria for marking: Each student must submit a report for each lab activity (simulation labs and 
+experiment labs). There are 7 labs in total, and each lab report is worth 3% of the final mark. The 
+reports have a page limit of 5. Laboratory marks of each student will be totalled and averaged at 
+ the end of the semester to make 21% of the overall assessment.
+ Additional remarks: N/A
+ 
+Assessment title: Mid-Term Test
+ Paper ExamMode of delivery:
+Details of task:  N/A
+ N/ARelease dates (where applicable): 
+ N/AWord limit (where applicable):
+First Session of Week 7Due date: 
+15%Value: 
+Presentation requirements:  N/A
+Hurdle requirements (where applicable):  A minimum of 45% in the continuous assessment must 
+be achieved for a pass. 
+Individual assessment in group tasks (where applicable):  
+Criteria for marking:  
+ Additional remarks: 
+ 
+Assessment title: Assignment 
+ Written Mode of delivery:
+The assignment details will be disclosed in week 8.Details of task: 
+Week 8Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Week 11Due date: 
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Week 11Due date: 
+4%Value: 
+Presentation requirements: 
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at http://my.monash.edu.au under the heading ‘Learning and teaching tools.’ Please keep 
+a copy of tasks completed for your records.
+Hurdle requirements (where applicable): 
+A minimum of 45% in the continuous assessment must be achieved for a pass. 
+NAIndividual assessment in group tasks (where applicable): 
+Criteria for marking: 
+High Distinction
+The assignment report shows clear evidence of critical analysis, and reflection on the experimental 
+results obtained. There is a broad range of insights into the work performed. Quality professional 
+understanding is evident and this is used to enrich the discussion and critique of the reported work. 
+Familiarity with the subject matter is evident. All assignment-writing requirements are met to the 
+highest standard in terms of presentation, coherency, spelling, referencing, grammar etc.
+Distinction
+The report shows clear evidence of critical analysis and reflection on the experimental assignment 
+results obtained. There is some original thinking evident in the discussion. Professional 
+understanding of the topic is shown in the discussion. Familiarity with the subject matter is evident. 
+All assignment-writing requirements are met to the highest standard in terms of presentation, 
+coherency, spelling, referencing, grammar etc.
+Credit
+The  report is focused on the experiment description although there is some attempt to assignment
+critically analyse the results obtained. Professional approach to the topic is evident but the report is 
+limited in scope and quality. The discussion shows that there is a fair understanding of the subject 
+matter. Guidelines for assignment writing have been met at a satisfactory standard.
+Pass
+Overall, the report is focused on description with scant evidence of critical analysis or assignment 
+reflection. The discussion reveals a limited understanding of the experiment. There is little 
+evidence of professional reading on the chosen topic. Guidelines for assignment writing have been 
+met at the satisfactory level. 
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+ Additional remarks:
+If you are late in applying for an extension or you don’t have a good reason, you should still submit 
+the work, but 10% of the total marks available for that assessment component will usually be 
+deducted for each day late. 
+No assignment will be accepted once an assignment has been returned to the class.
+Deferred tests and examinations may be granted in cases of extenuating personal circumstances 
+such as serious personal illness or bereavement.
+Remember, you are required to keep an up-to-date copy of all submitted assignments to safeguard 
+against the loss of work through accident or error. 
+Students can expect assignments to be returned within two weeks of the submission date or after 
+receipt, whichever is later.
+Assessment for the unit as a whole is in accordance with the provisions of the Monash University 
+Education Policy at: 
+ 
+Examination(s)
+Final ExamExam title: 
+60%Weighting: 
+2 hours (with 10 minutes reading time)Length: 
+ Closed BookType (Open/closed book):
+ 45%Hurdle requirements (where applicable):
+Faculty-approved calculators are allowed.Electronic devices allowed: 
+Remarks (where applicable):  
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+The University regards most seriously any acts of dishonesty in assessment such as plagiarism, 
+collusion, resubmission of previously marked work in different units, examination misconduct and 
+theft of other students’ work.
+ PlagiarismWhile some people incorrectly assume that plagiarism occurs only where someone 
+copies verbatim, it really involves taking and using another person’s ideas or work and passing 
+these off as one’s own by failing to give appropriate acknowledgement; that is, not indicating by 
+referencing that the ideas expressed are not your own. Good scholarship is marked by an 
+acknowledgement of the origin of ideas you use, develop or synthesise.
+ Collusion(or unauthorised collaboration) Means joint effort in preparing material submitted for 
+assessment, between students or others, except where this has been approved by the lecturer-in-
+charge of the unit.
+ CheatingMeans seeking to obtain an unfair advantage in an examination or in other written or 
+practical work required to be submitted or completed by a student for assessment. Hence, if the 
+passing off was done intentionally you have cheated, if it was not intentional, the offence you have 
+committed is the academic misdemeanor of failing to reference a source correctly.
+Acts of dishonesty in assessment could result in penalties, including failure in the unit and possible 
+exclusion from the University. For further details please refer to the University’s Discipline Statute 
+(Statute 4.1).
+University statements on plagiarism are contained in the University Discipline Statute 4.1 at: 
+http://www.monash.edu.au/pubs/calendar/statutes/Statute04.html and accompanying guidelines 
+at: http://www.adm.monash.edu.au/unisec/academicpolicies/policy/plagiarism.html and http://www.
+monash.edu.au/pubs/sii 
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Assignment submission
+Hard Copy Submission:
+Only preliminary work is submitted in hard copy. Laboratory experimental records are kept in the 
+laboratory record book kept by each student.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies. In this unit it will take the form of group feedback via practice 
+classes, individual feedback, peer feedback, self-comparison, verbal and written feedback, 
+discussions in class, as well as more formal feedback related to assignment marks and grades. 
+Students/You are encouraged to draw on a variety of feedback to enhance their/your learning.
+Learning resources
+Recommended textbooks
+J.J. Grainger, W.D. Stevenson Jr, “Power System Analysis”, McGraw Hill, 1994.
+Library resources (eBooks)
+Leonard L. Grigsby (ed), Power Systems, CRC Press 2007
+Leonard L. Grimsby (ed), Power System Stability and Control, CRC Press 2007
+Hewitson, M. Brown, R. Balakrishnan, Practical Power System Protection, Elsevier Ltd., 2005
+Ruben D. Garzon, High Voltage Circuit Breakers, CRC Press 2002
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at:
+ http://www.monash.edu/students
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information. 
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE4053 Electrical energy - generation and supply - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------

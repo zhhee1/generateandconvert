@@ -1,0 +1,823 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE4032
+Advanced control
+Semester 2, 2017
+Table of contents
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                       4
+Campus Coordinator                                                                                                                    4
+Lecturer(s)                                                                                                                                    5
+Demonstrator(s)                                                                                                                           5
+Academic Overview                                                                                                                            6
+Teaching and learning method                                                                                                        7
+Learning outcomes                                                                                                                          8
+OBE requirements to learning outcomes (LOs)                                                                           8
+Relationship between Unit Learning Outcomes and Program Outcomes                                   9
+Your feedback to us                                                                                                                         9
+Previous student evaluations of this unit                                                                                     9
+Unit schedule                                                                                                                                    11
+Assessment requirements                                                                                                                 11
+Assessment summary                                                                                                                   11
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                13
+Relationship between Assessments and Complex Problems/Activities                                    14
+Hurdle requirements                                                                                                                      14
+Assessment tasks                                                                                                                          14
+Examination(s)                                                                                                                               15
+Extensions and penalties                                                                                                               16
+Plagiarism and collusion                                                                                                                17
+Referencing requirements                                                                                                             17
+Assignment submission                                                                                                                 17
+Feedback to you                                                                                                                            17
+Learning resources                                                                                                                        17
+Required resources                                                                                                                       18
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Field trips                                                                                                                                       18
+Other information                                                                                                                              18
+Policies                                                                                                                                          18
+Graduate Attributes Policy                                                                                                             18
+Student Charter                                                                                                                             18
+Student Services                                                                                                                           18
+Monash University Library                                                                                                             18
+Disability Support Services                                                                                                            19
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit aims to firstly develop an understanding of key features of methods for mathematically 
+modelling various categories of dynamical systems in terms of sets of dynamic and algebraic 
+equations, ranging from engineering to biomedical systems. Secondly, students are shown how to 
+write algorithms for efficient numerical solution of these equations. Computer-aided control 
+systems design using optimal and robust control methods is then covered. Thirdly, students are 
+introduced to Lyapunov and function analytic techniques for nonlinear systems stability analysis, 
+and to nonlinear control design methods including feedback linearisation, sliding mode and 
+passivity-based control techniques.
+Mode of delivery
+Malaysia (Day)
+Workload requirements
+2 hours lectures, 3 hours laboratory and practice classes and 7 hours private study per week
+Unit relationships
+ 
+Prerequisites
+ECE2031 and (ECE3062 or ECE3031)
+Prohibitions
+ECE4302, ECE5032, ECE5302
+Co-requisites
+None
+Chief Examiner(s)
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Assoc Professor Tan Chee Pin
+Email: Tan.Chee.Pin@monash.edu
+ 
+Campus Coordinator
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Campus Coordinator
+Name: Assoc Professor Tan Chee Pin
+Email: Tan.Chee.Pin@monash.edu
+Building: , Room: 
+Consultation hours: By appointment
+Lecturer(s)
+Name: Assoc Professor Tan Chee Pin
+Email: Tan.Chee.Pin@monash.edu
+Building: , Room: 
+ 
+Demonstrator(s)
+Chua Wen-Shyan
+Chua.Wen-Shyan@monash.edu
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce  Electrical and Computer Systems / Mechatronics 
+graduates, who are:
+1. competent in engineering Electrical and Computer Systems / Mechatronics 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+The engineering discipline has developed a set Electrical and Computer Systems / Mechatronics 
+of Program Outcomes (POs) for all of its graduates based on the competencies required by the 
+Malaysian Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Electrical and Computer Systems / 
+ Apply Engineering Knowledge:Mechatronics 
+knowledge of mathematics, natural science, 
+engineering fundamentals and specialisation 
+in Electrical and Computer Systems / 
+engineering to the solution of Mechatronics 
+complex engineering problems
+Cognitive: Lectures, tutorials, assignments
+/labs, exam
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complex Electrical and Computer Systems / 
+engineering problems reaching Mechatronics 
+substantiated conclusions using first principles 
+of mathematics, natural sciences and 
+engineering sciences
+Cognitive: 
+PO3  Design/Development of Solutions:
+Design solutions for complex Electrical and 
+Computer Systems / Mechatronics 
+engineering problems and design systems, 
+components or processes that meet specified 
+needs.
+Cognitive: Lectures, tutorials, assignments
+/labs, mid-semester test, exam
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex Electrical and 
+Computer Systems / Mechatronics 
+engineering problems using research-based 
+knowledge and research methods including 
+design of experiments, (analysis and 
+interpretation of data, and synthesis of 
+information to provide valid conclusions.
+Cognitive: Lectures, tutorials, assignments
+/labs, mid-semester test, exam
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex Electrical 
+and Computer Systems / Mechatronics 
+engineering problems, with an understanding 
+of the limitations
+Cognitive: 
+Psychomotor: Assignments/labs
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Electrical and 
+Computer Systems / Mechatronics 
+engineering problems
+Affective: 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complex  Electrical and 
+Computer Systems / Mechatronics 
+engineering problems in environmental 
+contexts.
+Cognitive: 
+Affective:
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate effectively Communication:
+on complex  Electrical and Computer Systems 
+engineering activities with the / Mechatronics 
+engineering community and with society at 
+large, such as being able to comprehend and 
+write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective: 
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective: 
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective:  Assignments
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: 
+Teaching and learning method
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+Teaching and learning method
+The unit consists of lectures which cover both theory and problem solving. Problem solving is 
+further reinforced through a series of 12 tutorial classes,using assigned problems that will be 
+selected from the prescribed text and advised in advance of each session. Topic tests and informal 
+discussion provide feedback on students’ performance. In order to illustrate the practical 
+applications of the subject matter, and provide feedback on students’ analysis and written 
+communication skills, 4 laboratory/computational experiments are included with clear reporting and 
+marking expectations. 
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Generate dynamic models using various system identification techniques/tools such as 
+(but not limited to) step response identification, least squares and the System Identification 
+Toolbox.
+2. Design optimal controllers and observers for both continuous-time and discrete-time 
+dynamic systems.
+3. Analyse robustness of uncertain systems and to suggest suitable controller structures.
+4. Use various methods to design controllers and observers for nonlinear systems, such as 
+(but not limited to) feedback linearisation, diffeomorphism, and Linear Matrix Inequalities.
+5. Discern the need for life-long learning about advanced control technique.
+6. Design and simulate controllers and observers using computer-aided tools.
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome Based 
+Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO1) 
+Generate dynamic models using various 
+system identification techniques/tools such as 
+(but not limited to) step response 
+identification, least squares and the System 
+Identification Toolbox.
+LO1) 
+Generate dynamic models using various 
+system identification techniques/tools such as 
+(but not limited to) step response 
+identification, least squares and the System 
+Identification Toolbox.
+LO2) 
+Design optimal controllers and observers for 
+both continuous-time and discrete-time 
+dynamic systems.
+LO2) 
+Design optimal controllers and observers for 
+both continuous-time and discrete-time 
+dynamic systems.
+LO3) 
+Analyse robustness of uncertain systems and 
+to suggest suitable controller structures.
+LO3) 
+Analyse robustness of uncertain systems and 
+to suggest suitable controller structures.
+LO4) Use various methods to design 
+controllers and observers for nonlinear 
+systems, such as (but not limited to) feedback 
+linearisation, diffeomorphism, and Linear 
+Matrix Inequalities.
+LO4) Use various methods to design 
+controllers and observers for nonlinear 
+systems, such as (but not limited to) feedback 
+linearisation, diffeomorphism, and Linear 
+Matrix Inequalities.
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+Learning Outcomes (LOs) for Outcome Based 
+Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO5) Discern the need for life-long learning 
+about advanced control technique.
+LO5) Discern the need for life-long learning 
+about advanced control technique.
+LO6) Design and simulate controllers and 
+observers using computer-aided tools.
+LO6) Design and simulate controllers and 
+observers using computer-aided tools.
+Relationship between Unit Learning Outcomes and Program 
+Outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+1√
+2√
+3√
+4√
+5√
+6√
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+Some changes are made (e.g. more material such as Model Predictive Control and Kalman Filters) 
+but they are not due to SETU results.
+Student feedback has highlighted the following strength(s) in this unit:
+●Explanations very clear.
+●Organized structure.
+●Extraordinary lecturer.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+ 
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Unit schedule
+WeekActivitiesAssessment
+LectureTutorialLab
+1
+24 Jul
+Unit Introduction
+Review: Dynamic 
+system modelling and 
+analysis
+Continue 
+review (3 hours)
+2
+31 Jul
+Introduction to system 
+identification
+Tutorial
+(1 hour)
+Lab 1 part 1
+(2 hours)
+Lab observation 
+(2%)
+3
+7 Aug
+System identification 
+methods and examples
+Tutorial
+(1 hour)
+Lab 1 part 2
+(2 hours)
+4
+14 Aug
+Introduction to optimal 
+control and estimation
+Tutorial
+(1 hour)
+Lab 2 part 1
+(2 hours)
+Lab 1 report 
+due (5%)
+5
+21 Aug
+Optimal control and 
+estimation methods
+Tutorial
+(1 hour)
+Lab 2 part 2
+(2 hours)
+Lab observation 
+(2%)
+6
+28 Aug
+Optimal control and 
+estimation design 
+examples
+Tutorial
+(3 hours)
+Lab 2 report due
+(6%)
+7
+4 Sept
+Introduction to nonlinear 
+control
+Mid-semester test
+Tutorial
+(3 hours)
+Mid-semester 
+test (10%)
+8
+11 Sept
+Nonlinear control 
+methods and examples
+Tutorial
+(1 hour)
+Lab 3
+(2 hours)
+Lab observation 
+(2%)
+9
+18 Sept
+Introduction to robust 
+control
+Tutorial
+(1 hour)
+Lab 3 report due
+(6%)
+10
+2 Oct
+Robust control design 
+methods
+Tutorial
+(3 hours)
+11
+9 Oct
+Robust control design 
+examples
+Tutorial
+(1 hour)
+Lab 4
+(2 hours)
+Lab observation 
+(2%)
+12
+16 Oct
+RevisionNoneLab 4 report due
+(5%)
+Assessment requirements
+Assessment summary
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Assessment summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Lab/Assignments 1-430% in totalOne week after release date
+Mid-semester test10% of entire unitWeek 7
+Final examination60%To be advised
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis: 
+Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation: 
+Judges the 
+value of 
+material for 
+a given 
+purpose
+Psychomotor
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response: 
+Performs 
+automatically
+Adaption:
+Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising: 
+Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+AssessmentLO1LO2LO3LO4LO5LO6
+1Lab/Assignment 1 (system 
+identification)
+√√
+2Lab/Assignment 2 
+(optimalcontrol)
+√√√
+3Lab/Assignment 3 
+(nonlinear control)
+√√√
+4Lab/Assignment 4 (robust 
+control)
+√√√
+5Mid-semester test (system 
+identification)
+√
+6Mid-semester test (optimal 
+control)
+√
+7Final exam  (system 
+identification)
+√
+8Final exam (optimal control)√
+9Final exam (nonlinear 
+control)
+√
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+10Final exam (robust control)√
+Relationship between Assessments and Complex Problems
+/Activities
+Assessment taskComplex problem covered
+Lab/Assignment 1
+(system identification)
+WP1
+Lab/Assignment 2
+(nonlinear control)
+WP1
+Lab/Assignment 3
+(optimal control)
+WP1, WP2
+Lab/Assignment 4
+(robust control)
+WP1
+Mid-semester test
+(system identification)
+WP1
+Mid-semester test
+(optimal control)
+WP1
+Final exam  
+(system identification)
+WP1
+Final exam
+(optimal control)
+WP1
+Final exam
+(nonlinear control)
+WP1
+Final exam
+(robust control)
+WP1
+Hurdle requirements 
+At least 45% must be achieved in the internal assessment and final exams, failing which the final 
+mark for the unit will be capped at 44%.
+Assessment tasks
+Assessment title: Lab/Assignments 1-4
+ Practical lab experiment or simulation assignmentMode of delivery:
+Details of task: You will be given 4 lab experiments or simulation assignments to conduct, and will 
+have to write a report based on your findings and relate them to the theory that you have learnt.
+ You will be assessed on your ability to run the experiment, and also based on the report that you 
+submit.
+Lab session of weeks 2, 5, 8, 11Release dates (where applicable): 
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Lab session of weeks 2, 5, 8, 11Release dates (where applicable): 
+ Not applicableWord limit (where applicable):
+One week after release dateDue date: 
+30% in totalValue: 
+NonePresentation requirements: 
+NoneHurdle requirements (where applicable): 
+Individual assessment in group tasks (where applicable): A mark will be given to the entire group. 
+Criteria for marking: For each lab/assignment, the following are the assessment criteria:
+-.Observation of you carrying out the work: 2%
+- Design/analysis and presentation of results: 2%
+- Discussion: 3%
+- Literature search: 1% (only for lab/assignment 2 and 3)
+Therefore, the total marks for each lab/assignment are as follows:
+- Lab/assignment 1: 7%
+- Lab/assignment 2: 8%
+- Lab/assignment 3: 8%
+- Lab/assignment 4: 7%
+ NoneAdditional remarks:
+ 
+Assessment title: Mid-semester test
+ Mid-semester testMode of delivery:
+Details of task: 1 hour closed-book test 
+Not applicableRelease dates (where applicable): 
+ Not applicableWord limit (where applicable):
+Week 7Due date: 
+10% of entire unit Value: 
+NonePresentation requirements: 
+NoneHurdle requirements (where applicable): 
+Individual assessment - no group workIndividual assessment in group tasks (where applicable): 
+As per marking schemeCriteria for marking: 
+ NoneAdditional remarks:
+ 
+Examination(s)
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Final examinationExam title: 
+60%Weighting: 
+2 Length: 
+ NoType (Open/closed book):
+ 45% of entire exam (i.e. 27 marks out of the full mark of Hurdle requirements (where applicable):
+60) is required.
+Electronic devices allowed: Yes - those approved by Faculty of Engineering 
+NoneRemarks (where applicable): 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+Calculators
+The following scientific calculators that are programmable, but are capable of not 1-variable and 2-
+() variable statistics, with the authorised “Monash University-Science, or Engineering” sticker  are
+for use in this unit examination:approved 
+Graphical calculators and programmable calculators are not permitted in exams.
+APPROVED Scientific Calculators:
+FM-83 F720, F720iCaieion: Canon: 
+Casio: fx-82, fx-83, fx-85, fx-100, fx-115, fx-350, fx-570, fx-911, fx-991, fx-992 series, and fx-
+3650P series
+Citizen: SR-135, SR-260, SR-270, SR-275
+Hewlett Packard: HP-6s, HP-8s, HP-9s, HP-10s, HP-30s, and HP smartcalc-300s Texas 
+TI-30 and TI-34 seriesinstruments: 
+Texet: Albert 2, Albert 3, Albert 5
+Sharp: EL-506, EL546V, EL-509, EL-520, EL-520WG and EL-531WH series
+Extensions and penalties
+Late assignments will not generally be accepted in this unit. Further, no extensions will be allowed. 
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Late assignments will not generally be accepted in this unit. Further, no extensions will be allowed. 
+The comments below only apply to rare circumstances and their application will be at the 
+discretion of the lecturer-in-charge / unit coordinator.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+None
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at http://my.monash.edu.au under the heading 'Learning and teaching tools'. Please keep 
+a copy of tasks completed for your records.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Feedback given to students in this unit include written comments on assignments graded, verbal 
+comments, feedback to the whole class, to groups, and to individuals during lectures and practice 
+classes.
+Learning resources
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Field trips 
+There will be a field trip towards the end of the semester.
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at:
+http://www.monash.edu.my/Student-services/
+Monash University Library
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+The Library and Learning Commons, Monash University Malaysia Campus, provides a range of 
+services and resources that enable you to save time and be more effective in your learning and 
+research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●For information and referral, telephone: Student Adviser, Student Community Services at 03 
+55146018
+●Drop In: Student Community Services Department, Level 2 Building 2, Monash University 
+Malaysia Campus
+●Email:  (Disability Support Services, Monash disabilitysupportservices@monash.edu
+University Australia)
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE4032 Advanced control - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------

@@ -1,0 +1,2156 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE4094
+Project A
+Semester 2, 2017
+Table of contents
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          4
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                      12
+Learning outcomes                                                                                                                        12
+Your feedback to us                                                                                                                       13
+Previous student evaluations of this unit                                                                                   13
+Unit schedule - Clayton campus                                                                                                       13
+Assessment requirements                                                                                                                 15
+Assessment summary                                                                                                                   15
+Hurdle requirements                                                                                                                      15
+Assessment tasks                                                                                                                          16
+Section B: For Malaysia students                                                                                                      20
+Academic Overview                                                                                                                          21
+Teaching and learning method                                                                                                      22
+Learning outcomes                                                                                                                    23
+OBE requirements to learning outcomes (LOs)                                                                     23
+Relationship between unit learning outcomes and program outcomes                                 24
+Malaysia General Studies Unit                                                                                                  24
+Your feedback to us                                                                                                                       25
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Previous student evaluations of this unit                                                                                   25
+Unit schedule - Malaysia campus                                                                                                     27
+Assessment Summary                                                                                                                   29
+Hurdle requirements                                                                                                                  30
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                31
+Relationship between Assessments and Complex Problems/Activities                                    32
+Assessment requirements                                                                                                                 32
+Assessment tasks                                                                                                                          32
+Section C: All students                                                                                                                      34
+Extensions and penalties                                                                                                               34
+Returning assignments                                                                                                                  34
+Resubmission of assignments                                                                                                       34
+Plagiarism and collusion                                                                                                                34
+Referencing requirements                                                                                                             34
+Assignment submission                                                                                                                 34
+Feedback to you                                                                                                                            35
+Learning resources                                                                                                                        36
+Required resources                                                                                                                       36
+Technological requirements                                                                                                          36
+Additional unit costs                                                                                                                       36
+Field trips                                                                                                                                       37
+Other information                                                                                                                              37
+Policies                                                                                                                                          37
+Graduate Attributes Policy                                                                                                             37
+Student Charter                                                                                                                             37
+Student Services                                                                                                                           37
+Monash University Library                                                                                                             37
+Disability Support Services                                                                                                            37
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+Together with ECE4095 Project B, this unit is a challenging opportunity to pursue independently an 
+individual project and is likely to require extended effort. The two units together normally include a 
+preparatory literature survey and developmental work such as design, construction and 
+programming. Students choose a project that interests them, and are assigned to a team of two 
+supervising staff members.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+12 hours per week working on the project
+Unit relationships
+ 
+Prerequisites
+ECE3091 or completion of 132 credit points
+Prohibitions
+ECE4911, ECE5094
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Dr Jonathan Li
+Email: Jonathan.Li@monash.edu
+Clayton/Malaysia staff contact details
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Dr Jonathan Li
+ Email: Jonathan.Li@monash.edu
+ 72226Building: , Room: 
+Consultation hours: Email for appointment
+Lecturer(s) None  Name: 
+ Email: 
+ , Room: Building: 
+Consultation hours: None
+ 
+  
+Malaysia campus
+Campus Coordinator Dr Narayanan RamakrishnanName: 
+ Email: ramakrishnan@monash.edu
+ 2 37Building: , Room: 
+Consultation hours: Email for appointment
+Lecturer(s)Name:  None  
+Email: 
+Building: , Room: 
+Consultation hours: None
+ 
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of 
+competency
+Indicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the 
+engineering discipline 
+at a phenomenological 
+level, applying 
+sciences and 
+engineering 
+fundamentals to 
+systematic 
+investigation, 
+interpretation, analysis 
+and innovative solution 
+of complex problems 
+and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological level, 
+applying sciences and engineering 
+fundamentals to systematic 
+investigation, interpretation, analysis 
+and innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+1
+1.2 Develops and 
+fluently applies relevant 
+investigation analysis, 
+interpretation, 
+assessment, 
+characterisation, 
+prediction, evaluation, 
+modelling, decision 
+making, measurement, 
+evaluation, knowledge 
+management and 
+communication tools 
+and techniques 
+pertinent to the 
+engineering discipline.
+a) Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering discipline.
+1
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+1.3 In-depth 
+understanding of 
+specialist bodies of 
+knowledge within the 
+engineering discipline.
+a) Proficiently applies advanced 
+technical knowledge and skills in at 
+least one specialist practice domain of 
+the engineering discipline.
+1
+1.4 Discernment of 
+knowledge 
+development and 
+research directions 
+within the engineering 
+discipline.
+a) Identifies and critically appraises 
+current developments, advanced 
+technologies,emerging issues and 
+interdisciplinary linkages in at least 
+one specialist practice domain of the 
+engineering discipline.
+1
+b) Interprets and applies selected 
+research literature to inform 
+engineering application in at least one 
+specialist domain of the engineering 
+discipline.
+1
+1.5 Identifies and 
+applies systematic 
+principles of 
+engineering design 
+relevant to the 
+engineering discipline.
+a) Identifies and applies systematic 
+principles of engineering design 
+relevant to the engineering discipline.
+1
+b) Identifies and understands the 
+interactions between engineering 
+systems and people in the social, 
+cultural, environmental, commercial, 
+legal and political contexts in which 
+they operate, including both the 
+positive role of engineering in 
+sustainable development and the 
+potentially adverse impacts of 
+engineering activity in the engineering 
+discipline.
+1
+c) Appreciates the issues associated 
+with international engineering practice 
+and global operating contexts.
+1
+1.6 Understanding of 
+the scope, principles, 
+norms, accountabilities 
+and bounds of 
+sustainable 
+engineering practice in 
+the specific discipline.
+a) Appreciates the basis and 
+relevance of standards and codes of 
+practice, as well as legislative and 
+statutory requirements applicable to 
+the engineering discipline.
+1
+b) Appreciates the principles of safety 
+engineering, risk management and the 
+health and safety responsibilities of 
+the professional engineer, including 
+legislative requirements applicable to 
+the engineering discipline.
+1
+c) Appreciates the social, 
+environmental and economic 
+principles of sustainable engineering 
+practice.
+1
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+d) Understands the fundamental 
+principles of engineering project 
+management as a basis for planning, 
+organising and managing resources.
+1
+e) Appreciates the formal structures 
+and methodologies of systems 
+engineering as a holistic basis for 
+managing complexity and 
+sustainability in engineering practice.
+1
+2. Engineering application ability
+2.1 Application of 
+established 
+engineering methods to 
+complex engineering 
+problem solving.
+a) Identifies, discerns and 
+characterises salient issues, 
+determines and analyses causes and 
+effects, justifies and applies 
+appropriate simplifying assumptions, 
+predicts performance and behaviour, 
+synthesises solution strategies and 
+develops substantiated conclusions.
+1,5
+b) Ensures that all aspects of an 
+engineering activity are soundly based 
+on fundamental principles - by 
+diagnosing, and taking appropriate 
+action with data, calculations, results, 
+proposals, processes, practices, and 
+documented information that may be 
+ill-founded, illogical, erroneous, 
+unreliable or unrealistic.
+1,5
+c) Competently addresses 
+engineering problems involving 
+uncertainty, ambiguity, imprecise 
+information and wide-ranging and 
+sometimes conflicting technical and 
+non-technical factors.
+1,5
+d) Investigates complex problems 
+using research-based knowledge and 
+research methods.
+1,5
+e) Partitions problems, processes or 
+systems into manageable elements 
+for the purposes of analysis,modelling 
+or design and then re-combines to 
+form a whole, with the integrity and 
+performance of the overall system as 
+the paramount consideration.
+1,5
+f) Conceptualises alternative 
+engineering approaches and 
+evaluates potential outcomes against 
+appropriate criteria to justify an 
+optimal solution choice.
+1,3,5
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+2.2 Fluent application 
+of engineering 
+techniques, tools and 
+resources.
+a) Proficiently identifies, selects and 
+applies the materials, components, 
+devices, systems, processes, 
+resources, plant and equipment 
+relevant to the engineering discipline.
+1,5
+b) Constructs or selects and applies 
+from a qualitative description of a 
+phenomenon, process, system, 
+component or device a mathematical, 
+physical or computational model 
+based on fundamental scientific 
+principles and justifiable simplifying 
+assumptions.
+1,5
+c) Determines properties, 
+performance, safe working limits, 
+failure modes, and other inherent 
+parameters of materials, components 
+and systems relevant to the 
+engineering discipline.
+1,5
+d) Applies a wide range of 
+engineering tools for analysis, 
+simulation, visualisation, synthesis 
+and design, including assessing the 
+accuracy and limitations of such tools, 
+and validation of their results.
+1,5
+e) Applies formal systems engineering 
+methods to address the planning and 
+execution of complex, problem solving 
+and engineering projects.
+1,5
+f) Designs and conducts experiments, 
+analyses and interprets result data 
+and formulates reliable conclusions.
+1,5
+g) Analyses sources of error in applied 
+models and experiments; eliminates, 
+minimises or compensates for such 
+errors; quantifies significance of errors 
+to any conclusions drawn.
+1,5
+h) Safely applies laboratory, test and 
+experimental procedures appropriate 
+to the engineering discipline.
+1,5
+2.3 Application of 
+systematic engineering 
+synthesis and design 
+processes.
+a) Proficiently applies technical 
+knowledge and open ended problem 
+solving skills as well as appropriate 
+tools and resources to design 
+components, elements, systems, 
+plant, facilities and/or processes to 
+satisfy user requirements.
+1,5
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+b) Addresses broad contextual 
+constraints such as social, cultural, 
+environmental, commercial, legal 
+political and human factors, as well as 
+health, safety and sustainability 
+imperatives as an integral part of the 
+design process.
+1,5
+c) Executes and leads a whole 
+systems design cycle approach.
+1,5
+d) Is aware of the accountabilities of 
+the professional engineer in relation to 
+the ‘design authority’ role.
+1,5
+2.4 Application of 
+systematic approaches 
+to the conduct and 
+management of 
+engineering projects.
+a) Contributes to and/or manages 
+complex engineering project activity, 
+as a member and/or as the leader of 
+an engineering team.
+1,5
+b) Seeks out the requirements and 
+associated resources and realistically 
+assesses the scope, dimensions, 
+scale of effort and indicative costs of a 
+complex engineering project.
+1,5
+d) Proficiently applies basic systems 
+engineering and/or project 
+management tools and processes to 
+the planning and execution of project 
+work, targeting the delivery of a 
+significant outcome to a professional 
+standard.
+1,5
+e) Is aware of the need to plan and 
+quantify performance over the full life-
+cycle of a project, managing 
+engineering performance within the 
+overall implementation context.
+1,5
+3. Professional and personal attributes
+3.2 Effective oral and 
+written communication 
+in professional and lay 
+domains.
+a) Is proficient in listening, speaking, 
+reading and writing English
+6
+b) Prepares high quality engineering 
+documents such as progress and 
+project reports, reports of 
+investigations and feasibility studies, 
+proposals, specifications, design 
+records, drawings, technical 
+descriptions and presentations 
+pertinent to the engineering discipline.
+6
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+3.3 Creative, innovative 
+and pro-active 
+demeanour.
+a) Applies creative approaches to 
+identify and develop alternative 
+concepts, solutions and procedures, 
+appropriately challenges engineering 
+practices from technical and non-
+technical viewpoints; identifies new 
+technological opportunities.
+2,5
+b) Seeks out new developments in the 
+engineering discipline and 
+specialisations and applies 
+fundamental knowledge and 
+systematic processes to evaluate and 
+report potential.
+2,5
+c) Is aware of broader fields of 
+science, engineering, technology and 
+commerce from which new ideas and 
+interfaces may be drawn and readily 
+engages with professionals from these 
+fields to exchange ideas.
+4
+3.4 Professional use 
+and management of 
+information.
+a) Is proficient in locating and utilising 
+information - including accessing, 
+systematically searching,analysing, 
+evaluating and referencing relevant 
+published works and data; is proficient 
+in the use of indexes, bibliographic 
+databases and other search facilities.
+1
+b) Critically assesses the accuracy, 
+reliability and authenticity of 
+information.
+1
+c) Is aware of common document 
+identification, tracking and control 
+procedures.
+1
+3.5 Orderly 
+management of self, 
+and professional 
+conduct.
+a) Demonstrates commitment to 
+critical self-review and performance 
+evaluation against appropriatecriteria 
+as a primary means of tracking 
+personal development needs and 
+achievements.
+2,5
+b) Understands the importance of 
+being a member of a professional and 
+intellectual community,learning from 
+its knowledge and standards, and 
+contributing to their maintenance and 
+advancement.
+5
+c) Demonstrates commitment to life-
+long learning and professional 
+development.
+5
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+d) Manages time and processes 
+effectively, prioritises competing 
+demands to achieve personal,career 
+and organisational goals and 
+objectives.
+2
+e) Thinks critically and applies an 
+appropriate balance of logic and 
+intellectual criteria to analysis,
+judgement and decision making.
+3
+f) Presents a professional image in all 
+circumstances, including relations with 
+clients, stakeholders, as well as with 
+professional and technical colleagues 
+across wide ranging disciplines.
+6
+3.6 Effective team 
+membership and team 
+leadership.
+a) Understands the fundamentals of 
+team dynamics and leadership.
+1
+b) Functions as an effective member 
+or leader of diverse engineering 
+teams, including those with multi-level, 
+multi-disciplinary and multi-cultural 
+dimensions.
+1
+c) Earns the trust and confidence of 
+colleagues through competent and 
+timely completion of tasks.
+1
+d) Recognises the value of alternative 
+and diverse viewpoints, scholarly 
+advice and the importance of 
+professional networking.
+1
+e) Confidently pursues and discerns 
+expert assistance and professional 
+advice.
+1
+f) Takes initiative and fulfils the 
+leadership role whilst respecting the 
+agreed roles of others.
+1
+Teaching and learning method
+The student in coordination with the immediate supervisor and the unit coordinator will undertake a 
+project in their area of interest from the different fields of Electrical and Computer Systems 
+Engineering. The exercise will be a self study project where the student will undertake research, 
+experimentation, design, construction and evaluation under the guidance of a member of ECSE 
+staff.
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Demonstrate a sound technical knowledge of their selected project topic.
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+1. Demonstrate a sound technical knowledge of their selected project topic.
+2. Demonstrate problem identification, formulation and solution.
+3. Design and evaluate engineering solutions to complex problems utilising a systems 
+approach.
+4. Plan, execute and assess an engineering project.
+5. Generate professional written reports and oral presentations to communicate project 
+outcomes to engineering colleagues and the community at large
+6. Demonstrate the knowledge, skills and attitudes of a professional engineer.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●A more streamlined process for students to find projects and supervisors.
+●Rubric for overall project performance
+Student feedback has highlighted the following strength(s) in this unit:
+●The opportunity to work closely with a departmental academic on interesting and challenging 
+projects.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+Project A (ECE4094) Unit schedule
+WeekAssignment activity
+3Students who do not yet have a project will be allocated to a supervisor on 
+Wednesday of week 
+3. While every effort will be made to place remaining students in an area of their 
+preference, final determination will be made by the unit coordinator in 
+consideration of available supervisors.
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+4Risk Analysis
+This Milestone is an initial investigation of the Safety Risks involved in the project. 
+This item is continually updated during the life of the project to reflect new or 
+changed risk circumstances as the project progresses. It is a legal requirement of 
+all projects.
+Requirements Analysis
+This Milestone is used to ensure both the student and supervisor have a common 
+understanding of the direction, focus and outcomes intended from the project. It 
+will be used as benchmark during the final presentation of findings.
+12Design Specification
+This Milestone is used to compare and contrast the final project result with initial 
+expectations. The review panel will use this Milestone to examine what has been 
+delivered and what was originally expected.
+Progress Report
+This Milestone is a brief report on the progress to date of the project. It should be 
+no more than 5 pages.
+SWOT VA
+C
+Progress Interview (if necessary)
+If the supervisor or student determines that it is necessary, students will need to 
+attend an interview with a panel of experts to present evidence of their progress 
+and justify why their project should be allowed to continue into its second 
+half (Project B).
+Project B (ECE4095) Unit schedule
+WeekAssignment activity
+ongoingRisk  AnalysisReview
+This Milestone is a review investigation of the Safety Risks involved in the project. 
+This item is continually updated during the life of the project to reflect new or 
+changed risk circumstances as the project progresses. It is a legal requirement of 
+all projects.
+11Poster
+Students are to submit a summary poster of their work at the end of Week 11.
+Project Video
+Students are to submit a link to a video that they create and upload to YouTube. 
+The video must not exceed 15 minutes and summarise the purpose, execution 
+and results of their project. Video production skills will not be assessed, but clarity, 
+conciseness and engagement are expected.
+12Industry Night
+Students are expected to attend an industry night in the middle of Week 12 of 
+second semester, to present their projects, demonstrations and posters to 
+industry, academics and fellow students. This is a celebration of the entire final 
+year project and a showcase of student efforts.
+Final Report
+This milestone includes all aspects of the project including but not limited to 
+literature review,  final design, project limitations, comparison and contrast of 
+original goals and expectations to final delivered items. The body of work should 
+include everything which the student presents in their final review and is relevant 
+to the project. This may include written material as well as pictures, schematics, 
+charts, diagrams graphs and analysis of results as well as conclusions. This body 
+of work is a collection of all the items required to justify the results achieved during 
+the course of the project. The body of work must be submitted as a single PDF via 
+Moodle at the end of Week 12.
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+SWOT VA
+C
+Final Presentation:
+This Milestone is the Final Project Review. Students will need to present to an 
+open audience including a panel of experts evidence of their progress and justify 
+the outcomes of their project. The panel will at this time consider all aspects of the 
+project including the relative merits of all the milestones and the project 
+deliverable items in making their determination of a mark for the entire project.
+Marking will be in accordance with the assessment details and criteria specified in 
+the rubrics below.
+The presentation will consist of
+●
+a viewing of the 15 minute Project Video with the students and assessment 
+panel
+●
+a 10-15 minute interview of students along with their posters
+Assessment requirements
+Assessment summary
+Panel assessment of the achievement of the student in the project, as evidenced by a 
+presentation, a poster and a written report (100%)
+Assessment taskValueDue date
+Project100%Week 12
+Hurdle requirements 
+At the end of Project A, students will present the results of their project to date. This will be in the 
+form of a written progress report. If the supervisor and student are 
+Should the supervisor (or student) have any concerns regarding progress to date, a panel of 
+academics including the project supervisor and independent academics, to be determined by the 
+unit coordinator, will interview the student(s) and assess the milestones and progress at which 
+time the student(s) must defend their efforts and justify why the project should be allowed to 
+continue.
+The panel will take into consideration all of the required submissions in the Unit Schedule above. If 
+the project is to continue the student will be notified via Moodle following the release of results 
+according to faculty policy. As the project is only half complete at this stage, the official result for 
+ECE4094 will indicate Result Withheld (WH) temporarily until the project is complete at the end of 
+ECE4095 Project B.
+In the event a project is not permitted to continue, the mid project review will record a fail against 
+Project A ECE4094. A numerical mark will be returned based on the evidence presented to the 
+mid point of the project for Project A only.  No mark will be recorded against ECE4095 for a project 
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+mid point of the project for Project A only.  No mark will be recorded against ECE4095 for a project 
+which fails to meet requirements at the end of ECE4094.
+Students whose projects are not permitted to continue must dis-enrol from Project B and 
+recommence a new project beginning with Project A ECE4094 in a subsequent semester.
+The project is marked at its conclusion with consideration to the rubric below.
+Assessment tasks
+Assessment title: Project
+ On CampusMode of delivery:
+Details of task: A two semester project in an area of ECSE, supervised by a member of ECSE 
+academic staff.
+There are a number of deliverables, outlined in the unit schedule.
+Consult Moodle for detailsRelease dates (where applicable): 
+ Consult Moodle for detailsWord limit (where applicable):
+Week 12Due date: 
+100%Value: 
+Presentation requirements: In Project A, an interview may be required if there are concerns with 
+student progress.
+In Project B, students must submit a 15 minute video summarising their project, and attend a 10-
+15 minute interview with a panel explaining their project using their poster submission.
+All deliverables are hurdles that must be submitted.Hurdle requirements (where applicable): 
+Individual assessment in group tasks (where applicable): Where a project is completed as a team, 
+students and supervisors will determine the method of individual assessment.
+Examples could be the CATME peer assessment system.
+Criteria for marking: 
+100% of the mark is allocated to the outcome of the project.
+Each project is open-ended. There is no one correct answer, however there are levels of 
+expectation and outcomes associated with all projects. Examples of the type of performance which 
+will earn different marks are given below. Note the review panel may adjust the mark above or 
+below these ranges at their discretion.
+The attached rubric is an indicative guide to the required level of achievement generally associated 
+with each grade level.
+ 
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+ Facetof workExample TasksFailPassCredit/DistinctionHigh
+Distinction
+Understanding 
+of project
+Objectives 
+stated
+Define context 
+and scope of 
+project
+Project 
+Significance
+The student 
+  doesnot
+ the understand
+project topic.
+The student 
+demonstrates 
+  understandingof
+the main points 
+of the project 
+topic.
+The student 
+demonstrates 
+clear 
+understanding 
+of their project 
+and the topic 
+work presented 
+  meetscriteria
+ specifiedin the 
+project 
+.description
+The student 
+demonstrates 
+clear 
+understanding of 
+their project topic 
+and  formulates
+the research 
+questions with 
+minimal guidance 
+from their 
+supervisor in an 
+innovative fresh 
+.perspective
+Review of 
+literature
+Identifying 
+technical 
+challenges
+Usage of 
+references and 
+citations
+Identify 
+broader (social 
+and/or cultural) 
+implications of 
+project
+Technical 
+challenges are
+vaguely 
+specified.
+Consults 
+ sources minimal
+or sources 
+considered 
+to inappropriate 
+problem solve 
+and justify 
+approach used.
+Little or no 
+evidence of 
+awareness of 
+project’s ethical 
+/ social / cultural 
+implications
+Technical 
+challenges are 
+clearly identified 
+.and explained
+Consults some 
+appropriate 
+sources to 
+problem solve 
+and justify 
+approach used.
+Some evidence 
+of awareness of 
+project’s ethical / 
+social / cultural 
+implications
+Technical 
+challenges are 
+clearly identified 
+and explained in 
+.context
+Consults 
+ numerous
+ appropriate
+sources to 
+problem solve 
+and justify 
+approach used.
+Clear evidence 
+of awareness of 
+project’s ethical 
+/ social / cultural 
+implications
+Technical 
+challenges are 
+clearly identified, 
+explained in 
+context and 
+.justified
+Consults 
+ numerous
+ appropriate
+sources to 
+problem solve 
+and justify 
+approach used 
+systematically 
+and 
+.comprehensively
+Extensive 
+evidence of 
+awareness of 
+project’s ethical / 
+social / cultural 
+implications
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Project 
+execution
+Risk Analysis
+Project planning
+Delivery of 
+project 
+objectives
+Documentation
+In the opinion of 
+the review panel 
+the project does 
+not have 
+adequate 
+technical 
+or content does 
+not meet 
+reasonable 
+of expectations 
+effort for a 
+project of this 
+size and length.
+Only  trivialor 
+partial 
+of completion 
+project 
+objectives.
+No ongoing 
+documentation 
+of project 
+progress
+Outcomes of the 
+project are not 
+to clearly evident 
+the review panel.
+Demonstrations 
+are not 
+in a repeatable 
+reasonable time 
+frame.
+The student 
+presents work 
+which  almost
+  meetsthe
+ set specifications
+out in the various 
+milestones.
+Little ongoing 
+documentation of 
+project progress
+Demonstration 
+of project 
+outcomes is 
+to the evident 
+review panel, 
+with repeatable 
+some difficulty 
+but still in line 
+with most 
+predictions and 
+expectations 
+made in the 
+various 
+milestones.
+The student 
+presents work 
+which  meetsthe 
+specifications 
+set out in the 
+various 
+milestones.
+Clear ongoing 
+documentation 
+of project 
+progress
+Project  outcomes
+  areclearlyevident
+to the review 
+panel, ,repeatable
+in line with 
+predictions and 
+expectations 
+made in the 
+various 
+milestones.
+The student 
+presents work 
+which 
+ demonstrates
+ significant
+  initiativeand
+  originalthought
+in their solution to 
+achieve all 
+specifications 
+outlined in the 
+report.
+Clear and 
+professional level 
+ongoing 
+documentation of 
+project progress
+ 
+ Facetof workExample TasksFailPassCredit/DistinctionHigh
+Distinction
+Problem solving 
+approach
+Formulation of 
+solutions to 
+identified 
+problems
+Identification of 
+strengths and 
+weaknesses of 
+project 
+approach
+The solutions 
+provided 
+demonstrate 
+ very
+ unsystematic
+ to approaches
+problem solving.
+Project  goalsare
+.not met
+No evidence of 
+critical reflection 
+and evaluation 
+of the strengths 
+and 
+weaknesses of 
+the project 
+approach
+The solutions 
+provided 
+demonstrate 
+reasonable 
+attempts to solve 
+the project 
+problems.
+Adequate but 
+ unsophisticated
+  andunwiseuse 
+of technical skills 
+to solve the 
+problem.
+Some evidence 
+of critical 
+reflection and 
+evaluation of the 
+strengths and 
+weaknesses of 
+the project 
+approach
+The solutions 
+provided 
+demonstrate 
+good adherence 
+to professional 
+practice and 
+problem solving.
+Evidence of 
+critical reflection 
+and evaluation 
+of the strengths 
+and 
+weaknesses of 
+the project 
+approach
+The elegant 
+solutions 
+provided 
+demonstrate 
+ significant
+ and initiative
+ evidenceof 
+original thought 
+in the resolution 
+of the project 
+goals.
+Clear evidence 
+of critical 
+reflection and 
+evaluation of 
+the strengths 
+and 
+weaknesses of 
+the project 
+approach
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+PresentationOral 
+presentations
+Video 
+presentation
+Panel Interview
+Unengaging, 
+laboured, 
+disjointed
+Questions 
+answered 
+poorly, with little 
+evidence of 
+knowledge of 
+the project.
+Mildly engaging, 
+need 
+improvements for 
+the future
+Questions 
+answered 
+adequately, with 
+some evidence 
+of knowledge of 
+the project.
+Strongly 
+engaging, well 
+presented
+Questions 
+answered 
+adequately, with 
+clear evidence 
+of knowledge of 
+the project.
+Exceptionally 
+engaging, 
+brilliantly 
+presented, 
+highly 
+professional
+Questions 
+answered 
+confidently and 
+convincingly, 
+with clear 
+evidence of 
+knowledge of 
+the project.
+CommunicationRequirements 
+Analysis
+Design 
+specification
+Progress 
+Report
+Final Report
+Poster
+The reports and 
+milestones are 
+not clearly 
+are written, 
+grammatically 
+and incorrect 
+poorly 
+.documented
+The report is 
+poorly formatted 
+and fails to meet 
+.the conventions
+The reports and 
+milestones are 
+adequately 
+written, 
+grammatically 
+satisfactory and 
+adequately 
+documented, 
+sufficiently 
+meeting the 
+criteria for writing 
+reports.
+The report is 
+adequately 
+and formatted 
+meets the 
+conventions.
+The reports and 
+milestones are 
+proficiently 
+written, 
+grammatically 
+correct and 
+accurately 
+, documented
+and sufficiently 
+meets the 
+criteria for 
+writing reports.
+The report is 
+accurately and 
+clearly formatted
+.
+The reports and 
+milestones are 
+clearly written, 
+grammatically 
+correct, well 
+, documented
+utilising 
+professional 
+to language 
+meet all of the 
+criteria for 
+writing reports.
+Close attention 
+has been 
+observed to 
+meet the report 
+formatting 
+conventions at a 
+professional 
+.standard
+The produced 
+report is likely to 
+result in an 
+externally peer 
+reviewed 
+publication in a 
+conference or 
+journal as an 
+additional 
+output.
+ 
+ NoneAdditional remarks:
+ 
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Section B: For Malaysia students
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who  electrical and computer systems 
+are:
+1. competent in engineering electrical and computer systems 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program  electrical and computer systems 
+Outcomes (POs) for all of its graduates based on the competencies required by the Malaysian 
+Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 electrical and computer systems 
+ Apply knowledge of Engineering Knowledge:
+mathematics, natural science, engineering 
+fundamentals and specialisation in  electrical 
+engineering to the and computer systems 
+solution of complex engineering problems
+Cognitive:  Evaluate and apply fundamental 
+principles to complex engineering problems. 
+Assessed using design document, final report 
+and final presentation.
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complex electrical and computer systems 
+engineering problems reaching substantiated 
+conclusions using first principles of 
+mathematics, natural sciences and 
+engineering sciences
+Cognitive: Critically assess and formulate a 
+problem through analysis of relevant 
+published literature. Assessed through design 
+document and final report.
+PO3  Design/Development of Solutions:
+Design solutions for complex electrical and 
+engineering problems and computer systems 
+design systems, components or processes 
+that meet specified needs.
+Cognitive: Develop/Design an appropriate 
+solution to solve a complex engineering 
+problem. Assessed through design document.
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex electrical and 
+engineering problems computer systems 
+using research-based knowledge and 
+research methods including design of 
+experiments, (analysis and interpretation of 
+data, and synthesis of information to provide 
+valid conclusions.
+Cognitive: Assess and synthesize results of 
+investigation to provide valid conclusions. 
+Assessed through final presentation and final 
+report.
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex electrical 
+engineering problems, and computer systems 
+with an understanding of the limitations
+Cognitive: Create/Select and apply 
+appropriate resources and tools to work over 
+an extended period on a complex engineering 
+problem. Assessed through design document, 
+final report and final presentation.
+Psychomotor: 
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex electrical and 
+engineering problemscomputer systems 
+Affective:  Projects are required to 
+demonstrate an observance of safety 
+requirements involved in the project. 
+Assessed using the risk analysis appended in 
+the design document.
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work 
+in the solution of complex electrical and 
+engineering problems in computer systems 
+environmental contexts.
+Cognitive: 
+Affective: Students are required to follow 
+environmental guidelines as necessary. 
+Assessed using the environmental 
+assessment document appended in the 
+design document.
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective:  The engineering profession 
+requires a commitment to ethical behaviour. 
+Students are required to comply with research 
+integrity and other ethical aspects such 
+human ethics, animal ethics and biosafety 
+relevant to the project. Assessed through 
+ethics assessment forms in design document 
+and final report.
+PO9  Communicate Communication:
+effectively on complex electrical and computer 
+engineering activities with the systems 
+engineering community and with society at 
+large, such as being able to comprehend and 
+write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective:  Written communication is assessed 
+using design document and final report. Oral 
+communication with the engineering 
+community and the society at large is 
+assessed using the final presentation and 
+project demonstration.
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective:  NA
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological 
+change
+Affective:  Initiate ideas to solve complex 
+problems and have the desire to work 
+independently. Assessed using life-long 
+learning assessment form appended in the 
+final report.
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: Measured at the project 
+demonstration on completion of the project 
+within time and allocated budget. Assessed 
+using timely submission of design document 
+and final report.
+Teaching and learning method
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10.  
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+The student in coordination with the immediate supervisor and the unit coordinator will undertake a 
+project in their area of interest from the different fields of Electrical and Computer Systems 
+Engineering. The exercise will be a self study project where the student will undertake research, 
+experimentation, design, construction and evaluation under the guidance of a member of ECSE 
+staff.
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Demonstrate a sound technical knowledge of their selected project topic.
+2. Demonstrate problem identification, formulation and solution.
+3. Design and evaluate engineering solutions to complex problems utilising a systems 
+approach.
+4. Plan, execute and assess an engineering project.
+5. Generate professional written reports and oral presentations to communicate project 
+outcomes to engineering colleagues and the community at large
+6. Demonstrate the knowledge, skills and attitudes of a professional engineer.
+OBE requirements to learning outcomes (LOs)
+LOs for OBEHandbook LOs 
+Critically assess and formulate a 
+problem through analysis of relevant 
+published literature.
+Create/Select and apply appropriate 
+resources and tools to work over an 
+extended period on a complex 
+engineering problem.
+Organise complex technical information 
+and communicate both orally and in 
+writing.
+Evaluate and apply fundamental 
+principles of electrical and computer 
+systems engineering to a complex 
+engineering problem
+Develop/Design an appropriate solution 
+to solve a complex engineering problem
+Assess and synthesize results of 
+investigation to provide valid conclusions
+Assume responsibility and comply with 
+safety aspects of the project
+Adopt environmental guidelines as 
+required
+Comply with ethical principles relevant 
+to the project
+explore in greater depth a chosen field 
+of engineering with a practical emphasis
+demonstrate an ability to self manage 
+and organize and to investigate and 
+evaluate a problem of interest
+demonstrate an ability to logically 
+assess different alternatives and 
+investigate prior work in the field of 
+interest, compare and contrast such 
+work to develop a solution to a problem 
+of interest
+explore the importance of self-
+sufficiency and self-review of efforts 
+and outcomes
+demonstrate skills acquired during the 
+course of the degree in an area of 
+interest to the student and supervisor 
+and use the tools and equipment 
+applicable in the chosen area with 
+greater efficacy
+relate findings and outcomes to a panel 
+of review
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+10.  
+11.  
+Initiate ideas to solve complex problems 
+and have the desire to work 
+independently
+Organise and manage a project of 
+significant duration to an agreed 
+timetable and budget
+Relationship between unit learning outcomes and program outcomes
+No. PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1 √
+LO2 √
+LO3 √
+LO4 √
+LO5 √
+LO6 √
+LO7 √
+LO8 √
+LO9 √
+LO10 √
+LO11 √
+Key
+ √Emphasized and assessed in the unit
+No Emphasis
+Malaysia General Studies Unit
+This unit has been approved as a General Studies (GS) unit under the U4 cluster by the Malaysian 
+Qualifications Agency (MQA). The objective of the U4 cluster is to produce students who can apply 
+soft skills. A range of learning outcomes have been developed by the Ministry of Higher Education 
+(MOHE) for the U4 cluster.
+U4 Cluster Learning outcomes
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+1.  
+2.  
+3.  
+4.  
+5.  
+At the end of this course, students will be able to:
+apply  social skills and responsibility;
+apply values, attitudes and professionalism;
+apply communication and leadership skills and the ability to work in teams;
+apply information management and lifelong learning skills;
+apply management and entrepreneurial skills.
+Mapping of OBE Learning Outcomes to U4 Cluster Learning Outcomes
+OBE LO1.U4 LO1.
+U4 LO2.
+OBE LO2.U4 LO1.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●1. Maybe change the way the topics are allocated. It should be done in a more fair way. - 
+This has been discussed at ECSE discipline meetings and the current system was adopted 
+as it allows the freedom to choose a topic of their choice.  
+●2. Increase the speed of the computers in FYP lab. 16GB RAM also not enough - An odd 
+comment. Worstations provided should be really good for the most tasks at undergraduate 
+level. If a student requires even faster workstation, the student should talk to the supervisor 
+and could seek access to the HPC.  
+● 3. The difficulty level of all projects should be similiar- Difficulty level should be comparable 
+but it is very difficult to assess the degree of difficultiness as it is quite subjective.      
+Student feedback has highlighted the following strength(s) in this unit:
+●The opportunity to work closely with a departmental academic on interesting and challenging 
+projects.
+If you wish to view how previous students rated this unit, please go to:
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+Unit schedule - Malaysia campus
+Project A (ECE4094) Unit schedule
+UNIT SCHEDULE  ECE4094 Project A
+WeekDateTraining 
+Workshop
+Venue TimeAssignment/Submission
+Week 126 July, 
+2017
+(Wed)
+Meeting with 
+FYP 
+coordinator
+FYP Lab
+2.30 pm
+Introduction: The Goals of the 
+Unit, Project Selection.
+Week 2August 
+2,2017 
+(Wed)
+Risk 
+Assessment 
+Workshop
+LT6005
+2:00-3:00 pm
+Students who do not yet have 
+a project will be allocated to a 
+supervisor on Wednesday of 
+week 2. While every effort will 
+be made to place remaining 
+students in an area of their 
+preference, final determination 
+will be made by the unit 
+coordinator in consideration of 
+available supervisors.
+Weekly report submission to 
+Supervisor:
+A one page report (hard copy) 
+following the format in the 
+moodle site should be 
+submitted during weekly 
+meeting with the supervisor
+Week 3August 9, 
+2017 (Wed)
+Literature 
+Review 
+workshop
+Venue: LT 6005
+Time : 4:30 PM 
+to 5:30 PM
+Weekly report submission to 
+Supervisor:
+A one page report (hard copy) 
+following the format in the 
+moodle site should be 
+submitted during weekly 
+meeting with the supervisor
+Week 4August 9, 
+2017
+ (Wed)
+Submission of Risk Analysis:
+This Milestone is an initial 
+investigation of the Safety 
+Risks involved in the project. 
+This item is continually 
+updated during the life of the 
+project to reflect new or 
+changed risk circumstances as 
+the project progresses. It is a 
+legal requirement of all projects.
+ A soft copy should be 
+submitted to Moodle before 5 
+PM of Aug 9, 2017.
+Weekly report submission to 
+Supervisor:
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+A one page report (hard copy) 
+following the format in the 
+moodle site should be 
+submitted during weekly 
+meeting with the supervisor
+Week 5August 16, 
+2017 (Wed)
+Managing 
+references 
+with EndNote
+Venue 
+MA_Computer 
+Lab 9405
+Time 2:00 PM to 
+3:00 PM
+Weekly report submission to 
+Supervisor:
+A one page report (hard copy) 
+following the format in the 
+moodle site should be 
+submitted during weekly 
+meeting with the supervisor
+Week 6August 30, 
+2017 (Wed)
+Technical 
+Writing
+LT6008
+2:00-3:00 pm
+Submission of Requirement 
+Analysis:
+This Milestone is used to 
+ensure both the student and 
+supervisor have a common 
+understanding of the direction, 
+focus and outcomes intended 
+from the project. It will be used 
+as benchmark during the final 
+presentation of findings. A
+ Hard copy should be 
+submitted to pigeon hole (2-4-
+37) at Level 4, Building 2, 
+Pigeon Hole and soft copy to 
+Moodle before 5 PM of Aug 30, 
+2017. 
+Weekly report submission to 
+Supervisor:
+A one page report (hard copy) 
+following the format in the 
+moodle site should be 
+submitted during weekly 
+meeting with the supervisor
+Week 8September 
+13, 2017
+(Wed)
+Presentation 
+Skill and 
+Structuring 
+report
+LT6005 
+2:00-3:00 pm
+Weekly report submission to 
+Supervisor:
+A one page report (hard copy) 
+following the format in the 
+moodle site should be 
+submitted during weekly 
+meeting with the supervisor
+Week 8September 
+13, 2017
+(Wed)
+Weekly report submission to 
+Supervisor:
+A one page report (hard copy) 
+following the format in the 
+moodle site should be 
+submitted during weekly 
+meeting with the supervisor
+Week 9September 
+20, 2017 
+(Wed)
+MS report 
+formating
+Venue: Computer 
+Lab 9406
+Time : 2:00 PM 
+to 3:00 PM
+Weekly report submission to 
+Supervisor:
+A one page report (hard copy) 
+following the format in the 
+moodle site should be 
+submitted during weekly 
+meeting with the supervisor
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
+29
+Week 12October 
+20,2017 
+(Wed)
+Submission of Design 
+Specification:
+This Milestone is used to 
+compare and contrast the final 
+project result with initial 
+expectations.
+The review panel will use this 
+Milestone to examine what has 
+been delivered and what was
+originally expected.
+A
+ brief report on the progress to 
+date of the project should be 
+included. 
+A
+ Hard copy should be 
+submitted to pigeon hole (2-4-
+37) at Level 4, Building 2, 
+Pigeon Hole and soft copy to 
+Moodle before 5 PM of 
+October 20, 2017. 
+Weekly report submission to 
+Supervisor:
+A one page report (hard copy) 
+following the format in the 
+moodle site should be 
+submitted during weekly 
+meeting with the supervisor
+SWOT V
+AC
+Progress Interview (if 
+necessary)
+If the supervisor or student 
+determines that it is necessary, 
+students will need to attend an 
+interview with a panel of 
+experts to present evidence of 
+their progress and justify why 
+their project should be allowed 
+to continue into its second 
+half (Project B).
+Examination PeriodLINK to Assessment Policy:
+http://www.policy.monash.edu
+/policy-bank/academic
+/education/assessment
+/assessment-in-coursework-
+policy.html
+Assessment Summary
+Panel assessment of the achievement of the student in the project, as evidenced by a 
+presentation, a poster and a written report (100%)
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (28) Break----------------
+30
+Assessment taskValueDue 
+date
+Overall Task : Project . Following are the sub assessments, 
+ECE4094- Project A - Assessment Task
+1. Design Document.
+2. Weekly Report.
+ECE4095- Project B- Assessment Task
+1. Final Report. 
+2. Final Presentation.
+3. Viva-Voce/Demonstration.
+4. Weekly Report.
+Visit the unit moodle site for the details on the task, marking scheme and 
+rubrics. 
+100%Week 
+12
+Hurdle requirements 
+At the end of Project A, students will present the results of their project to date. This will be in the 
+form of a written progress report. If the supervisor and student are 
+Should the supervisor (or student) have any concerns regarding progress to date, a panel of 
+academics including the project supervisor and independent academics, to be determined by the 
+unit coordinator, will interview the student(s) and assess the milestones and progress at which 
+time the student(s) must defend their efforts and justify why the project should be allowed to 
+continue.
+The panel will take into consideration all of the required submissions in the Unit Schedule above. If 
+the project is to continue the student will be notified via Moodle following the release of results 
+according to faculty policy. As the project is only half complete at this stage, the official result for 
+ECE4094 will indicate Result Withheld (WH) temporarily until the project is complete at the end of 
+ECE4095 Project B.
+In the event a project is not permitted to continue, the mid project review will record a fail against 
+Project A ECE4094. A numerical mark will be returned based on the evidence presented to the 
+mid point of the project for Project A only.  No mark will be recorded against ECE4095 for a project 
+which fails to meet requirements at the end of ECE4094.
+Students whose projects are not permitted to continue must dis-enrol from Project B and 
+recommence a new project beginning with Project A ECE4094 in a subsequent semester.
+The project is marked at its conclusion with consideration to the rubric posted under the unit 
+moodle site.
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (29) Break----------------
+31
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (30) Break----------------
+32
+Assessment
+Learning OutcomesOpen-
+ended 
+LabsLO1LO2LO3LO4LO5LO6LO7LO8LO9LO10LO11
+1Design 
+Documentation
+(Project A)
+C6C6A4C6C5A3A3A2A4
+2Final 
+Presentation
+(Project B)
+C6A4C6
+3Final Report
+(Project B)
+C6C6A4C6C6A2A3A4
+4Viva-Voce
+/Demonstration
+(Project B)
+C6x
+5Weekly Report
+(Project A and 
+B)
+A3
+Relationship between Assessments and Complex Problems
+/Activities
+AssessmentComplex ProblemsComplex Activities
+1Design 
+Documentation
+xxxxxxxxxxx
+2Final 
+Presentation
+xxxxxx
+3Final Reportxxxxxxxxxxx
+4Viva-Voce
+/Demonstration
+xx
+Assessment requirements
+Assessment tasks
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (31) Break----------------
+33
+Assessment tasks
+Assessment title:  Project
+ On CampusMode of delivery:
+ Details of task:A two semester project in an area of ECSE, supervised by a member of ECSE 
+ academic staff.
+ Consult Moodle for detailsRelease dates (where applicable): 
+  Consult Moodle for detailsWord limit (where applicable): 
+  Week 12Due date: 
+  100%Value: 
+  Consult Moodle for detailsPresentation requirements: 
+Consult Moodle for detailsHurdle requirements (where applicable):  
+  Consult Moodle for detailsIndividual assessment in group tasks (where applicable): 
+ Criteria for marking:  Marking criteria for all assessments are available in the Moodle.
+ Consult Moodle for detailsAdditional remarks: 
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (32) Break----------------
+34
+Section C: All students 
+Extensions and penalties
+Extensions should be approved by your supervisor and unit coordinator.
+Returning assignments
+Feedback is provided, but all submissions are retained by your supervisor.
+Resubmission of assignments
+No resubmission of assignments is permitted in this unit.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+Please consult your supervisor on referencing requirements. It is most likely that you will be using 
+the IEEE referencing style.
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+None
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (33) Break----------------
+35
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Use only the Moodle assignment submit tool. Do not submit files attached to email. Log into 
+Moodle and select the unit for which you wish to submit work.
+                             
+●You will receive a confirmation message within Moodle once you have successfully 
+submitted your assignment within the electronic dropbox.
+●Comments and grading of your assessment will be communicated to you either by Moodle, 
+email, or in person.
+Feedback to you 
+Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies. In this unit it will take the form of group feedback via practice 
+classes, individual feedback, peer feedback, self-comparison, verbal and written feedback, 
+discussions in class, as well as more formal feedback related to assignment marks and 
+grades.  Students/You are encouraged to draw on a variety of feedback to enhance their/your 
+learning
+Students may receive feedback in several ways:
+●In response to weekly journal entries made by students placed on the Moodle page
+●Through weekly contact with supervisors
+●Through email discussion with supervisors or the unit coordinator
+●Through oral discussions conducted in laboratories or places of testing and demonstration 
+with their project supervisor
+●Throggh direct oral interaction with the assessment panel
+●Through written or oral comments associated with each milestone
+Students will receive regular verbal feedback from their project supervisor. To facilitate this, 
+students should hold regular meetings with their supervisor.
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (34) Break----------------
+36
+Feedback may take the form of advice, direction, suggestion or an indication that a task may or 
+may not be to the satisfaction of the supervisor or unit coordinator.
+Since the majority of projects are conducted with close association with a supervisor and there is 
+significant opportunity for the student to meet with their supervisor on many occasions not all 
+feedback will be documented. This unit provides a mechanism through direct weekly meetings, 
+journal entries, presentations and impromptu meetings for students to gain significant feedback. 
+Students are encouraged to document each meeting they have with their supervisor as part of 
+their weekly journal. Failure to update the journal on a weekly basis may substantially limit the kind 
+and type and delivery of feedback available. Students have a responsibility if they require feedback 
+to ask for it at the time it is needed. There is of course no guarantee the feedback received will be 
+to the students liking.
+You can also find information on inclusive teaching practices for students with learning disabilities 
+or mental health conditions at: www.monash.edu.au/lls/inclusivity/
+Learning resources
+Recommended textbooks
+Please consult your supervisor
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Please consult your supervisor
+Technological requirements
+Please consult your supervisor
+Additional unit costs
+It may be necessary to purchase components in the course of your project. This should be done in 
+consultation your supervisor. All purchases requests must have written (e- mail) approval from 
+. The department will NOT your supervisor and follow the departmental procurement process
+approve reimbursements for parts purchased outside of this process.
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (35) Break----------------
+37
+Field trips 
+Please consult your supervisor
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (36) Break----------------
+38
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE4094 Project A - Semester 2 (S2-01) - 2017
+----------------Page (37) Break----------------

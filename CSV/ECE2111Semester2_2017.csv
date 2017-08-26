@@ -1,0 +1,1327 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE2111
+Signals and systems
+Semester 2, 2017
+Table of contents
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          5
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                        8
+Learning outcomes                                                                                                                          8
+Your feedback to us                                                                                                                         8
+Previous student evaluations of this unit                                                                                     8
+Unit schedule - Clayton campus                                                                                                         9
+Assessment requirements                                                                                                                 10
+Assessment summary                                                                                                                   10
+Hurdle requirements                                                                                                                      10
+Assessment tasks                                                                                                                          11
+Examination(s)                                                                                                                               12
+Section B: For Malaysia students                                                                                                      14
+Academic Overview                                                                                                                          15
+Teaching and learning method                                                                                                      16
+Learning outcomes                                                                                                                    17
+OBE requirements to learning outcomes (LOs)                                                                     17
+Relationship between unit learning outcomes and program outcomes                                 17
+Your feedback to us                                                                                                                       18
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Previous student evaluations of this unit                                                                                   18
+Unit schedule - Malaysia campus                                                                                                     19
+Assessment Summary                                                                                                                   20
+Hurdle requirements                                                                                                                  20
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                21
+Relationship between Assessments and Complex Problems/Activities                                    22
+Assessment requirements                                                                                                                 23
+Assessment tasks                                                                                                                          23
+Examination(s)                                                                                                                               25
+Section C: All students                                                                                                                      27
+Plagiarism and collusion                                                                                                                27
+Referencing requirements                                                                                                             27
+Assignment submission                                                                                                                 27
+Feedback to you                                                                                                                            27
+Learning resources                                                                                                                        28
+Required resources                                                                                                                       28
+Technological requirements                                                                                                          28
+Other information                                                                                                                              28
+Policies                                                                                                                                          28
+Graduate Attributes Policy                                                                                                             28
+Student Charter                                                                                                                             28
+Student Services                                                                                                                           29
+Monash University Library                                                                                                             29
+Disability Support Services                                                                                                            29
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit provides foundations for the electrical engineering areas of control, signal processing and 
+communications. The unit introduces concepts of continuous-time and discrete-time signals, their 
+sampling and aliasing issues. Complex numbers, in particular, complex exponentials are 
+introduced along with their representation as phasors, leading to periodic waveforms, Fourier 
+series and the signal frequency spectrum. Modification of spectra will be described using FIR 
+filters, discrete-time systems, the unit-sample response, discrete convolution, linear time-invariant 
+systems, convolution integrals, the continuous-time Fourier transform, windowing, DFT, FFT, time-
+frequency spectrum analysis, spectrogram, and Laplace Transform. Connecting frequency 
+response and time response completes the unit.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+3 hours lectures, 3 hours laboratories/tutorials and 6 hours of private study per week.
+Unit relationships
+ 
+Prerequisites
+ENG1060 and (ENG1091 or ENG1005)
+Prohibitions
+ECE2011
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Manos Varvarigos
+Unit Coordinator(s)
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Name: Dr James Saunderson
+Email: James.Saunderson@monash.edu
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Dr James Saunderson
+ Email: James.Saunderson@monash.edu
+ 72222Building: , Room: 
+Consultation hours: 10-11am Wednesday, or by appointment via email
+Lecturer(s) Dr James SaundersonName: 
+ Email: James.Saunderson@monash.edu
+ 72, Room: 222Building: 
+ 
+ Dr Faezeh MarzbanradName: 
+ Email: Faezeh.Marzbanrad@monash.edu
+ , Room: Building: 
+ 
+  
+Malaysia campus
+Campus 
+Coordinator
+ Dr Maxine TanName: 
+ Email: Maxine.Tan@monash.edu
+ 2 2-4-39CBuilding: , Room: 
+Consultation hours: Monday/Wednesday: 1400-1500 appointment via 
+email
+Lecturer(s)Name:  Dr Maxine Tan
+Email: Maxine.Tan@monash.edu
+Building: 2, Room: 2-4-39C
+Consultation hours: Monday/Wednesday: 1400-1500 appointment via 
+email
+ 
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of 
+competency
+Indicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the 
+engineering discipline 
+at a phenomenological 
+level, applying 
+sciences and 
+engineering 
+fundamentals to 
+systematic 
+investigation, 
+interpretation, analysis 
+and innovative solution 
+of complex problems 
+and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological level, 
+applying sciences and engineering 
+fundamentals to systematic 
+investigation, interpretation, analysis 
+and innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+1,2,3,4,5
+1.2 Develops and 
+fluently applies relevant 
+investigation analysis, 
+interpretation, 
+assessment, 
+characterisation, 
+prediction, evaluation, 
+modelling, decision 
+making, measurement, 
+evaluation, knowledge 
+management and 
+communication tools 
+and techniques 
+pertinent to the 
+engineering discipline.
+a) Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering discipline.
+1,2,3,4,5
+1.3 In-depth 
+understanding of 
+specialist bodies of 
+1,2,3,4,5
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+knowledge within the 
+engineering discipline.
+a) Proficiently applies advanced 
+technical knowledge and skills in at 
+least one specialist practice domain of 
+the engineering discipline.
+2. Engineering application ability
+2.1 Application of 
+established 
+engineering methods to 
+complex engineering 
+problem solving.
+a) Identifies, discerns and 
+characterises salient issues, 
+determines and analyses causes and 
+effects, justifies and applies 
+appropriate simplifying assumptions, 
+predicts performance and behaviour, 
+synthesises solution strategies and 
+develops substantiated conclusions.
+1,2,3,4,5
+b) Ensures that all aspects of an 
+engineering activity are soundly based 
+on fundamental principles - by 
+diagnosing, and taking appropriate 
+action with data, calculations, results, 
+proposals, processes, practices, and 
+documented information that may be 
+ill-founded, illogical, erroneous, 
+unreliable or unrealistic.
+1,2,3,4,5
+e) Partitions problems, processes or 
+systems into manageable elements 
+for the purposes of analysis,modelling 
+or design and then re-combines to 
+form a whole, with the integrity and 
+performance of the overall system as 
+the paramount consideration.
+1,2,3,4,5
+f) Conceptualises alternative 
+engineering approaches and 
+evaluates potential outcomes against 
+appropriate criteria to justify an 
+optimal solution choice.
+1,2,3,4,5
+2.2 Fluent application 
+of engineering 
+techniques, tools and 
+resources.
+b) Constructs or selects and applies 
+from a qualitative description of a 
+phenomenon, process, system, 
+component or device a mathematical, 
+physical or computational model 
+based on fundamental scientific 
+principles and justifiable simplifying 
+assumptions.
+1,2,3,4,5
+d) Applies a wide range of 
+engineering tools for analysis, 
+simulation, visualisation, synthesis 
+and design, including assessing the 
+accuracy and limitations of such tools, 
+and validation of their results.
+1,2,3,4,5
+g) Analyses sources of error in applied 
+models and experiments; eliminates, 
+minimises or compensates for such 
+errors; quantifies significance of errors 
+to any conclusions drawn.
+1,2,3,4,5
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+3. Professional and personal attributes
+3.2 Effective oral and 
+written communication 
+in professional and lay 
+domains.
+b) Prepares high quality engineering 
+documents such as progress and 
+project reports, reports of 
+investigations and feasibility studies, 
+proposals, specifications, design 
+records, drawings, technical 
+descriptions and presentations 
+pertinent to the engineering discipline.
+1,2,3,4,5
+Teaching and learning method
+The unit uses the following teaching approaches:
+●Lectures
+●Tutorials/problem classes
+●Laboratory-based classes
+The lectures are intended to present key aspects of the material in the unit, including motivating 
+and introducing theory, working through examples, discussing applications of the ideas presented 
+in engineering applications. Lectures will incorporate active learning strategies. Tutorials provide 
+students with an opportunity to work on problems, and gain feedback on their progress in solving 
+those problems. The aim of the problems is to help students improve and reinforce their 
+understanding of the unit material, and practice demonstrating the unit outcomes. The laboratory 
+classes are aimed to help students connect the theory with more practical problems, and 
+develop skills in programming, and using simulation tools.
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Analyse and manipulate continuous-time and discrete-time signals using appropriate 
+techniques.
+2. Evaluate and analyse signals in frequency and time domains.
+3. Analyse engineering systems by applying linear time invariant system concepts.
+4. Apply the Fourier transform, Laplace Transform, and the discrete Fourier transforms to 
+signals and system problems.
+5. Recognise sampling errors and aliasing phenomena.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+In response to previous SETU results of this unit, the following changes have been made:
+Not Applicable. This is a new unit.
+Student feedback has highlighted the following strength(s) in this unit:
+Not Applicable. This is a new unit.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+ 
+WeekLecture topicTutorialLabAssessment
+1Signal models and 
+properties
+Problems 
+reviewing complex 
+numbers
+No lab
+2System models and 
+properties
+Problems on signals and 
+their properties
+Intro to signals 
+and systems in 
+MATLAB (part 1)
+3Discrete time LTI 
+systems in time domain
+Problems on systems 
+and their properties
+Intro to signals 
+and systems in 
+MATLAB (part 2)
+Lab 1 due
+4Continuous time LTI 
+systems in time domain
+Problems on discrete-
+time LTI systems in time 
+domain
+Discrete-time 
+convolution
+(part 1)
+5Periodic signals in 
+frequency domain/
+mid-semester test 1 
+feedback
+Problems on continuous-
+time LTI systems in time 
+domain
+Discrete-time 
+convolution
+(part 2)
++ Mid-semester 
+test 1
+Lab 2 due
+Mid-
+semester 
+test 1
+6Periodic signals in 
+frequency domain/
+Frequency response of 
+LTI systems
+Problems on periodic 
+signals in frequency 
+domain 
+DTMF signalling 
+(part 1)
+7Response of LTI 
+systems to periodic 
+inputs/
+frequency selective 
+filtering
+Problems on frequency 
+response of LTI systems
+DTMF signalling 
+(part 2)
+Lab 3 due
+8Fourier transforms/
+response of LTI 
+systems to aperiodic 
+inputs
+Problems on response of 
+LTI systems to periodic 
+inputs and filtering
+Frequency-
+selective filtering 
+(part 1)
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+WeekLecture topicTutorialLabAssessment
+9Properties of Fourier 
+transforms/ 
+Mid semester test 2
+Problems on Fourier 
+transforms
+Frequency-
+selective filtering 
+(part 2)
+Lab 4 due
+Mid-
+semester 
+test 2
+10Sampling and 
+reconstruction
+Mid-semester test 2 
+feedback/
+properties of Fourier 
+transforms
+Sampling and 
+aliasing (part 1)
+11Laplace transforms 
+and signal and system 
+properties
+Problems on sampling 
+and reconstruction
+Sampling and 
+aliasing (part 2)
+Lab 5 due
+12Computing LTI system 
+response using 
+Laplace transform 
+methods
+Problems on Laplace 
+transforms
+Assignment 
+demonstrations
+Assignment 
+due
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Laboratory 
+experiments
+10% of the total mark for the unit (2% for each 
+laboratory)
+Weeks 3, 5, 7, 9, 
+11
+Mid-semester test 
+1
+10% of the total mark for the unitWeek 5
+Mid-semester test 
+2
+10% of the total mark for the unitWeek 9
+Assignment10% of the total mark for the unitWeek 12
+Final Examination60% of the total mark for the unitTo be advised
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignment, mid-semester tests, laboratory reports) and at least 45% in the final examination 
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+(assignment, mid-semester tests, laboratory reports) and at least 45% in the final examination 
+component and an overall mark of 50% to achieve a pass grade in the unit. Students failing to 
+achieve this requirement will be given a maximum of 45% in the unit.
+Assessment tasks
+Assessment title: Laboratory experiments
+ Laboratory (using MATLAB)Mode of delivery:
+Details of task: Students will complete 5 laboratory exercises involving programming in MATLAB.
+Each laboratory will span two timetabled sessions (lab 1 spans weeks 2 and 3, lab 2 spans weeks 
+4 and 5, lab 3 spans weeks 6 and 7, lab 4 spans weeks 8 and 9, lab 5 spans weeks 10 and 11). 
+Each timetabled session is of two hours duration. This means that each student has four hours of 
+class time allocated to each lab.
+Not ApplicableRelease dates (where applicable): 
+ Not ApplicableWord limit (where applicable):
+Weeks 3, 5, 7, 9, 11Due date: 
+10% of the total mark for the unit (2% for each laboratory)Value: 
+Not ApplicablePresentation requirements: 
+Hurdle requirements (where applicable): 45% hurdle for the total continuous assessment 
+component (laboratory experiments, mid semester tests, and assignment).
+Not ApplicableIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Students are required to complete and submit prelab exercises before the lab, 
+attend and actively participate in the lab sessions, demonstrate their working solutions to the lab 
+demonstrators, and submit documentation of their laboratory work (including code, figures, 
+Marks will be assigned based on all of these, with specific mark answers to questions). 
+breakdowns for each lab detailed in the lab instructions.
+ Not ApplicableAdditional remarks:
+ 
+Assessment title: Mid-semester test 1
+ Moodle (in laboratory)Mode of delivery:
+Students will complete a test covering material introduced in the first four weeks of Details of task: 
+the unit. 
+Week 5Release dates (where applicable): 
+ Not ApplicableWord limit (where applicable):
+Week 5Due date: 
+10% of the total mark for the unitValue: 
+Not ApplicablePresentation requirements: 
+Hurdle requirements (where applicable): 45% hurdle for the total continuous assessment 
+component (laboratory experiments, mid semester tests, and assignment).
+Not ApplicableIndividual assessment in group tasks (where applicable): 
+Number of correct answersCriteria for marking: 
+ Not ApplicableAdditional remarks:
+ 
+Assessment title: Mid-semester test 2
+ Written (during lecture)Mode of delivery:
+Students will complete a written test Details of task: covering material introduced in weeks 5-8 of 
+the unit. 
+Week 9Release dates (where applicable): 
+ Not ApplicableWord limit (where applicable):
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+ Not ApplicableWord limit (where applicable):
+Week 9Due date: 
+10% of the total mark for the unitValue: 
+Not ApplicablePresentation requirements: 
+Hurdle requirements (where applicable): 45% hurdle for the total continuous assessment 
+component (laboratory experiments, mid semester tests, and assignment).
+Not ApplicableIndividual assessment in group tasks (where applicable): 
+Number of correct answers. Partial marks may be given if student responses Criteria for marking: 
+demonstrate understanding.
+ Not ApplicableAdditional remarks:
+ 
+Assessment title: Assignment
+ The assignment will be posted on Moodle and reports will be submitted via Mode of delivery:
+Moodle. Designs will be demonstrated in the laboratory session in week 12.
+Students will solve a practical signal processing problem using techniques from the Details of task: 
+lectures and laboratories. The assignment will involve programming in MATLAB, demonstrating 
+their solution, and submitting a report describing their approach. 
+Week 10Release dates (where applicable): 
+ Not ApplicableWord limit (where applicable):
+Week 12Due date: 
+10% of the total mark for the unitValue: 
+Not ApplicablePresentation requirements: 
+45% hurdle for the total continuous assessment Hurdle requirements (where applicable): 
+component (laboratory experiments, mid semester tests, and assignment).
+Not ApplicableIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Marking will be based on
+●Quality of the solution to the design problem
+●Soundness of reasoning behind the student's design
+●Clarity of explanation of that reasoning in the report.
+ Not ApplicableAdditional remarks:
+ 
+Examination(s)
+Final ExaminationExam title: 
+60% of the total mark for the unitWeighting: 
+2 hours writing timeLength: 
+ closed bookType (Open/closed book):
+ 45%Hurdle requirements (where applicable):
+Faculty approved calculatorElectronic devices allowed: 
+The final examination will be held after the completion of the unit, Remarks (where applicable):  
+and constitutes 60% of the overall assessment of this unit.
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+ 
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Section B: For Malaysia students
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who  Electrical and Computer Systems 
+are:
+1. competent in engineering Electrical and Computer Systems 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program  Electrical and Computer Systems 
+Outcomes (POs) for all of its graduates based on the competencies required by the Malaysian 
+Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Electrical and Computer Systems 
+ Apply knowledge of Engineering Knowledge:
+mathematics, natural science, engineering 
+fundamentals and specialisation in  Electrical 
+engineering to the and Computer Systems 
+solution of complex engineering problems
+Cognitive:  Theoretical lecture material, 
+prescribed texts and recommended readings. 
+Laboratory experiments, tutorial problem 
+solving, major assignment(s).
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complex Electrical and Computer Systems 
+engineering problems reaching substantiated 
+conclusions using first principles of 
+mathematics, natural sciences and 
+engineering sciences
+Cognitive: Not applicable
+PO3  Design/Development of Solutions:
+Design solutions for complex Electrical and 
+engineering problems and Computer Systems 
+design systems, components or processes 
+that meet specified needs.
+Cognitive: Not applicable
+Psychomotor: Not applicable
+PO4 Conduct Research-based Investigation: 
+investigations of complex Electrical and 
+engineering problems Computer Systems 
+using research-based knowledge and 
+research methods including design of 
+experiments, (analysis and interpretation of 
+data, and synthesis of information to provide 
+valid conclusions.
+Cognitive: Not applicable
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex Electrical 
+engineering problems, and Computer Systems 
+with an understanding of the limitations
+Cognitive: Not applicable
+Psychomotor: Not applicable
+Affective:  Not applicable
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Electrical and 
+engineering problemsComputer Systems 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complex Electrical and 
+engineering problems in Computer Systems 
+environmental contexts.
+Cognitive: Not applicable
+Affective: Not applicable
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective:  Not applicable
+PO9  Communicate Communication:
+effectively on complex Electrical and 
+engineering activities with Computer Systems 
+the engineering community and with society at 
+large, such as being able to comprehend and 
+write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective:  Not applicable
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective:  Not applicable
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective:  Not applicable
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: Not applicable
+Affective: Not applicable
+Teaching and learning method
+Laboratory-based classes
+This Unit is of fundamental nature and requires the students to understand the abstract notion of 
+signals and systems with the aid of the mathematical tools.
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+The teaching approach is classic: lectures illustrating the theoretical material, tutorials to practice 
+problem solving and hands-on labs with practical examples.
+Self-evaluation is available with online quizzes and/or assessments/tests.
+All lecture slides, tutorials and lab materials are available on Moodle.
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Analyse and manipulate continuous-time and discrete-time signals using appropriate 
+techniques.
+2. Evaluate and analyse signals in frequency and time domains.
+3. Analyse engineering systems by applying linear time invariant system concepts.
+4. Apply the Fourier transform, Laplace Transform, and the discrete Fourier transforms to 
+signals and system problems.
+5. Recognise sampling errors and aliasing phenomena.
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome 
+Based Education (OBE) requirements
+Handbook Learning Outcomes
+LO1 - Apply linear system framework to 
+analyse, design and evaluate suitable digital
+/continuous time filters
+Analyse and manipulate continuous-time and 
+discrete-time signals using appropriate 
+techniques.
+Evaluate and analyse signals in frequency and 
+time domains.
+Analyse engineering systems by applying linear 
+time invariant system concepts.
+Apply the Fourier transform, Laplace Transform, 
+and the discrete Fourier transforms to signals 
+and system problems.
+Recognise sampling errors and aliasing 
+phenomena.
+Relationship between unit learning outcomes and program outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+LO1√N/AN/AN/AN/AN/AN/AN/AN/AN/AN/AN/A
+Key
+No emphasis
+√Emphasized and assessed in the unit
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●More examples will be given in the class
+Student feedback has highlighted the following strength(s) in this unit:
+●Labs and tutorials have attracted good interest
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Unit schedule - Malaysia campus
+WeekLecture topicTutorialLabAssessment
+1Signal models and 
+properties
+Problems 
+reviewing complex 
+numbers
+No lab
+2System models and 
+properties
+Problems on signals and 
+their properties
+Intro to signals 
+and systems in 
+MATLAB (part 1)
+3Discrete time LTI 
+systems in time domain
+Problems on systems 
+and their properties
+Intro to signals 
+and systems in 
+MATLAB (part 2)
+Lab 1 due
+4Continuous time LTI 
+systems in time domain
+Problems on discrete-
+time LTI systems in time 
+domain
+Discrete-time 
+convolution
+(part 1)
+5Periodic signals in 
+frequency domain/
+mid-semester test 1 
+feedback
+Problems on continuous-
+time LTI systems in time 
+domain
+Discrete-time 
+convolution
+(part 2)
++ Mid-semester 
+test 1
+Lab 2 due
+Mid-
+semester 
+test 1
+6Periodic signals in 
+frequency domain/
+Frequency response of 
+LTI systems
+Problems on periodic 
+signals in frequency 
+domain 
+DTMF signalling 
+(part 1)
+7Response of LTI 
+systems to periodic 
+inputs/
+frequency selective 
+filtering
+Problems on frequency 
+response of LTI systems
+DTMF signalling 
+(part 2)
+Lab 3 due
+8Fourier transforms/
+response of LTI 
+systems to aperiodic 
+inputs
+Problems on response of 
+LTI systems to periodic 
+inputs and filtering
+Frequency-
+selective filtering 
+(part 1)
+9Properties of Fourier 
+transforms/ 
+Mid semester test 2
+Problems on Fourier 
+transforms
+Frequency-
+selective filtering 
+(part 2)
+Lab 4 due
+Mid-
+semester 
+test 2
+10Sampling and 
+reconstruction
+Mid-semester test 2 
+feedback/
+properties of Fourier 
+transforms
+Sampling and 
+aliasing (part 1)
+11Problems on sampling 
+and reconstruction
+Sampling and 
+aliasing (part 2)
+Lab 5 due
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+WeekLecture topicTutorialLabAssessment
+Laplace transforms 
+and signal and system 
+properties
+12Computing LTI system 
+response using 
+Laplace transform 
+methods
+Problems on Laplace 
+transforms
+Assignment 
+demonstrations
+Assignment 
+due
+Assessment Summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Laboratory experiments10%Please consult the unit schedule
+Mid-semester test 110%Week 5
+Mid-semester test 210%Week 9
+Assignment10%Week 12
+Examination60%N/A
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignment, mid-semester tests, laboratory reports) and at least 45% in the final examination 
+component and an overall mark of 50% to achieve a pass grade in the unit. Students failing to 
+achieve this requirement will be given a maximum of 45% in the unit.
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+No.Learning ObjectiveAssessment
+LabMid-
+semester 
+test 1
+Mid-
+semester 
+test 2
+AssignmentExamination
+1Apply linear system 
+framework to analyse, design 
+and evaluate suitable digital
+/continuous time filters
+C4C4C4C6C5
+Relationship between Assessments and Complex Problems
+/Activities
+AssessmentComplex ProblemsComplex Activities
+DoKRoRDoAFIEoCSIIRoRLoIICSEF
+1LabXXXX
+2Mid-semester test 1XXX
+3Mid-semester test 2XXX
+4AssignmentXXXX
+5ExaminationXXX
+Complex Problems (CP)
+Attribute 
+Code
+Attribute 
+Description
+Complex Engineering Problems have characteristic WP1 and 
+some or all of WP2 to WP7:
+WP1Depth of 
+Knowledge 
+Required (DoK)
+Cannot be resolved without in-depth engineering knowledge 
+at the level of one or more of WK3, WK4, WK5, WK6 or WK8 
+which allows a fundamentals-based, first principles analytical 
+approach
+WP2Range of 
+conflicting 
+requirements (RoR)
+Involve wide-ranging or conflicting technical, engineering and 
+other issues
+WP3Depth of analysis 
+required (DoA)
+Have no obvious solution and require abstract thinking, 
+originality in analysis to formulate suitable models
+WP4Familiarity of 
+issues (FI)
+Involve infrequently encountered issues
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+WP5Extent of 
+applicable codes 
+(EoC)
+Are outside problems encompassed by standards and codes 
+of practice for professional engineering
+WP6Extent of 
+stakeholder 
+involvement and 
+conflicting 
+requirements (SI)
+Involve diverse groups of stakeholders with widely varying 
+needs
+WP7Interdependence (I)Are high level problems including many component parts or 
+sub-problems
+Complex Activities (CA)
+AttributeAttribute DescriptionComplex Activities
+PreambleComplex activities means (engineering) activities or projects 
+that have some or all of the following characteristics:
+EA1Range of resources 
+(RoR)
+Involve the use of diverse resources (and for this purpose 
+resources includes people, money, equipment, materials, 
+information and technologies)
+EA2Level of interactions 
+(LoI)
+Require resolution of significant problems arising from 
+interactions between wide-ranging or conflicting technical, 
+engineering or other issues
+EA3Innovation (I)Involve creative use of engineering principles and research-
+based knowledge in novel ways
+EA4Consequences to 
+society and the 
+environment (CSE)
+Have significant consequences in a range of contexts, 
+characterized by difficulty of prediction and mitigation
+EA5Familiarity (F)Can extend beyond previous experiences by applying 
+principles-based approaches
+Assessment requirements
+Assessment tasks
+Assessment title:  Laboratory experiments
+ Mode of delivery:Laboratory (using MATLAB)
+ Details of task:Students will complete 5 laboratory exercises involving programming in MATLAB.
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+Each laboratory will span two timetabled sessions (lab 1 spans weeks 2 and 3, lab 2 spans weeks 
+4 and 5, lab 3 spans weeks 6 and 7, lab 4 spans weeks 8 and 9, lab 5 spans weeks 10 and 11). 
+Each timetabled session is of two hours duration. This means that each student has four hours of 
+class time allocated to each lab.
+ Not ApplicableRelease dates (where applicable): 
+  Not ApplicableWord limit (where applicable): 
+  Weeks 3, 5, 7, 9, 11Due date: 
+  10% of the total mark for the unit (2% for each laboratory)Value: 
+  Presentation requirements: Not Applicable
+Hurdle requirements (where applicable):  45% hurdle for the total continuous assessment 
+component (laboratory experiments, mid semester tests, and assignment).
+  Individual assessment in group tasks (where applicable): Not Applicable
+Criteria for marking:  Students are required to complete and submit prelab exercises before the 
+lab, attend and actively participate in the lab sessions, demonstrate their working solutions to the 
+lab demonstrators, and submit documentation of their laboratory work (including code, figures, 
+answers to questions). Marks will be assigned based on all of these, with specific mark 
+breakdowns for each lab detailed in the lab instructions.
+ Additional remarks: Not Applicable
+Assessment title:  Mid-semester test 1
+ Mode of delivery:Moodle (in laboratory)
+ Details of task:Students will complete a test covering material introduced in the first four weeks of 
+the unit.
+ Week 5Release dates (where applicable): 
+  Not ApplicableWord limit (where applicable): 
+  Week 5Due date: 
+  10% of the total mark for the unitValue: 
+  Presentation requirements: Not Applicable
+Hurdle requirements (where applicable):  45% hurdle for the total continuous assessment 
+component (laboratory experiments, mid semester tests, and assignment).
+  Individual assessment in group tasks (where applicable): Not Applicable
+Criteria for marking:  Number of correct answers
+ Additional remarks: Not Applicable
+Assessment title:  Mid-semester test 2
+ Mode of delivery:Written (during lecture)
+ Details of task:Students will complete a written test covering material introduced in weeks 5-8 of 
+the unit. 
+ Week 9Release dates (where applicable): 
+  Not ApplicableWord limit (where applicable): 
+  Week 9Due date: 
+  10% of the total mark for the unitValue: 
+  Presentation requirements: Not Applicable
+Hurdle requirements (where applicable):  45% hurdle for the total continuous assessment 
+component (laboratory experiments, mid semester tests, and assignment).
+  Individual assessment in group tasks (where applicable): Not Applicable
+Criteria for marking:  Number of correct answers. Partial marks may be given if student responses 
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+Criteria for marking:  Number of correct answers. Partial marks may be given if student responses 
+demonstrate understanding.
+ Additional remarks: Not Applicable
+Assessment title:  Assignment
+ Mode of delivery:The assignment will be posted on Moodle and reports will be submitted via 
+Moodle. Designs will be demonstrated in the laboratory session in week 12.
+ Details of task:Students will solve a practical signal processing problem using techniques from the 
+lectures and laboratories. The assignment will involve programming in MATLAB, demonstrating 
+their solution, and submitting a report describing their approach. 
+ Week 10Release dates (where applicable): 
+  Not ApplicableWord limit (where applicable): 
+  Week 12Due date: 
+  10% of the total mark for the unitValue: 
+  Presentation requirements: Not Applicable
+Hurdle requirements (where applicable):  45% hurdle for the total continuous assessment 
+component (laboratory experiments, mid semester tests, and assignment).
+  Individual assessment in group tasks (where applicable): Not Applicable
+Criteria for marking:  Marking will be based on
+●Quality of the solution to the design problem
+●Soundness of reasoning behind the student's design
+●Clarity of explanation of that reasoning in the report.
+ Additional remarks: Not Applicable
+Examination(s)
+ Final ExaminationExam title: 
+ 60% of the total mark for the unitWeighting: 
+2 hours writing timeLength: 
+ closed bookType (Open/closed book): 
+  Hurdle requirements (where applicable): 45%
+ Electronic devices allowed: Faculty approved calculator
+ Remarks (where applicable):  The final examination will be held after the completion of the unit, 
+and constitutes 60% of the overall assessment of this unit.
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+You must bring your calculator with you to the Faculty office at any time during the semester to 
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+You must bring your calculator with you to the Faculty office at any time during the semester to 
+receive a sticker. We recommend you do this well in advance of the exam.
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+Section C: All students 
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+Not Applicable
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Not Applicable
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Feedback to students will take the form of
+●Verbal comments
+●Feedback to the whole class
+●Feedback to tutorial groups
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+Learning resources
+Recommended textbooks
+●Edward A. Lee, Pravin Varaiya, "Structure and Interpretation of Signals and Systems", 
+Second Edition, LeeVaraiya.org, ISBN 978-0-578-07719-2, 2011.
+●Alan V. Oppenheim, Alan S. Willsky, "Signals and Systems" 2nd Edition, Prentice-Hall, 1997
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Technological requirements
+●Students must regularly check Moodle for announcements.
+●MATLAB is required (and provided) to complete the lab experiments and the assignment.
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
+29
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE2111 Signals and systems - Semester 2 (S2-01) - 2017
+----------------Page (28) Break----------------

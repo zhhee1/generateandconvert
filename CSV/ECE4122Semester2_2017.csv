@@ -1,0 +1,1910 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE4122
+Advanced electromagnetics
+Semester 2, 2017
+Table of contents
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          5
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Demonstrator(s)                                                                                                                           5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                      10
+Learning outcomes                                                                                                                        11
+Your feedback to us                                                                                                                       11
+Previous student evaluations of this unit                                                                                   12
+Unit schedule - Clayton campus                                                                                                       13
+Assessment requirements                                                                                                                 15
+Assessment summary                                                                                                                   15
+Hurdle requirements                                                                                                                      16
+Assessment tasks                                                                                                                          16
+Examination(s)                                                                                                                               18
+Section B: For Malaysia students                                                                                                      19
+Academic Overview                                                                                                                          20
+Teaching and learning method                                                                                                      21
+Learning outcomes                                                                                                                    22
+OBE requirements to learning outcomes (LOs)                                                                     22
+Relationship between unit learning outcomes and program outcomes                                 22
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Your feedback to us                                                                                                                       22
+Previous student evaluations of this unit                                                                                   23
+Unit schedule - Malaysia campus                                                                                                     24
+Assessment Summary                                                                                                                   26
+Hurdle requirements                                                                                                                  26
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                28
+Relationship between Assessments and Complex Problems/Activities                                    29
+Assessment requirements                                                                                                                 29
+Assessment tasks                                                                                                                          29
+Examination(s)                                                                                                                               31
+Section C: All students                                                                                                                      33
+Extensions and penalties                                                                                                               33
+Returning assignments                                                                                                                  33
+Plagiarism and collusion                                                                                                                33
+Referencing requirements                                                                                                             34
+Assignment submission                                                                                                                 34
+Feedback to you                                                                                                                            34
+Learning resources                                                                                                                        34
+Required resources                                                                                                                       34
+Other information                                                                                                                              35
+Policies                                                                                                                                          35
+Graduate Attributes Policy                                                                                                             35
+Student Charter                                                                                                                             35
+Student Services                                                                                                                           35
+Monash University Library                                                                                                             35
+Disability Support Services                                                                                                            35
+Occupational Health and Safety                                                                                                    36
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+The unit evaluates the propagation of time-harmonic electromagnetic waves in wireless and 
+guided media using Maxwell's equations. The media covered include vacuum/air, radio frequency 
+(RF) and microwave transmission lines, metallic waveguides, planar optical waveguides and 
+optical fibres.
+The unit also explores different types of antennas that can be used to generate the 
+electromagnetic waves. In addition to these, the unit covers concepts related to electromagnetic 
+interference (EMI) and electromagnetic compatibility (EMC). Using these concepts, the unit 
+explores practical problems such as interference and coupling in RF/microwave circuits and 
+discusses solutions such as grounding, shielding and filtering. In each section of this unit, the 
+learned theory is related to real-world applications to expand the understanding of students.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+3 hours lectures, 3 hours laboratories/tutorials and 6 hours of private study per week.
+Unit relationships
+ 
+Prerequisites
+ECE3121 or ECE2021
+Prohibitions
+ECE3022
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Assoc Professor Nemai Karmakar
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Name: Assoc Professor Nemai Karmakar
+Email: Nemai.Karmakar@monash.edu
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus 
+Coordinator
+Name:  Assoc Professor Nemai Karmakar
+ Email: Nemai.Karmakar@monash.edu
+ 14 Alliance Lane, Building 72230Building: , Room: 
+Consultation hours: Appointment via e-mail or 1-2pm, Wednesdays 
+(Clayton Campus)
+Lecturer(s) Assoc Professor Nemai KarmakarName: 
+ Email: Nemai.Karmakar@monash.edu
+ 14 Alliance Lane, Building 72, Room: 230Building: 
+Consultation hours: Appointment via email or 1-2 pm, Wednesdays 
+(Clayton Campus) 
+ 
+  
+Malaysia campus
+Campus Coordinator Assoc Professor Rajendran ParthibanName: 
+ Email: Rajendran.Parthiban@monash.edu
+  Building: , Room: 
+Consultation hours: Appointment via e-mail
+Lecturer(s)Name:  Assoc Professor Rajendran Parthiban
+Email: Rajendran.Parthiban@monash.edu
+Building: , Room: 
+ 
+Demonstrator(s)
+Shahriar Shehab -  (Clayton Campus)shahriar.shehab@monash.edu
+Meriam Bibile -  Meriam.Bibile@monash.edu(Clayton Campus)
+Tharindu Athauda -  (Clayton Campus)Tharindu.Athauda@monash.edu
+Arvind Rajan -  (Malaysia Campus)arvind.rajan@monash.edu
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of competencyIndicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological level, 
+applying sciences and engineering 
+fundamentals to systematic 
+investigation, interpretation, analysis and 
+innovative solution of complex problems 
+and broader aspects of engineering 
+practice.
+1,2,3,5
+1.2 Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, 
+evaluation, knowledge 
+management and communication 
+tools and techniques pertinent to 
+the engineering discipline.
+a) Develops and fluently applies relevant 
+investigation analysis, interpretation, 
+assessment, characterisation, prediction, 
+evaluation, modelling, decision making, 
+measurement, evaluation, knowledge 
+management and communication tools 
+and techniques pertinent to the 
+engineering discipline.
+2,5
+1.3 In-depth understanding of 
+specialist bodies of knowledge 
+within the engineering discipline.
+a) Proficiently applies advanced 
+technical knowledge and skills in at least 
+one specialist practice domain of the 
+engineering discipline.
+1,3,5
+1.4 Discernment of knowledge 
+development and research 
+directions within the engineering 
+discipline.
+a) Identifies and critically appraises 
+current developments, advanced 
+technologies,emerging issues and 
+interdisciplinary linkages in at least one 
+specialist practice domain of the 
+engineering discipline.
+1,2
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+b) Interprets and applies selected 
+research literature to inform engineering 
+application in at least one specialist 
+domain of the engineering discipline.
+1,2,3
+1.5 Identifies and applies 
+systematic principles of 
+engineering design relevant to the 
+engineering discipline.
+a) Identifies and applies systematic 
+principles of engineering design relevant 
+to the engineering discipline.
+1
+b) Identifies and understands the 
+interactions between engineering 
+systems and people in the social, 
+cultural, environmental, commercial, 
+legal and political contexts in which they 
+operate, including both the positive role 
+of engineering in sustainable 
+development and the potentially adverse 
+impacts of engineering activity in the 
+engineering discipline.
+2,3
+c) Appreciates the issues associated 
+with international engineering practice 
+and global operating contexts.
+4
+d) Is aware of the founding principles of 
+human factors relevant to the 
+engineering discipline.
+4
+e) Is aware of the fundamentals of 
+business and enterprise management.
+5
+f) Identifies the structure, roles and 
+capabilities of the engineering workforce.
+5
+1.6 Understanding of the scope, 
+principles, norms, accountabilities 
+and bounds of sustainable 
+engineering practice in the 
+specific discipline.
+a) Appreciates the basis and relevance 
+of standards and codes of practice, as 
+well as legislative and statutory 
+requirements applicable to the 
+engineering discipline.
+3
+c) Appreciates the social, environmental 
+and economic principles of sustainable 
+engineering practice.
+3
+d) Understands the fundamental 
+principles of engineering project 
+management as a basis for planning, 
+organising and managing resources.
+4
+2. Engineering application ability
+2.1 Application of established 
+engineering methods to complex 
+engineering problem solving.
+a) Identifies, discerns and characterises 
+salient issues, determines and analyses 
+causes and effects, justifies and applies 
+appropriate simplifying assumptions, 
+predicts performance and behaviour, 
+synthesises solution strategies and 
+develops substantiated conclusions.
+1
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+b) Ensures that all aspects of an 
+engineering activity are soundly based 
+on fundamental principles - by 
+diagnosing, and taking appropriate 
+action with data, calculations, results, 
+proposals, processes, practices, and 
+documented information that may be ill-
+founded, illogical, erroneous, unreliable 
+or unrealistic.
+1
+c) Competently addresses engineering 
+problems involving uncertainty, 
+ambiguity, imprecise information and 
+wide-ranging and sometimes conflicting 
+technical and non-technical factors.
+1
+g) Critically reviews and applies relevant 
+standards and codes of practice 
+underpinning the engineering discipline 
+and nominated specialisations.
+2
+h) Identifies, quantifies, mitigates and 
+manages technical, health, 
+environmental, safety and other 
+contextual risks associated with 
+engineering application in the 
+designated engineering discipline.
+2
+i) Interprets and ensures compliance 
+with relevant legislative and statutory 
+requirements applicable to the 
+engineering discipline.
+3
+2.2 Fluent application of 
+engineering techniques, tools and 
+resources.
+c) Determines properties, performance, 
+safe working limits, failure modes, and 
+other inherent parameters of materials, 
+components and systems relevant to the 
+engineering discipline.
+3
+d) Applies a wide range of engineering 
+tools for analysis, simulation, 
+visualisation, synthesis and design, 
+including assessing the accuracy and 
+limitations of such tools, and validation 
+of their results.
+1,3
+e) Applies formal systems engineering 
+methods to address the planning and 
+execution of complex, problem solving 
+and engineering projects.
+1
+f) Designs and conducts experiments, 
+analyses and interprets result data and 
+formulates reliable conclusions.
+3
+2.3 Application of systematic 
+engineering synthesis and design 
+processes.
+d) Is aware of the accountabilities of the 
+professional engineer in relation to the 
+‘design authority’ role.
+5
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+2.4 Application of systematic 
+approaches to the conduct and 
+management of engineering 
+projects.
+c) Accommodates relevant contextual 
+issues into all phases of engineering 
+project work, including the fundamentals 
+of business planning and financial 
+management
+3
+e) Is aware of the need to plan and 
+quantify performance over the full life-
+cycle of a project, managing engineering 
+performance within the overall 
+implementation context.
+5
+f) Demonstrates commitment to 
+sustainable engineering practices and 
+the achievement of sustainable 
+outcomes in all facets of engineering 
+project work.
+5
+3. Professional and personal attributes
+3.2 Effective oral and written 
+communication in professional 
+and lay domains.
+a) Is proficient in listening, speaking, 
+reading and writing English
+5
+b) Prepares high quality engineering 
+documents such as progress and project 
+reports, reports of investigations and 
+feasibility studies, proposals, 
+specifications, design records, drawings, 
+technical descriptions and presentations 
+pertinent to the engineering discipline.
+5
+3.3 Creative, innovative and pro-
+active demeanour.
+a) Applies creative approaches to 
+identify and develop alternative 
+concepts, solutions and procedures, 
+appropriately challenges engineering 
+practices from technical and non-
+technical viewpoints; identifies new 
+technological opportunities.
+3
+b) Seeks out new developments in the 
+engineering discipline and 
+specialisations and applies fundamental 
+knowledge and systematic processes to 
+evaluate and report potential.
+3
+c) Is aware of broader fields of science, 
+engineering, technology and commerce 
+from which new ideas and interfaces 
+may be drawn and readily engages with 
+professionals from these fields to 
+exchange ideas.
+3
+3.4 Professional use and 
+management of information.
+b) Critically assesses the accuracy, 
+reliability and authenticity of information.
+3,5
+c) Is aware of common document 
+identification, tracking and control 
+procedures.
+5
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+3.5 Orderly management of self, 
+and professional conduct.
+a) Demonstrates commitment to critical 
+self-review and performance evaluation 
+against appropriatecriteria as a primary 
+means of tracking personal development 
+needs and achievements.
+5
+b) Understands the importance of being 
+a member of a professional and 
+intellectual community,learning from its 
+knowledge and standards, and 
+contributing to their maintenance and 
+advancement.
+5
+c) Demonstrates commitment to life-long 
+learning and professional development.
+5
+d) Manages time and processes 
+effectively, prioritises competing 
+demands to achieve personal,career and 
+organisational goals and objectives.
+5
+e) Thinks critically and applies an 
+appropriate balance of logic and 
+intellectual criteria to analysis,judgement 
+and decision making.
+5
+f) Presents a professional image in all 
+circumstances, including relations with 
+clients, stakeholders, as well as with 
+professional and technical colleagues 
+across wide ranging disciplines.
+5
+3.6 Effective team membership 
+and team leadership.
+a) Understands the fundamentals of 
+team dynamics and leadership.
+5
+b) Functions as an effective member or 
+leader of diverse engineering teams, 
+including those with multi-level, multi-
+disciplinary and multi-cultural 
+dimensions.
+5
+c) Earns the trust and confidence of 
+colleagues through competent and 
+timely completion of tasks.
+5
+d) Recognises the value of alternative 
+and diverse viewpoints, scholarly advice 
+and the importance of professional 
+networking.
+5
+e) Confidently pursues and discerns 
+expert assistance and professional 
+advice.
+5
+f) Takes initiative and fulfils the 
+leadership role whilst respecting the 
+agreed roles of others.
+5
+Teaching and learning method
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Teaching and learning method
+The unit consists of lectures, laboratory classes and tutorial/problem solving classes. 
+Detailed recorded lecturers will be available for students. Students need to check these before 
+coming to the actual lectures. The lecture sessions will predominantly consist of revisions and 
+exercises. This approach is known as flipped learning. Tutorials are conducted based on problem-
+based learning approach. Laboratories and design project are also part of this unit.
+Prescribed textbook for this unit is the following:
+Stuart M Wentworth, Applied Electromagnetics: Early Transmission Lines Approach, John Wiley 
+and Sons Inc, 2007
+The following recommended texts could also be used:
+David K. Cheng, , Addison Wesley, 1993Fundamentals of Engineering Electromagnetics
+Guru and Hiziroglu, , Cambridge Uni. Press, 2nd Ed.Electromagnetic Field Theory Fundamentals
+William H. Haytand John A. Buck, , McGraw Hill, 6 Ed., 2001.Engineering Electromagneticsth
+M. N. O. Sadiku, , Oxford University Press, 3 Ed., 2001Elements of Electromagneticsrd
+B. M. Notaros, , Prentice Hall, 2011Electromagnetics
+Students can also find information on inclusive teaching practices for students with 
+learning disabilities or mental health conditions at: www.monash.edu.au/lls/inclusivity/
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Apply knowledge of mathematics, physics and engineering fundamentals to solving 
+complex problems involving plane wave propagation in various media, antennas and 
+electromagnetic compatibility.
+2. Interpret solutions to complex electromagnetic problems using mathematics, physics and 
+Maxwell's equations.
+3. Apply appropriate techniques to solve transmission line, antenna and optical fibre related 
+practical problems.
+4. Select and use appropriate software and hardware tools to complete transmission line, 
+antenna and optical fibre related laboratory tasks.
+5. Communicate technical contents related to electromagnetic theory effectively individually 
+and in a group.
+Your feedback to us
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+Previous student evaluations of this unit
+In response to the last SETU of this unit, the following changes have been made:
+●Flipped Learning: Recorded lectures are available for students to watch before lectures. 
+Students are advised to watch these and attempt relevant quizzes before attending lectures.
+●Interactive Classes: Lectures will be delivered through interactive mode. Students will be 
+asked questions and could also be asked to solve problems during lectures.
+●Problem-based Practice Classes: Students will be asked to solve problems in each practical 
+session. These sessions are used for assessment.
+●Laboratory Classes/Design Project: Due to differences in facilities, the laboratory classes are 
+different in Calyton and Malaysia. For this reason, the assessments based on these are also 
+different. In Clayton, the following changes have been made:
+●Sufficient time will be given to complete the design project. Please note the design 
+projects use concepts learned in laboratories.
+●The order of lecture topics have been changed to enable students to do design project 
+better.
+●Assessments: Students felt the marks allocated to continuous assessments are low. For this 
+reason, the more marks have been given to continuous assessments in this offering.
+Student feedback has highlighted the following strength(s) in this unit:
+Student feedback has highlighted the following strength(s) in this unit:
+●Laboratory Sessions: The Lab& practical sessions are very good and complementary to the 
+theory covered in lectures.
+●Software Tool: CST/ADS software is a very useful tool to design electromagnetic 
+components and see the wave propagation behaviour in an understandable way.
+●Design Project: Design project relates well to the theory learned and to the real world 
+requirements. Also testing the designed antenna is really interesting.
+If you wish to view how previous students rated this unit, please go to https://www.monash.edu/ups
+/setu/setu-results
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+Unit schedule - Clayton campus
+WeekLecturePracLab/Design Project 
+(DP)
+Assignment activity
+1
+24 July
+Introduction to 
+subject - Revision 
+of Maxwell’s 
+equations in integral 
+and differential 
+forms
+Text book: Ch 1, 3, 
+4 & 5 (Prescribed 
+text)
+No 
+practical 
+class  in 
+week 1
+Lab-1
+Introduction to 
+laboratory and 
+laboratory safety.
+Introduction to CST 
+Microwave Studio
+CST MWS Lab 
+Manual (Incl. a simple 
+design example)
+No formal assessment 
+is undertaken in week 
+1
+However, students are 
+encouraged to perform 
+two warm up activities:
+1. Collect information 
+of famous scientists in 
+EM in 19-21st 
+centuries
+2. Collect information 
+about contemporary 
+technologies that 
+apply EM theory
+2
+31 July
+Derivation of the 
+vector three-
+dimensional wave 
+equation from 
+Maxwell’s equations.
+Solution of the 
+wave equation for 
+plane waves. 
+Introduction of the 
+concept of wave 
+Impedance.
+Text book: Ch 6 
+(Introduction, 
+Sections 6.1- 6.6)
+Tutorial 1Lab-2
+Introduction to 
+Keysight ADS
+ADS Lab Manual 
+(Incl. a simple design 
+example)
+Pre lecture Quiz 
+on  moodle
+Prelab+In lab 
+assessment
+Tutorial 
+Assessment  1 open in 
+moodle
+3
+7 Aug
+Wave propagation 
+at interfaces 
+between different 
+media, normal and 
+oblique incidences.
+Text book: Ch 
+6 (Sections 6.7 – 
+6.8)
+Tutorial 2Lab-3
+Plane Waves 
+Laboratory
+CST MWS Lab 
+Manual on Plane 
+Waves  (*Incl. 
+demonstration of 
+Maxwell’s Equations 
+videos
+*Showing the effect of 
+material type, 
+Pre lecture Quiz 
+on  moodle
+Prelab+In lab 
+assessment
+Tutorial 
+Assessment  1 
+submission on moodle
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+frequency, angle of 
+incidence and 
+polarization)
+DP-1: Introduction to 
+Design Project
+4
+14 Aug
+Lumped versus 
+distributed circuits, 
+Voltage and current 
+waveforms on 
+transmission lines, 
+Parameters 
+describing 
+transmission line
+Text book: Ch 2 
+(Introduction, 
+Sections 2.1 - 2.5)
+Tutorial 3Lab-4
+Transmission Line I 
+Laboratory
+CST MWS & Keysight 
+ADS Lab Manual on 
+T-lines (Incl. VSWR, 
+Terminations,
+S-parameters and 
+Power Distribution)
+DP-2: Projects 
+Allocations
+Pre lecture Quiz 
+on  moodle
+Prelab+In lab 
+assessment
+Tutorial 
+Assessment  2 open in 
+moodle
+5
+21 Aug
+Smith Chart and 
+Impedance 
+Matching
+Text book: Ch 2 
+(Sections 2.6, 
+2.7 and 2.8 )
+Tutorial 4Lab-5
+Transmission Lines II 
+Laboratory
+CST MWS & Keysight 
+ADS Lab Manual on 
+T-lines (Incl. VSWR, 
+Terminations,
+S-parameters and 
+Power Distribution)
+Pre lecture Quiz on 
+moodle
+Prelab+In lab 
+assessment
+Tutorial 
+Assessment  2 
+submission on moodle
+6
+28 Aug
+Radiation and 
+Antennas; Antenna 
+types and basic 
+parameters: gain, 
+impedance and 
+radiation patterns
+Text book: Ch 8 
+(Introduction and 
+Sections 8.1 & 8.8)
+Tutorial 5Lab-6
+Antennas
+CST manual on 
+antennas (Incl: 
+Dipole, Monopole and 
+Microstrip Patch 
+Antenna)
+Pre lecture Quiz 
+on  Moodle
+Prelab+In lab 
+assessment
+Tutorial 
+Assessment  3 open in 
+moodle
+7
+4 Sep
+Antenna Theory: 
+Dipole and Loop 
+Antennas
+Text book: Ch 8 
+(Introduction and 
+Sections 8.2 & 8.3)
+Tutorial 6Lab-7
+Antennas
+CST manual on 
+antennas (Incl: 
+Dipole, Monopole and 
+Microstrip Patch 
+Antenna)
+DP-3: Start of the 
+Design Projects
+Pre lecture Quiz 
+on  moodle
+Prelab+In lab 
+assessment
+8
+11 Sep
+Antenna Arrays
+Text book: Ch 8 
+(Introduction and 
+Sections 8.4, 8.5)
+Tutorial 7Lab-8
+Antennas
+CST and ADS +
+Hands-on
+DP cont..
+Pre lecture Quiz 
+on  moodle
+Prelab+In lab 
+assessment
+Tutorial 
+Assessment  3 
+submission on moodle
+9
+18 Sep
+Bounded wave 
+propagation: 
+propagation in 
+rectangular 
+waveguides; 
+Tutorial 8Lab-9
+Smith Chart and 
+Impedance Matching
+Generating Smith 
+Chart using MATLAB;
+Pre lecture Quiz 
+on  moodle
+Prelab+In lab 
+assessment
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Waveguide modes, 
+propagation velocity 
+and mode 
+impedance
+Text book: Ch 7 
+(Introduction and 
+Sections 7.1 and 
+7.2)
+Design of Matching 
+Section in ADS and 
+CST
+DP-4: Design Project 
+File Submission for 
+Fabrication
+Deadline of  Design 
+Projects File 
+Submission for 
+Fabrication
+Tutorial 
+Assessment  4 open in 
+moodle
+10
+2 Oct
+Dielectric 
+Waveguides, Planar 
+optical waveguides 
+and optical fibres
+Text book: Ch 7 
+(Introduction and 
+Sections 7.3 and 
+7.4)
+Tutorial 9Industry Visit 
+(Optional) - 6th of 
+October 2017
+Pre lecture Quiz 
+on  moodle
+Tutorial 
+Assessment  4 
+submission on moodle
+11
+9 Oct
+Optical fibres: 
+structures, wave 
+equations, 
+propagation 
+equation, 
+transverse guided 
+modes, eigenvalue, 
+Attenuation and 
+dispersion 
+properties of optical 
+fibres, 
+communications 
+systems.
+Text book: Ch 8 
+(8.5 and 8.8)
+Tutorial 10Lab-10
+Waveguides
+CST Lab Manual
+(Incl. Rectangular 
+waveguides, Modes 
+of propagation, 
+Dielectric waveguides)
+Pre lecture Quiz 
+on  moodle
+Prelab+In lab 
+assessment
+Tutorial 
+Assessment  5 open in 
+moodle
+12
+16 Oct
+Electromagnetic 
+Interferences: 
+Sources; passive 
+circuit elements; 
+grounding; shielding 
+and filtering
+Text book: Ch 9 
+(9.1-9.4, 9.6)
+Tutorial 11Lab - 11
+Fiber Optics
+DP-5 : Project 
+assembly and 
+evaluation
+Pre lecture Quiz 
+on  moodle
+Demonstration and 
+Assessments of 
+Projects
+CST and ADS + 
+Hands-on
+Tutorial 
+Assessment  5 
+submission on moodle
+20 Oct Semester 2 2017 ends
+30 Oct
+17 Nov
+Examination starts
+Examination ends
+LINK to Assessment Policy:
+http://www.policy.monash.edu/policy-bank/academic
+/education/assessment/assessment-in-coursework-policy.html
+Assessment requirements
+Assessment summary
+Continuous assessment: 50%
+Examination (2 hours): 50%
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Examination (2 hours): 50%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Quizzes10%Before the lecture sessions from week 2
+Continuous 
+Practical 
+Assessment
+10%End of each theoretical topic discussed in the lectures and 
+practical session (6 topics and 5 sessions)
+Continuous 
+Laboratory 
+Assessment
+10%End of each laboratory session
+Design Project20%End of Week 9 - For design files submission for fabrication / 
+End of Week 12 - Design Project Evaluation
+Examination50%To be advised
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component 
+(quizzes, tutorials, laboratories and design project) and at least 45% in the final examination 
+component and an overall mark of 50% to achieve a pass grade in the unit. Students failing to 
+achieve this requirement will be given a maximum of 45% in the unit.
+Assessment tasks
+Assessment title: Quizzes
+ Mode of delivery:Answering the quizzes in moodle. 
+Details of task: Three quizzes will be posted in Moodle each week before the lecture sessions. 
+Students need to complete these before coming to the lectures.
+One working day before Tuesday, Thursday and Friday lecture Release dates (where applicable): 
+sessions. 
+ N/AWord limit (where applicable):
+Before the lecture sessions from week 2Due date: 
+10%Value: 
+Presentation requirements: Submit the answers through Moodle. 
+N/AHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking: How well the questions are answered
+ Additional remarks: Marks will be released one week after. 
+ 
+Assessment title: Continuous Practical Assessment 
+ Problem solving in a group/individual and interview.Mode of delivery:
+Details of task: Continuous assessment of problem solving skills based on mastering theoretical 
+and practical understanding for each theoretical topic. Analysis and synthesis of theoretical 
+knowledge and practical applications of the acquired knowledge in real world contemporary 
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+knowledge and practical applications of the acquired knowledge in real world contemporary 
+problem solving and conclusions; and finally, answering the questions asked by demonstrators 
+during the practical sessions.
+N/ARelease dates (where applicable): 
+ N/AWord limit (where applicable):
+End of each theoretical topic discussed in the lectures and practical session (6 topics Due date: 
+and 5 sessions)
+10%Value: 
+Presentation requirements: Written solutions of practical problems
+N/AHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+How well the problems are solved, analysed and explained in relation to real Criteria for marking: 
+world problems.
+ Assessment will be done in the practical sessions.Additional remarks:
+ 
+Assessment title: Continuous Laboratory Assessment 
+ Written laboratory documents and related reportMode of delivery:
+Details of task: Pre-lab: This will contain 3% weightage. Prelab questions will include problem 
+solving, short answers and LATLAB codes. 
+In-lab assessment: in-lab assessment includes several tasks outlined in the lab manual based on 
+the software (CST or ADS). You need to complete them and understand the tasks and answer 
+simple questions by the demonstrators. 
+ 1 week before the scheduled lab classRelease dates (where applicable): 
+ N/AWord limit (where applicable):
+End of each laboratory sessionDue date: 
+10%Value: 
+Pre-lab and in-lab assessment.Presentation requirements:  
+N/AHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+Answers of the pre-lab questions. How well the simulated and measured data Criteria for marking: 
+are explained.
+ N/AAdditional remarks:
+ 
+Assessment title: Design Project
+ Written design document, design file, design reports, demonstration of final Mode of delivery:
+prototypes and interviews
+Details of task: A group of 4 students will work in a team to design a wireless energy harvester 
+using the theoretical knowledge, practical understanding, and simulation skills. The practical 
+design will be transfer from CST/ADS data to printable version for PCB fabrication. The designed 
+PCB needs to be populated with active and passive devices. Testing will be conducted in 
+laboratory setting.
+Week 4Release dates (where applicable): 
+ N/AWord limit (where applicable):
+End of Week 9 - For design files submission for fabrication / End of Week 12 - Design Due date: 
+Project Evaluation
+20%Value: 
+Demonstration of working prototype and Design Project ReportPresentation requirements: 
+N/AHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+N/AIndividual assessment in group tasks (where applicable): 
+Interpretation of data,ow well the prototype works and completeness of the Criteria for marking:  h
+report.
+ N/AAdditional remarks:
+ 
+Examination(s)
+ExaminationExam title: 
+50%Weighting: 
+2 hoursLength: 
+ Closed bookType (Open/closed book):
+ Hurdle requirements (where applicable):Students must achieve a mark of 45% in each of exam 
+ and continuous assessment, and an overall mark of 50% to achieve an overall pass grade.
+ Electronic devices allowed: See calculator related information below.
+N/ARemarks (where applicable): 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+A faculty approved calculator is permitted, only scientific calculators that are not programmable will be permitted in the 
+examination. These calculators must be checked by the faculty and have either a Faculty of Engineering or a Faculty of 
+Science approved sticker.
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Section B: For Malaysia students
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who  Electrical and Computer Systems 
+are:
+1. competent in engineering Electrical and Computer Systems 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program  Electrical and Computer Systems 
+Outcomes (POs) for all of its graduates based on the competencies required by the Malaysian 
+Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and complex 
+problem solving
+PO1 Electrical and Computer Systems 
+ Apply knowledge of Engineering Knowledge:
+mathematics, natural science, engineering 
+fundamentals and specialisation in  Electrical 
+engineering to the and Computer Systems 
+solution of complex engineering problems
+Cognitive:  Apply knowledge of mathematics, 
+physics and engineering fundamentals in 
+telecommunications and signal processing to 
+solving complex problems involving plane 
+wave propagation in various media, antennas 
+and electromagnetic compatibility.
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complex Electrical and Computer Systems 
+engineering problems reaching substantiated 
+conclusions using first principles of 
+mathematics, natural sciences and 
+engineering sciences
+Cognitive: Interpret solutions to complex 
+electromagnetic problems using mathematics, 
+physics and Maxwell’s equations.
+PO3  Design/Development of Solutions:
+Design solutions for complex Electrical and 
+engineering problems Computer Systems 
+and design systems, components or 
+processes that meet specified needs.
+Cognitive: 
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex Electrical and 
+engineering problems Computer Systems 
+using research-based knowledge and 
+research methods including design of 
+experiments, (analysis and interpretation of 
+data, and synthesis of information to provide 
+valid conclusions.
+Cognitive: 
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex 
+Electrical and Computer Systems 
+engineering problems, with an understanding 
+of the limitations
+Cognitive: Apply appropriate techniques to 
+solve transmission line, antenna and optical 
+fiber related practical problems.
+Psychomotor: Select and use appropriate 
+software and hardware tools to complete 
+transmission line, antenna and optical fiber 
+related laboratory tasks.
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and complex 
+problem solving
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Electrical and 
+engineering problemsComputer Systems 
+Affective: 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work 
+in the solution of complex Electrical and 
+engineering problems in Computer Systems 
+environmental contexts.
+Cognitive: 
+Affective: 
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate Communication:
+effectively on complex Electrical and 
+engineering activities with Computer Systems 
+the engineering community and with society 
+at large, such as being able to comprehend 
+and write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective:  Communicate technical contents 
+related to electromagnetic theory effectively 
+individually and in a group.
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective: 
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological 
+change
+Affective: 
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding 
+of engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: 
+Teaching and learning method
+The unit consists of lectures, laboratory classes and tutorial/problem solving classes. 
+Detailed recorded lecturers will be available for students. Students need to check these before 
+coming to the actual lectures. The lecture sessions will predominantly consist of revisions and 
+exercises. This approach is known as flipped learning. Students will also be working in groups
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+exercises. This approach is known as flipped learning. Students will also be working in groups
+/teams in laboratory classes and tutorials. Tutorials are conducted based on problem-based 
+learning approach.
+Students can also find information on inclusive teaching practices for students with 
+learning disabilities or mental health conditions at: www.monash.edu.au/lls/inclusivity/
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Apply knowledge of mathematics, physics and engineering fundamentals to solving 
+complex problems involving plane wave propagation in various media, antennas and 
+electromagnetic compatibility.
+2. Interpret solutions to complex electromagnetic problems using mathematics, physics and 
+Maxwell's equations.
+3. Apply appropriate techniques to solve transmission line, antenna and optical fibre related 
+practical problems.
+4. Select and use appropriate software and hardware tools to complete transmission line, 
+antenna and optical fibre related laboratory tasks.
+5. Communicate technical contents related to electromagnetic theory effectively individually 
+and in a group.
+OBE requirements to learning outcomes (LOs)
+The Outcome Based Education (OBE) learning outcomes in this unit are same as the handbook 
+learning outcomes.
+Relationship between unit learning outcomes and program outcomes
+Relationship between Unit Learning Outcomes and Program Outcomes
+PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√
+LO2√
+LO3√
+LO4√
+LO5√
+Key
+No emphasis
+√Emphasized and assessed in the unit
+Your feedback to us
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+In response to the SETU of this unit, the following changes have been made:
+●Flipped Learning: Recorded lectures are available for students to watch before lectures. 
+Students are advised to watch these and attempt relevant quizzes before attending lectures.
+●Interactive Classes: Lectures will be delivered through interactive mode. Students will be 
+asked questions and could also be asked to solve problems during lectures.
+●Problem-based Tutorials: Students will be divided into groups. Each group will be asked to 
+solve a problem in each practical session/tutorial. These sessions are used for assessment.
+●Teaching: Students wanted the lecturer to conduct the tutorials. From previous offering, this 
+wish has been accommodated
+●Laboratory Classes: Due to differences in facilities, the laboratory classes are different in 
+Malaysia and Clayton. For this reason, the assessments based on these are also different. 
+In Malaysia, the following changes have been made:
+●Since there were faults in the old equipment used for antenna labs, new ones have 
+been bought. The antenna lab tasks have also been revised based on these.
+●A hardware-based lab test has been introduced in Malaysia as a replacement for 
+design project in Clayton.
+●Assessments: Students felt the marks allocated to continuous assessments are low. For this 
+reason, the more marks have been given to continuous assessments in this offering.
+Student feedback has highlighted the following strength(s) in this unit:
+Student feedback has highlighted the following strength(s) in this unit:
+●Teaching Resources: Students as a whole love lecture slides and tutorial resources.
+●Teaching Method: Many students also like recorded lectures and flipped learning method.
+●Organisation: Many students highlighted that the unit is well organised.
+If you wish to view how previous students rated this unit, please go to https://www.monash.edu/ups
+/setu/setu-results
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+Unit schedule - Malaysia campus
+WeekActivities             Assessment
+0No formal assessment is undertaken in week 0
+1Lectures: Introduction to subject - 
+Revision of Maxwell’s equations in 
+integral and differential forms.
+Read Chapters 1, 3, 4 and 5 in the 
+prescribed text.
+2Lectures: Derivation of the vector 
+three-dimensional wave equation 
+from Maxwell’s equations.
+Solution of the wave equation for 
+plane waves. Introduction of the 
+concept of wave impedance.
+Tutorial: Review of concepts from 
+ECE2021/ECE3121
+Labs: Introduction to laboratory 
+and laboratory safety.
+Experiments 1 to 4: Cyclic through 
+4 weeks.
+Read Chapter 6 (Introduction, 
+Sections 6.1-6.6) in the prescribed 
+text.
+Quiz answer submission
+Lab report
+3Lectures: Wave propagation at 
+interfaces between different 
+media, normal and oblique 
+incidences.
+Parameters describing 
+transmission lines, Voltage and 
+current waveforms on 
+transmission lines, Terminated 
+transmission lines
+Tutorial: Plane waves
+Labs: Experiments 1 to 4: Cyclic 
+through 4 weeks.
+Read Chapter 6 (Sections 6.7-6.8) 
+in the prescribed text.
+Read Chapter 2 (Sections 2.1, 2.2, 
+2.3, 2.4 and 2.5) in the prescribed 
+text.
+Quiz answer submission
+Tutorial Presentation
+Lab report
+4Lectures: Transient analysis of 
+transmission lines; Smith Chart 
+and Impedance Matching.
+Tutorial: Transmission lines
+Labs:  Experiments 1 to 4: Cyclic 
+through 4 weeks.
+Read Chapter 2 (Sections 2.6, 2.7 
+and 2.8) in the prescribed text.
+Quiz answer submission
+Tutorial Presentation
+Lab report
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+5Lectures: Radiation and Antennas; 
+Antenna types and basic 
+parameters: gain, impedance and 
+radiation patterns; Dipole and loop 
+antennas
+Tutorial: Smith Chart and 
+impedance matching
+Labs:  Experiments 1 to 4: Cyclic 
+through 4 weeks
+Read Chapter 8 (Sections 8.1, 8.2 
+and 8.8) in the prescribed text.
+Quiz answer submission
+Tutorial Presentation
+Lab report
+6Lectures: Antenna Arrays
+Tutorial: Antennas and related 
+parameters
+Labs:  Experiments 5 to 8: Cyclic 
+through 4 weeks
+Read Chapter 8 (Sections 8.3, 8.4 
+and 8.5) in the prescribed text.
+Quiz answer submission
+Tutorial Presentation
+Lab report
+7Lectures: Bounded wave 
+propagation: propagation in 
+rectangular waveguides; 
+Waveguide modes, propagation 
+velocity and mode impedance.
+Tutorial: Antenna arrays
+Labs:  Experiments 5 to 8: Cyclic 
+through 4 weeks
+Read Chapter 7 (Sections 7.1 and 
+7.2) in the prescribed text.
+Quiz answer submission
+Tutorial Presentation
+Lab report
+8Lectures: Dielectric Waveguides, 
+Planar Optical Waveguides and 
+Optical Fibers
+Tutorial: Rectangular waveguides
+Labs:  Experiments 5 to 8: Cyclic 
+through 4 weeks
+Read Chapter 7 (Sections 7.3 and 
+7.4) in the prescribed text.
+Quiz answer submission
+Tutorial Presentation
+Lab report
+9Lectures: Optical fibers: 
+structures, wave equations, 
+propagation equation, transverse 
+guided modes, eigenvalue, 
+Attenuation and dispersion 
+properties of optical fibres, 
+communications systems.
+Tutorial:  Planar optical 
+waveguides
+Labs:  Experiments 5 to 8: Cyclic 
+through 4 weeks
+Read Chapter 8 (Sections 8.5-8.8) 
+in the prescribed text.
+Quiz answer submission
+Tutorial Presentation
+Lab report
+10Lectures: Electromagnetic 
+Interferences, sources and 
+passive circuit elements.
+Tutorial: Optical fibers
+Labs:  Hardware test
+Read Chapter 9 (Sections 9.1-9.3) 
+in the prescribed text.
+Quiz answer submission
+Tutorial Presentation
+Lab online test
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+11Lectures: Grounding; Shielding 
+and Filtering
+Tutorial: Passive circuit elements
+Labs:  Online test
+Read Chapter 9 (Sections 9.4-9.6) 
+in the prescribed text.
+Quiz answer submission
+Tutorial Presentation
+Lab hardware test
+12Lectures: Revision of concepts
+Tutorial: Grounding; shielding and 
+filtering
+Labs: None
+Tutorial Presentation
+SWOT VACNo formal assessment is undertaken in SWOT 
+VAC
+Examination period16LINK to Assessment Policy:
+www.policy.monash.edu/policybank/academic
+/education/assessment/assessment-in-
+coursework-policy.html
+Assessment Summary
+Continuous assessment: 50%
+Examination (2 hours): 50%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Quizzes10%Before each lecture session from week 2
+Problem-solving in tutorials10%During each tutorial session from week 3
+Laboratory reports10%End of each laboratory session from week 2
+Laboratory Online Test10%Week 10 lab session
+Laboratory hardware test10%Week 11 lab session
+Examination (2 hours)50%Schedule examination day
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component 
+(quizzes, tutorials, laboratories, tests) and at least 45% in the final examination component and an 
+overall mark of 50% to achieve a pass grade in the unit. Students failing to achieve this 
+requirement will be given a maximum of 45% in the unit.
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:Responding:Valuing:Organisation:
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+Selectively 
+attends to 
+stimuli
+Responds to 
+stimuli
+Attaches value 
+or worth to 
+something
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+No.Learning 
+Outcomes (LOs)
+Assessment
+QuizzesTutorialsLabLab 
+Online 
+Test
+Lab 
+Hardware 
+Test
+Final 
+Exam
+1Apply knowledge 
+of mathematics, 
+physics and 
+engineering 
+fundamentals to 
+solving complex 
+problems involving 
+plane wave 
+propagation in 
+various media, 
+antennas and 
+electromagnetic 
+compatibility.
+C6
+2Interpret solutions 
+to complex 
+electromagnetic 
+problems using 
+mathematics, 
+physics and 
+Maxwell’s 
+equations.
+C4C6
+3Apply appropriate 
+techniques to 
+solve transmission 
+line, antenna and 
+optical fiber related 
+practical problems.
+C6
+4Select and use 
+appropriate 
+software and 
+hardware tools to 
+complete 
+transmission line, 
+antenna and 
+optical fiber related 
+laboratory tasks.
+P5P6
+5A3A3
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
+29
+Communicate 
+technical contents 
+related to 
+electromagnetic 
+theory effectively 
+individually and in 
+a group
+Relationship between Assessments and Complex Problems
+/Activities
+AssessmentComplex Problems
+Depth of 
+Knowledge
+Range of 
+Requirements
+Depth 
+of 
+Analysis
+Infrequent 
+Issues
+Extent 
+of 
+Codes
+Stakeholder 
+Involvement
+Components 
+or Sub-
+problems
+1Quizzesxx
+2Tutorialsxxxx
+3Labsxx
+4Lab 
+online 
+Test
+xx
+5Lab 
+Hardware 
+Test
+xx
+6Examxxxx
+Assessment requirements
+Assessment tasks
+Assessment title: Quizzes
+ Mode of delivery:Answering the quizzes before the lecture sessions.
+ Details of task:Three quizzes will be posted in Moodle each week before the lecture sessions. 
+Students need to complete these before coming to the lectures.
+ One working day before lecture sessions.Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Before each lecture session from week 2Due date: 
+  10%Value: 
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (28) Break----------------
+30
+  10%Value: 
+  Presentation requirements: Submit the answers through Moodle.
+This is applicable only for overall continuous assessment.Hurdle requirements (where applicable):  
+  N/AIndividual assessment in group tasks (where applicable): 
+ Criteria for marking:  How well the questions are answered
+ N/AAdditional remarks: 
+Assessment title:  Problem-Based Tutorial Session
+ Presenting answers during each tutorial sessionMode of delivery:
+ Details of task:In Week 2 tutorials, students will be divided into groups. For the subsequent 
+weeks, a problem will be given to all groups during the tutorial session. Each group can meet and 
+discuss ways to solve the problem. One member from a selected group will present to the class on 
+how they reached their solution, and explain the link between the solution and the theory covered 
+ in lectures. A different group and/or group member will have to present each week.
+ During each tutorial session from week 3Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  During each tutorial session from week 3Due date: 
+  10%Value: 
+  Presentation requirements: One member from a selected group needs to present the solutions. 
+ Presenting member needs to change, when the group is asked to present another time. 
+Hurdle requirements (where applicable):  This is applicable only for overall continuous assessment.
+  Individual assessment in group tasks (where applicable): Presenting students need to explain 
+how they arrive at solutions. Group members are expected to participate in presenting members’ 
+ discussion.
+Criteria for marking:  For presenting group: Groupwork 0.3%, presentation 0.3% and accuracy of 
+presented solutions 0.4% for each relevant tutorial.
+For non-presenting group: Groupwork 1% for each relevant tutorial. Total marks for 10 tutorials are 
+10%.
+ N/AAdditional remarks: 
+Assessment title: Continuous Laboratory Assessment
+ Mode of delivery:Written reports at the end of each laboratory session.
+ Details of task:Detailed instructions for each experiment are available in the lab sheets that  will 
+be available in weeks 1 and 5. Students will do experiments for 2 hours labs each week from week 
+2 to week 9. They will be asked to fill in a proforma based on the lab. The demonstrator will ask 
+questions regarding the experiment, and the way proforma is filled. The questions and marking 
+scheme of the demonstrator will focus on experimental set up and debugging of circuits; recording 
+of simulated and measured data; analysis and synthesis of data and conclusions.
+ Friday of weeks 1 and 5Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  End of each laboratory session from week 2Due date: 
+  10%Value: 
+  Presentation requirements: Fill in the proforma and submit to the lab demonstrator.
+Hurdle requirements (where applicable):  This is applicable only for overall continuous assessment.
+  Individual assessment in group tasks (where applicable): Cooperate with others in completing the 
+ experiment and answer questions asked
+Criteria for marking:  Teamwork 0.3%, written communication 0.4% and explanation of measured 
+data 0.55% for each lab. Total marks for 8 labs is 10%.
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (29) Break----------------
+31
+data 0.55% for each lab. Total marks for 8 labs is 10%.
+ N/AAdditional remarks: 
+Assessment title:  Laboratory Online Test
+ Mode of delivery:Answering the on-line questions in Moodle
+ Details of task:The laboratory online test will be held in your scheduled laboratory session in week 
+10.  Students should bring their copies of the lab reports with the results recorded over the 
+ semester.
+ During week 10 lab sessionRelease dates (where applicable): 
+  N/AWord limit (where applicable): 
+  During week 10 lab sessionDue date: 
+  10%Value: 
+  Presentation requirements: Submit the answers through Moodle.
+Hurdle requirements (where applicable):  This is applicable only for overall continuous assessment.
+  N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking:  Understanding of each laboratory task, how well the laboratory-related 
+questions are answered.
+ N/AAdditional remarks: 
+Assessment title:  Laboratory Hardware Test
+ Complete an assigned open-ended lab and answer questions asked in a sheet.Mode of delivery:
+ Details of task:The laboratory hardware test will be held in your scheduled laboratory session in 
+week 11.  Students work in their normal groups to complete this assessment. Students cannot 
+ bring any other materials to this test.
+ During week 11 lab sessionRelease dates (where applicable): 
+  N/AWord limit (where applicable): 
+  During week 11 lab sessionDue date: 
+  10%Value: 
+  Submit the completed sheet to the lab demonstrator.Presentation requirements: 
+Hurdle requirements (where applicable):  This is applicable only for overall continuous assessment.
+  This is group work and all members in a Individual assessment in group tasks (where applicable): 
+group will get the same mark.
+How well the assigned lab is completed.Criteria for marking:  
+ N/AAdditional remarks: 
+Examination(s)
+ ExaminationsExam title: 
+ 50%Weighting: 
+2 hoursLength: 
+ Closed bookType (Open/closed book): 
+  Hurdle requirements (where applicable): Students are required to achieve at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+ Electronic devices allowed: See calculator related information below.
+  Remarks (where applicable): There will be an end of semester examination for this unit.
+ 
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (30) Break----------------
+32
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+A faculty approved calculator is permitted, only scientific calculators that are not programmable will 
+be permitted in the examination. These calculators must be checked by the faculty and have either 
+a Faculty of Engineering or a Faculty of Science approved sticker.
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (31) Break----------------
+33
+Section C: All students 
+Extensions and penalties
+The due dates for the submission of assignments are given in the previous section. Please make 
+every effort to submit work by the due dates. Students are advised to NOT assume that granting of 
+an extension is a matter of course.
+If you need an extension for any of the assignments, you must submit a written request 48-hours 
+ the due time and date, and attach supportive evidence such as medical certificate.before
+The evidences should preferably be forwarded as an email attachment, sent to the unit 
+coordinator. The email should be sent from your University email address with your name typed in 
+lieu of signature.
+Note that other teaching staff cannot grant extensions. Lecturer-in-charge (unit coordinator) will 
+indicate at the time of granting the extension whether any penalty in marks will apply to the 
+submitted work.
+If an extension is granted, the approval must be attached to the assessment, where relevant.
+No extensions will be given except in exceptional circumstances.
+If you are late in applying for an extension or you don’t have a good reason, you should still submit 
+your laboratory reports and design project work, but 10% of the total marks available for these 
+assessments will usually be deducted for each day late.
+No assessment work will be accepted once a marked assessment work has been returned to the 
+class.
+Deferred tests and examinations may be granted in cases of extenuating personal circumstances 
+such as serious personal illness or bereavement.
+Remember, you are required to keep an up-to-date copy of all submitted assessment works to 
+safeguard against the loss of work through accident or error.
+Returning assignments
+All marks will be returned through Moodle. Marked lab scripts will be returned during one of  only
+the laboratory classes. Scripts will be returned to the individual student groups concerned (not  only
+to their friends).
+Plagiarism and collusion
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (32) Break----------------
+34
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+N/A
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Lab reports must include a cover sheet. Please keep a copy of tasks completed for your records. 
+Filled in proformas must be submitted in the assignment box outside lab demonstrator’s room (5-7-
+.01/51)
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+   
+Feedback to you 
+Feedback will be in the form of marks for weekly laboratory work, informal verbal feedback from 
+tutors and lab demonstrators in laboratory and tutorial classes. Feedback on quizzes will be 
+discussed during lectures.
+Learning resources
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (33) Break----------------
+35
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (34) Break----------------
+36
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+Occupational Health and Safety
+Safety procedures to be followed by students in the laboratories will be provided in the first 
+laboratory class in week 2.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE4122 Advanced electromagnetics - Semester 2 (S2-01) - 2017
+----------------Page (35) Break----------------

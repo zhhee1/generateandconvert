@@ -1,0 +1,1671 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE2072
+Digital systems
+Semester 2, 2017
+Table of contents
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          5
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                      10
+Learning outcomes                                                                                                                        10
+Your feedback to us                                                                                                                       10
+Previous student evaluations of this unit                                                                                   10
+Unit schedule - Clayton campus                                                                                                       11
+Assessment requirements                                                                                                                 13
+Assessment summary                                                                                                                   13
+Assessment tasks                                                                                                                          14
+Examination(s)                                                                                                                               16
+Section B: For Malaysia students                                                                                                      17
+Academic Overview                                                                                                                          18
+Teaching and learning method                                                                                                      19
+Learning outcomes                                                                                                                    20
+OBE requirements to learning outcomes (LOs)                                                                     20
+Relationship between unit learning outcomes and program outcomes                                 21
+Your feedback to us                                                                                                                       21
+Previous student evaluations of this unit                                                                                   21
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Unit schedule - Malaysia campus                                                                                                     23
+Assessment Summary                                                                                                                   25
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                26
+Relationship between Assessments and Complex Problems/Activities                                    27
+Assessment requirements                                                                                                                 28
+Assessment tasks                                                                                                                          28
+Examination(s)                                                                                                                               29
+Section C: All students                                                                                                                      31
+Extensions and penalties                                                                                                               31
+Returning assignments                                                                                                                  31
+Plagiarism and collusion                                                                                                                31
+Referencing requirements                                                                                                             31
+Assignment submission                                                                                                                 31
+Feedback to you                                                                                                                            32
+Learning resources                                                                                                                        32
+Required resources                                                                                                                       32
+Other information                                                                                                                              32
+Policies                                                                                                                                          32
+Graduate Attributes Policy                                                                                                             33
+Student Charter                                                                                                                             33
+Student Services                                                                                                                           33
+Monash University Library                                                                                                             33
+Disability Support Services                                                                                                            33
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit introduces the student to modern logic design techniques, hardware used and common 
+representations. Topics include two and multi-level combinational logic, decoders, multiplexers, 
+arithmetic circuits, programmable and steering logic, flip-flops, registers, counters, RAM and ROM. 
+Using this hardware the design component will include finite state machine design and applications 
+to computer data path control. This will incorporate simple analogue and digital I/O interfacing. 
+Programmable logic devices will be covered, and the use of a hardware description language for 
+describing, synthesising and testing digital logic. Laboratories cover logic design, implementation, 
+and testing.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+3 hours lectures, 3 hours laboratory and practice classes and 6 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+24 credit points from the Faculty of Engineering or the Faculty of Information Technology
+Prohibitions
+ECE2701, TEC2172, TRC2300
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Assoc Professor Lindsay Kleeman
+Email: Lindsay.Kleeman@monash.edu
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Assoc Professor Lindsay Kleeman
+ Email: Lindsay.Kleeman@monash.edu
+ 36G16Building: , Room: 
+Consultation hours: By appointment by email.
+Lecturer(s) Professor Manos VarvarigosName: 
+ Email: Manos.Varvarigos@monash.edu
+ , Room: Building: 
+Consultation hours: By email appointment for weeks 1-6.
+ 
+ Assoc Professor Lindsay KleemanName: 
+ Email: Lindsay.Kleeman@monash.edu
+ 36, Room: G16Building: 
+Consultation hours: Email for appointments weeks 7-12.
+ 
+  
+Malaysia campus
+Campus 
+Coordinator
+ Mr Nader KamraniName: 
+ Email: nader.kamrani@monash.edu
+ 2 415Building: , Room: 
+Consultation hours: Tuesday 1:00 to 3:00, Wed 10:00 to 12:00 or with 
+appointment
+Lecturer(s)Name:  Mr Nader Kamrani
+Email: nader.kamrani@monash.edu
+Building: 2, Room: 415
+Consultation hours: Tuesday 1:00 to 3:00, Wed 10:00 to 12:00 or with 
+appointment
+ 
+This unit introduces the student to modern logic design techniques, hardware used and common 
+representations. Topics include two and multi-level combinational logic, decoders, multiplexers, 
+arithmetic circuits, programmable and steering logic, flip-flops, registers, counters, RAM and ROM. 
+Using this hardware the design component will include finite state machine design and applications 
+to computer data path control. This will incorporate simple analogue and digital I/O interfacing.
+Programmable logic devices will be covered, and the use of a hardware description language for 
+describing, synthesizing and testing digital logic. Laboratories cover logic design, implementation, 
+and testing.
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of competencyIndicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+1,2,3,4,5,6
+1.2 Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering discipline.
+a) Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering discipline.
+1,2,3,4,5,6
+1.3 In-depth understanding of 
+specialist bodies of knowledge within 
+the engineering discipline.
+a) Proficiently applies advanced 
+technical knowledge and skills in at 
+least one specialist practice domain 
+of the engineering discipline.
+1,2,3,4,5,6
+1.4 Discernment of knowledge 
+development and research directions 
+within the engineering discipline.
+a) Identifies and critically appraises 
+current developments, advanced 
+technologies,emerging issues and 
+interdisciplinary linkages in at least 
+one specialist practice domain of the 
+engineering discipline.
+3,4,6
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+1.5 Identifies and applies systematic 
+principles of engineering design 
+relevant to the engineering discipline.
+a) Identifies and applies systematic 
+principles of engineering design 
+relevant to the engineering discipline.
+3,4
+c) Appreciates the issues associated 
+with international engineering 
+practice and global operating 
+contexts.
+3,4
+2. Engineering application ability
+2.1 Application of established 
+engineering methods to complex 
+engineering problem solving.
+a) Identifies, discerns and 
+characterises salient issues, 
+determines and analyses causes and 
+effects, justifies and applies 
+appropriate simplifying assumptions, 
+predicts performance and behaviour, 
+synthesises solution strategies and 
+develops substantiated conclusions.
+3,4
+c) Competently addresses 
+engineering problems involving 
+uncertainty, ambiguity, imprecise 
+information and wide-ranging and 
+sometimes conflicting technical and 
+non-technical factors.
+3,4
+e) Partitions problems, processes or 
+systems into manageable elements 
+for the purposes of analysis,
+modelling or design and then re-
+combines to form a whole, with the 
+integrity and performance of the 
+overall system as the paramount 
+consideration.
+3,4
+f) Conceptualises alternative 
+engineering approaches and 
+evaluates potential outcomes against 
+appropriate criteria to justify an 
+optimal solution choice.
+3,4
+2.2 Fluent application of engineering 
+techniques, tools and resources.
+a) Proficiently identifies, selects and 
+applies the materials, components, 
+devices, systems, processes, 
+resources, plant and equipment 
+relevant to the engineering discipline.
+3,4
+b) Constructs or selects and applies 
+from a qualitative description of a 
+phenomenon, process, system, 
+component or device a mathematical, 
+physical or computational model 
+based on fundamental scientific 
+principles and justifiable simplifying 
+assumptions.
+3,4,5
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+c) Determines properties, 
+performance, safe working limits, 
+failure modes, and other inherent 
+parameters of materials, components 
+and systems relevant to the 
+engineering discipline.
+3,4,5,6
+d) Applies a wide range of 
+engineering tools for analysis, 
+simulation, visualisation, synthesis 
+and design, including assessing the 
+accuracy and limitations of such 
+tools, and validation of their results.
+3,4,5,6
+e) Applies formal systems 
+engineering methods to address the 
+planning and execution of complex, 
+problem solving and engineering 
+projects.
+3,4,5
+f) Designs and conducts 
+experiments, analyses and interprets 
+result data and formulates reliable 
+conclusions.
+3,4,5
+g) Analyses sources of error in 
+applied models and experiments; 
+eliminates, minimises or 
+compensates for such errors; 
+quantifies significance of errors to 
+any conclusions drawn.
+6
+h) Safely applies laboratory, test and 
+experimental procedures appropriate 
+to the engineering discipline.
+3,4
+i) Understands the need for 
+systematic management of the 
+acquisition, commissioning, operation,
+upgrade, monitoring and 
+maintenance of engineering plant, 
+facilities, equipment and systems.
+3,4
+j) Understands the role of quality 
+management systems, tools and 
+processes within a culture of 
+continuous improvement
+3,4
+2.3 Application of systematic 
+engineering synthesis and design 
+processes.
+a) Proficiently applies technical 
+knowledge and open ended problem 
+solving skills as well as appropriate 
+tools and resources to design 
+components, elements, systems, 
+plant, facilities and/or processes to 
+satisfy user requirements.
+3,4,5
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+b) Addresses broad contextual 
+constraints such as social, cultural, 
+environmental, commercial, legal 
+political and human factors, as well 
+as health, safety and sustainability 
+imperatives as an integral part of the 
+design process.
+3,4,5
+c) Executes and leads a whole 
+systems design cycle approach.
+3,4,5
+d) Is aware of the accountabilities of 
+the professional engineer in relation 
+to the ‘design authority’ role.
+3,4,5
+2.4 Application of systematic 
+approaches to the conduct and 
+management of engineering projects.
+a) Contributes to and/or manages 
+complex engineering project activity, 
+as a member and/or as the leader of 
+an engineering team.
+3,4,5
+3. Professional and personal attributes
+3.1 Ethical conduct and professional 
+accountability.
+b) Understands the need for due-
+diligence in certification, compliance 
+and risk management processes.
+3,4,5
+d) Is aware of the fundamental 
+principles of intellectual property 
+rights and protection.
+3,4,5
+3.3 Creative, innovative and pro-
+active demeanour.
+a) Applies creative approaches to 
+identify and develop alternative 
+concepts, solutions and procedures, 
+appropriately challenges engineering 
+practices from technical and non-
+technical viewpoints; identifies new 
+technological opportunities.
+3,4,5
+3.5 Orderly management of self, and 
+professional conduct.
+a) Demonstrates commitment to 
+critical self-review and performance 
+evaluation against appropriatecriteria 
+as a primary means of tracking 
+personal development needs and 
+achievements.
+3,4,5
+c) Demonstrates commitment to life-
+long learning and professional 
+development.
+3,4,5
+d) Manages time and processes 
+effectively, prioritises competing 
+demands to achieve personal,career 
+and organisational goals and 
+objectives.
+3,4,5
+e) Thinks critically and applies an 
+appropriate balance of logic and 
+intellectual criteria to analysis,
+judgement and decision making.
+3,4,5
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+3.6 Effective team membership and 
+team leadership.
+c) Earns the trust and confidence of 
+colleagues through competent and 
+timely completion of tasks.
+3,4,5
+Teaching and learning method
+The unit employs many teaching approaches. The lectures are used to address common learning 
+objectives of all students and provide opportunities for class discussion with questions 
+encouraged. The lecturer will often ask students questions and all students are expected to 
+participate in an interactive experience. Individual feedback is provided in tutorials run where 
+students are set problems and their progress monitored. Detailed discussion and review of lecture 
+material is also provided in tutorials in an informal and enjoyable learning atmosphere that caters 
+for different learning styles. The tutorials provide students the opportunity to ask questions about 
+lab material as well as receiving help to achieve their full potential. Laboratories are lecture and 
+intended to provide students with a real world experience of designing, implementing and testing 
+their ideas in a practical setting. The reward of achieving a working robust solution is the goal. Lab 
+demonstrators will assist students in achieving this goal in the lab. Online formative quizzes in 
+Moodle are provided so that students can gauge their understanding of digital logic and improving 
+their understanding.
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Apply different techniques such as K-map and Quine McCluskey, to minimise logic 
+expressions and implement them using primitive logical gates.
+2. Analyse the operation of latches, flip-flops, multiplexors, decoders, counters, registers and 
+use them in implementing complex digital systems.
+3. Design and build complex digital systems using programmable logic devices such as 
+PLAs, PALs and FPGAs.
+4. Use a Hardware Description Language and Computer Aided Design Tools to synthesise 
+and simulate logic circuits in a clear, consistent and efficient manner.
+5. Analyse and design finite state sequential Mealy and Moore machines and implement 
+them using different technologies.
+6. Define time delays of digital logic elements and explain timing constraints necessary for 
+correct operation of synchronous logic.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+The lab assessment has increased to 20% of the final mark since they are a very important tool for 
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+The lab assessment has increased to 20% of the final mark since they are a very important tool for 
+learning digital design.  The exam weighting has decreased to 60% and is 2 hours in line with 
+university practice.
+To enhance engagement and attendance, short voluntary quizzes will be run in lectures using your 
+phones, tablets or laptops.
+Student feedback has highlighted the following strength(s) in this unit:
+●engaging tutorials and lectures,
+●interesting and challenging laboratory exercises
+●extensive online resources.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+WeekActivities: LecturesTutorialLaboratoryAssessment
+0No formal assessment is 
+undertaken in week 0
+11. Brief introduction 
+and overview of 
+design, digital 
+hardware and 
+representations.
+2. Two level 
+combinational logic 
+functions, 
+specification, don’t 
+cares
+3. Canonical forms 
+and simplification 
+using K-maps
+No TutNo Lab
+24. Further two level 
+logic simplification _ 
+Quine-McCluskey
+5. Espresso
+6. Bubble matching 
+design approach to 
+NAND/NAND and NOR
+/NOR implementation
+Sheet 1: 
+Boolean 
+Algebra and 
+Gates
+Dig1
+Combinational 
+Logic
+Dig1 prelim
+37. Multi-level 
+combinational logic, 
+Boolean 
+Simplification.
+Dig2Dig2 prelim
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+NAND/NOR 
+conversions
+8. time response of 
+combinational 
+networks and hazards.
+9. Introduction to 
+latches and flip-flops
+Combinational 
+logic and 
+latches
+410. HDL overview.
+11. Introduction to data 
+flow design style:
+12. Continuous 
+assignment 
+statements for 
+combinational logic 
+design.
+Sheet 2: 
+Logic 
+minimisatoin 
+with K-maps 
+and Quine 
+McCluskey
+Dig3
+Introduction to 
+Verilog and 
+FPGAs
+Dig3 prelim
+513. Programmable 
+Logic _ programmable 
+arrays,
+14. ROMs, 
+multiplexers, decoders.
+15. Introduction to 
+FPGAs.
+Hazards and 
+time 
+response.
+Dig4  Switches 
+and Lights
+Dig4 prelim quiz
+616. Case studies of 
+combination design, 
+including HDL egs.
+17. Arithmetic logic 
+design _ number 
+representations, 
+addition/subtraction, 
+ALU design, 
+combinational 
+multiplier.
+18. HDL simulation 
+techniques and test 
+benches
+Sheet 3: Non 
+gate logic.
+Dig5 Numbers 
+and Displays
+Dig5 prelim quiz
+719. Introduction to 
+sequential logic.
+20. Flip-flops and 
+latches, registers, 
+counters and RAM.
+21. Finite State 
+Machine Optimization_ 
+state minimization
+Sheet 3 
+cont_d
+Dig5 (cont'd)
+Numbers and 
+Displays
+822. Mid-semester test.
+23. State assignment
+24. Finite State 
+Machine Design  _ 
+State 
+representation,  Mealy 
+and Moore 
+representations, 
+examples.
+Sheet 4: Flip-
+flops and 
+sequential 
+logic
+Dig6 Flip-flops 
+and Counters
+Mid Semester Test
+Dig6 written prelim
+9 Sheet 4 
+Cont_d
+Dig7 Finite 
+State Machines
+Dig7 prelim quiz
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+25. Introduction to 
+HDL sequential design 
+style _ processes and 
+examples.
+26. HDL coding of 
+FSMs
+27. Finite State 
+Machine 
+Implementation  _ 
+programmable logic, 
+use of counters
+1028. Sequential logic 
+case studies,
+29. timing 
+methodologies
+30. HDL examples of 
+adder, multiplier, ALU 
+and datapaths.
+Sheet 5: 
+Counters and 
+FSM
+D7 FSM 
+(cont_d)
+1131. Computer data 
+path control
+32. Computer data 
+path control (cont_d).
+33. Simple analogue 
+and digital I/O 
+interfacing
+Sheet 5 
+(cont_d)
+Dig8 Computer 
+Datapath 
+Design.
+Dig8 prelim quiz
+1234. Timing constraints.
+35. Metastability, self-
+timed circuit concepts.
+36. Tri-state and open 
+collector outputs
+Sheet 6 FSMsDig8 cont.Assignment 
+SWOT VACNo formal assessment is 
+undertaken in SWOT 
+VAC
+Examination periodLINK to 
+Assessment 
+Policy:
+www.policy.
+monash.edu
+/policybank
+/academic
+/education/
+assessment
+/assessment-
+in-
+coursework-
+policy.html
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment 
+task
+ValueDue date
+Laboratory 
+Completion
+20%Before lab session for prelim work. Lab work is assessed at the end of 
+the corresponding session Dig1-Dig8.
+Mid - 
+semester test
+10%Week 8
+Assignment10%Week 12 - further details on Moodle.
+Examination60%To be advised
+Assessment tasks
+Assessment title: Laboratory Completion 
+ Lab exercises are available via Moodle.Mode of delivery:
+Details of task: Students need to complete laboratory preliminary Moodle quizzes or written 
+exercises BEFORE the scheduled lab and these will be assessed online or in the lab and count 
+half of the lab mark. The remaining half is based on completing laboratory sections and checking 
+by the demonstrators in the lab. The lab marks will be available on Moodle as each lab is 
+completed.
+All labs are available on Moodle from the start of semester.Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Before lab session for prelim work. Lab work is assessed at the end of the Due date: 
+corresponding session Dig1-Dig8.
+20%Value: 
+Presentation requirements: Completion of written preliminary work for  labs Dig1, Dig2 and 
+Dig6.  The remaining preliminary work for labs Dig3,4,5,7,8 requires completion of Moodle 
+online quizzes BEFORE the start of the lab. During the laboratory sessions students should bring a 
+print out of the lab notes so that the lab demonstrators can sign completed work and students can 
+write in answers to questions posed in the notes.  Student should also keep notes of their work 
+during the lab.  Each student is responsible for ensuring the demonstrators enter their lab mark 
+using a Moodle quiz before students leave the lab.
+N/AHurdle requirements (where applicable): 
+Preliminary work is assessed Individual assessment in group tasks (where applicable): 
+individually.  The labs are then completed in groups of two students.
+Criteria for marking: Written preliminary work in labs Dig1, Dig2 and Dig6 are assessed by a 
+demonstrator and other labs are assessed by Moodle quizzes. A lab section is marked off only 
+when the lab requirements are met as assessed by a lab demonstrator and questions posed in the 
+lab notes or asked by a demonstrator are answered correctly. 
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Labs and preliminary work are equally weighted.  The labs that run over two weeks are weighted 
+double those that run for one week.  The final lab Dig8 is weighted double that of the other labs 
+due to its importance in later years of your degree since lab Dig8 introduces students to the digital 
+design of computers.
+ A great deal of learning occurs in the lab in this unit and preparation for the Additional remarks:
+labs will sometimes require all of the 6 hours of private study time per week.  Effort put into the lab 
+exercises will also help with your mid semester test, assignment and final exam.
+ 
+Assessment title: Mid - semester test
+ Mode of delivery:A 50 minute written test based on the lecture, lab and tutorial work of the first 7 
+weeks of the semester.  The test will be run during a lecture slot during week 8.  The details will be 
+announced on Moodle.
+Details of task: Marked tests will be returned individually during the tutorials and each student can 
+discuss their test papers. 
+Week 8Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Week 8 Due date: 
+10%Value: 
+Hand written answers on the test paper.Presentation requirements: 
+N/AHurdle requirements (where applicable): 
+Tests must be completed individually Individual assessment in group tasks (where applicable): 
+under exam conditions with no help from others.
+Criteria for marking: Marks will be awarded based on the correctness and completeness of 
+answers to questions. Answers to the test will be posted on the unit webpage after the test.
+ Examples of previous tests are on the unit website.Additional remarks:
+ 
+Assessment title: Assignment
+ Moodle.Mode of delivery:
+Details of task: The task will be to implement a solution to a digital logic design problem using the 
+hardware description language Verilog. Individual submissions are required and may be required 
+to be demonstrated in the laboratory.  Plagiarism and collusion will be checked with software 
+similarity tools that understand Verilog.
+week 9Release dates (where applicable): 
+ See assignment document on Moodle.Word limit (where applicable):
+Week 12 - further details on Moodle.Due date: 
+10%Value: 
+Written submission uploaded to Moodle.  Verilog code will be checked Presentation requirements: 
+for plagiarism.
+None.Hurdle requirements (where applicable): 
+Individual assessment.  Individual assessment in group tasks (where applicable): Do not share 
+ with anyone else since this will be detected by plagiarism tools we use on your your code
+submission even if attempts are made to rename the code.
+Criteria for marking: The marking rubric will be based on a set of functional criteria, good design 
+practice, coding style and how well the design is documented. 
+ The ability to complete the assignment requires that students actively Additional remarks:
+participate in the group lab exercises during the semester.  Last year cases of plagiarism and 
+collusion resulted in students receiving a mark of 0 for the assignment and in some cases failed 
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+collusion resulted in students receiving a mark of 0 for the assignment and in some cases failed 
+the unit. 
+ 
+Examination(s)
+ExaminationExam title: 
+60%Weighting: 
+2 hours Length: 
+ Closed bookType (Open/closed book):
+ 45% must be achieved in the exam to pass the unit.Hurdle requirements (where applicable):
+None.Electronic devices allowed: 
+Examples of previous exams are on the unit website linked from Remarks (where applicable): 
+Moodle.  Previous exam were 3 hours duration and this has changed to 2 hours this year due to 
+university requirements and consequently the exam this year will not require as much time to 
+complete as in previous years.  However the format of the exam will be similar.
+ 
+Calculators NOT permitted
+ Calculators will not be allowed in the exam and are not required to answer the questions.
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Section B: For Malaysia students
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce  Electrical and Computer System Engineering 
+graduates, who are:
+1. competent in engineering Electrical and Computer System Engineering 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of  Electrical and Computer System Engineering 
+Program Outcomes (POs) for all of its graduates based on the competencies required by the 
+Malaysian Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Electrical and Computer System 
+ Apply Engineering Knowledge:Engineering 
+knowledge of mathematics, natural science, 
+engineering fundamentals and specialisation 
+in  Electrical and Computer System 
+engineering to the solution of Engineering 
+complex engineering problems
+Cognitive:  Theoretical lecture material, 
+prescribed texts and recommended reading. 
+Designing different systems of complexities 
+with diverse requirements as far as response 
+time, cost, and power consumption.
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complex Electrical and Computer System 
+engineering problems reaching Engineering 
+substantiated conclusions using first principles 
+of mathematics, natural sciences and 
+engineering sciences
+Cognitive: Laboratory and tutorial exercises 
+are used for the identifying problems from 
+word descriptions. These are formulated into 
+a formal specification of a logic function using 
+several approaches such as the sum of 
+products canonical form for a combinational 
+circuit or the use of state diagrams for 
+specifying a sequential logic circuit. Solutions 
+are explored in tutorials and labs. These are 
+implemented and tested in the laboratories 
+using logic gates and flip-flops as well as 
+FPGAs.
+PO3  Design/Development of Solutions:
+Design solutions for complex Electrical and 
+engineering Computer System Engineering 
+problems and design systems, components or 
+processes that meet specified needs.
+Cognitive: Specification, design and testing 
+techniques for combinational and sequential 
+circuits using an FPGA and the Verilog 
+Hardware Description language.
+Psychomotor: N/A
+PO4 Conduct Research-based Investigation: 
+investigations of complex Electrical and 
+engineering Computer System Engineering 
+problems using research-based knowledge 
+and research methods including design of 
+experiments, (analysis and interpretation of 
+data, and synthesis of information to provide 
+valid conclusions.
+Cognitive: N/A
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+Cognitive: N/A
+Psychomotor: N/A
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+modern engineering and IT tools, including 
+prediction and modelling, to complex Electrical 
+and Computer System Engineering 
+engineering problems, with an understanding 
+of the limitations
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Electrical and 
+engineering Computer System Engineering 
+problems
+Affective:  N/A
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complex Electrical and 
+engineering Computer System Engineering 
+problems in environmental contexts.
+Cognitive: N/A
+Affective: N/A
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective:  N/A
+PO9  Communicate Communication:
+effectively on complex Electrical and 
+engineering Computer System Engineering 
+activities with the engineering community and 
+with society at large, such as being able to 
+comprehend and write effective reports and 
+design documentation, make effective 
+presentations, and give and receive clear 
+instructions
+Affective:  N/A
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective:  N/A
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective:  N/A
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: N/A
+Affective: N/A
+Teaching and learning method
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+The unit employs many teaching approaches. The lectures are used to address common learning 
+objectives of all students and provide opportunities for class discussion with questions 
+encouraged. The lecturer will often ask students questions and all students are expected to 
+participate in an interactive experience. Individual feedback is provided in tutorials run where 
+students are set problems and their progress monitored. Detailed discussion and review of lecture 
+material is also provided in tutorials in an informal and enjoyable learning atmosphere that caters 
+for different learning styles. The tutorials provide students the opportunity to ask questions about 
+lab material as well as receiving help to achieve their full potential. Laboratories are lecture and 
+intended to provide students with a real world experience of designing, implementing and testing 
+their ideas in a practical setting. The reward of achieving a working robust solution is the goal. Lab 
+demonstrators will assist students in achieving this goal in the lab. Online formative quizzes in 
+Moodle are provided so that students can gauge their understanding of digital logic and improving 
+their understanding.
+Learning outcomes
+On successful completion of this unit, students will be able to:
+1. Apply different techniques such as K-map and Quine McCluskey, to minimise logic 
+expressions and implement them using primitive logical gates.
+2. Analyse the operation of latches, flip-flops, multiplexors, decoders, counters, registers and 
+use them in implementing complex digital systems.
+3. Design and build complex digital systems using programmable logic devices such as 
+PLAs, PALs and FPGAs.
+4. Use a Hardware Description Language and Computer Aided Design Tools to synthesise 
+and simulate logic circuits in a clear, consistent and efficient manner.
+5. Analyse and design finite state sequential Mealy and Moore machines and implement 
+them using different technologies.
+6. Define time delays of digital logic elements and explain timing constraints necessary for 
+correct operation of synchronous logic.
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome Based 
+Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO1) 
+Apply different techniques such as K-map and 
+Quine McCluskey, to minimize logic 
+expressions and implement them using 
+primitive logical gates.
+LO1) 
+Apply different techniques such as K-map and 
+Quine McCluskey, to minimize logic 
+expressions and implement them using 
+primitive logical gates.
+LO2) 
+Analyse the operation of latches, flip-flops, 
+multiplexors, decoders, counters, registers 
+and use them in implementing complex digital 
+systems.
+LO2) 
+Analyse the operation of latches, flip-flops, 
+multiplexors, decoders, counters, registers 
+and use them in implementing complex digital 
+systems.
+LO3) 
+Design and build complex digital systems 
+using programmable logic devices such as 
+PLAs, PALs and FPGAs.
+LO3)
+Design and build complex digital systems 
+using programmable logic devices such as 
+PLAs, PALs and FPGAs.
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Learning Outcomes (LOs) for Outcome Based 
+Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO4)
+Use a Hardware Description Language and 
+Computer Aided Design Tools to synthesise 
+and simulate logic circuits in a clear, 
+consistent and efficient manner.
+LO4)
+Use a Hardware Description Language and 
+Computer Aided Design Tools to synthesise 
+and simulate logic circuits in a clear, 
+consistent and efficient manner.
+LO5)
+Analyse and design finite state sequential 
+Mealy and Moore machines and implement 
+them using different technologies.
+LO5)
+Analyse and design finite state sequential 
+Mealy and Moore machines and implement 
+them using different technologies.
+LO6)
+Define time delays of digital logic elements 
+and explain timing constraints necessary for 
+correct operation of synchronous logic.
+LO6)
+Define time delays of digital logic elements 
+and explain timing constraints necessary for 
+correct operation of synchronous logic.
+Relationship between unit learning outcomes and program outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√
+LO2√
+LO3√
+LO4√
+LO5√
+LO6√
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+More introductory material on logic gates, truth tables and Karnaugh maps will be included.
+Hardware description with Verilog will be enhanced with more examples and interactive class 
+work. To enhance engagement and attendance in classes, short lecture and tutorial quizzes will be 
+used and these will count towards the final mark.
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+Student feedback has highlighted the following strength(s) in this unit:
+●engaging tutorials and lectures,
+●interesting and challenging laboratory exercises
+●extensive online resources.
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+Unit schedule - Malaysia campus
+WeekActivities: LecturesTutorialLaboratoryAssessment
+0No formal assessment is 
+undertaken in week 0
+11. Brief introduction 
+and overview of 
+design, digital 
+hardware and 
+representations.
+2. Two level 
+combinational logic 
+functions, 
+specification, don’t 
+cares
+3. Canonical forms 
+and simplification 
+using K-maps
+No TutNo Lab
+24. Further two level 
+logic simplification _ 
+Quine-McCluskey
+5. Espresso
+6. Bubble matching 
+design approach to 
+NAND/NAND and NOR
+/NOR implementation
+Sheet 1: 
+Boolean 
+Algebra and 
+Gates
+Dig1
+Combinational 
+Logic
+Dig1 prelim
+37. Multi-level 
+combinational logic, 
+NAND/NOR 
+conversions
+8. time response of 
+combinational 
+networks and hazards.
+9. Introduction to 
+latches and flip-flops
+Boolean 
+Simplification.
+Dig2
+Combinational 
+logic and 
+latches
+Dig2 prelim
+410. HDL overview.
+11. Introduction to data 
+flow design style:
+12. Continuous 
+assignment 
+statements for 
+combinational logic 
+design.
+Sheet 2: 
+Logic 
+minimisatoin 
+with K-maps 
+and Quine 
+McCluskey
+Dig3
+Introduction to 
+Verilog and 
+FPGAs
+Dig3 prelim
+513. Programmable 
+Logic _ programmable 
+arrays,
+14. ROMs, 
+multiplexers, decoders.
+Hazards and 
+time 
+response.
+Dig4  Switches 
+and Lights
+Dig4 prelim quiz
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+15. Introduction to 
+FPGAs.
+616. Case studies of 
+combination design, 
+including HDL egs.
+17. Arithmetic logic 
+design _ number 
+representations, 
+addition/subtraction, 
+ALU design, 
+combinational 
+multiplier.
+18. HDL simulation 
+techniques and test 
+benches
+Sheet 3: Non 
+gate logic.
+Dig5 Numbers 
+and Displays
+Dig5 prelim quiz
+719. Introduction to 
+sequential logic.
+20. Flip-flops and 
+latches, registers, 
+counters and RAM.
+21. Finite State 
+Machine Optimization_ 
+state minimization
+Sheet 3 
+cont_d
+Dig5 (cont'd)
+Numbers and 
+Displays
+822. Mid-semester test.
+23. State assignment
+24. Finite State 
+Machine Design  _ 
+State 
+representation,  Mealy 
+and Moore 
+representations, 
+examples.
+Sheet 4: Flip-
+flops and 
+sequential 
+logic
+Dig6 Flip-flops 
+and Counters
+Mid Semester Test
+Dig6 written prelim
+925. Introduction to 
+HDL sequential design 
+style _ processes and 
+examples.
+26. HDL coding of 
+FSMs
+27. Finite State 
+Machine 
+Implementation  _ 
+programmable logic, 
+use of counters
+ Sheet 4 
+Cont_d
+Dig7 Finite 
+State Machines
+Dig7 prelim quiz
+1028. Sequential logic 
+case studies,
+29. timing 
+methodologies
+30. HDL examples of 
+adder, multiplier, ALU 
+and datapaths.
+Sheet 5: 
+Counters and 
+FSM
+D7 FSM 
+(cont_d)
+1131. Computer data 
+path control
+32. Computer data 
+path control (cont_d).
+Sheet 5 
+(cont_d)
+Dig8 Computer 
+Datapath 
+Design.
+Dig8 prelim quiz
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+33. Simple analogue 
+and digital I/O 
+interfacing
+1234. Timing constraints.
+35. Metastability, self-
+timed circuit concepts.
+36. Tri-state and open 
+collector outputs
+Sheet 6 FSMsDig8 cont.Assignment 
+SWOT VACNo formal assessment is 
+undertaken in SWOT 
+VAC
+Examination periodLINK to 
+Assessment 
+Policy:
+www.policy.
+monash.edu
+/policybank
+/academic
+/education/
+assessment
+/assessment-
+in-
+coursework-
+policy.html
+Assessment Summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Laboratory Completion20%Before lab session for prelim work. Lab work is assessed at 
+the end of the corresponding session Dig1-Dig8.
+Mid-semester test and 
+in class quizzes.
+10%Mid-semester test in week 8 and weekly Quizzes.
+Assignment10%Due in week 11
+Written examination (2 
+hours)
+60%Examination period
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+No.Learning OutcomesAssessment
+LabsMid-TerrmAssignmentFinal 
+exam
+1Classify logic implementations 
+as either combinational or 
+sequential circuits.
+P2C2C3
+2Recall the structure of complex 
+logic blocks such as 
+multiplexors, decoders and 
+counters.
+P2C2C3
+3Describe the flexibility of 
+programmable digital logic and 
+Hardware Description 
+Languages.
+C2A2,C2C3
+4Define time delays of digital logic 
+elements and explain timing 
+constraints necessary for correct 
+operation of synchronous logic.
+P2C3C3
+5Use a Hardware Description 
+Language and Computer Aided 
+Design Tools to synthesise and 
+simulate logic circuits in a clear, 
+consistent and efficient manner
+P2,C3C3C2
+6Specify, analyse, design, 
+minimise, implement and test 
+digital logic from a real world 
+description.
+P2,C2C2
+Relationship between Assessments and Complex Problems
+/Activities
+AssessmentComplex Problems
+(CP)
+WP1WP2WP3WP4WP5WP6WP7
+1Tests (Midsem & Quizzes)xx
+2Laboratory (Labs & Lab test)xx
+3Assignmentxxx
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+4Final Examxx
+Assessment requirements
+Assessment tasks
+Assessment title:  In-lecture and in-tutorial quizzes.
+ Short unannounced written quizzes in lectures or tutorials.Mode of delivery:
+ At lease one quiz each week starting from second week of the semester. Each quiz Details of task:
+will be a simple problem of the topics covered in previous lectures and will be marked and returned 
+before next quiz. Duration of each quiz will be 5 to 10 minutes depending on complexity of the 
+question. Only the top 5 quizzes will be counted for this assessment.
+ -Release dates (where applicable): 
+  -Word limit (where applicable): 
+  -Due date: 
+  5% Value: 
+  -Presentation requirements: 
+-Hurdle requirements (where applicable):  
+  Responses are individually assessed.Individual assessment in group tasks (where applicable): 
+Correct answer will earn 1 mark. Attempt will earn 0.5 mark. No attempt will Criteria for marking:  
+earn 0 marks.
+ The aim of this assessment is to promote active engagement of students in Additional remarks: 
+the lectures and tutorials. Since only the top 5 marks out of 10 will be counted there will be no 
+replacement for missed quizzes.
+Assessment title: Laboratory Completion
+ Lab exercises are available via Moodle.Mode of delivery:
+ Details of task:Students need to complete laboratory preliminary Moodle quizzes or written 
+exercises and these will count half of the lab mark. The remaining half is based on how many 
+laboratory sections are completed to the satisfaction of the demonstrators in the lab. The number 
+ of completed lab sections will be available on Moodle for students to check.
+ All labs are avaiable on Moodle from the start of semester.Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Before lab session for prelim work. Lab work is assessed at the end of the Due date: 
+corresponding session Dig1-Dig8.
+  20%Value: 
+  Completion of written preliminary work for Presentation requirements:  labs Dig1, Dig2 and 
+Dig6.  The remaining preliminary work for labs Dig3,4,5,7,8 requires completion of Moodle 
+online quizzes. During the laboratory sessions students should bring a print out of the lab notes so 
+that the lab demonstrators can sign completed work and students can write in answers to 
+questions posed in the notes.  Student should also keep notes of their work during the lab.  Each 
+student is responsible for ensuring the demonstrators enter their final mark for the lab using a 
+Moodle quiz before leaving.
+N/AHurdle requirements (where applicable):  
+  Preliminary work is assessed Individual assessment in group tasks (where applicable): 
+individually.  The labs are then completed in groups of two students.
+Criteria for marking:  Written preliminary work in labs Dig1, Dig2 and Dig6 are assessed by a 
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
+29
+Criteria for marking:  Written preliminary work in labs Dig1, Dig2 and Dig6 are assessed by a 
+demonstrator and labs Dig3, Dig4, Dig5, Dig7 and Dig8 are assessed by Moodle quizzes. A lab 
+section is marked off only when the lab requirements are met as assessed by a lab demonstrator 
+and questions posed in the lab notes or asked by a demonstrator are answered correctly. 
+ A great deal of learning occurs in the lab in this unit.  Effort put into the lab Additional remarks: 
+exercises will help with your mid semester test, assignment and final exam mark.
+Assessment title: Mid Semester Test
+ N/AMode of delivery:
+ Details of task:A 50 minute written test based on the lecture, lab and tutorial work in the first 7 
+weeks of the semester. Marked tests will be returned individually and each student can discuss 
+their test papers with the lecturer.
+ Week 8Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  week 8Due date: 
+  5%Value: 
+  Hand written answers on the test paperPresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  Tests must be completed individually Individual assessment in group tasks (where applicable): 
+under exam conditions with no help from others.
+Criteria for marking:  Marks will be awarded based on the correctness and completeness of 
+answers to questions. Answers to the test will be posted on the unit webpage after the test. 
+ Examples of previous tests are on the unit website.Additional remarks: 
+Assessment title: Assignment
+ MoodleMode of delivery:
+ Details of task:The task will be to implement a solution to a digital logic design problem using a 
+hardware description language. Individual submissions are required and need to be demonstrated 
+in the laboratory where they will be assessed and feedback provided. 
+ Release week 9Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Due in your lab session in week 12Due date: 
+  10%Value: 
+  Written and demonstration of your work.Presentation requirements: 
+NoneHurdle requirements (where applicable):  
+  Individual assessmentIndividual assessment in group tasks (where applicable): 
+Criteria for marking:  Marking will be based on a set of functional criteria, good design practice, 
+coding style and how well the design is documented.  The assignment cannot be passed without 
+demonstrating the ability to adapt the design to meet new and altered requirements.  Students who 
+copy another's work will not be able to satisfy these adaptation requirements.
+ The ability to complete the assignment requires that students actively Additional remarks: 
+participate in the group lab exercises during the semester. 
+Examination(s)
+ ExaminationExam title: 
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (28) Break----------------
+30
+ ExaminationExam title: 
+ 60%Weighting: 
+2 hoursLength: 
+ Closed bookType (Open/closed book): 
+  Students must get at least 45% of final exam as well as Hurdle requirements (where applicable): 
+internal assessments with 50% overall to pass the course.
+ No Calculator are allowed.Electronic devices allowed: 
+ N/ARemarks (where applicable): 
+ 
+ Calculators NOT permitted
+ 
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (29) Break----------------
+31
+Section C: All students 
+Extensions and penalties
+Late submission of the assignment will incur a penalty of 10% for each day late. Assignments 
+submitted more than a week late will not be assessed. Apply for special consideration for late 
+submission due to documented serious illness.
+Returning assignments
+Assignments and mid-semester tests will be marked and returned within two weeks.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+ 
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at http://my.monash.edu.au under the heading 'Learning and teaching tools'. Please keep 
+a copy of tasks completed for your records.
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (30) Break----------------
+32
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies. In this unit it will take the form of group feedback via tutorial and 
+lab classes, individual feedback via tutorial and lab classes, peer feedback, self-comparison, 
+verbal and written feedback, discussions in class, as well as more formal feedback related to 
+assignment marks and grades. Students can also post anonymous questions on the Moodle forum 
+and receive feedback from the teaching staff and other students.
+Learning resources
+Prescribed textbooks
+Katz R.H and Borriello G. Contemporary logic design, 2nd edition Benjamin- Cummings, 2005
+Recommended textbooks
+WakerleyJ.F.Digital design: Principles and practices,3rd edn, Prentice-Hall, 2000
+Reese,R.(2006).(1st ed.). SanRafael, Calif.:Introduction to logic synthesis using Verilog HDL 
+Morgan& Claypool. Available online via Monash Library
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Moodle links to online learning resources, simulators and formative quizzes.
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (31) Break----------------
+33
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (32) Break----------------
+34
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE2072 Digital systems - Semester 2 (S2-01) - 2017
+----------------Page (33) Break----------------

@@ -1,0 +1,826 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE4042
+Communications theory
+Semester 2, 2017
+Table of contents
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                       4
+Campus Coordinator                                                                                                                    4
+Lecturer(s)                                                                                                                                    5
+Academic Overview                                                                                                                            6
+Teaching and learning method                                                                                                        7
+Learning outcomes                                                                                                                          8
+OBE requirements to learning outcomes (LOs)                                                                           8
+Relationship between Unit Learning Outcomes and Program Outcomes                                   8
+Your feedback to us                                                                                                                         9
+Previous student evaluations of this unit                                                                                     9
+Unit schedule                                                                                                                                    10
+Assessment requirements                                                                                                                 11
+Assessment summary                                                                                                                   11
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                13
+Relationship between Assessments and Complex Problems/Activities                                    13
+Hurdle requirements                                                                                                                      14
+Assessment tasks                                                                                                                          14
+Examination(s)                                                                                                                               15
+Extensions and penalties                                                                                                               16
+Returning assignments                                                                                                                  16
+Resubmission of assignments                                                                                                       17
+Plagiarism and collusion                                                                                                                17
+Referencing requirements                                                                                                             17
+Assignment submission                                                                                                                 17
+Feedback to you                                                                                                                            18
+Learning resources                                                                                                                        18
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Required resources                                                                                                                       18
+Other information                                                                                                                              19
+Policies                                                                                                                                          19
+Graduate Attributes Policy                                                                                                             19
+Student Charter                                                                                                                             19
+Student Services                                                                                                                           19
+Monash University Library                                                                                                             19
+Disability Support Services                                                                                                            19
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit will cover aspects of physical layer communications which are relevant to modern 
+communication systems. Digital modulation techniques, including quadrature modulation and 
+orthogonal frequency division multiplexing (OFDM) will be covered. The effects of noise on bit 
+error rates will be covered, along with techniques to reduce them, including matched filtering and 
+equalisation. Information theory covers questions of capacity, diversity, and error correction 
+coding. Finally the use of multiple input multiple output (MIMO) communication systems will be 
+covered.
+Mode of delivery
+Malaysia (Day)
+Workload requirements
+3 hours lectures and 3 hours laboratory and practice classes, and 6 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+ECE2041 or ECE2401
+Prohibitions
+ECE5042
+Co-requisites
+None
+Chief Examiner(s)
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Dr Yi Hong
+Email: Yi.Hong@monash.edu
+ 
+Campus Coordinator
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Campus Coordinator
+Name: Ir Dr Joanne Lim Mun Yee 
+Email: Joanne.Lim@monash.edu
+Building: 2, Room: 2-4-36
+Consultation hours: Room 2-4-36 or email for an appointment
+Lecturer(s)
+Name: Ir Dr Joanne Lim Mun Yee 
+Email: Joanne.Lim@monash.edu
+Building: 2, Room: 2-4-36
+ 
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who  Electrical and Computer Systems 
+are:
+1. competent in engineering Electrical and Computer Systems 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+The engineering discipline has developed a set of Program Electrical and Computer Systems 
+Outcomes (POs) for all of its graduates based on the competencies required by the Malaysian 
+Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Electrical and Computer Systems 
+ Apply knowledge of Engineering Knowledge:
+mathematics, natural science, engineering 
+fundamentals and specialisation in Electrical 
+engineering to the and Computer Systems 
+solution of complex engineering problems
+Cognitive: Cognitive: Theoretical lecture 
+material, prescribed texts and recommended 
+reading, tutorial problems, laboratory 
+experiments, assessments
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complex Electrical and Computer Systems 
+engineering problems reaching substantiated 
+conclusions using first principles of 
+mathematics, natural sciences and 
+engineering sciences
+Cognitive: Cognitive: Theoretical lecture 
+material, prescribed texts and recommended 
+reading, tutorial problems, laboratory 
+experiments, assessments
+PO3  Design/Development of Solutions:
+Design solutions for complex Electrical and 
+engineering problems and Computer Systems 
+design systems, components or processes 
+that meet specified needs.
+Cognitive: 
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex Electrical and 
+engineering problems Computer Systems 
+using research-based knowledge and 
+research methods including design of 
+experiments, (analysis and interpretation of 
+data, and synthesis of information to provide 
+valid conclusions.
+Cognitive: 
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex Electrical 
+engineering problems, and Computer Systems 
+with an understanding of the limitations
+Cognitive: 
+Psychomotor: Cognitive: Theoretical lecture 
+material, prescribed texts and recommended 
+reading, tutorial problems, laboratory 
+experiments
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Electrical and 
+engineering problemsComputer Systems 
+Affective: 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complex  Electrical and 
+engineering problems in Computer Systems 
+environmental contexts.
+Cognitive: 
+Affective:
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate Communication:
+effectively on complex  Electrical and 
+engineering activities with Computer Systems 
+the engineering community and with society at 
+large, such as being able to comprehend and 
+write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective: 
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective: 
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective: 
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: 
+Teaching and learning method
+The unit consists of lectures, laboratory and practice/tutorial classes. Learning in the unit is mainly 
+through problem solving in practice/tutorial and laboratory classes and private study.
+There is 1-hour of practice/tutorial and 2-hours of laboratory classes scheduled each week.
+Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies. In this unit it will take the form of group feedback via practice 
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+feedback throughout their studies. In this unit it will take the form of group feedback via practice 
+classes, individual feedback, peer feedback, self-comparison, verbal and written feedback, 
+discussions in class, as well as more formal feedback related to assignment marks and grades. 
+Students/You are encouraged to draw on a variety of feedback to enhance their/your learning.
+Learning outcomes
+1. Knowledge of the fundamental limits of communication in noisy band limited channels
+2. Knowledge of digital modulation techniques and the advantages and disadvantages of 
+different techniques
+3. Understanding of the properties of different communication channels and how channels 
+can be modelled mathematically
+4. Knowledge of the properties of modern error correcting codes
+5. Understanding of how orthogonal frequency division multiplexing and multiple input 
+multiple output (MIMO) multiple antenna systems can be used in modern communication 
+systems and the advantages and limitations of their use
+6. Understanding of the statistical nature of communication
+7. Skills to design and simulate modern communication systems using industry standard 
+simulation tools.
+OBE requirements to learning outcomes (LOs)
+1. Apply the properties of different communication channels, how channels can be modelled 
+mathematically, and the properties of modern error correcting code in noisy communication band 
+. (LO1, LO3 and LO4 - Aus Campus)limited channels,
+2. Evaluate orthogonal frequency division multiplexing, multiple input multiple output (MIMO) for 
+multiple antenna systems, digital modulation techniques in statistical nature of modern 
+communication. (LO2, LO5 and LO6 – Aus Campus)
+3. Develop skills to design and simulate modern communication systems using industry standard 
+simulation tools. (LO7 – Aus Campus)
+Relationship between Unit Learning Outcomes and Program 
+Outcomes
+Learning Outcomes (LOs) for Outcome Based 
+Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO1 Apply the properties of different 
+communication channels, how channels can 
+be modelled mathematically, and the 
+properties of modern error correcting code 
+in noisy communication band limited channels.
+LO1    Knowledge of the fundamental limits of 
+communication in noisy band limited channels
+LO3    Understanding of the properties of 
+different communication channels and how 
+channels can be modelled mathematically
+LO4    Knowledge of the properties of modern 
+error correcting codes
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+LO2  Evaluate orthogonal frequency division 
+multiplexing, multiple input multiple output 
+(MIMO) for multiple antenna systems, digital 
+modulation techniques in statistical nature of 
+modern communication
+LO2    Knowledge of digital modulation 
+techniques and the advantages and 
+disadvantages of different techniques
+LO5    Understanding of how orthogonal 
+frequency division multiplexing and multiple 
+input multiple output (MIMO) multiple antenna 
+systems can be used in modern 
+communication systems and the advantages 
+and limitations of their use
+LO6    Understanding of the statistical nature 
+of communication
+LO3     Develop skills to design and simulate 
+modern communication systems using 
+industry standard simulation tools.
+LO7    Skills to design and simulate modern 
+communication systems using industry 
+standard simulation tools.
+PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√
+LO2√
+LO3√
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●Extra tutorial questions and a new set of lecture slides on Information Theory were 
+introduced.
+Student feedback has highlighted the following strength(s) in this unit:
+The tutorials were helpful.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+Unit schedule
+WeekLectureTutorialLabAssignment activity
+1Course overview 
+and revision on 
+signal processing.  
+No tutorialNo labPrepare for Lab 1. 
+Understand basic Matlab 
+coding. 
+2Probability and 
+signal theory.
+Revision of basic 
+baseband and 
+sampling theory.
+Tutorial 1Lab 1Ch1 and Ch2
+3M –ary waveforms
+Signal space 
+representation
+ISI and Equalization
+Tutorial 2Lab 2Ch3 
+4Matched filter and 
+error probability
+Maximum likelihood 
+detection
+Tutorial 3Lab 3Ch4
+5Coherent and 
+noncoherent 
+detection
+Channel coding 
+waveforms and 
+parity .
+Tutorial 4Lab 4Ch5
+6Convolutional 
+encoding and 
+decoding.
+Tutorial 5Lab 5Ch6
+7Channel coding -
+Maximum likelihood 
+sequence 
+decoding, hard and 
+soft
+Tutorial 6Lab 6Ch7
+8Shannon capacityTutorial 7Lab 7Ch8
+Mid semester test
+(5  September TBC)th
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+9Introduction to 
+multiple access 
+systems
+Spread spectrum 
+overview, pseudo 
+noise sequences
+Direct sequence 
+and frequency 
+hopping spread 
+spectrum
+Commercial 
+applications of 
+CDMA
+Tutorial 8Lab 8Ch9
+Mid semester break
+10Communications 
+Link Analysis
+Error performance 
+degradation
+Tutorial 8AssignmentCh10
+Assignment due in week 
+10
+(2nd October TBC)
+Assignment Presentation 
+TBC
+11Source coding for 
+digital data
+Characterisation of 
+fading channels
+Time and frequency 
+coherence
+Tutorial 9AssignmentCh11
+Assignment Presentation 
+TBC
+12Statistical Channel 
+model
+Time, antenna and 
+frequency diversity,
+Wideband systems
+Impact of channel 
+uncertainty
+Cellular systems
+Tutorial 9AssignmentCh11
+Assignment Presentation 
+TBC
+SWOT VAC
+Examination periodLINK to Assessment 
+Policy:
+http://www.policy.
+monash.edu/policy-bank
+/academic/education
+/assessment
+/assessment-in-
+coursework-policy.html
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Weekly laboratory class20%At the end of the scheduled lab session
+Assignment10%Week 9 or 10
+Mid-term examination10%Week 7
+Final examination60%To be advised
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis: 
+Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation: 
+Judges the 
+value of 
+material for 
+a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response: 
+Performs 
+automatically
+Adaption:
+Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising: 
+Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+Assessment
+Learning OutcomesOpen-
+ended 
+LabsLO1LO2LO3LO4LO5LO6LO7LO8
+1LabC6C6P3
+2Mid Sem TestC4C4
+3AssignmentC6C6
+4Final 
+Examination
+C6C6
+Relationship between Assessments and Complex Problems
+/Activities
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Hurdle requirements 
+The unit coordinator reserves the right to moderate the assessments given by the individual tutors. 
+This process will occur at the end of the semester.
+To achieve an overall pass grade: (i) the overall mark must exceed 50% and (ii) a mark of at least 
+45% in both the total of “Continuous Assessments” (i.e., cumulated mark >13.5/30) and in the 
+“Final Examination” ” (i.e. final exam mark >31.5/70). 
+Assessment tasks
+Assessment title: Weekly laboratory class
+ Task completed in the Lab.Mode of delivery:
+Continuous assessment of laboratory performance based on experimental set up Details of task: 
+and debugging of circuits (Simulink); recording of simulated and measured data; analysis and 
+synthesis of data and conclusions
+Not applicableRelease dates (where applicable): 
+ Not applicableWord limit (where applicable):
+At the end of the scheduled lab sessionDue date: 
+20%Value: 
+ Presentation requirements:  
+ Hurdle requirements (where applicable):  
+Not applicable Individual assessment in group tasks (where applicable): 
+Refer to Moodle page.Criteria for marking: 
+ Not applicable.Additional remarks:
+ 
+Assessment title: Assignment
+ Students have to complete the assignment in groups and present orally in week Mode of delivery:
+10 (TBC).
+Details of task: Students will be given a title on communications theory. Students will be required 
+to provide some preliminary literature review on the latest technology. Students are expected to 
+show their understanding through oral presentation. Outline of the expected presentation and 
+ marking criterion will be provided.
+Week 6 or 7Release dates (where applicable): 
+ Not applicableWord limit (where applicable):
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+ Not applicableWord limit (where applicable):
+Week 9 or 10Due date: 
+10%Value: 
+Refer to Moodle.Presentation requirements: 
+Not applicableHurdle requirements (where applicable): 
+Refer to Moodle.Individual assessment in group tasks (where applicable): 
+Refer to Moodle.Criteria for marking: 
+  NoneAdditional remarks: 
+ 
+Assessment title: Mid-term examination
+ Mode of delivery: 
+Details of task: The mid-semester test will be held on 5 September (TBC). Time and classroom of th
+ the examination will be confirmed later. 
+Not applicableRelease dates (where applicable): 
+ Not applicableWord limit (where applicable):
+Week 7Due date: 
+10%Value: 
+Presentation requirements:  Not applicable
+Hurdle requirements (where applicable):  10%
+Individual assessment in group tasks (where applicable):  Not applicable
+Criteria for marking:  Not applicable
+ Additional remarks: Not applicable
+ 
+Examination(s)
+Final examinationExam title: 
+60%Weighting: 
+2 hoursLength: 
+ Closed bookType (Open/closed book):
+ Not applicableHurdle requirements (where applicable):
+See belowElectronic devices allowed: 
+-Remarks (where applicable): 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+Graphical calculators and programmable calculators are not permitted in exams.
+  APPROVEDScientific Calculators:
+ FM-83Caieion:
+ F720, F720iCanon:
+fx-82, fx-83, fx-85, fx-100, fx-115, fx-350, fx-570, fx-911, fx-991 and fx-992 seriesCasio: 
+ SR-135, SR-260, SR-270, SR-275Citizen:
+HP-6s, HP-8s, HP-9s, HP-10s, HP-30sHewlett Packard: 
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+HP-6s, HP-8s, HP-9s, HP-10s, HP-30sHewlett Packard: 
+TI-30 and TI-34 seriesTexas instruments: 
+Albert 2, Albert 3, Albert 5Texet: 
+ EL-506, EL-509, EL-520 and EL-531WH seriesSharp:
+ Only these listed calculators with the authorised IMPORTANT:“Monash University -Science” or
+will be allowed into the examination by the invigilators. “Monash University-Engineering” STICKER 
+You must bring your The sticker will be available from the Faculty office ground floor building 72. 
+calculator with you to the Faculty office at any time during the semester to receive a sticker. We 
+recommend you do this well in advance of the exam.
+Extensions and penalties
+Due dates and extensions
+The due dates for the submission of assignments are given in the previous section. Please make 
+every effort to submit work by the due dates. Students are advised to NOT assume that granting of 
+an extension is a matter of course.
+If you need an extension for any of the assignments, you must submit a written request 48-hours 
+the due time and date, and attach supportive evidence such as medical certificate.before 
+sent to the unit coordinator. The The form should preferably be forwarded as an email attachment, 
+email should be sent from your University email address with your name typed in lieu of signature.
+Note that other lecturers cannot grant extensions. Lecturer-in-charge (unit coordinator) will indicate 
+at the time of granting the extension whether any penalty in marks will apply to the submitted work.
+If an extension is granted, the approval must be attached to the assignment.
+Late assignment
+If you are late in applying for an extension or you don’t have a good reason, you should still submit 
+the work, but 10% of the total marks available for that assessment component will usually be 
+deducted for each day late.
+No assignment will be accepted once an assignment has been returned to the class.
+Deferred tests and examinations may be granted in cases of extenuating personal circumstances 
+such as serious personal illness or bereavement.
+Remember, you are required to keep an up-to-date copy of all submitted assignments to safeguard 
+against the loss of work through accident or error.
+Returning assignments
+Return dates
+Students can expect assignments to be returned within two weeks of the submission date or after 
+receipt, whichever is later.
+Assessment for the unit as a whole is in accordance with the provisions of the Monash University 
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Assessment for the unit as a whole is in accordance with the provisions of the Monash University 
+Education Policy at:
+http://www.policy.monash.edu/policybank/academic/education/assessment/index.html
+Feedback on assignment will be provided on the unit’s website.
+Resubmission of assignments
+Resubmissions are not allowed.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+Refer to the assignment handouts and the unit website for referencing requirements.
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at http://my.monash.edu.au under the heading 'Learning and teaching tools'. Please keep 
+a copy of tasks completed for your records.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+If Electronic Submission has been approved for your unit, use Moodle for submission.
+Remember that, just as for hard copy submissions, you should arrange your study /workload so as 
+to allow plenty of time for last minute hitches. Computer problems/ busy servers will  NOT be an 
+excuse for an extension. Do not leave electronic submission of your assignment to the last minute.
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+excuse for an extension. Do not leave electronic submission of your assignment to the last minute.
+Assignment coversheet
+All assignments need to be submitted with a coversheet.
+The Faculty assessment coversheet is accessible on the Faculty website under Current Students, 
+Undergraduate and Graduate Coursework Students, Assessment, exams and results at:
+http://www.eng.monash.edu.au/current-students/download/assessment-coversheet.pdf
+Feedback to you 
+The assessment methods in this unit have been designed to deliver accurate feedback as soon as 
+possible to facilitate effective learning process. Please make the best use of the feedback 
+mechanism by clarifying and asking more questions when the feedback are given.
+●Laboratory sessions: Tutors are available to answer your questions. Comments given to you 
+at the end of the laboratory session are meant to help you shape a better understanding of 
+the topic and improve the quality of your laboratory assignments. Further queries may be 
+raised during the tutorial sessions for clarification.
+●Tutorial: Work solutions are available. The lecturer/tutor will explain in detail upon request 
+during the tutorial sessions.
+●Mid-semester test: One of the most important feedback mechanism preparing you for the 
+final examination and identify current weakness in understanding. Pay attention to the 
+discussion/review session after the test.
+●All written works submitted for assessment will be returned within 2 weeks of submission.
+Learning resources
+Recommended textbooks
+●Bernard Sklar, Digital Communications: Fundamentals and Applications, Second Edition, 
+Prentice Hall, 2001.
+●David Tse and Pramod Viswanath, Fundamentals of Wireless Communication, Cambridge 
+University Press, 2005.
+Study resources
+Available through the unit website.
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at:
+http://www.monash.edu.my/Student-services/
+Monash University Library
+The Library and Learning Commons, Monash University Malaysia Campus, provides a range of 
+services and resources that enable you to save time and be more effective in your learning and 
+research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●For information and referral, telephone: Student Adviser, Student Community Services at 03 
+55146018
+●Drop In: Student Community Services Department, Level 2 Building 2, Monash University 
+Malaysia Campus
+●Email:  (Disability Support Services, Monash disabilitysupportservices@monash.edu
+University Australia)
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE4042 Communications theory - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------

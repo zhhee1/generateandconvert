@@ -1,0 +1,394 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE4076
+Computer vision
+Semester 2, 2017
+Table of contents
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  3
+Synopsis                                                                                                                                          3
+Mode of delivery                                                                                                                              3
+Workload requirements                                                                                                                   3
+Unit relationships                                                                                                                             3
+Prerequisites                                                                                                                                3
+Prohibitions                                                                                                                                  3
+Co-requisites                                                                                                                                3
+Chief Examiner(s)                                                                                                                            3
+Unit Coordinator(s)                                                                                                                       3
+Campus Coordinator(s)                                                                                                                3
+Academic Overview                                                                                                                            5
+Engineers Australia Stage 1 competencies                                                                                     5
+Teaching and learning method                                                                                                        6
+Learning outcomes                                                                                                                          6
+Your feedback to us                                                                                                                         7
+Previous student evaluations of this unit                                                                                     7
+Unit schedule                                                                                                                                      8
+Assessment requirements                                                                                                                   8
+Assessment summary                                                                                                                     8
+Assessment tasks                                                                                                                            9
+Examination(s)                                                                                                                                 9
+Plagiarism and collusion                                                                                                                10
+Referencing requirements                                                                                                             10
+Assignment submission                                                                                                                 10
+Feedback to you                                                                                                                            11
+Learning resources                                                                                                                        11
+Required resources                                                                                                                       11
+Other information                                                                                                                              11
+Policies                                                                                                                                          11
+Graduate Attributes Policy                                                                                                             11
+Student Charter                                                                                                                             11
+Student Services                                                                                                                           11
+Monash University Library                                                                                                             11
+Disability Support Services                                                                                                            12
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Unit handbook information
+Synopsis
+This unit aims to develop an understanding of methods for extracting useful information (eg 3-D 
+structure; object size, motion, shape, location and identity, etc) from images. It will allow students 
+to understand how to construct computer vision systems for robotics, surveillance, medical 
+imaging, and related application areas.
+Mode of delivery
+Clayton (Day)
+Workload requirements
+2 hours lectures, 4 hours laboratory and practice classes and 6 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+ENG2092 or ENG2005, ECE2071 or TRC2400 and ECE2011 or TRC3500 or FIT1002 for students 
+studying double degrees with science
+Prohibitions
+ECE4711, ECE4712, ECE5076, ECE5711, ECE5712
+Co-requisites
+None
+Chief Examiner(s)
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Professor Tom Drummond
+Email: Tom.Drummond@monash.edu
+ 
+Campus Coordinator(s)
+Name: Professor Tom Drummond
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Name: Professor Tom Drummond
+Email: Tom.Drummond@monash.edu
+Building: 36, Room: G14
+ 
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Stage 1 competenciesActivities used in this unit to develop stage 1 competencies
+PE1.1 Knowledge of science 
+and engineering fundamentals
+Theoretical lecture material, prescribed texts and 
+recommended reading, follow-up tutorials and laboratory 
+experiments, assessed through examination.
+PE1.2 In-depth technical 
+competence in at least one 
+engineering discipline​
+To be able to take a written specification and using 
+techniques developed in the lectures and student's home 
+reading to turn the specification into a tested and functioning 
+program to perform a visual processing task in lab 
+exercises.  Ability to give in-depth answers to technical 
+questions in examination.
+PE1.3 Techniques and 
+resources​
+Not applicable
+PE1.4 General knowledge​Not applicable
+PE2.1 Ability to undertake 
+problem identification, 
+formulation, and solution​
+Laboratory exercises
+PE2.2 Understanding of social, 
+cultural, global, and 
+environmental responsibilities 
+and the need to employ 
+principles of sustainable 
+development​
+Not applicable
+PE2.3 Ability to utilise a 
+systems approach to complex 
+problems and to design and 
+operational performance​
+The unit is about the development of intelligent systems. 
+Taught in lectures, reinforced in tutorials and practised in labs.
+PE2.4 Proficiency in 
+engineering design​
+Lab exercises require students to design software solutions 
+to computer vision problems.
+PE2.5 Ability to conduct an 
+engineering project
+Not applicable
+PE2.6 Understanding of the 
+business environment
+Not applicable
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Stage 1 competenciesActivities used in this unit to develop stage 1 competencies
+PE3.1 
+Ability to communicate 
+effectively, with the 
+engineering team and with the 
+community at large
+Not applicable
+PE3.2 
+Ability to manage information 
+and documentation
+Laboratory exercises require students to integrate information 
+from documentation, prescribed text and instructions.
+PE3.3 
+Capacity for creativity and 
+innovation
+Laboratories require lateral thinking and innovative solutions 
+to complete.
+PE3.4  
+Ability to function effectively as 
+an individual and in 
+multidisciplinary and 
+multicultural teams, as a team 
+leader or manager as well as 
+an effective team member
+Not applicable
+PE3.5 
+Ability to function effectively as 
+an individual and in 
+multidisciplinary and 
+multicultural teams, as a team 
+leader or manager as well as 
+an effective team member
+Not applicable
+PE3.6 
+Capacity for lifelong learning 
+and professional development
+Not applicable
+PE3.7
+ Professional attitudes​
+ 
+Not applicable
+Teaching and learning method
+●Laboratory-based classes
+●​Hands-on exercises provide a chance to experience the application of the techniques presented in lectures
+●Lecture and/or tutorials
+●​Lectures are used to present the core material for the unit, while tutorial sessions are used to provide a 
+risk-free environment for students to attempt problems, receive feedback and deepen their understanding
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Describe camera models.
+2. Describe the elements of the human visual system and perception.
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+2. Describe the elements of the human visual system and perception.
+3. Apply geometry and photometry to image analysis.
+4. Generate implementations for low level vision processes such as linear filtering, edge 
+detection, texture, multi view geometry, stereopsis, structure from motion and optical flow 
+and mid-level vision processes, such as segmentation and clustering, model fitting and 
+tracking.
+5. Design high-level vision processes such as model-based vision, surfaces and outlines, 
+graphs, range data, templates and classifiers and learning methods.
+6. Generate code to complete computer vision programming exercises in programming 
+languages such as C and MatLab.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+Introduction of Tutorial classes.
+Student feedback has highlighted the following strength(s) in this unit:
+Content. Lecture delivery is fantastic. Clear, concise and to the point.
+Tutorials help a lot and labs actually make us have a deeper understanding.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+Unit schedule
+WeekLectureLab
+1Introduction
+Image representations, image noise, filtering
+None
+2Edge and keypoint detection
+Keypoint detection and matching (FAST and SSD)
+None
+3Keypoint matching (SIFT, MSER)
+Keypoint matching as classification (Trees)
+Lab 1a
+4Image projection, camera models, homographies
+Homographies, image stitching, panoramas
+Lab 1b
+5Image segmentation, thresholding, K means clustering
+Gaussian distributions, mixture models, mean shift, 
+texture
+Lab 2a
+6Fourier transforms, Gabor filters, Bag-of words
+Viola-Jones face detection, Integral images, Eigen faces, 
+Lab 2b
+7Neural Networks 1
+Neural Networks 2
+Lab 3a
+8Projection Matrices, Lens distortion
+Vanishing points; points and lines in 2D
+Lab 3b
+9Conics and lines in 3D
+Multi-view geometry
+Lab 4a
+10Stereo reconstruction, Voxel Carving
+Light, colour, reflection
+Lab 4b
+11Tracking from points and linesNone
+12RevisionNone
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Laboratory Exercises40%Bi-weekly
+Examination60%To be advised
+ 
+Assessment tasks
+Assessment title: Laboratory Exercises
+ Not applicableMode of delivery:
+Hands-on programming exercises for Computer VisionDetails of task: 
+Not applicableRelease dates (where applicable): 
+ Not applicableWord limit (where applicable):
+Bi-weeklyDue date: 
+40%Value: 
+Not applicablePresentation requirements: 
+Hurdle requirements (where applicable): Students are required to achieve at least 45% in the total 
+continuous assessment component (laboratory assignments) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Not applicableIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Marking scheme for will be self-contained in lab notes provided online for 
+each exercise.
+Students will be marked during the 2nd lab session (lab exercises are across 2 sessions). 
+ Not applicableAdditional remarks:
+ 
+Examination(s)
+ExaminationExam title: 
+60%Weighting: 
+2 hrsLength: 
+ closed bookType (Open/closed book):
+ Students are required to achieve at least 45% in the total Hurdle requirements (where applicable):
+continuous assessment component (laboratory assignments) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+ are permittedElectronic devices allowed: Faculty of Engineering approved calculators
+Not applicableRemarks (where applicable): 
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+Not applicableRemarks (where applicable): 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+Not applicable
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+Not applicable
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Not applicable
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Feedback to you 
+Verbal feedback will be given by lab demonstrators when lab exercises are marked
+Learning resources
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at:
+ http://www.monash.edu/students
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information. 
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE4076 Computer vision - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
