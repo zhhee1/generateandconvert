@@ -32,6 +32,7 @@
         var allTextLines = allText.split(/\r\n|\n/);
         var start = "The Engineers Australia Policy on Accreditation of Professional Engineering Programs";
         var end = "Teaching and learning method";
+        var unit = allTextLines[5];
 
         for (var i=1; i<allTextLines.length; i++) {
             if (allTextLines[i].indexOf(start) != -1) {
@@ -440,6 +441,7 @@
 
 
         }
+        console.log(unit);
         console.log(str);
         str = [];
         // alert(lines);
