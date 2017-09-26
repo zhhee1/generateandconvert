@@ -1,0 +1,540 @@
+1
+                                    
+  
+Unit Guide
+  
+MTH1030
+Techniques for modelling
+Semester 2, 2017
+  
+  
+  
+  
+Handbook link:
+http://monash.edu.au/pubs/2017handbooks/units/MTH1030.html
+  
+ 
+Note to students:
+Burkard the unit coordinator for this unit really loathes unnecessary e-mails. Please before you ask 
+him any questions make sure that it is not already answered in this unit guide. Also, in the first 
+instance please address all questions you may have about this unit to your lecturer or Dr Santiago 
+the person in charge of the day-to-day running of the unitBarrera Acevedo .
+Table of contents
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  3
+Synopsis                                                                                                                                          3
+Mode of delivery                                                                                                                              3
+Workload requirements                                                                                                                   3
+Unit relationships                                                                                                                             3
+Prerequisites                                                                                                                                3
+Prohibitions                                                                                                                                  3
+Co-requisites                                                                                                                                3
+Chief Examiner(s)                                                                                                                            3
+Unit Coordinator(s)                                                                                                                       3
+Lecturer(s)                                                                                                                                    3
+Academic overview                                                                                                                             4
+Learning outcomes                                                                                                                          4
+Teaching approach                                                                                                                          4
+Feedback to you                                                                                                                              5
+Assessment summary                                                                                                                     6
+Regular attendance and participation in the support classes is worth another 5%; details 
+under "Examination" below.                                                                                                     6
+Examination(s)                                                                                                                                 9
+Applications for special consideration                                                                                           11
+Unit schedule                                                                                                                                    13
+Your feedback to us                                                                                                                       13
+Previous student evaluations of this unit                                                                                   13
+Unit resources                                                                                                                               14
+Learning resources                                                                                                                    14
+Required resources                                                                                                                    15
+Technology requirements                                                                                                          15
+Other information                                                                                                                              15
+Policies                                                                                                                                          15
+Graduate Attributes Policy                                                                                                             15
+Student Charter                                                                                                                             15
+Student Services                                                                                                                           16
+Monash University Library                                                                                                             16
+Disability Support Services                                                                                                            16
+Plagiarism, cheating and collusion                                                                                                16
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Unit handbook information
+Synopsis
+Solution of systems of linear equations using Gaussian elimination; matrices, determinants, 
+eigenvalues and eigenvectors; introduction to vectors; methods of integration - substitutions and 
+integration by parts; solution of first-order ordinary differential equations - separable, use of 
+integrating factor; solution of second-order linear ordinary differential equations with constant 
+coefficients and applications; Taylor series and series convergence; the remainder term.
+Mode of delivery
+Clayton (Day)
+Workload requirements
+Three 1-hour lectures and one 2-hour support class per week
+Unit relationships
+ 
+Prerequisites
+MTH1020 or VCE Specialist Mathematics units 3 and 4 with a study score of at least 30
+Prohibitions
+ENG1005, ENG1091, MTH1035
+Co-requisites
+None
+Chief Examiner(s)
+Associate Professor Burkard Polster
+Dr Simon Teague
+Unit Coordinator(s)
+Associate Professor Burkard Polster
+Lecturer(s)
+Name: Dr Christopher Hough
+Campus: Clayton
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Campus: Clayton
+Phone: 
+Email: Chris.Hough@monash.edu
+ 
+Name: Dr Santiago Barrera Acevedo
+Campus: Clayton
+Phone: 
+Email: Santiago.Barrera.Acevedo@monash.edu
+ 
+Academic overview
+Learning outcomes
+On completion of this unit students will be able to:
+1. Understand the basic concepts of linear algebra, recognise and manipulate elements of 
+vector spaces;
+2. Formulate and solve equations involving vectors and matrices, including for three-
+dimensional geometry;
+3. Identify and evaluate improper integrals;
+4. Solve simple first and second order differential equations, and formulate them for 
+applications to physical systems;
+5. Compute Taylor series expansions, with remainder, for functions of one variable;
+6. Apply Taylor series and l'Hopital's rule to compute limits;
+7. Understand and compute the convergence properties of infinite series;
+8. Provide written reports that contain complete mathematical arguments.
+Teaching approach
+In MTH1030 there will be 5 contact hours per week:
+• Three one-hour lectures per week.
+• One two-hour support class per week
+Lectures
+The material in lectures will be presented by hand – a live human will create real mathematics 
+before your eyes.
+The material presented in each lecture will be drawn from a set of lecture notes that will be 
+available on the unit’s Moodle website.
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Our lectures will be recorded (audio + (usually) both the projected screens) and the recordings will 
+be available via a link on the unit's Moodle website. It sometimes happens that lectures do not end 
+up being recorded because of technical issues.
+Support classes (also sometimes referred to as tutorials or lab classes)
+The required to be able to actually do mathematics is the focus of the 2-hour support methods 
+class in MTH1030. Whereas the lectures cover motivations, theory, proofs, applications and some 
+examples, the support classes will be on the functional side of mastering techniques and notations. 
+They are typically brief high-powered bursts of information that students are then expected to be 
+able to use to relate to different problems in their own study time. The problems sets for MTH1030 
+(also available on the unit's Moodle website) will be the primary source material for these classes.
+Communication of Mathematics 
+In this unit we will also pay a great deal of attention to how well mathematics can be 
+communicated. Becoming familiar with the logic, language, formalisms and notation of 
+mathematics is a challenge and will require some effort. You will be provided with examples of 
+good communication in the notes and during lectures/support classes to guide you in this 
+endeavour. Of course if you already have good habits and organisation then all this is so much 
+easier to master!
+Attention to detail in what you are saying is essential as mathematics has a concise syntax that 
+can have quite different meanings attached to marginally different propositions. You will have 
+plentiful opportunities to improve your mathematics expression throughout the course.
+Talking to the lecturers and other students should be something you practice regularly because 
+often what you think you know on paper is actually quite different to that which you verbalise. Many 
+times it won’t be until a person clearly articulates an idea that they truly understand it.
+Be prepared to write or come up with solutions in small groups on the boards as this will also give 
+confidence in skills and communication as the course progresses.
+You can also find information on inclusive teaching practices for students with learning disabilities 
+or mental health conditions at: www.monash.edu.au/lls/inclusivity/
+ 
+Feedback to you
+The feedback you will receive during your university studies is probably quite different from what 
+you have been used to in school. The first big difference is the huge number of students 
+undertaking each unit, which does not allow for the same one-on-one interaction as when you 
+learn in small groups. Secondly, university students are adults and hence are expected to take 
+responsibility for their own learning (spoon feeding is now in the past!)
+However, you will still receive plenty of feedback on your progress, but you must look for it! In 
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+However, you will still receive plenty of feedback on your progress, but you must look for it! In 
+MTH1030, the following opportunities should help you get a sense of how you are doing:
+Lectures and support classes
+Lectures are not just a one-way street – you are actively encouraged to ask questions during  and 
+after the lectures. If there is some point that you feel unsure about don’t be shy, ask the lecturer to 
+clarify the point. The same is true for the support classes.
+Assignments and test
+Always look through the marked assignments, and read the comments given by your support-class 
+leader either written on the assignment itself or in class to the whole group. Always ask if there is 
+something that is not clear to you. 
+ 
+Assessment summary
+Examination (2 hours): 60% (Hurdle)
+Continuous assessment: 40%
+Hurdle requirement: To pass this unit a student must achieve at least 50% overall and at least 40% 
+for the end-of-semester exam.
+Assessment taskValueDueSubmitted via:
+Assignment 18.75%Wednesday, 23 
+August
+Assignment box
+Assignment 28.75%Wednesday, 13 
+September
+Assignment box
+Assignment 38.75%Wednesday, 4 
+October
+Assignment box
+Test8.75%In your lab class in 
+the week starting 4 
+September
+In lab class
+Regular attendance and participation in the support classes is worth 
+another 5%; details under "Examination" below. 
+Lab classes
+You should allocate yourself to a lab class through . In the first two weeks of classes, ALLOCATE+
+all timetable issues need to be resolved by sending an email to . The allocate@sci.monash.edu.au
+teaching staff cannot make changes to your allocation. After the second week, see the Reception 
+Office of the School of Mathematical Sciences (4th floor, building 28) for any changes to the lab 
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+1.  
+2.  
+3.  
+4.  
+5.  
+Office of the School of Mathematical Sciences (4th floor, building 28) for any changes to the lab 
+class allocation. It is your responsibility to be properly enrolled in the lab class you attend, as 
+otherwise your semester marks may be displaced.
+Assignments
+Format
+To get full marks your assignment
+must be neatly presented, but does not necessarily have to be typed;
+must not contain any mistakes (mathematical, logical, spelling, etc.);
+must be self-contained, including the statement of a problems at the beginning, and answers 
+to whatever questions were asked at the end;
+ must be understandable without too much effort by other students taking this course;
+ must contain a clear description of the mathematics that justifies everything you do in full 
+.English sentences
+A lot of this is about the way you present your work. Just to put a figure to it, you can lose up to 
+30% of the total marks for poor presentation. In particular, if your handwriting is illegible, whatever 
+you are writing about will not be counted. If you have problems in this respect you may want to 
+consider typing everything up after all.
+Assignment submission
+You must submit your assignments to your support-class leader in hardcopy form by 5 pm on the 
+day that an assignment is due. To submit an assignment, either hand it to your support-class 
+leader during one of your lab classes or deposit it in his or her assignment box on the ground floor 
+of the maths building (building 28). Note that you won’t be able to find your support-class leader’s 
+assignment box unless you know their name (ask them or find out on ) Also, if you do ALLOCATE+!
+not submit your assignment in the correct assignment box, your assignment will not be marked 
+and you will receive 0 marks on your assignment!
+The submission dates are clearly stated on each assignment and in this unit guide. All 
+assignments will be available for download from the website three weeks prior to their due date.
+It is strongly recommended that students make a copy of the final version of their assignments 
+prior to its submission, for example with their phone or using a scanner.
+Students who have attempted this unit previously must complete all assessment tasks again. No 
+marks can be carried across from a previous enrolment in the unit.
+Extensions, late submission and penalties
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+The penalty for assignments submitted late is 10 marks per day late or part thereof. Weekends 
+and holidays attract the same penalty as weekdays. No assignment can be accepted for 
+assessment more than eight days after the due date except in exceptional circumstances and in 
+consultation with the unit coordinator. Late assignments can be e-mailed to the unit coordinator.
+If you have any valid reason why you are unable to submit your assignment by the due date you 
+must contact your unit coordinator before the due date. In all other cases late penalties will apply 
+(see below).
+The process for submitting special consideration applications for missing due dates is outlined 
+below.
+Support-class leaders are not authorised to approve extensions to deadlines.
+Please make sure to submit your own work. It is okay, and we even encourage you to discuss a 
+problem with other students who are taking the course to try to understand how to attack it (and to 
+avoid going completely off the mark). However, in the end you have to do your own calculations 
+and you have to write up your own report in your own words.
+Monash University is very picky about this last point and, to make sure that you understand how 
+serious this is, requires that you attach a completed assignment cover sheet to the front of your 
+assignment. Make sure that you understand what you are signing there. You can download a copy 
+of the coversheet from the unit’s website.
+Returning marked assignments
+Whenever possible marked assignments will be returned to you within two weeks after they were 
+due. Your marks will also be posted in the Grade Book on Moodle at around the same time and 
+you should check these have been recorded correctly. If any of them have been entered 
+incorrectly you must query them with your support-class leader in a timely manner. (If work is 
+consistently being handed back late to you, or your marks are not posted on Moodle within a week 
+of receiving your marked work, please advise the unit coordinator.) If you are unable to collect your 
+work at the usual class, please ask your support-class leader at the next class. Any uncollected 
+work after the end of semester can be retrieved from the unit coordinator up until the end of the 
+examination period.
+If you believe that an error has been made in the marking of any assessment, for example missed 
+working or a mistake in the addition of marks, you should discuss that with your support-class 
+leader initially. If you are not satisfied with their response you should contact the unit coordinator.
+Resubmission of assignments
+You will normally not be allowed to re-submit your work for assessment except in exceptional 
+circumstances and only with written consent of the unit coordinator.
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+1.  
+2.  
+3.  
+4.  
+5.  
+Examination(s)
+Final Exam (60% of final mark)
+The final exam will run for three hours. A mock exam with solutions will be made available on the 
+unit web site towards the end of the semester.
+No calculators, textbooks or notes of any kind will be allowed in the test or in the exam. You will be 
+provided with a formula sheet as part of the test and the exam and a copy of this formula sheet will 
+be also be available on the unit web site from around the middle of the semester.
+The final exam is a hurdle for this unit. To pass this unit a you must achieve at least 50% overall 
+and at least 40% for the end-of-semester exam.
+Midsemester test (8.75% of final mark)
+There will be a test towards the middle of the semester that will be held during one of your lab 
+classes. It will give you a taste for what to expect in the final exam.
+Three assignments (3 x 8.75% of final mark)
+Format 
+To get full marks your assignment
+must be neatly presented, but does not necessarily have to be typed;
+must not contain any mistakes (mathematical, logical, spelling, etc.);
+must be self-contained, including the statement of a problems at the beginning, and answers 
+to whatever questions were asked at the end;
+must be understandable without too much effort by other students taking this unit;
+must contain a clear description of the mathematics that justifies everything you do in full 
+.English sentences
+A lot of this is about the way you present your work. Just to put a figure to it, you can lose up to 
+30% of the total marks for poor presentation. In particular, if your handwriting is illegible, whatever 
+you are writing about will not be counted. If you have problems in this respect you may want to 
+consider typing everything up after all.
+Assignment submission
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+You must submit your assignments to your support-class leader in hardcopy form by 5 pm on the 
+day that an assignment is due. To submit an assignment, either hand it to your support-class 
+leader during one of your support classes or deposit it in his or her assignment box on the ground 
+floor of the maths building (9 Rainforest walk/building 28). Note that you won’t be able to find your 
+support-class leader’s assignment box unless you know their name (ask them or find out on 
+) Also, if you do not submit your assignment in the correct assignment box, your ALLOCATE+!
+assignment will not be marked and you will receive 0 marks on your assignment!
+The submission dates are clearly stated on each assignment and in this unit guide. All 
+assignments will be available for download from the website three weeks prior to their due date.
+It is strongly recommended that students make a copy of the final version of their assignments 
+prior to its submission, for example with their phone or using a scanner.
+Students who have attempted this unit previously must complete all assessment tasks again. No 
+marks can be carried across from a previous enrolment in the unit.
+Extensions, late submission and penalties
+The penalty for assignments submitted late is 10 marks per day late or part thereof. Weekends 
+and holidays attract the same penalty as weekdays. No assignment can be accepted for 
+assessment more than eight days after the due date except in exceptional circumstances and in 
+consultation with the unit coordinator. Late assignments can be e-mailed to the unit coordinator.
+If you have any valid reason why you are unable to submit your assignment by the due date you 
+must contact your unit coordinator before the due date. In all other cases late penalties will apply 
+(see below).
+The process for submitting special consideration applications for missing due dates is outlined 
+below.
+Support-class leaders are not authorised to approve extensions to deadlines.
+Please make sure to submit your own work. It is okay, and we even encourage you to discuss a 
+problem with other students who are taking the unit to try to understand how to attack it (and to 
+avoid going completely off the mark). However, in the end you have to do your own calculations 
+and you have to write up your own report in your own words.
+Monash University is very picky about this last point and, to make sure that you understand how 
+serious this is we require that you attach a completed assignment cover sheet to the front of your 
+assignment. Make sure that you understand what you are signing there. You can download a copy 
+of the coversheet from the unit’s website.
+Returning marked assignments
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Returning marked assignments
+Whenever possible marked assignments will be returned to you within two weeks after they were 
+due. Your marks will also be posted in the  on  at around the same time and Grade BookMoodle
+you should check these have been recorded correctly. If any of them have been entered 
+incorrectly you must query them with your support-class leader in a timely manner. (If work is 
+consistently being handed back late to you, or your marks are not posted on Moodle within a week 
+of receiving your marked work, please advise the unit coordinator.) If you are unable to collect your 
+work at the usual class, please ask your support-class leader at the next class. Any uncollected 
+work after the end of semester can be retrieved from the unit coordinator up until the end of the 
+examination period.
+If you believe that an error has been made in the marking of any assessment, for example missed 
+working or a mistake in the addition of marks, you should discuss that with your support-class 
+leader initially. If you are not satisfied with their response you should contact the unit coordinator.
+Resubmission of assignments
+You will normally not be allowed to re-submit your work for assessment except in exceptional 
+circumstances and only with written consent of the unit coordinator.
+Support classes (participation in these is worth 5% of final mark)
+You should allocate yourself to a support class through . In the first two weeks of ALLOCATE+
+classes, all timetable issues need to be resolved by sending an email to allocate@sci.monash.edu.
+. The teaching staff cannot make changes to your allocation. After the second week, see the au
+Reception Office of the School of Mathematical Sciences (4th floor, 9 Rainforest walk/building 28) 
+for any changes to the support class allocation. It is your responsibility to be properly enrolled in 
+the support class you attend, as otherwise your semester marks may be displaced.
+You can get a total of 100 marks for participation in support classes. 70 out of those 100 marks 
+you get for being present for the full duration of at least 8 of the 12 support classes. You will get 
+none of these 70 marks if you attend less support classes without a valid (in the usual sense) 
+reason. If you miss one of your support classes the only way you can make up for it is by attending 
+another support class during the same week, just let the support class leader in charge know.
+You will get up to 30 marks at the discretion of your support class leader for participating in 
+disscussions, answering questions, etc. during support classes.
+ 
+Applications for special consideration
+Students with a valid reason for late submission of an assignment, or for missing a quiz or mid-
+semester test, must provide the unit coordinator with originals of appropriate documentation within 
+two working days of the normal deadline for that piece of work. This application must be submitted 
+directly to the unit coordinator in bldg. 28, room 411 (or slip them under the door if there is nobody 
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+directly to the unit coordinator in bldg. 28, room 411 (or slip them under the door if there is nobody 
+in the office at that time). The unit coordinator will advise you of the outcome of the application by 
+email.
+See also  for university information.http://www.monash.edu.au/exams/special-consideration.html
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Unit schedule
+The table below shows the planned schedule of activities and assessment for this unit but from 
+time to time it may be necessary to adjust this for operational reasons. Please listen for 
+announcements in lectures and/or check official announcements on Moodle regularly.
+Week (starting)ActivitiesAssessment
+1  (24 July)Linear algebra lectures + lab classes
+2  (31 July)Linear algebra lectures + lab classes
+3  (7 August)Linear algebra lectures + lab classes
+4  (14 August)Calculus lectures + lab classes
+5  (21 August)Calculus lectures+ lab classesAssignment 1
+due on Wednesday
+6  (28 August)Calculus lectures
++ lab classes
+7  (4 September)Calculus lectures + lab classesTest during lab classes
+8 (11 September)Calculus lectures + lab classesAssignment 2
+due on Wednesday
+9 (18 September)Calculus lectures + lab classes
+Midsemester break
+10 (2 October)Linear algebra lectures + lab classesAssignment 3
+due on Wednesday
+11 (9 October)Linear algebra lectures+ lab classes
+12 (16 October)Linear algebra lectures + lab classes
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+More direct support for all aspects of this unit provided through the .Mathematics Learning Centre
+If you wish to view how previous students rated this unit, please go to;
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+If you wish to view how previous students rated this unit, please go to;
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+Unit resources
+Learning resources
+Lecture notes/books
+A complete set of lecture notes, written specifically for this unit will be available from the unit web 
+site. The lecture notes we provide are very comprehensive. This means that you do not need to 
+buy a textbook. 
+You should be fine just reading the lecture notes. However, if you find some parts of the lecture 
+notes hard to understand you may also want to consult some websites and books dealing with 
+material similar to that covered in our course. In general, the Wikipedia pages dealing with 
+mathematical topics are excellent and so are the  pages hosted by Wolfram Research. Mathworld
+There are also lots of good books on linear algebra and calculus in the library. Two books we 
+particularly recommend and which are used in more advanced units here at Monash are the 
+following:
+Anton & Rorres,  Elementary Linear Algebra, 11th Edition, Wiley (2014).
+and
+Stewart, Calculus, Early Transcendentals Version 6 or 7 (2008, 2012)
+You can purchase these books from the Monash bookstore and there are a limited number of 
+copies in the library.
+Unit website
+Unit information, lecture notes, assignments, exercises, all handouts and notices will be available 
+on the web through Moodle (click ).here
+Mathematics Learning Centre
+The School of Mathematical Sciences also operates a  to provide Mathematics Learning Centre,
+additional assistance to students who are encountering difficulties with lecture material and 
+exercises in any of their first and second-year mathematics units (including MTH1030).
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+The Mathematics Learning Centre is located on the ground floor of 9 Rainforest walk/building 28, 
+room G24 at the Clayton campus and it is open from week 2 of the semester, Monday to Friday, 
+11am - 2 pm. No appointment is necessary.
+Monash Library Unit Reading List (if applicable to the unit):
+http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, refer to the Higher Education Administrative 
+Information for Providers, Chapter 18, Incidental Fees at http://education.gov.au/help-resources-
+providers
+Technology requirements
+You must check Moodle site for this unit regularly for any announcements and should act upon 
+that information. You are also expected to access the online resources provided for this unit in a 
+timely manner. If you do not have your own computer, you have access to computers via the 
+Monash Library, at an open-access computer laboratory, or at the Mathematics Learning Centre in 
+room G24, 9 Rainforest Walk (Building 28).
+We will be using the program Mathematica. Please read through the relevant section on the 
+Moodle site to find out how to get access to this program and how to use it.
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies.Contact your tutor if you need advice and see the range of services available at:
+http://www.monash.edu/students
+http://www.monash.edu.my/student-services/ 
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or or the library tab in http://www.monash.edu/libraryhttp://www.lib.monash.edu.my/ 
+ portal for more information.http://my.monash.edu
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+For students at Malaysia campus, please contact the Student Wellbeing and Activities Office 
+located in Building 2, Level 2, Room 2238.
+http://www.monash.edu.my/student-services/wellbeing-and-activities/disability-support
+Plagiarism, cheating and collusion
+Monash University has strict policies on plagiarism, cheating and collusion, and the penalties can 
+be severe. Full details of the policy can be found at:
+http://www.policy.monash.edu/policy-bank/academic/education/conduct/student-academic-integrity-
+policy.html
+ 
+ 
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+ 
+  
+  
+©Copyright  Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+MTH1030 Techniques for modelling - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------

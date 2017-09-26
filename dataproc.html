@@ -7,11 +7,13 @@
 <script>
 
     let source = ["ENG1001", "ENG1002", "ENG1003", "ENG1005", "ENG1060", "ENG1090",
-        "ENG2005", "ENG2801", "ECE2072", "ECE2111", "ECE2191", "ECE3091", "ECE3121",
-        "ECE4032", "ECE4042", "ECE4043", "ECE4053", "ECE4076", "ECE4087", "ECE4094",
-        "ECE4095", "ECE4122", "ECE4808", "ECE5882", "ECE5884", "ECE5886","TRC2001"];
+        "ENG2005", "ENG2801", "ECE2072", "ECE2111", "ECE2191", "ECE3051", "ECE3062",
+        "ECE3091", "ECE3121", "ECE4032", "ECE4042", "ECE4043", "ECE4053", "ECE4076",
+        "ECE4087", "ECE4094", "ECE4095", "ECE4122","MEC2407", "MEC3458", "MTH1030", "TRC3600"];
 
     let str = [];
+    let data = [];
+    var count = 0;
 
     for (i = 0; i < source.length; i++) {
         let read = "./csv/"+source[i]+"Semester2_2017.csv";
@@ -46,7 +48,7 @@
                 }
             }
         }
-
+        str+='"';
         for (i=capturestart; i<captureend; i++) {
             if (allTextLines[i].indexOf("1.1") != -1) {
                 if (allTextLines[i].indexOf("PE1.1") != -1) {str+="PE1.1,"}
@@ -439,13 +441,29 @@
                 }
             }
 
-
         }
-        console.log(unit);
-        console.log(str);
+        str+='"';
+        count = count+1;
+        data[count]=[unit,str];
+
         str = [];
-        // alert(lines);
+        if (count==source.length) {
+            console.log(data);
+            var csvContent = "data:text/csv;charset=utf-8,";
+            data.forEach(function(infoArray, index){
+                dataString = infoArray.join(",");
+                csvContent += dataString + "\n";
+            });
+
+            var encodedUri = encodeURI(csvContent);
+            var link = document.createElement("a");
+            link.setAttribute("href", encodedUri);
+            link.setAttribute("download", "competency.csv");
+            document.body.appendChild(link);
+            link.click();
+        }
     }
+
 </script>
 </body>
 </html>

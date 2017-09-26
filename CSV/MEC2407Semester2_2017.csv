@@ -1,0 +1,1150 @@
+1
+                                     
+  
+Unit Guide
+  
+MEC2407
+Electromechanics
+Semester 2, 2017
+Table of contents
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          4
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Demonstrator(s)                                                                                                                           5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Teaching and learning method                                                                                                        6
+Learning outcomes                                                                                                                          7
+Your feedback to us                                                                                                                         7
+Previous student evaluations of this unit                                                                                     7
+Unit schedule - Clayton campus                                                                                                         7
+Assessment requirements                                                                                                                   8
+Assessment summary                                                                                                                     8
+Assessment tasks                                                                                                                            9
+Examination(s)                                                                                                                               11
+Section B: For Malaysia students                                                                                                      12
+Academic Overview                                                                                                                          13
+Teaching and learning method                                                                                                      15
+Learning outcomes                                                                                                                    15
+OBE requirements to learning outcomes (LOs)                                                                     15
+Relationship between unit learning outcomes and program outcomes                                 16
+Your feedback to us                                                                                                                       17
+Previous student evaluations of this unit                                                                                   17
+Unit schedule - Malaysia campus                                                                                                     18
+Assessment Summary                                                                                                                   19
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Hurdle requirements                                                                                                                  19
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                20
+Relationship between Assessments and Complex Problems/Activities                                    21
+Assessment requirements                                                                                                                 22
+Assessment tasks                                                                                                                          22
+Examination(s)                                                                                                                               24
+Section C: All students                                                                                                                      26
+Extensions and penalties                                                                                                               26
+Resubmission of assignments                                                                                                       26
+Plagiarism and collusion                                                                                                                26
+Referencing requirements                                                                                                             26
+Assignment submission                                                                                                                 26
+Feedback to you                                                                                                                            27
+Learning resources                                                                                                                        27
+Required resources                                                                                                                       27
+Other information                                                                                                                              27
+Policies                                                                                                                                          27
+Graduate Attributes Policy                                                                                                             27
+Student Charter                                                                                                                             27
+Student Services                                                                                                                           28
+Monash University Library                                                                                                             28
+Disability Support Services                                                                                                            28
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+Introduction to the design, analysis, and practical manufacture of electromechanical systems, 
+incorporating DC and AC electrical circuit theory, simple semiconductor and amplifying 
+components, transformers, and sensors and actuators. Mathematics of electromechanical systems 
+is provided, including Laplace transforms and complex algebra. Computational and assignment 
+work (via practicals) to be integrated to give student complete understanding of specific examples 
+using modern microelectronic components, sensors, and actuators.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+3 hours lectures, 3 hours laboratory/problem solving classes and 6 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+None
+Prohibitions
+None
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Chris Davies
+Unit Coordinator(s)
+Name: Assoc Professor Tuck Ng
+Email: Tuck.Ng@monash.edu
+Clayton/Malaysia staff contact details
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus 
+Coordinator
+Name:  Dr Tuck Wah  Ng
+ Email: Tuck.Ng@monash.edu
+ 31133Building: , Room: 
+Consultation hours: Mondays 1600-1700; Tuesdays 1100-1200; Fridays 
+1200-1300;
+Lecturer(s) Dr Tuck Wah NgName: 
+ Email: Tuck.Ng@monash.edu
+ 31, Room: 133Building: 
+ 
+  
+Malaysia campus
+Campus Coordinator Dr Surya NurzamanName: 
+ Email: Surya.Nurzaman@monash.edu
+  Building: , Room: 
+Consultation hours: By appointment
+Lecturer(s)Name:  Dr Surya Nurzaman
+Email: Surya.Nurzaman@monash.edu
+Building: , Room: 
+Consultation hours: By appointment
+ 
+Demonstrator(s)
+Sewminda Samarasinghe, Dwayne Chung, Alifa Zahidi, Mayur Katariya, Ian Daryl (Malaysia)
+Consultation hours: During tutorials and laboratories
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Not meant to be filled in by staff.
+Teaching and learning method
+Lecture and tutorials or problem classes, computer laboratory-based classes, and case-based 
+teaching.
+Students are to gain the ability to model elementary electro-mechanical systems, incorporating 
+mechanical and electrical energy exchange and interaction, with additional instruction on common 
+applied mathematical methods used in electromechanical system analysis, including Laplace 
+transforms and complex algebra. This will be conveyed through lectures and learning materials 
+provided. Practice classes will provide the student reinforced understanding of the topics taught. 
+The computing laboratory is meant to facilitate flip-based learning in which students will have 
+freedom to explore on their own on how to best utilize computers (through Matlab programming) to 
+solve circuit problems, as well as to interface with sensors and actuators. Introductory Matlab 
+programming lessons will be given.
+Tutorial allocation
+There are 2-hours of practice classes scheduled each week, commencing in week 2. Students 
+must enroll in one practice class only using Allocate Plus. Students not allocated to a particular 
+practice class will not be accepted into that session without the written consent of the unit 
+coordinator. Once a particular session is full, no more students will be accepted, unless evidence 
+is shown that timetabling means that is the only session possible.
+Computing laboratory allocation
+There is no formal allocation for this component. Each week, commencing from week 2 and ending 
+in week 9, a computing venue is booked for 2 hours for students to consult designated tutors for 
+help. Beyond that, students are to make their own arrangements to use the computing facilities 
+available in the faculty.
+Communication, participation and feedback
+Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies. In this unit it will take the form of group feedback via practice 
+classes, individual feedback, peer feedback, self-comparison, verbal and written feedback, 
+discussions in class, as well as more formal feedback related to assignment marks and grades. 
+Students/You are encouraged to draw on a variety of feedback to enhance their/your learning.
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+Learning outcomes
+Students are to gain the ability to model elementary electro-mechanical systems, incorporating 
+mechanical and electrical energy exchange and interaction, with additional instruction on common 
+applied mathematical methods used in electromechanical system analysis, including Laplace 
+transforms and complex algebra. Tutorial work will provide the student a reinforced understanding 
+of electromechanics.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+Course has been amended to account for new changes to marking system.
+Student feedback has highlighted the following strength(s) in this unit:
+To be input
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+WeekActivitiesAssessment
+0No activities are undertaken in week 0No assessment is 
+undertaken in week 0
+1Lecture
+2Lecture, Tutorial, Computing LaboratoryPractice assignment
+3Lecture, Tutorial, Computing LaboratoryPractice assignment
+4Lecture, Tutorial, Computing LaboratoryPractice assignment
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+5Lecture, Tutorial, Computing Laboratory, Class TestPractice assignment, 
+Computing lab submission 
+I
+Class Test I
+6Lecture, Tutorial, Computing LaboratoryPractice assignment
+7Lecture, Tutorial, Computing LaboratoryPractice assignment, 
+Computing lab submission 
+2
+8Lecture, Tutorial, Computing LaboratoryPractice assignment
+9Lecture, Tutorial, Computing LaboratoryPractice assignment, 
+Computing lab submission 
+3
+10Lecture, TutorialPractice assignment
+11Lecture, Tutorial, Class TestClass test 2
+12Lecture, TutorialTutorial assignment
+SWOT VACNo formal assessment is 
+undertaken in SWOT VAC
+Examination periodLINK to Assessment 
+Policy:
+www.policy.monash.edu
+/policybank/academic
+/education/assessment
+/assessment-in-
+coursework-policy.html
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Final Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+Assessment 
+task
+ValueDue date
+Assignment 
+(tutorial 
+practice)
+Assignments will make up 10% of 
+final mark. Each of them are equally 
+weighted.
+Friday of each week
+Class test 110% of total marksSubmitted during session
+Assignment 
+(Electronic 
+Laboratories)
+The assignments will make up 10% of 
+final mark. Each of them are equally 
+weighted.
+Week 5 for Exercise 1. Two weeks 
+after completing the experiment for 
+Exercise 2.
+Class test 210% of the total markDuring the session.
+Final 
+Examination
+60%To be advised
+Assessment tasks
+Assessment title: Assignment (tutorial practice)
+ Face to face during tutorial sessions organized.Mode of delivery:
+Details of task: Students will be presented with a set of practice questions at each tutorial session. 
+These questions are to be completed with the help of tutors in the session and submitted before 
+the end of the session. These assessments will be graded and returned to the student at the next 
+tutorial session.
+Next tutorial classRelease dates (where applicable): 
+ No limitWord limit (where applicable):
+Friday of each weekDue date: 
+Assignments will make up 10% of final mark. Each of them are equally weighted.Value: 
+Presentation requirements: Grades will only be given to answers handed in during tutorials (which 
+is compulsory). Students who are unable to attend the tutorial for a valid reason must hand in the 
+answers before the end of the week (Friday) together with a letter explaining absence to the 
+mailbox of the lecturer in order to have them graded. 
+NoneHurdle requirements (where applicable): 
+Individual assessments.Individual assessment in group tasks (where applicable): 
+Criteria for marking: This practice questions evaluate the progress of students in keeping up with 
+lecture materials and will be graded according to correctness of the answers given.
+ NoneAdditional remarks:
+ 
+Assessment title: Class test 1
+ During lecture on week 5. No materials can be brought in.Mode of delivery:
+Details of task: This class test requires students to review the work on the chapters on 
+introduction, electric circuit and components, and Laplace transform. This will be a multiple-choice 
+plus short answer based test.
+Graded scripts will be returned the next weekRelease dates (where applicable): 
+ NoneWord limit (where applicable):
+Submitted during sessionDue date: 
+10% of total marksValue: 
+Presentation requirements: None
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+Presentation requirements: None
+NoneHurdle requirements (where applicable): 
+Individual assessmentIndividual assessment in group tasks (where applicable): 
+Criteria for marking:  Every question is based on concepts that are taught in class up until that 
+point. 
+ None.Additional remarks:
+ 
+Assessment title: Assignment (Electronic Laboratories)
+ Sessions in computer based classrooms have been organized for students to Mode of delivery:
+obtain help to solve the assignments given.
+Details of task: This is meant to be flip-based learning exercises in which students will have 
+freedom to explore on their own on how to best utilize computers to solve circuit problems, as well 
+as to use controllers to drive actuators. Students are expected to do their own research in order 
+deepen their understanding of the exercises. The tasks are to be done in groups of sizes no 
+greater than 2 persons. The instructions on how to complete the 2 exercises included, inclusive of 
+their respective deadlines, will be elaborated on during week 1 of lecture. 
+For the first exercise, students can use their own computing resources to complete the exercises. 
+For those who do not have these resources, they can do so in classrooms with computers that 
+have been organized. A group based report (not exceeding 4 pages including the cover sheet) is 
+to be submitted for grading. The prescribed cover sheet must be included with the report.
+For the second exercise, students will be required to attend a session in which they will complete a 
+short exercise on the use of controllers. A group based report (not exceeding 4 pages including the 
+cover sheet) is to be submitted for grading. The prescribed cover sheet must be included with the 
+report.
+Information of the exercises will be given in week 1. Release dates (where applicable): 
+Consolidated grades will be notified by week 12.
+ NoneWord limit (where applicable):
+Week 5 for Exercise 1. Two weeks after completing the experiment for Exercise 2.Due date: 
+The assignments will make up 10% of final mark. Each of them are equally weighted.Value: 
+Presentation requirements: None
+NoneHurdle requirements (where applicable): 
+Individual assessment in group tasks (where applicable): A group report is to be submitted on 
+week 5 for exercise 1.
+A group report is to be submitted two weeks after completing the experiment for exercise 2. 
+It is expected that each member of the group is to contribute to the assignment. Students are 
+allowed to submit separate reports if they wish to do so even if the exercise is done collectively . 
+Criteria for marking: This is detailed in the instructions to be provided in week 1. 
+ NoneAdditional remarks:
+ 
+Assessment title: Class test 2
+ During lecture in week 11. Mode of delivery:No materials can be brought in.
+Details of task: Class test requires students to review the work on all chapters except actuators. 
+This will be a multiple-choice plus short response based test. 
+Results will be released the next week.Release dates (where applicable): 
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Results will be released the next week.Release dates (where applicable): 
+ NoneWord limit (where applicable):
+During the session.Due date: 
+10% of the total markValue: 
+NonePresentation requirements: 
+NoneHurdle requirements (where applicable): 
+Individual assessment.Individual assessment in group tasks (where applicable): 
+Criteria for marking: Every question is based on concepts that are taught in class. 
+ None.Additional remarks:
+ 
+Examination(s)
+Final ExaminationExam title: 
+60%Weighting: 
+3 hoursLength: 
+ Closed bookType (Open/closed book):
+ NoneHurdle requirements (where applicable):
+No other electronic device except for faculty approved scientific Electronic devices allowed: 
+calculator.
+All questions in the examination are to be answered.Remarks (where applicable): 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+A faculty approved calculator is permitted (meaning only scientific calculators that are not 
+programmable and detailed in the list will be permitted in the examination. These calculators must 
+be checked by the faculty and have either a Faculty of Engineering or a Faculty of Science 
+approved sticker).
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Section B: For Malaysia students
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who are: Mechanical Engineering 
+1. competent in engineering Mechanical Engineering 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program Outcomes  Mechanical Engineering 
+(POs) for all of its graduates based on the competencies required by the Malaysian Engineering 
+Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and complex 
+problem solving
+PO1Engineering  Mechanical Engineering 
+ Apply knowledge of Knowledge:
+mathematics, natural science, engineering 
+fundamentals and specialisation in  
+engineering to the Mechanical Engineering 
+solution of complex engineering problems
+Cognitive:  The technical content of this unit is 
+germane to Mechanical Engineering. 
+Technical content of unit which includes 
+design, analysis, and practical manufacture of 
+electromechanical systems, incorporating DC 
+and AC electrical circuit theory, simple 
+semiconductor and amplifying components, 
+transformers, and sensors and actuators. The 
+relevant theories are presented in lectures and 
+are more extensively available in the lecture 
+notes and prescribed text. These theories are 
+applied through the timetabled problem solving 
+sessions, which will include demonstration of 
+problem solving approaches and discussions 
+with individual students.
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complexengineering  Mechanical Engineering 
+problems reaching substantiated conclusions 
+using first principles of mathematics, natural 
+sciences and engineering sciences
+Cognitive: In order to be able to identify, 
+formulate, analyse and solve relevant complex 
+engineering problems, in problem solving 
+classes, questions are framed in an 
+engineering context, rather than a 
+mathematical one. Thus, the first step is to 
+determine which techniques are required to 
+solve the problems. Initially, this can be 
+challenging for students and so considerable 
+support is provided during problem solving 
+classes. On the basis of past experience this 
+is usually the most difficult aspect of the unit 
+for students. At the problem solving classes 
+the academics will illustrate the approach to 
+framing a problem and how the theory taught 
+is incorporated into it.
+PO3  Design/Development of Solutions:
+Design solutions for complex Mechanical 
+engineering problems and Engineering 
+design systems, components or processes 
+that meet specified needs.
+Cognitive: 
+Psychomotor: 
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and complex 
+problem solving
+PO4 Conduct Research-based Investigation: 
+investigations of complex Mechanical 
+engineering problems using Engineering 
+research-based knowledge and research 
+methods including design of experiments, 
+(analysis and interpretation of data, and 
+synthesis of information to provide valid 
+conclusions.
+Cognitive: 
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex 
+engineering Mechanical Engineering 
+problems, with an understanding of the 
+limitations
+Cognitive: 
+Psychomotor: 
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Mechanical 
+engineering problemsEngineering 
+Affective: 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work 
+in the solution of complex Mechanical 
+engineering problems in Engineering 
+environmental contexts.
+Cognitive: 
+Affective: 
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate Communication:
+effectively on complex Mechanical 
+engineering activities with the Engineering 
+engineering community and with society at 
+large, such as being able to comprehend and 
+write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective:  The focus in this unit is to develop 
+the capacity to write a concise technical report 
+on a pneumatic system that represents the 
+whole "sense-think-act" processes in 
+electromechanical systems.
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective:  In conducting the experiment and 
+writing the technical report, students are 
+required to work in groups and are 
+encouraged to take different roles.
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological 
+change
+Affective: 
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and complex 
+problem solving
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding 
+of engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: 
+Teaching and learning method
+Students are to gain the ability to model elementary electro-mechanical systems, incorporating 
+mechanical and electrical energy exchange and interaction, with additional instruction on common 
+applied mathematical methods used in electromechanical system analysis, including Laplace 
+transforms and complex algebra. This will be conveyed through lectures and learning materials 
+provided. Practice classes will provide the student reinforced understanding of the topics taught.   
+Tutorial allocation
+There are 3-hours of practice classes scheduled each week, commencing in week 2. Students 
+must enroll in one practice class only using Allocate Plus. Students not allocated to a particular 
+practice class will not be accepted into that session without the written consent of the unit 
+coordinator. Once a particular session is full, no more students will be accepted, unless evidence 
+is shown that timetabling means that is the only session possible.
+Pneumatic system laboratory exercise
+This exercise will commence in Week 9 and end in Week 10. Due to limited pneumatic system 
+trainers, groups of students have to take turn to complete this practical exercise. Laboratory 
+manual will be available at Moodle in Week 8.   
+Communication, participation and feedback
+Monash aims to provide a learning environment in which students receive a range of ongoing 
+feedback throughout their studies. In this unit it will take the form of group feedback via practice 
+classes, individual feedback, verbal and written feedback, discussions in class, as well as more 
+formal feedback related to assignment marks and grades. 
+Learning outcomes
+Students are to gain the ability to model elementary electro-mechanical systems, incorporating 
+mechanical and electrical energy exchange and interaction, with additional instruction on common 
+applied mathematical methods used in electromechanical system analysis, including Laplace 
+transforms and complex algebra. Tutorial work will provide the student a reinforced understanding 
+of electromechanics.
+OBE requirements to learning outcomes (LOs)
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Learning Outcomes (LOs) for Outcome Based 
+Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO1) 
+Students are expected to be able to recognise 
+the role of electro-mechanical system
+LO1)
+Students are to gain the ability to model 
+elementary electro-mechanical systems
+LO2)
+Students are expected to be able to analyse 
+elementary electro-mechanical systems with 
+additional instruction on common applied 
+mathematical methods used in 
+electromechanical system analysis, including 
+Laplace transforms and complex algebra.
+LO3) 
+Students are to gain the ability to model 
+elementary electro-mechanical systems, with 
+additional instruction on common applied 
+mathematical methods used in 
+electromechanical system analysis, including 
+Laplace transforms and complex algebra.
+LO3) 
+Students are expected to be able to analyse 
+the applications of AC & DC electrical circuit 
+theory, simple semiconductor devices, 
+amplifiers, transformers, sensors and actuators
+LO3) 
+Students are to gain the ability to model 
+elementary electro-mechanical systems, with 
+additional instruction on common applied 
+mathematical methods used in 
+electromechanical system analysis, including 
+Laplace transforms and complex algebra. 
+LO4) 
+Students are expected to be able to analyse 
+mechanical and electrical energy exchange 
+and interaction
+LO2) 
+Students are to gain the ability to incorporate 
+mechanical and electrical energy exchange 
+and interaction in the model of electro-
+mechanical systems
+LO5)
+Students are expected to be able to report the 
+findings of lab exercises in a professionally 
+written report
+LO4) Students are expected to have r
+einforced understanding of electromechanics 
+through tutorial works
+LO6)
+Students are expected to be able to work 
+effectively in teams to conduct laboratory 
+exercises
+LO4) 
+Students are expected to have reinforced 
+understanding of electromechanics through 
+tutorial works
+Relationship between unit learning outcomes and program outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√
+LO2√
+LO3√
+LO4√
+LO5√
+LO6√
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Key  
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+There was no major issue in the previous offer, so the learning activities will essentially be 
+maintained including the availability of pre-recorded lectures. It is also important to maintain high 
+quality tutorials and laboratory activities, as they received very positive feedback.
+Student feedback has highlighted the following strength(s) in this unit:
+Due to positive feedback, the learning activities will essentially be maintained including the 
+availability of pre-recorded lectures. It is also important to maintain high quality tutorials and 
+laboratory activities, as they received very positive feedback.
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Unit schedule - Malaysia campus
+WeekActivitiesAssessment
+0No activities are undertaken in week 0No assessment is 
+undertaken in week 0
+1Lecture (Introduction, Electric Circuits and 
+Components)
+-
+2Lecture (Electric Circuits and Components); TutorialTutorial 1
+3Lecture (Electric Circuits and Components); TutorialTutorial 2
+4Lecture (Laplace Transforms); TutorialTutorial 3
+5Lecture (Laplace Transforms, Operational 
+Amplifiers); Tutorial
+Tutorial 4 and Class Test I
+6Lecture (Operational Amplifiers, System Modelling); 
+Tutorial
+Tutorial 5 
+7Lecture (System Modelling); TutorialTutorial 6
+8Lecture (System Response); Tutorial Tutorial 7
+9Lecture (Sensors); Tutorial, Practical class Tutorial 8
+Semester Break
+10Lecture (Sensors); Tutorial, Practical class Tutorial 9
+11Lecture (Actuators); TutorialTutorial 10 and Class Test 
+II
+12Lecture (Actuators); TutorialTutorial 11
+SWOT VACNo formal assessment is 
+undertaken in SWOT VAC
+Examination period
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+LINK to Assessment 
+Policy:
+www.policy.monash.edu
+/policybank/academic
+/education/assessment
+/assessment-in-
+coursework-policy.html
+Assessment Summary
+Continuous assessment: 40%
+Final Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taskValueDue date
+Final examination60%Week 14
+Practice problems (Tutorial assignments)10%Every week
+Class Tests (I and II, the values are equally distributed)20%Week 5 & week 11
+Laboratory exercise / demonstration10%Week 10 and 11
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+grade in the unit. 
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+No.Learning OutcomesAssessment
+TestsTutorial 
+exercises
+Laboratory 
+activities
+Final 
+exam
+1C2C2C2
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Students are expected to be able to 
+recognise the role of electro-
+mechanical system.
+2Students are expected to be able to 
+analyse elementary electro-
+mechanical systems with additional 
+instruction on common applied 
+mathematical methods used in 
+electromechanical system analysis, 
+including Laplace transforms and 
+complex algebra.
+C4C4C4
+3Students are expected to be able to 
+analyze the applications of AC & DC 
+electrical circuit theory, simple 
+semiconductor devices, amplifiers, 
+transformers, sensors and actuators.
+C4C4C4
+4Students are expected to be able to 
+analyze mechanical and electrical 
+energy exchange and interaction.
+C4C4C4
+5Students are expected to be able to 
+report the findings of lab exercises in 
+a professionally written report.
+A2
+6Students are expected to be able to 
+work effectively in teams to conduct 
+laboratory exercises.
+A2
+Relationship between Assessments and Complex Problems
+/Activities
+Complex Problems (CP) and Complex Activities (CA)
+No.Attribute DescriptionAssessment
+TestsTutorial 
+exercises
+Laboratory 
+activities
+Final 
+exam
+CP1Depth of knowledge requiredXXX
+CP2Range of conflicting requirements
+CP3Depth of analysis required
+CP4Familiarity of issuesXXX
+CP5Extent of applicable codes
+CP6Extent of stakeholder involvement 
+and conflicting requirements
+CP7InterdependenceXXX
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+CA1Range of resourcesX
+CA2Level of interactionsX
+CA3Innovation
+CA4Consequences to society and the 
+environment
+CA5FamiliarityX
+Assessment requirements
+Assessment tasks
+Assessment title:  Tutorial (Problem solving classes)
+ On CampusMode of delivery:
+ Details of task:Students will be presented with a set of practice questions at each tutorial session. 
+These questions are to be completed with the help of tutors in the session and submitted before 
+the end of the session. The assessment will be marked and returned to the student at the next 
+tutorial session.
+ Week 2Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  At the end of each tutorial sessionDue date: 
+  10%Value: 
+  Grades will only be given to answers handed in during tutorials Presentation requirements: 
+(which is compulsory). Students who are unable to attend the tutorial for a valid reason must hand 
+in the answers before the end of the week (Friday) together with a valid evidence based on 
+Monash's policy explaining absence to the mailbox of the lecturer along with notification email in 
+order to have them graded
+Students are required to achieve at least 45% in the total Hurdle requirements (where applicable):  
+continuous assessment component and at least 45% in the final examination component and an 
+overall mark of 50% to achieve a pass grade in the unit. Students failing to achieve this 
+requirement will be given a maximum of 45% in the unit.
+  N/AIndividual assessment in group tasks (where applicable): 
+This practice questions evaluate the progress of students in keeping up with Criteria for marking:  
+lecture materials and will be graded according to correctness of the answers given. Students who 
+are unable to attend the tutorial for a valid reason must hand in the answers before the end of the 
+week (Friday) together with a valid evidence based on Monash's policy explaining absence to the 
+mailbox of the lecturer along with notification email in order to have them graded.
+ NoneAdditional remarks: 
+Assessment title: Practical assignment (laboratory experiment) on pneumatic system that 
+represents the whole "sense-think-act" cycle in eletromechanical systems
+ Mode of delivery:On Campus
+ Details of task:This is a practical task that will help students understand the workings of a circuit 
+by using modular pneumatic system. Students will also be given an instruction manual detailing 
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+by using modular pneumatic system. Students will also be given an instruction manual detailing 
+the steps to perform the task. 
+ Week 8Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  One week after the experimentDue date: 
+  10%Value: 
+  NonePresentation requirements: 
+Students are required to achieve at least 45% in the total Hurdle requirements (where applicable):  
+continuous assessment component and at least 45% in the final examination component and an 
+overall mark of 50% to achieve a pass grade in the unit. Students failing to achieve this 
+requirement will be given a maximum of 45% in the unit.
+  NoneIndividual assessment in group tasks (where applicable): 
+The laboratory report will be evaluated based on presentation of results and Criteria for marking:  
+discussion. 
+ NoneAdditional remarks: 
+Assessment title:  Class test I
+ On campusMode of delivery:
+ This class test requires students to review the work on the chapters on Details of task:
+introduction, electric circuit and components, and Laplace transform or as announced. The test will 
+include multiple choice questions and short responses.
+ Week 4Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Week 5Due date: 
+  10%Value: 
+  NonePresentation requirements: 
+Students are required to achieve at least 45% in the total Hurdle requirements (where applicable):  
+continuous assessment component and at least 45% in the final examination component and an 
+overall mark of 50% to achieve a pass grade in the unit. Students failing to achieve this 
+requirement will be given a maximum of 45% in the unit.
+  N/AIndividual assessment in group tasks (where applicable): 
+Every question is based on concepts that are taught in class. It will be graded Criteria for marking:  
+according to correctness of the answers given.
+ Estimated return date: Two weeks after the test.Additional remarks: 
+Assessment title:  Class test II
+ Mode of delivery:On campus
+ Class test requires students to review the work on all chapters except actuators, or Details of task:
+as announced. The test will include multiple choice questions and short responses.
+ Week 10Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Week 11Due date: 
+  10%Value: 
+  Presentation requirements: None
+Students are required to achieve at least 45% in the total Hurdle requirements (where applicable):  
+continuous assessment component and at least 45% in the final examination component and an 
+overall mark of 50% to achieve a pass grade in the unit. Students failing to achieve this 
+requirement will be given a maximum of 45% in the unit.
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+requirement will be given a maximum of 45% in the unit.
+  N/AIndividual assessment in group tasks (where applicable): 
+Every question is based on concepts that are taught in class. It will be graded Criteria for marking:  
+according to correctness of the answers given.
+ Additional remarks: Estimated return date: Two weeks after the test.
+Examination(s)
+ Final ExamExam title: 
+ 60%Weighting: 
+120 minutesLength: 
+ Closed bookType (Open/closed book): 
+  Hurdle requirements (where applicable): Students are required to achieve at least 45% in the 
+total continuous assessment component and at least 45% in the final examination component and 
+an overall mark of 50% to achieve a pass grade in the unit. Students failing to achieve this 
+requirement will be given a maximum of 45% in the unit.
+ The following scientific calculators that are not programmable nor Electronic devices allowed: 
+graphical are allowed to be used in this unit examination: 
+Caieion: FM-83 
+Canon: F720, F720i 
+Casio: fx-82, fx-83, fx-85, fx-100, fx-115, fx-350, fx-570, fx-911, fx-991 and fx-992 series 
+Citizen: SR-135, SR-260, SR-270, SR-275 
+Hewlett Packard: HP-6s, HP-8s, HP-9s, HP-10s, HP-30s 
+Texas instruments: TI-30 and TI-34 series 
+Texet: Albert 2, Albert 3, Albert 5 
+Sharp: EL-506, EL-509, EL-520 and EL-531WH series 
+The list of the Faculty of Engineering approved calculators and the process for obtaining a sticker 
+is available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+IMPORTANT: Only these listed calculators with the authorised “Monash University-Science” or 
+“Monash University-Engineering” STICKER will be allowed into the examination by the invigilators. 
+The sticker will be available from the School of Engineering course management office fourth floor 
+building 5. You must bring your calculator with you to the Faculty office at any time during the 
+semester to receive a sticker. We recommend you do this well in advance of the exam.
+ None.Remarks (where applicable): 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+A faculty approved calculator is permitted (meaning only scientific calculators that are not 
+programmable and detailed in the list will be permitted in the examination. These calculators must 
+be checked by the faculty and have either a Faculty of Engineering or a Faculty of Science 
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+be checked by the faculty and have either a Faculty of Engineering or a Faculty of Science 
+approved sticker).
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+Section C: All students 
+Extensions and penalties
+Once the solution of each tutorial released, no submission can be accepted from students. 
+Students who missed the submission will lose the mark allocated to that specific tutorial exercise. 
+However, students with acceptable excuse and solid evidence based on Monash's policy will be 
+granted a chance to solve a new set of problems and submit their solutions before a new assigned 
+dead line. 
+Resubmission of assignments
+Students are required to discuss with the coordinator before resubmitting any assignment.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+N/A
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at http://my.monash.edu.au under the heading 'Learning and teaching tools'. Please keep 
+a copy of tasks completed for your records.
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Feedback will give be given to students in this unit mainly through electronic mails. One some 
+occasions, face-to-face meetings will be provided.
+Learning resources
+Prescribed textbooks
+Introduction to Mechatronics & Measurement Systems 4ed Author: Alciatore D & Histand M
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
+29
+MEC2407 Electromechanics - Semester 2 (S2-01) - 2017
+----------------Page (28) Break----------------

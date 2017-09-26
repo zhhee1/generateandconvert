@@ -1,0 +1,1266 @@
+1
+                                     
+  
+Unit Guide
+  
+TRC3600
+Modelling and control
+Semester 2, 2017
+Table of contents
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          5
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Element of competency                                                                                                               6
+Indicators of attainment                                                                                                                6
+Learning outcomes                                                                                                                      6
+Teaching and learning method                                                                                                        9
+Learning outcomes                                                                                                                          9
+Your feedback to us                                                                                                                         9
+Previous student evaluations of this unit                                                                                     9
+Unit schedule - Clayton campus                                                                                                       10
+Unit schedule                                                                                                                                    11
+Assessment requirements                                                                                                                 11
+Assessment summary                                                                                                                   11
+Hurdle requirements                                                                                                                      12
+Assessment tasks                                                                                                                          12
+Examination(s)                                                                                                                               15
+Section B: For Malaysia students                                                                                                      16
+Academic Overview                                                                                                                          17
+Teaching and learning method                                                                                                      18
+Learning outcomes                                                                                                                    18
+OBE requirements to learning outcomes (LOs)                                                                     19
+Relationship between unit learning outcomes and program outcomes                                 19
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Your feedback to us                                                                                                                       20
+Previous student evaluations of this unit                                                                                   20
+Unit schedule - Malaysia campus                                                                                                     21
+Assessment Summary                                                                                                                   21
+Hurdle requirements                                                                                                                  22
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                23
+Relationship between Assessments and Complex Problems/Activities                                    24
+Assessment requirements                                                                                                                 24
+Assessment tasks                                                                                                                          24
+Examination(s)                                                                                                                               26
+Section C: All students                                                                                                                      27
+Extensions and penalties                                                                                                               27
+Returning assignments                                                                                                                  27
+Plagiarism and collusion                                                                                                                27
+Referencing requirements                                                                                                             27
+Assignment submission                                                                                                                 27
+Feedback to you                                                                                                                            28
+Learning resources                                                                                                                        28
+Required resources                                                                                                                       28
+Other information                                                                                                                              29
+Policies                                                                                                                                          29
+Graduate Attributes Policy                                                                                                             29
+Student Charter                                                                                                                             29
+Student Services                                                                                                                           29
+Monash University Library                                                                                                             29
+Disability Support Services                                                                                                            29
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+This unit commences with the modeling of various dynamic engineering systems, followed by the 
+analysis of their transient and steady-state responses. More sophisticated analytical methods such 
+as root locus and frequency response will be explored and will build the foundation for controller 
+design in the future. Modeling via state-space methods will also be briefly covered.
+Mode of delivery
+Malaysia (Day)
+Clayton (Day)
+Workload requirements
+3 hours of lectures, 2 hours of tutorials and 6 hours of private study per week plus two 3-hour 
+laboratories during semester.
+Unit relationships
+ 
+Prerequisites
+None
+Prohibitions
+MAE3408, MEC3457
+Co-requisites
+TRC3200
+Chief Examiner(s) 
+Professor Chris Davies
+Unit Coordinator(s)
+Name: Professor Bijan Shirinzadeh
+Email: bijan.shirinzadeh@monash.edu
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Name: Dr. Md Abdus Samad Kamal
+Email: md.abdus.samad@monash.edu
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Professor Bijan Shirinzadeh
+ Email: bijan.shirinzadeh@monash.edu
+ 31G27Building: , Room: 
+Consultation hours: TBA
+Lecturer(s) Professor Bijan ShirinzadehName: 
+ Email: bijan.shirinzadeh@monash.edu
+ 31, Room: G27Building: 
+ 
+  
+Malaysia campus
+Campus Coordinator Dr. Md Abdus Samad KamalName: 
+ Email: md.abdus.samad@monash.edu
+ 5 5-34Building: , Room: 
+Consultation hours: TBA
+Lecturer(s)Name:  Dr Md Abdus Samad Kamal
+Email: md.abdus.samad@monash.edu
+Building: 5, Room: 5-34
+Consultation hours: Wednesday 11:00-13:00 and Friday 9:00-11:00.
+ 
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of competencyIndicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the engineering 
+discipline at a phenomenological 
+level, applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological level, 
+applying sciences and engineering 
+fundamentals to systematic 
+investigation, interpretation, analysis 
+and innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+1,2,3,4,5,6
+1.2 Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering 
+discipline.
+a) Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, 
+evaluation, modelling, decision 
+making, measurement, evaluation, 
+knowledge management and 
+communication tools and techniques 
+pertinent to the engineering discipline.
+1,2,3,4,5,6
+1.3 In-depth understanding of 
+specialist bodies of knowledge 
+within the engineering discipline.
+a) Proficiently applies advanced 
+technical knowledge and skills in at 
+least one specialist practice domain of 
+the engineering discipline.
+1,2,3,4,5,6
+1.4 Discernment of knowledge 
+development and research 
+directions within the engineering 
+discipline.
+a) Identifies and critically appraises 
+current developments, advanced 
+technologies,emerging issues and 
+interdisciplinary linkages in at least 
+one specialist practice domain of the 
+engineering discipline.
+1,2,3,4,5,6
+1,2,3,4,5,6
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+1.5 Identifies and applies systematic 
+principles of engineering design 
+relevant to the engineering 
+discipline.
+a) Identifies and applies systematic 
+principles of engineering design 
+relevant to the engineering discipline.
+1.6 Understanding of the scope, 
+principles, norms, accountabilities 
+and bounds of sustainable 
+engineering practice in the specific 
+discipline.
+e) Appreciates the formal structures 
+and methodologies of systems 
+engineering as a holistic basis for 
+managing complexity and 
+sustainability in engineering practice.
+1,2,3,4,5,6
+2. Engineering application ability
+2.1 Application of established 
+engineering methods to complex 
+engineering problem solving.
+a) Identifies, discerns and 
+characterises salient issues, 
+determines and analyses causes and 
+effects, justifies and applies 
+appropriate simplifying assumptions, 
+predicts performance and behaviour, 
+synthesises solution strategies and 
+develops substantiated conclusions.
+1,2,3,4,5,6
+b) Ensures that all aspects of an 
+engineering activity are soundly based 
+on fundamental principles - by 
+diagnosing, and taking appropriate 
+action with data, calculations, results, 
+proposals, processes, practices, and 
+documented information that may be 
+ill-founded, illogical, erroneous, 
+unreliable or unrealistic.
+1,2,3,4,5,6
+c) Competently addresses engineering 
+problems involving uncertainty, 
+ambiguity, imprecise information and 
+wide-ranging and sometimes 
+conflicting technical and non-technical 
+factors.
+1,2,3,4,5,6
+e) Partitions problems, processes or 
+systems into manageable elements for 
+the purposes of analysis,modelling or 
+design and then re-combines to form a 
+whole, with the integrity and 
+performance of the overall system as 
+the paramount consideration.
+2,3,4,5,6
+2.2 Fluent application of engineering 
+techniques, tools and resources.
+b) Constructs or selects and applies 
+from a qualitative description of a 
+phenomenon, process, system, 
+component or device a mathematical, 
+physical or computational model 
+based on fundamental scientific 
+principles and justifiable simplifying 
+assumptions.
+1,2,3,4,5,6
+c) Determines properties, 
+performance, safe working limits, 
+failure modes, and other inherent 
+1,2,3,3,4,5,6
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+parameters of materials, components 
+and systems relevant to the 
+engineering discipline.
+d) Applies a wide range of engineering 
+tools for analysis, simulation, 
+visualisation, synthesis and design, 
+including assessing the accuracy and 
+limitations of such tools, and validation 
+of their results.
+1,2,4,5,6
+e) Applies formal systems engineering 
+methods to address the planning and 
+execution of complex, problem solving 
+and engineering projects.
+1,2,3,4,5,6
+2.3 Application of systematic 
+engineering synthesis and design 
+processes.
+a) Proficiently applies technical 
+knowledge and open ended problem 
+solving skills as well as appropriate 
+tools and resources to design 
+components, elements, systems, 
+plant, facilities and/or processes to 
+satisfy user requirements.
+1,2,3,4,5,6
+2.4 Application of systematic 
+approaches to the conduct and 
+management of engineering 
+projects.
+a) Contributes to and/or manages 
+complex engineering project activity, 
+as a member and/or as the leader of 
+an engineering team.
+1,2,3,4,5,6
+3. Professional and personal attributes
+3.1 Ethical conduct and professional 
+accountability.
+c) Understands the accountabilities of 
+the professional engineer and the 
+broader engineering team for the 
+safety of other people and for 
+protection of the environment.
+1
+3.2 Effective oral and written 
+communication in professional and 
+lay domains.
+b) Prepares high quality engineering 
+documents such as progress and 
+project reports, reports of 
+investigations and feasibility studies, 
+proposals, specifications, design 
+records, drawings, technical 
+descriptions and presentations 
+pertinent to the engineering discipline.
+2,4
+3.3 Creative, innovative and pro-
+active demeanour.
+a) Applies creative approaches to 
+identify and develop alternative 
+concepts, solutions and procedures, 
+appropriately challenges engineering 
+practices from technical and non-
+technical viewpoints; identifies new 
+technological opportunities.
+1,2,4
+3.4 Professional use and 
+management of information.
+b) Critically assesses the accuracy, 
+reliability and authenticity of 
+information.
+2,3,4
+3.5 Orderly management of self, 
+and professional conduct.
+a) Demonstrates commitment to 
+critical self-review and performance 
+1,2,3,4,5,6
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+evaluation against appropriatecriteria 
+as a primary means of tracking 
+personal development needs and 
+achievements.
+3.6 Effective team membership and 
+team leadership.
+c) Earns the trust and confidence of 
+colleagues through competent and 
+timely completion of tasks.
+6
+Teaching and learning method
+Lecture and tutorials or problem classes; problem-based learning.
+Learning outcomes
+At the end of this unit, students are expected to:
+●value the significance and relevance of systems and associated control in engineering
+●formulate linear dynamic mathematical models of various systems (mechanical, electrical, 
+fluid, hydraulic and pneumatic) as well as graphical models (such as block diagrams and 
+signal flow graphs) using time-domain, frequency-domain and state-space techniques 
+together with the unified concept of resistance, capacitance and inertia/inductance
+●calculate the response of systems as a function of time using classical differential equation 
+solution, Laplace transforms and state-space method
+●analyse the stability and dynamic performance of a system using root locus and Bode plot 
+methods, and calculate system parameters to achieve the desired dynamic response
+●recognise the effects of non-linearity in systems and accept the limitations of the use of linear 
+models as approximations
+●formulate solutions using computer-based techniques (such as Matlab).
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●Improve slides
+Student feedback has highlighted the following strength(s) in this unit:
+Feedback provided with assignments
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Unit schedule
+WeekActivitiesAssessment
+0No formal assessment is 
+undertaken in week 0
+1Introduction. Modelling of dynamic systems
+2Systems (physical) modelling. Transfer 
+function. Block diagrams.
+3Predicting system response
+4System response
+5Routh   Hurwitzstabilitycriterion, dynamic
+performance
+Assignment  (TBC)
+6Polar plot, frequency response
+7Frequency responseAssignment  (TBC)
+8Frequency response. State variable models
+9State-space model –physical modellingAssignment  (TBC)
+10Solution   tostate-space. Signalflow graph
+11Root locusAssignment  (TBC)
+12Introduction to controller design: P, PI, PD, 
+PID. Review
+SWOT
+Examination periodLINK to Assessment Policy:
+www.policy.monash.edu
+/policybank/acad emic/education
+ /assessment/assessment-in-
+coursework-policy.html
+The assignments are expected to be issued/uploaded onto the moodle site one week before the 
+due date.  Late assignments will not be accepted.
+Assessment requirements
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Assessment summary
+Continuous assessment: 40%
+Final Examination (3 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taskValueDue date
+Assignment 115 (`9%)Week 5
+Assignment 215 (~9%)Week 7
+Assignment 315 (~9%)Week
+Assignment 415 (~9%)Week 11
+Laboratory Experiment4 (~4%)Week 6-9
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment tasks
+Assessment title: Assignment 1
+ MoodleMode of delivery:
+Details of task: Assignment on systems modeling and analysis
+Week 3Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Week 5Due date: 
+15 (`9%)Value: 
+WrittenPresentation requirements: 
+N/AHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Problem solving related to systems modelling, system response, stability 
+analysis, state space, etc.
+These will be provided at the time of assignment is provided.
+ 
+Please note that indicative grades/marks only will be used for the marking of assignments, where 
+appropriate.
+High Distinction
+All problems solved correctly
+Distinction
+Almost all problems solved correctly
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Distinction
+Almost all problems solved correctly
+Credit
+More than half of the problems solved correctly
+Pass
+At least half of the problems done correctly
+ N/AAdditional remarks:
+ 
+Assessment title: Assignment 2
+ MoodleMode of delivery:
+System modeling, response prediction and analytical solutionDetails of task: 
+ 
+Week 5Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Week 7Due date: 
+15 (~9%)Value: 
+WrittenPresentation requirements: 
+N/AHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Problem solving related to systems modelling, system response, stability 
+analysis, state space, etc.
+These will be provided at the time of assignment is provided.
+ 
+Please note that indicative grades/marks only will be used for the marking of assignments, where 
+appropriate.
+High Distinction
+All problems solved correctly
+Distinction
+Almost all problems solved correctly
+Credit
+More than half of the problems solved correctly
+Pass
+At least half of the problems done correctly
+ N/AAdditional remarks:
+ 
+Assessment title: Assignment 3
+ MoodleMode of delivery:
+System response prediction, characteristics, and stability analysisDetails of task: 
+ 
+Week 7Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Week Due date: 
+15 (~9%)Value: 
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+15 (~9%)Value: 
+WrittenPresentation requirements: 
+N/AHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Problem solving related to systems modelling, system response, stability 
+analysis, state space, etc.
+These will be provided at the time of assignment is provided.
+ 
+Please note that indicative grades/marks only will be used for the marking of assignments, where 
+appropriate.
+ 
+ N/AAdditional remarks:
+ 
+Assessment title: Assignment 4
+ MoodleMode of delivery:
+State variable modelling and Bode plot developmentDetails of task:  
+Week 9Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Week 11Due date: 
+15 (~9%)Value: 
+WrittenPresentation requirements: 
+N/AHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Problem solving related to systems modelling, system response, stability 
+analysis, state space, etc.
+These will be provided at the time of assignment is provided.
+ 
+Please note that indicative grades/marks only will be used for the marking of assignments, where 
+appropriate.
+ N/AAdditional remarks:
+ 
+Assessment title: Laboratory Experiment
+ LaboratoryMode of delivery:
+Digital simulation laboratoryDetails of task: 
+Week 6-9Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Week 6-9Due date: 
+4 (~4%)Value: 
+Computer basedPresentation requirements: 
+YesHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking: problem solving related to systems modelling, system response, stability 
+analysis, state space, etc.
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+These will be provided at the time of assignment is provided.
+ 
+Please note that indicative grades/marks only will be used for the marking of assignments, where 
+appropriate.
+ N/AAdditional remarks:
+ 
+Examination(s)
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+Approved faculty calculators permitted
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Section B: For Malaysia students
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who are: Mechatronics 
+1. competent in engineering Mechatronics 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program Outcomes (POs) for all  Mechatronics 
+of its graduates based on the competencies required by the Malaysian Engineering Accreditation 
+Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Engineering Knowledge: Mechatronics 
+Apply knowledge of mathematics, natural 
+science, engineering fundamentals and 
+specialisation in engineering to  Mechatronics 
+the solution of complex engineering problems
+Cognitive: 
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse complex
+engineering problems reaching Mechatronics 
+substantiated conclusions using first principles 
+of mathematics, natural sciences and 
+engineering sciences
+Cognitive: 
+PO3  Design/Development of Solutions:
+Design solutions for complex Mechatronics 
+engineering problems and design systems, 
+components or processes that meet specified 
+needs.
+Cognitive: 
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex Mechatronics 
+engineering problems using research-based 
+knowledge and research methods including 
+design of experiments, (analysis and 
+interpretation of data, and synthesis of 
+information to provide valid conclusions.
+Cognitive: 
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex 
+engineering problems, with an Mechatronics 
+understanding of the limitations
+Cognitive: 
+Psychomotor: 
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+Affective: 
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+and solutions to complex Mechatronics 
+engineering problems
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complex Mechatronics 
+engineering problems in environmental 
+contexts.
+Cognitive: 
+Affective: 
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate effectively Communication:
+on complexengineering  Mechatronics 
+activities with the engineering community and 
+with society at large, such as being able to 
+comprehend and write effective reports and 
+design documentation, make effective 
+presentations, and give and receive clear 
+instructions
+Affective: 
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective: 
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective: 
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: 
+Teaching and learning method
+Lecture and tutorials or problem classes; problem-based learning.
+Learning outcomes
+At the end of this unit, students are expected to:
+●value the significance and relevance of systems and associated control in engineering
+●formulate linear dynamic mathematical models of various systems (mechanical, electrical, 
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+●formulate linear dynamic mathematical models of various systems (mechanical, electrical, 
+fluid, hydraulic and pneumatic) as well as graphical models (such as block diagrams and 
+signal flow graphs) using time-domain, frequency-domain and state-space techniques 
+together with the unified concept of resistance, capacitance and inertia/inductance
+●calculate the response of systems as a function of time using classical differential equation 
+solution, Laplace transforms and state-space method
+●analyse the stability and dynamic performance of a system using root locus and Bode plot 
+methods, and calculate system parameters to achieve the desired dynamic response
+●recognise the effects of non-linearity in systems and accept the limitations of the use of linear 
+models as approximations
+●formulate solutions using computer-based techniques (such as Matlab).
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome Based 
+Education (OBE) requirements
+Handbook Learning Outcomes (LOs)
+LO1 Relate the fundamental principles of the 
+control systems to real life engineering 
+applications.
+LO1 Value the significance and relevance of 
+systems and associated control in engineering.
+LO2 Study physical systems (linear or 
+nonlinear), formulate their linear mathematical 
+models (in time-domain, frequency domain 
+and using state-space technique) and obtain 
+graphical representations of the models.
+LO2 Formulate linear dynamic mathematical 
+models of various systems (mechanical, 
+electrical, fluid, hydraulic and pneumatic) as 
+well as graphical models (such as block 
+diagrams and signal flow graphs) using time-
+domain, frequency-domain and state-space 
+techniques together with the unified concept 
+of resistance, capacitance and inertia
+/inductance.
+LO3 Calculate the response of dynamical 
+systems as a function of time for various 
+inputs, and interpret the meaning of the 
+solutions.
+LO3 Calculate the response of systems as a 
+function of time using classical differential 
+equation solution, Laplace transforms and 
+state-space method.
+LO4 Analyze the stability and performance of 
+a system using different methods (root locus 
+and Bode plot methods), design controller to 
+achieve the desired dynamic performance, 
+evaluate controller considering effect of model 
+linearization.
+LO4 Analyze the stability and dynamic 
+performance of a system using root locus and 
+Bode plot methods, and calculate system 
+parameters to achieve the desired dynamic 
+response.
+LO5 Recognize the effects of non-linearity in 
+systems and accept the limitations of the user 
+of linear models as approximations.
+LO5 Formulate, evaluate and compare the 
+performance of the systems and controller 
+using MATLAB.
+LO6 Formulate solutions using computer-
+based techniques (such as Matlab).
+ 
+Relationship between unit learning outcomes and program outcomes
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√-----------
+LO2√-----------
+LO3-√----------
+LO4--√---------
+LO5----√-------
+Key  
+    No emphasis
+√ Emphasised and assessed in the unit
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+As encouraged by the students, practice quizzes will be offered every week. 
+Student feedback has highlighted the following strength(s) in this unit:
+Feedback provided with assignments
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Unit schedule - Malaysia campus
+WeekLectureTutorialLabAssignment
+1Introduction. 
+Modelling of 
+dynamic systems
+Modelling (2 hrs)--
+2Systems (physical) 
+modelling. 
+Transfer function 
+Modelling (2 hrs)--
+3Block diagrams, 
+Signal flow graphs.
+Calculate 
+response, 
+Calculate output 
+(2 hrs)
+Assignment 1 
+issued
+4Transient responseTransient 
+response (2 hrs)
+Assignment 1 due
+5Steady state 
+response, Routh 
+Hurwitz
+Steady-state 
+response,
+Routh Hurwitz,
+ (2 hrs)
+Assignment 2 
+issued
+6Root locusRoot locus (2 hrs)Lab 1: QET
+(3 hrs)
+7Root locusRoot locus (2 hrs)Lab 1 report 
+due
+Assignment 2 due
+8Polar plot, 
+Frequency 
+response
+Frequency 
+response (2 hrs)
+Assignment 3 
+issued
+9Frequency 
+response
+Frequency 
+response (2 hrs)
+Lab 2: QET
+ (3 hrs)
+Assignment 3 due
+10Frequency 
+response
+Frequency 
+response (2 hrs)
+Lab 2 report 
+due
+Assignment 4 
+issued
+11State spaceState space
+(2 hrs)
+Assignment 4 
+due
+12Introductionto  
+controller design: 
+P, PI, PD, PID
+PID Controller 
+(2 hrs)
+The assignments are expected to be issued/uploaded onto the moodle site.  Late submission of 
+assignments will not be accepted.
+Assessment Summary
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+Continuous assessment: 40%
+Final Examination (3 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Assessment taskValueDue date
+Assignment 18%Week 4
+Assignment 28%Week 7
+Assignment 38%Week 9
+Assignment 48%Week 11
+Laboratory experiments8%Week 6-9
+Total continuous assessment40%Week 4-12
+Examination (3 hours)60%Date will be provided later.
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component and 
+at least 45% in the final examination component and an overall mark of 50% to achieve a pass 
+grade in the unit. Students failing to achieve this requirement will be given a maximum of 45% in 
+the unit.
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+No.Learning OutcomesAssignmentLaboratoryFinal 
+Exam
+1Relate the fundamental principles of the control 
+systems to real life engineering applications.
+C5
+2Study physical systems (linear or nonlinear), 
+formulate their linear mathematical models (in time 
+domain, frequency domain and using state-space 
+technique) and obtain graphical representations of the 
+models.
+C6C6
+3C6C6
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+Calculate the response of dynamical systems as a 
+function of time for various inputs, and interpret the 
+meaning of the solutions.
+4Analyze the stability and performance of a system 
+using root locus and Bode plot methods, design 
+controller to achieve the desired dynamic 
+performance, evaluate controller considering model 
+linearization.
+C6C6
+5Formulate, evaluate and compare the performance of 
+the systems and controller using MATLAB.
+C6
+Relationship between Assessments and Complex Problems
+/Activities
+AssessmentComplex ProblemsComplex Activities
+1AssignmentsWP1
+2LaboratoryWP1
+3ExamWP1
+Assessment requirements
+Assessment tasks
+Assessment title: Assignment 1
+ MoodleMode of delivery:
+ Details of task:You will be given a problem to solve, which will require all the skills that you have 
+learnt before the release of the assignment. 
+ Tutorial session of week 3Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Tutorial session of week 4Due date: 
+  8% of entire unitValue: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  Individual assessment in group tasks (where applicable): A mark will be given to the entire group
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+  Individual assessment in group tasks (where applicable): A mark will be given to the entire group
+Marking scheme will be provided along assignment questions.Criteria for marking:  
+ N/AAdditional remarks: 
+Assessment title: Assignment 2
+ MoodleMode of delivery:
+ Details of task:You will be given a problem to solve, which will require all the skills that you have 
+learnt before the release of the assignment
+ Tutorial session of week 6Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Tutorial session of week 7Due date: 
+  8% of entire unitValue: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  Individual assessment in group tasks (where applicable): A mark will be given to the entire group
+Marking scheme will be provided along assignment questions.Criteria for marking:  
+ 
+ N/AAdditional remarks: 
+Assessment title: Assignment 3
+ MoodleMode of delivery:
+ Details of task:You will be given a problem to solve, which will require all the skills that you have 
+learnt before the release of the assignment.
+ Tutorial session of week 8Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Tutorial session of week 11Due date: 
+  8% of entire unitValue: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  Individual assessment in group tasks (where applicable): A mark will be given to the entire group
+Marking scheme will be provided along assignment questions.Criteria for marking:  
+ N/AAdditional remarks: 
+Assessment title:  Assignment 4
+ MoodleMode of delivery:
+ Details of task:You will be given a problem to solve, which will require all the skills that you have 
+learnt before the release of the assignment. 
+ 
+ Week 10 Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Week 11 Tutorial ClassDue date: 
+  8%Value: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  Mark will be given to the entire groupIndividual assessment in group tasks (where applicable): 
+Marking scheme will be provided along assignment questions.Criteria for marking:  
+ N/AAdditional remarks: 
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+Assessment title: Laboratory 
+ Laboratory ExperimentMode of delivery:
+ Details of task:You will be given an experiment to conduct, and will be required to submit a report 
+based on your findings
+ Week 6,9Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+  Tutorial session of week 7Due date: 
+  8% of entire unitValue: 
+  N/APresentation requirements: 
+N/AHurdle requirements (where applicable):  
+  Individual assessment in group tasks (where applicable): A mark will be given to the entire group
+Marking scheme will be provided along assignment questions.Criteria for marking:  
+ N/AAdditional remarks: 
+Examination(s)
+ ExaminationExam title: 
+ 60%Weighting: 
+3 hoursLength: 
+ closed bookType (Open/closed book): 
+  Student must have 45% from the final exam to pass the Hurdle requirements (where applicable): 
+unit.
+ N/AElectronic devices allowed: 
+ N/ARemarks (where applicable): 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+Approved faculty calculators permitted
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+Section C: All students 
+Extensions and penalties
+All assignments are to be submitted via the MAE3408/TRC3600 assignment box located in the 
+foyer Ground Level of Building 31, next to Mechanical Engineering Office. The assignments must 
+be submitted in hardcopy (paper-based).  
+Returning assignments
+Assignments will be returned during Tutorial/practical classes.
+ 
+Students can expect assignments to be returned no more than four weeks from the submission 
+date or after receipt, whichever is later.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+Referencing may be required in some circumstances – students should utilise any acceptable 
+referencing styles such as Oxford. 
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at  under the heading 'Learning and teaching tools'. Please keep http://my.monash.edu.au
+a copy of tasks completed for your records.
+All assignments are to be submitted via the TRC3600/MAE3408 assignment box located in the 
+foyer Ground Level of Building 31, next to Mechanical Engineering Office. The assignments must 
+be submitted in hardcopy (paper-based).
+Students: You must keep a copy of your assignment in electronic format. We suggest you keep a 
+print out also.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Feedback given to students in this unit include written comments on assignments graded, verbal 
+comments, feedback to the whole class, to groups, and to individuals during lectures and practice 
+classes.
+Learning resources
+Prescribed textbooks
+Course Notes – will be available on Moodle
+Recommended textbooks
+Lecture notes provided by academic. Links on the web page.
+Nise, N. S., Control Systems Engineering, 5, Wiley, 2000th
+Kuo, B. C.,  Seventh Edition, Prentice HallAutomatic Control Systems,
+K. Dutton, et. al., , 1997The Art of Control Engineering
+Philips, C. L. and Harbor, R. D.,  1988Feedback Control Systems,
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
+29
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (28) Break----------------
+30
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+TRC3600 Modelling and control - Semester 2 (S2-01) - 2017
+----------------Page (29) Break----------------

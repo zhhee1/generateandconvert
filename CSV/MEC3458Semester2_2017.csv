@@ -1,0 +1,1817 @@
+1
+                                     
+  
+Unit Guide
+  
+MEC3458
+Experimental project
+Semester 2, 2017
+Table of contents
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          5
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Section A: For Clayton students                                                                                                          7
+Engineers Australia Stage 1 competencies                                                                                     7
+Element of competency                                                                                                               7
+Indicators of attainment                                                                                                                7
+Learning outcomes                                                                                                                      7
+Teaching and learning method                                                                                                      11
+Learning outcomes                                                                                                                        13
+Your feedback to us                                                                                                                       14
+Previous student evaluations of this unit                                                                                   14
+Unit schedule - Clayton campus                                                                                                       14
+Assessment requirements                                                                                                                 17
+Assessment summary                                                                                                                   17
+Assessment tasks                                                                                                                          17
+Section B: For Malaysia students                                                                                                      18
+Academic Overview                                                                                                                          19
+Teaching and learning method                                                                                                      20
+Learning outcomes                                                                                                                    22
+OBE requirements to learning outcomes (LOs)                                                                     22
+Relationship between unit learning outcomes and program outcomes                                 23
+Relationship between unit learning outcomes and program outcomes                                 23
+Your feedback to us                                                                                                                       27
+Previous student evaluations of this unit                                                                                   27
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Unit schedule - Malaysia campus                                                                                                     28
+Assessment Summary                                                                                                                   29
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                30
+Relationship between Assessments and Complex Problems/Activities                                    32
+Assessment requirements                                                                                                                 33
+Assessment tasks                                                                                                                          33
+Section C: All students                                                                                                                      35
+Extensions and penalties                                                                                                               35
+Return dates                                                                                                                                  35
+Resubmission of assignments                                                                                                       36
+Plagiarism and collusion                                                                                                                36
+Referencing requirements                                                                                                             36
+Assignment submission                                                                                                                 38
+Feedback to you                                                                                                                            38
+Learning resources                                                                                                                        39
+Required resources                                                                                                                       39
+Other information                                                                                                                              39
+Policies                                                                                                                                          39
+Graduate Attributes Policy                                                                                                             39
+Student Charter                                                                                                                             40
+Student Services                                                                                                                           40
+Monash University Library                                                                                                             40
+Disability Support Services                                                                                                            40
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+Introduction to data acquisition across a range of data types, analogue-digital sampling and signal 
+conditioning. Data acquisition and processing functions using LabView. Current data measurement 
+technologies and equipment, acquisition methodologies used in fluid dynamics, material 
+properties, thermodynamics, control and dynamics. Data analysis methods including error 
+analysis, validation, spectral analysis identification and interpretation of trends. Introduction to 
+research practices, formation and testing of hypotheses as well as experiment design and project 
+management. Communication skills and techniques, preparation of reports and oral presentations. 
+Occupational health and safety.
+Mode of delivery
+Clayton (Day)
+Malaysia (Day)
+Workload requirements
+3 hour lectures, 3 hours practice sessions/laboratories (this may alternate with 2 hours lectures 
+and 4 hours practice sessions) and 6 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+Must have passed 96 credit points from engineering or science
+Prohibitions
+None
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Chris Davies
+Unit Coordinator(s)
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Name: Dr Tuncay Alan
+Email: tuncay.alan@monash.edu
+Name: Dr Victor Cadarso Busto
+Email: Victor.Cadarso@monash.edu
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Dr Tuncay Alan
+ Email: Tuncay.alan@monash.edu
+ 82210Building: , Room: 
+Consultation hours: Thursday 11am-1pm
+Lecturer(s) Dr Tuncay AlanName: 
+ Email: Tuncay.Alan@monash.edu
+ 82, Room: 210Building: 
+ 
+ Dr Victor Cadarso BustoName: 
+ Email: Victor.Cadarso@monash.edu
+ 82, Room: 227Building: 
+ 
+  
+Malaysia campus
+Campus 
+Coordinator
+ Dr Foo Ji JinnName: 
+ Email: Foo.Ji.Jinn@monash.edu
+ 5 5-5-29Building: , Room: 
+Consultation hours: Tutorials, Consultation outside specified times by 
+appointment
+Lecturer(s)Name:  Dr Foo Ji Jinn
+Email: Foo.Ji.Jinn@monash.edu
+Building: 5, Room: 5-5-29
+Consultation hours: Tutorials, Consultation outside specified times by 
+appointment
+ 
+Introduction to data acquisition across a range data types, analogue-digital sampling and signal 
+conditioning. Data acquisition and processing functions using LabView. Current data measurement 
+technologies and equipment, acquisition methodologies used in fluid dynamics, material 
+properties, thermodynamics, control and dynamics. Data analysis methods including error 
+analysis, validation, spectral analysis identification and interpretation of trends. Introduction to 
+research practices, formation and testing of hypotheses as well as experiment design and project 
+management. Communication skills and techniques, preparation of reports and oral presentations. 
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+management. Communication skills and techniques, preparation of reports and oral presentations. 
+Occupational health and safety.
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Element of 
+competency
+Indicators of attainmentLearning 
+outcomes
+1 Knowledge and skill base
+1.1 Engages with the 
+engineering discipline at a 
+phenomenological level, 
+applying sciences and 
+engineering fundamentals to 
+systematic investigation, 
+interpretation, analysis and 
+innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+a) Engages with the engineering 
+discipline at a phenomenological level, 
+applying sciences and engineering 
+fundamentals to systematic 
+investigation, interpretation, analysis 
+and innovative solution of complex 
+problems and broader aspects of 
+engineering practice.
+1,2,3,4,5,10,11,12
+1.2 Develops and fluently 
+applies relevant investigation 
+analysis, interpretation, 
+assessment, characterisation, 
+prediction, evaluation, modelling, 
+decision making, measurement, 
+evaluation, knowledge 
+management and 
+communication tools and 
+techniques pertinent to the 
+engineering discipline.
+a) Develops and fluently applies 
+relevant investigation analysis, 
+interpretation, assessment, 
+characterisation, prediction, evaluation, 
+modelling, decision making, 
+measurement, evaluation, knowledge 
+management and communication tools 
+and techniques pertinent to the 
+engineering discipline.
+1,2,3,4,5,10,11,12
+1.3 In-depth understanding of 
+specialist bodies of knowledge 
+within the engineering discipline.
+a) Proficiently applies advanced 
+technical knowledge and skills in at 
+least one specialist practice domain of 
+the engineering discipline.
+3,10,11,12
+1.4 Discernment of knowledge 
+development and research 
+directions within the engineering 
+discipline.
+a) Identifies and critically appraises 
+current developments, advanced 
+technologies,emerging issues and 
+interdisciplinary linkages in at least one 
+specialist practice domain of the 
+engineering discipline.
+2,3
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+1.5 Identifies and applies 
+systematic principles of 
+engineering design relevant to 
+the engineering discipline.
+b) Identifies and understands the 
+interactions between engineering 
+systems and people in the social, 
+cultural, environmental, commercial, 
+legal and political contexts in which 
+they operate, including both the 
+positive role of engineering in 
+sustainable development and the 
+potentially adverse impacts of 
+engineering activity in the engineering 
+discipline.
+6,12
+1.6 Understanding of the scope, 
+principles, norms, 
+accountabilities and bounds of 
+sustainable engineering practice 
+in the specific discipline.
+a) Appreciates the basis and relevance 
+of standards and codes of practice, as 
+well as legislative and statutory 
+requirements applicable to the 
+engineering discipline.
+6,12
+b) Appreciates the principles of safety 
+engineering, risk management and the 
+health and safety responsibilities of the 
+professional engineer, including 
+legislative requirements applicable to 
+the engineering discipline.
+6,12
+d) Understands the fundamental 
+principles of engineering project 
+management as a basis for planning, 
+organising and managing resources.
+7
+2. Engineering application ability
+2.1 Application of established 
+engineering methods to complex 
+engineering problem solving.
+a) Identifies, discerns and 
+characterises salient issues, 
+determines and analyses causes and 
+effects, justifies and applies 
+appropriate simplifying assumptions, 
+predicts performance and behaviour, 
+synthesises solution strategies and 
+develops substantiated conclusions.
+7
+b) Ensures that all aspects of an 
+engineering activity are soundly based 
+on fundamental principles - by 
+diagnosing, and taking appropriate 
+action with data, calculations, results, 
+proposals, processes, practices, and 
+documented information that may be ill-
+founded, illogical, erroneous, 
+unreliable or unrealistic.
+7
+c) Competently addresses engineering 
+problems involving uncertainty, 
+ambiguity, imprecise information and 
+wide-ranging and sometimes 
+conflicting technical and non-technical 
+factors.
+7,10
+d) Investigates complex problems 
+using research-based knowledge and 
+research methods.
+7,8,10
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+e) Partitions problems, processes or 
+systems into manageable elements for 
+the purposes of analysis,modelling or 
+design and then re-combines to form a 
+whole, with the integrity and 
+performance of the overall system as 
+the paramount consideration.
+7,11
+h) Identifies, quantifies, mitigates and 
+manages technical, health, 
+environmental, safety and other 
+contextual risks associated with 
+engineering application in the 
+designated engineering discipline.
+7,9,12
+2.2 Fluent application of 
+engineering techniques, tools 
+and resources.
+a) Proficiently identifies, selects and 
+applies the materials, components, 
+devices, systems, processes, 
+resources, plant and equipment 
+relevant to the engineering discipline.
+7
+b) Constructs or selects and applies 
+from a qualitative description of a 
+phenomenon, process, system, 
+component or device a mathematical, 
+physical or computational model based 
+on fundamental scientific principles 
+and justifiable simplifying assumptions.
+7
+d) Applies a wide range of engineering 
+tools for analysis, simulation, 
+visualisation, synthesis and design, 
+including assessing the accuracy and 
+limitations of such tools, and validation 
+of their results.
+7,10,11
+f) Designs and conducts experiments, 
+analyses and interprets result data and 
+formulates reliable conclusions.
+7,10,11
+g) Analyses sources of error in applied 
+models and experiments; eliminates, 
+minimises or compensates for such 
+errors; quantifies significance of errors 
+to any conclusions drawn.
+7,10,11
+h) Safely applies laboratory, test and 
+experimental procedures appropriate 
+to the engineering discipline.
+7,12
+2.3 Application of systematic 
+engineering synthesis and 
+design processes.
+a) Proficiently applies technical 
+knowledge and open ended problem 
+solving skills as well as appropriate 
+tools and resources to design 
+components, elements, systems, plant, 
+facilities and/or processes to satisfy 
+user requirements.
+7,9,10,11,12
+2.4 Application of systematic 
+approaches to the conduct and 
+a) Contributes to and/or manages 
+complex engineering project activity, 
+7
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+management of engineering 
+projects.
+as a member and/or as the leader of 
+an engineering team.
+b) Seeks out the requirements and 
+associated resources and realistically 
+assesses the scope, dimensions, scale 
+of effort and indicative costs of a 
+complex engineering project.
+7
+e) Is aware of the need to plan and 
+quantify performance over the full life-
+cycle of a project, managing 
+engineering performance within the 
+overall implementation context.
+7
+3. Professional and personal attributes
+3.1 Ethical conduct and 
+professional accountability.
+a) Demonstrates commitment to 
+uphold the Engineers Australia - Code 
+of Ethics, and established norms of 
+professional conduct pertinent to the 
+engineering discipline
+7
+c) Understands the accountabilities of 
+the professional engineer and the 
+broader engineering team for the 
+safety of other people and for 
+protection of the environment.
+7
+3.2 Effective oral and written 
+communication in professional 
+and lay domains.
+a) Is proficient in listening, speaking, 
+reading and writing English
+9
+b) Prepares high quality engineering 
+documents such as progress and 
+project reports, reports of 
+investigations and feasibility studies, 
+proposals, specifications, design 
+records, drawings, technical 
+descriptions and presentations 
+pertinent to the engineering discipline.
+9
+3.3 Creative, innovative and pro-
+active demeanour.
+a) Applies creative approaches to 
+identify and develop alternative 
+concepts, solutions and procedures, 
+appropriately challenges engineering 
+practices from technical and non-
+technical viewpoints; identifies new 
+technological opportunities.
+7,8,9
+b) Seeks out new developments in the 
+engineering discipline and 
+specialisations and applies 
+fundamental knowledge and 
+systematic processes to evaluate and 
+report potential.
+9
+3.4 Professional use and 
+management of information.
+a) Is proficient in locating and utilising 
+information - including accessing, 
+systematically searching,analysing, 
+9
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+evaluating and referencing relevant 
+published works and data; is proficient 
+in the use of indexes, bibliographic 
+databases and other search facilities.
+b) Critically assesses the accuracy, 
+reliability and authenticity of 
+information.
+9
+3.5 Orderly management of self, 
+and professional conduct.
+a) Demonstrates commitment to critical 
+self-review and performance 
+evaluation against appropriatecriteria 
+as a primary means of tracking 
+personal development needs and 
+achievements.
+7,9
+d) Manages time and processes 
+effectively, prioritises competing 
+demands to achieve personal,career 
+and organisational goals and 
+objectives.
+7,9
+e) Thinks critically and applies an 
+appropriate balance of logic and 
+intellectual criteria to analysis,
+judgement and decision making.
+7,9
+3.6 Effective team membership 
+and team leadership.
+a) Understands the fundamentals of 
+team dynamics and leadership.
+7,9
+b) Functions as an effective member or 
+leader of diverse engineering teams, 
+including those with multi-level, multi-
+disciplinary and multi-cultural 
+dimensions.
+7,9
+c) Earns the trust and confidence of 
+colleagues through competent and 
+timely completion of tasks.
+7,9
+d) Recognises the value of alternative 
+and diverse viewpoints, scholarly 
+advice and the importance of 
+professional networking.
+7
+f) Takes initiative and fulfils the 
+leadership role whilst respecting the 
+agreed roles of others.
+7
+Teaching and learning method
+Teaching and Learning Method
+The unit takes a blended learning approach, using online lectures and activities which are explored 
+in-depth during class time. Learning in the unit is mainly through the initial labs and group project 
+which extends for the second half of semester and has a number of  components which build to 
+form the final project. The main learning approach is “Problem- based learning” which requires 
+students to be involved with the project and proactive learners. There are no right or wrong 
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+students to be involved with the project and proactive learners. There are no right or wrong 
+answers to many of the project questions. This does not imply  that any answer is adequate. Some 
+answers will be better than others as they achieve the criteria in a better way.
+Lab class allocation
+There are 2-hours of laboratory classes scheduled each week, commencing in week 2. Students 
+must enrol in one lab class only using Allocate Plus. Students not allocated to a particular lab class 
+will not be accepted into that session without the written consent of the unit coordinator. Once a 
+particular session is full, no more students will be accepted, unless evidence is shown that 
+timetabling means that is the only session possible. In this case, a swap will be arranged.
+Equipment availability means that the number of students in each session must be limited. 
+Communication, participation and feedback
+We aim to provide a learning environment in which students receive a range of ongoing feedback 
+throughout their studies. In this unit it will take the form of group feedback via practice classes, 
+individual feedback, peer feedback, self-comparison, verbal and written feedback, discussions in 
+class, as well as more formal feedback related to assignment marks and grades. You are 
+encouraged to draw on a variety of feedback to enhance their/your
+Learning.
+There is a significant amount of group work involved in this unit. Students will be
+assigned to groups using the CATME online tool.
+*CATME Online Peer Assessment:
+Group projects will use the CATME online peer assessment tool. This tool will be used to
+allow team members to anonymously rate the contributions made to each team project by
+both themselves and their team mates. Students will be required to complete a calibration
+process which demonstrates how the system should be used. At the conclusion of each major
+project they will then rate themselves and their teammates on the basis of five key criteria,
+and using a behaviourally anchored scale. The individual ratings you give each person are not
+viewable or shared with other team members, but will be reviewed by the teaching staff.
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+1.  
+2.  
+3.  
+viewable or shared with other team members, but will be reviewed by the teaching staff.
+You will be asked to justify (via comments) why you rated particular people high or low. You
+are NOT allowed to simply rate everyone the same, or have your team all give each member the 
+same ratings. This will incur an automatic -10% penalty if you do so.
+Based on these ratings a will be calculated by the system for each Peer Assessment Factor (PAF) 
+team member, and then reviewed and potentially moderated by the teaching staff in light of the 
+written comments. This factor is a number potentially between 0 and 1.1, but for the vast majority 
+of students in well-functioning teams, it is usually between 0.9 and 1.05. This factor will be 
+returned confidentially to students via Moodle Gradebook, and will be used to generate an 
+individual mark for each student’s project work, based on their team’s mark for each of the major 
+team projects.
+Upon release of the results, CATME will send each student a link which will allow them to see, for 
+each of the five questions an arrow indicating:
+How they scored themselves;
+The AVERAGE of what the team scored them personally;
+The AVERAGE of what the team scored all team members.
+CATME will also provide detailed suggestions for improvement based on where your results fall 
+relative to the rest of the team.
+For more information please visit this link: http://info.catme.org/
+Learning outcomes
+1. Understanding of skills and techniques required for the acquisition of optimised 
+meaningful experimental data
+2. Knowledge of the important components of experimental design
+3. Overview of current technologies available for experimentation
+4. Knowledge of data acquisition methods
+5. Knowledge of data analysis methods
+6. Appreciation for the importance and application of occupational health and safety 
+procedures
+7. Manage and execute short and medium term projects
+8. Form and evaluate hypotheses
+9. Communicate results using written and oral formats
+10. Acquire and optimise experimental data
+11. Use data analysis techniques to explore and evaluate experimental data, including error 
+analysis
+12. Use LabView to acquire and analyse experimental data Apply occupational health and 
+safety procedures.
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+In response to the last SETU of this unit, the following changes have been made:
+• More individual assessment tasks have been added.
+• Students will experience activities in greater depth on both sets of lab equipment
+Student feedback has highlighted the following strength(s) in this unit:
+Student feedback has highlighted the following strength(s) in this unit:
+• The focus on experiment and self-teaching 
+If you wish to view how previous students rated this unit, please go to
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+Unit schedule - Clayton campus
+WeekDateDayTimeLecture 
+sessions
+Tuesday 9-­‐11 or 11-­‐1
+1Monday0800Lecture: 
+Introduction to 
+the unit
+Wednesday1400Lecture: OHS: 
+mandatory
+No lab class
+Thursday1000Class OHS
+2Monday0800Class: Spectral 
+Analysis
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Wednesday1400Class: Spectral 
+Analysis
+Lab class
+Thursday1000Class: Spectral 
+Analysis
+3Monday0800Class The 
+scientific 
+method
+Wednesday1400Class 
+Experimental 
+design
+Lab class
+Thursday1000Class 
+Experimental 
+Analysis
+4Monday0800Lecture: Data 
+Analysis
+Wednesday1400Class Data 
+Analysis
+Lab class
+Thursday1000Class Data 
+Analysis
+5Monday0800
+Wednesday1400Lab class
+Thursday1000
+6Monday0800
+Wednesday1400Lab class
+Thursday1000
+7Monday0800
+Wednesday1400Lab class
+Thursday1000
+8Monday0800
+Wednesday1400Lab class
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Thursday1000
+9Monday0800
+Wednesday1400Lab class
+Thursday1000
+Semester break
+Semester break
+Semester break
+10Monday0800
+Wednesday1400Lab class
+Thursday1000
+11Monday0800
+Wednesday1400Lab class
+Thursday1000
+12Monday0800
+Wednesday1400Lab class
+Thursday1000
+Assessment Summary
+Assessment TaskValueDue Date
+Assignment: EO Online (individual)3%Midday Wednesday Week 2
+Assignment: Experimental design 
+and analysis (individual)
+3%Midday Friday Week 3
+Project proposal: first lab (group 
+report)
+10%Prior to your lab session Week 4
+Assignment: Error bars (individual)3%Midday Friday Week 5
+Project report: first lab (group report)25%Prior to your lab Week 7
+10%
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Project proposal: second lab (group 
+report)
+Prior to your lab 
+session                               Week 
+9
+Assignment: OHS (individual)6%Midday Friday Week 11
+Project Final presentation (group 
+activity)
+15%Lab session week 12
+Project final report (group report)25%Report midday Friday Week 12
+Assessment requirements
+Assessment summary
+Continuous assessment: 100%
+Assessment taskValueDue date
+see assessment summary 
+table above
+see assessment summary 
+table above
+see assessment summary 
+table above
+Assessment tasks
+Assessment title: see assessment summary table above
+ see assessment summary table aboveMode of delivery:
+see assessment summary table aboveDetails of task: 
+n/aRelease dates (where applicable): 
+ n/aWord limit (where applicable):
+see assessment summary table aboveDue date: 
+see assessment summary table aboveValue: 
+see assessment summary table abovePresentation requirements: 
+see assessment summary table aboveHurdle requirements (where applicable): 
+see assessment summary table aboveIndividual assessment in group tasks (where applicable): 
+see assessment summary table aboveCriteria for marking: 
+ see assessment summary table aboveAdditional remarks:
+ 
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Section B: For Malaysia students
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who are: Mechanical Engineering 
+1. competent in engineering Mechanical Engineering 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program Outcomes  Mechanical Engineering 
+(POs) for all of its graduates based on the competencies required by the Malaysian Engineering 
+Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and complex 
+problem solving
+PO1Engineering  Mechanical Engineering 
+ Apply knowledge of mathematics, Knowledge:
+natural science, engineering fundamentals 
+and specialisation in  Mechanical Engineering 
+engineering to the solution of complex 
+engineering problems
+Cognitive:  N/A
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complexengineering  Mechanical Engineering 
+problems reaching substantiated conclusions 
+using first principles of mathematics, natural 
+sciences and engineering sciences
+Cognitive: Theoretical lecture material and 
+laboratory exercises. Technical content of unit 
+includes a range of important engineering 
+experiments, the use of a variety of sensors 
+and recording equipment and the study of 
+experimental procedures.
+PO3  Design/Development of Solutions:
+Design solutions for complex Mechanical 
+engineering problems and design Engineering 
+systems, components or processes that meet 
+specified needs.
+Cognitive: The Final Project is most relevant In 
+groups of about 3 students will generate an 
+idea for a project, devise a hypothesis to be 
+tested, devise experimental plan, write it up 
+and orally present it. Once the project is 
+approved students will conduct the experiment 
+and give presentation of results before peers 
+and academics, and provide formal report.
+Psychomotor: N/A
+PO4 Conduct Research-based Investigation: 
+investigations of complex Mechanical 
+engineering problems using Engineering 
+research-based knowledge and research 
+methods including design of experiments, 
+(analysis and interpretation of data, and 
+synthesis of information to provide valid 
+conclusions.
+Cognitive: The final project (described above) 
+satisfies this objective.
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex 
+Cognitive: N/A
+Psychomotor: N/A
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and complex 
+problem solving
+engineering Mechanical Engineering 
+problems, with an understanding of the 
+limitations
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Mechanical 
+engineering problemsEngineering 
+Affective:  Discussion of future trend in 
+experimental issues. Discussion of future 
+trend in experimental issues and group work 
+involved.
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work 
+in the solution of complex Mechanical 
+engineering problems in Engineering 
+environmental contexts.
+Cognitive: N/A
+Affective: N/A
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective:  N/A
+PO9  Communicate Communication:
+effectively on complex Mechanical 
+engineering activities with the Engineering 
+engineering community and with society at 
+large, such as being able to comprehend and 
+write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective:  Oral presentation, written reports 
+and team work.
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective:  N/A
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological 
+change
+Affective:  N/A
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: N/A
+Affective: All work in this unit is done in groups 
+and the final project will particularly satisfy this 
+requirement. The tools learnt in this Unit will 
+lead to lifelong abilities to carry out 
+experimentation. Major project in which the 
+task is managed on a limited budget.
+Teaching and learning method
+Teaching and Learning Method
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Teaching and Learning Method
+The unit takes a blended learning approach, using online lectures and activities which are explored 
+in-depth during class time. Learning in the unit is mainly through the initial labs and group project 
+which extends for the second half of semester and has a number of  components which build to 
+form the final project. The main learning approach is “Problem- based learning” which requires 
+students to be involved with the project and proactive learners. There are no right or wrong 
+answers to many of the project questions. This does not imply  that any answer is adequate. Some 
+answers will be better than others as they achieve the criteria in a better way.
+Lab class allocation
+There are 3-hours of laboratory classes scheduled each week, commencing in week 2. Students 
+must enrol in one lab class only using Allocate Plus. Students not allocated to a particular lab class 
+will not be accepted into that session without the written consent of the unit coordinator. Once a 
+particular session is full, no more students will be accepted, unless evidence is shown that 
+timetabling means that is the only session possible. In this case, a swap will be arranged.
+Equipment availability means that the number of students in each session must be limited. 
+Communication, participation and feedback
+We aim to provide a learning environment in which students receive a range of ongoing feedback 
+throughout their studies. In this unit it will take the form of group feedback via practice classes, 
+individual feedback, peer feedback, self-comparison, verbal and written feedback, discussions in 
+class, as well as more formal feedback related to assignment marks and grades. You are 
+encouraged to draw on a variety of feedback to enhance their/your
+Learning.
+There is a significant amount of group work involved in this unit. Students will be assigned to 
+groups using the CATME online tool.
+*CATME Online Peer Assessment (Optional):
+Group projects will use the CATME online peer assessment tool. This tool will be used to allow 
+team members to anonymously rate the contributions made to each team project by both 
+themselves and their team mates. Students will be required to complete a calibration process 
+which demonstrates how the system should be used. At the conclusion of each major project they 
+will then rate themselves and their teammates on the basis of five key criteria, and using a 
+behaviourally anchored scale. The individual ratings you give each person are not viewable or 
+shared with other team members, but will be reviewed by the teaching staff. You will be asked to 
+justify (via comments) why you rated particular people high or low. You are NOT allowed to simply 
+rate everyone the same, or have your team all give each member the same ratings. This will incur 
+an automatic -10% penalty if you do so.
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+1.  
+2.  
+3.  
+Based on these ratings a will be calculated by the system for each Peer Assessment Factor (PAF) 
+team member, and then reviewed and potentially moderated by the teaching staff in light of the 
+written comments. This factor is a number potentially between 0 and 1.1, but for the vast majority 
+of students in well-functioning teams, it is usually between 0.9 and 1.05. This factor will be 
+returned confidentially to students via Moodle Gradebook, and will be used to generate an 
+individual mark for each student’s project work, based on their team’s mark for each of the major 
+team projects.
+Upon release of the results, CATME will send each student a link which will allow them to see, for 
+each of the five questions an arrow indicating:
+How they scored themselves;
+The AVERAGE of what the team scored them personally;
+The AVERAGE of what the team scored all team members.
+CATME will also provide detailed suggestions for improvement based on where your results fall 
+relative to the rest of the team.
+For more information please visit this link: http://info.catme.org/
+Learning outcomes
+1. Understanding of skills and techniques required for the acquisition of optimised 
+meaningful experimental data
+2. Knowledge of the important components of experimental design
+3. Overview of current technologies available for experimentation
+4. Knowledge of data acquisition methods
+5. Knowledge of data analysis methods
+6. Appreciation for the importance and application of occupational health and safety 
+procedures
+7. Manage and execute short and medium term projects
+8. Form and evaluate hypotheses
+9. Communicate results using written and oral formats
+10. Acquire and optimise experimental data
+11. Use data analysis techniques to explore and evaluate experimental data, including error 
+analysis
+12. Use LabView to acquire and analyse experimental data Apply occupational health and 
+safety procedures.
+OBE requirements to learning outcomes (LOs)
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+Learning Outcomes (LOs) for Outcome Based Education (OBE) requirements
+(LO1) Understanding the skills and techniques required for acquisition of optimized 
+meaningful experimental data.
+(LO2) Evaluate important components of experimental design and current technologies 
+available for experimentation.
+(LO3) Develop knowledge of data acquisition methods and data analysis methods.
+(LO4) Form and evaluate hypotheses.
+(LO5) Determine optimised experimental data and use data analysis techniques to explore 
+and evaluate including error analysis.
+(LO6) Use LabView to acquire and analyse experimental data.
+(LO7) Apply occupational health and safety procedures.
+(LO8) Manage and execute short and medium term projects.
+(LO9) Develop oral and written communication skills.
+Relationship between unit learning outcomes and program outcomes
+Relationship between unit learning outcomes and program outcomes
+Learning Outcomes 
+(LO)
+Program Outcomes (PO) and Bloom's Domains
+PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11
+CCCPCCPACAAAAA
+Understanding 
+the skills and 
+techniques 
+required for 
+acquisition of 
+optimized 
+meaningful 
+experimental 
+data. Evaluate 
+important 
+components of 
+experimental 
+design and 
+current 
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+1
+technologies 
+available for 
+experimentation.
+6, 
+7, 
+8, 
+9, 
+10
+2
+Develop 
+knowledge of 
+data acquisition 
+methods and 
+data analysis 
+methods. Form 
+and evaluate 
+hypotheses.11
+3
+Determine 
+optimised 
+experimental 
+data and use 
+data analysis 
+techniques to 
+explore and 
+evaluate 
+including error 
+analysis. Use 
+LabView to 
+acquire and 
+analyse 
+experimental 
+data.
+12, 
+13, 
+14, 
+15, 
+16
+4
+Apply 
+occupational 
+health and 
+safety 
+procedures.25
+5
+Develop oral 
+and written 
+communication 
+skills.
+31, 
+32, 
+33, 
+34
+6
+Manage and 
+execute short 
+and medium 
+term projects.
+Program Outcomes (PO)
+PO1Engineering KnowledgeApply knowledge of (1) mathematics, (2) natural science, (3) engineering fundamentals and (4) specialization in Mechanical Engineering to the (5) solution of complex engineering problems
+PO2Problem Analysis(6) Identify, (7) formulate, (8) survey research literature and (9) analyze complex Mechanical engineering problems reaching substantiated (10) conclusions using first principles of mathematics, natural sciences and engineering sciences
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+PO3
+Design
+/Development of 
+solutions
+Design solutions for (11) complex Mechanical engineering problems and design systems, components or processes that meet specified needs
+PO4InvestigationConduct investigations of complex Mechanical engineering problems using (12) research-based knowledge and research methods including (13) design of experiments, (14) analysis and (15) interpretation of data, and (16) synthesis of information to provide valid conclusions
+PO5Modern tool usage(17) Create, (18) select and (19) apply appropriate techniques, resources, and modern engineering and IT tools, including (20) prediction and (21) modelling, to complex Mechanical engineering problems, with an (22) understanding of the limitations
+PO6Engineer and societyApply reasoning informed by contextual knowledge to assess (23) societal, (24) health, (25) safety, (26) legal and (27) cultural issues and the consequent responsibilities relevant to professional engineering practice and solutions to complex Mechanical engineering problems
+PO7Environment and sustainabilityUnderstand and evaluate the (28) sustainability and impact of professional engineering work in the solution of complex Mechanical engineering problems in (29) environmental contexts
+PO8Ethics(30) Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice
+PO9CommunicationCommunicate effectively on complex Mechanical engineering activities with the (a) engineering community and with (b) society at large, such as being able to comprehend and (31) write effective reports and design documentation, (32) make effective presentations, and (33) give and (34) receive clear instructions
+PO10Individual and team workFunction effectively as an (35) individual, and as a (36) member or leader in (a) diverse teams and in (b) multi-disciplinary settings
+PO11Lifelong learningRecognize the need for, and have the preparation and ability to engage in (37) independent and life-long learning in the broadest context of technological change
+PO12
+Project 
+management and 
+finance
+Demonstrate knowledge and understanding of (38) engineering management principles and (39) economic decision-making and (40) apply these to manage projects
+Complex Problems (CP)
+Attribute 
+CodeAttribute Description
+Complex Engineering Problems have characteristic WP1 and 
+some or all of WP2 to WP7:
+WP1
+Depth of 
+Knowledge 
+Required
+Cannot be resolved without in-depth engineering knowledge 
+at the level of one or more of WK3, WK4, WK5, WK6 or WK8 
+which allows a fundamentals-based, first principles analytical 
+approach
+WP2
+Range of 
+conflicting 
+requirements
+Involve wide-ranging or conflicting technical, engineering and 
+other issues
+WP3Depth of analysis requiredHave no obvious solution and require abstract thinking, originality in analysis to formulate suitable models
+WP4Familiarity of issuesInvolve infrequently encountered issues
+WP5Extent of applicable codesAre outside problems encompassed by standards and codes of practice for professional engineering
+Extent of 
+stakeholder 
+involvement and 
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+WP6conflicting 
+requirements
+Involve diverse groups of stakeholders with widely varying 
+needs
+WP7InterdependenceAre high level problems including many component parts or sub-problems
+Complex Activities (CA)
+AttributeAttribute DescriptionComplex Activities
+PreambleComplex activities means (engineering) activities or projects that have some or all of the following characteristics:
+EA1Range of resources
+Involve the use of diverse resources (and for this purpose 
+resources includes people, money, equipment, materials, 
+information and technologies)
+EA2Level of interactions
+Require resolution of significant problems arising from 
+interactions between wide-ranging or conflicting technical, 
+engineering or other issues
+EA3InnovationInvolve creative use of engineering principles and research-based knowledge in novel ways
+EA4
+Consequences to 
+society and the 
+environment
+Have significant consequences in a range of contexts, 
+characterized by difficulty of prediction and mitigation
+EA5FamiliarityCan extend beyond previous experiences by applying principles-based approaches
+Knowledge Profiles (KP)
+Attribute CodeAttribute Description
+WK1A systematic, theory-based understanding of the natural sciences applicable to the discipline
+WK2
+Conceptually-based mathematics, numerical analysis, statistics and formal 
+aspects of computer and information science to support analysis and modelling 
+applicable to the discipline
+WK3A systematic, theory-based formulation of engineering fundamentals required in the engineering discipline
+WK4
+Engineering specialist knowledge that provides theoretical frameworks and 
+bodies of knowledge for the accepted practice areas in the engineering 
+discipline; much is at the forefront of the discipline
+WK5Knowledge that supports engineering design in a practice area
+WK6Knowledge of engineering practice (technology) in the practice areas in the engineering discipline
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+WK7
+Comprehension of the role of engineering in society and identified issues in 
+engineering practice in the discipline: ethics and the professional responsibility 
+of an engineer to public safety; the impacts of engineering activity: economic, 
+social, cultural, environmental and sustainability
+WK8Engagement with selected knowledge in the research literature of the discipline
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+Grouping will be limited to 4-5 students per group.
+Student feedback has highlighted the following strength(s) in this unit:
+(1) Allowing students to have first-hand experience of a research project.
+(2) Experimental topic was very interesting and fun.
+(3) New knowledge and experimenting new topics.
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+Unit schedule - Malaysia campus
+WeekDateDayTimeLecture Remark
+1Monday
+Tuesday
+Thursday
+17:00
+09:00
+10:00
+Introduction to 
+the unit & data 
+acquisition
+Forming of group for labs 
+and research projects
+2Monday
+Tuesday
+Thursday
+17:00
+09:00
+10:00
+Risk 
+Management
+Lab (report submit after 2 
+weeks, hard copy and 
+)online submission
+3Monday
+Tuesday
+Thursday
+17:00
+09:00
+10:00
+Data sampling & 
+digital signal
+Lab (report submit after 2 
+weeks, hard copy and 
+online submission)
+4Monday
+Tuesday
+Thursday
+17:00
+09:00
+10:00
+Error 
+classification & 
+uncertainty 
+analysis
+Lab (report submit after 2 
+weeks, hard copy and 
+online submission)
+521/8
+25/8
+Monday
+Tuesday
+Thursday
+Monday
+Friday
+17:00
+09:00
+10:00
+12:00
+10:00
+Spectral analysis
+Projects released 
+& 
+students selection
+Lecturers 
+selection
+Lab (report submit after 2 
+weeks, hard copy and 
+online submission)
+Moodle
+Moodle
+61/9Monday
+Tuesday
+Thursday
+Friday
+17:00
+09:00
+10:00
+Research theory
+Research 
+proposal 
+submission
+Hard copy and online 
+submission
+7Monday
+Wednesday
+Thursday
+Friday
+Research 
+Proposal 
+Presentation 
+during respective 
+lab hours
+Online submission (before 
+presentation)
+8Conduct 
+research project
+9Conduct 
+research project
+***SemesterBreak*********
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
+29
+10Conduct 
+research project
+11Conduct 
+research project
+1220/10Friday
+Monday
+Wednesday
+Thursday
+Friday
+17:00Final report 
+submission
+Research 
+Presentation 
+during respective 
+lab hours
+Hard copy and online 
+submission
+Online submission (before 
+presentation)
+Assessment Summary
+Continuous assessment: 100%
+Assessment taskValueDue date
+Lab 1 report: Free & Forced Heat 
+Convection
+11
+/3%
+Two weeks (hard copy and 
+online submission)
+Lab 2 report: Performance of Francis 
+Turbine
+11
+/3%
+Two weeks (hard copy and online
+ submission)
+Lab 3 report: Performance of Pelton 
+Turbine
+11
+/3%
+Two weeks (hard copy and online
+ submission)
+Lab 4 report: Cantilevered Beam Vibration11%Two weeks (hard copy and online
+ submission)
+Assignment 1: Risk Assessment8Two weeks (hard copy and online
+ submission)
+Research Proposal (written & oral 
+presentation)
+20%Week 6, 7 (hard copy and online
+ submission)
+Final Report (written & oral presentation)50%Week 12 (hard copy and online
+ submission)
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (28) Break----------------
+30
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (29) Break----------------
+31
+AssessmentLearning OutcomesOpen-
+ended 
+Labs
+ 
+LO1LO2LO3LO4LO5LO6
+1Lab 1 report: 
+Free & 
+Forced Heat 
+Convection
+C3, 
+P2
+C3
+2Lab 2 report: 
+Performance 
+of Francis 
+Turbine
+C3, 
+P2
+C3
+3Lab 3 report: 
+Performance 
+of Pelton 
+Turbine
+C3, 
+P2
+C3
+4Lab 4 report: 
+Cantilevered 
+Beam 
+Vibration
+C3, 
+P2
+C3
+5Assignment 
+1: Risk 
+Assessment
+C3, 
+A2
+6Submission: 
+Research 
+Proposal 
+(written & 
+oral 
+presentation)
+C3, 
+P2
+C3, 
+P2
+C3C3C3C3x
+7Submission: 
+Final Report 
+C3, 
+P2
+C3, 
+P2
+C3C3C3C3x
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (30) Break----------------
+32
+(written & 
+oral 
+presentation)
+Relationship between Assessments and Complex Problems
+/Activities
+AssessmentComplex Problems
+(CP)
+Complex Activities
+(CA)
+WP1WP2WP3WP4WP5WP6WP7EA1EA2EA3EA4EA5
+1Lab 1 report: 
+Free & 
+Forced Heat 
+Convection
+xx
+2Lab 2 report: 
+Performance 
+of Francis 
+Turbine
+xx
+3Lab 3 report: 
+Performance 
+of Pelton 
+Turbine
+xx
+4Lab 4 report: 
+Cantilevered 
+Beam 
+Vibration
+xx
+5Assignment 
+1: Risk 
+Assessment
+x
+6Submission: 
+Research 
+Proposal 
+xxxxxx
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (31) Break----------------
+33
+(written & 
+oral 
+presentation)
+7Submission: 
+Final Report 
+(written & 
+oral 
+presentation)
+xxxxxx
+Assessment requirements
+Assessment tasks
+Assessment title:  Laboratory reports x 4
+ Mode of delivery:Laboratory
+ Please see the document ReportTemplate.doc posted on VLE for report writing Details of task:
+instructions and the marking scheme. Each individual laboratory exercise has its own set of 
+instructions that are also posted on VLE or provided.
+ - Release dates (where applicable): 
+  - Word limit (where applicable): 
+  Two weeks Due date: 
+  11% x 2Value: 
+  - Presentation requirements:  
+- Hurdle requirements (where applicable):   
+  - Individual assessment in group tasks (where applicable):  
+- Criteria for marking:   
+ - Additional remarks:  
+Assessment title:  Assignments: Risk Assessment
+ Lecture/assignmentMode of delivery:
+ A document describing the requirements for the assignment will be posted on VLE Details of task:
+or given by the lecturers.
+  - Release dates (where applicable): 
+   - Word limit (where applicable): 
+  Two weeksDue date: 
+  8% x 1Value: 
+  - Presentation requirements:  
+- Hurdle requirements (where applicable):   
+  - Individual assessment in group tasks (where applicable):  
+- Criteria for marking:   
+ - Additional remarks:  
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (32) Break----------------
+34
+Assessment title: Research proposal (written & oral presentation)
+ Group research project.Mode of delivery: 
+ A document describing the requirements for the research proposal will be posted Details of task:
+on VLE or provided. Both the written and oral tasks will be completed as a group.
+ Week 4-5Release dates (where applicable): 
+  - Word limit (where applicable): 
+  Two weeksDue date: 
+  20%Value: 
+  10 minutes presentation and 5 minutes Q&A, group presentation.Presentation requirements: 
+- Hurdle requirements (where applicable):   
+  - Individual assessment in group tasks (where applicable):  
+- Criteria for marking:   
+ - Additional remarks:  
+Assessment title:  Project (written & oral presentation)
+ Group research project.Mode of delivery:
+ A document describing the requirements for the project will be posted on VLE or Details of task:
+provided. Both the written and oral tasks will be completed as a group.Week 
+ Week 4-5Release dates (where applicable): 
+  50 pagesWord limit (where applicable): 
+  Week 12, FridayDue date: 
+  50%Value: 
+  15 presentation and 5 minutes Q&A. Presenters are not allowed to Presentation requirements: 
+present twice, of which including the proposal presentation.
+- Hurdle requirements (where applicable):   
+  - Individual assessment in group tasks (where applicable):  
+- Criteria for marking:   
+ - Additional remarks:  
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (33) Break----------------
+35
+Section C: All students 
+Extensions and penalties
+University and faculty policy on assessment
+Due date and extensions
+The due dates for the submission of assignments are given in the previous section. Please make 
+every effort to submit work by the due dates. Students are advised to NOT assume that granting of 
+an extension is a matter of course.
+If you need an extension for any of the assignments, you must submit a written request 48-hours 
+ the due time and date, and attach supportive evidence such as medical certificate.before
+The form should preferably be forwarded as an email attachment, sent to the unit or campus 
+coordinator. The email should be sent from your University email address with your name typed in 
+lieu of signature.
+Note that other lecturers cannot grant extensions. Lecturer-in-charge (unit coordinator) will indicate 
+at the time of granting the extension whether any penalty in marks will apply to the submitted work.
+If an extension is granted, the approval must be attached to the assignment.
+Late assignment
+If you are late in applying for an extension or you don’t have a good reason, you should still submit 
+the work, but 10% of the total marks available for that assessment component will usually be 
+deducted for each day late.
+No assignment will be accepted once an assignment has been returned to the class.
+Deferred tests and examinations may be granted in cases of extenuating personal circumstances 
+such as serious personal illness or bereavement.
+Remember, you are required to keep an up-to-date copy of all submitted assignments to safeguard 
+against the loss of work through accident or error.
+Return dates
+Students can expect assignments to be returned within two weeks of the submission date or after 
+receipt, whichever is later.
+Assessment for the unit as a whole is in accordance with the provisions of the Monash University 
+Education Policy at:
+http://www.policy.monash.edu/policybank/academic/education/assessment/index.html 
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (34) Break----------------
+36
+Resubmission of assignments
+Returning assignments
+Any hardcopy assignments are to be returned lecture or practice classes
+Resubmission of assignments
+Assignments can only be resubmitted with the approval of the lecturer.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University’s academic standards, and to provide advice on how 
+they might uphold them. You can find Monash’s Education Policies at: www.policy.monash.edu.au
+/policy-bank/academic/education/index.html
+Key educational policies include:
+●Plagiarism;
+●Assessment in Coursework Programs;
+●Special Consideration;
+●Grading Scale;
+●Discipline: Student Policy;
+●Academic Calendar and Semesters;
+●Orientation and Transition; and
+●Academic and Administrative Complaints and Grievances Policy.
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (35) Break----------------
+37
+Graduate Attributes Policy
+http://www.policy.monash.edu/policy-bank/academic/education/management/monash-graduate-
+attributes-policy.html
+All Monash Occupational Health & Safety Policies, procedures and Guidelines are available on the 
+OHS website ()http://www.monash.edu.my/ohse/
+The OHS website has information on: Occupational Health and Safety Policy at Monash, 
+Emergency Guidelines for the Sunway Campus, Contacts, Emergency Hotline Numbers, List of 
+Marshals and First Aiders.
+If you see something dangerous or hazardous on campus or if you are hurt during working hours, 
+please report this to your lecturer / supervisor or call the emergency number 46333.
+For all emergencies on Sunway Campuses, please dial +603 5514 46333.
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your lecturer or tutor if you need adviceand see the range of services available at 
+http://www.monash.edu.my/Student-services/
+Monash University Library
+Suggested Change: The Library and Learning Commons, Monash University Sunway Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research. Go to  or the library tab in my.monash http://www.lib.monash.edu.my
+portal for more information.
+Disability Liaison Unit
+Suggested Change: Academic support services may be available for students who have a 
+disability or medical condition.  Registration with the Disability Liaison Unit is required. Further 
+information is available as follows.
+●Website: ;http://monash.edu/equity-diversity/disability/index.html
+●For information and referral, telephone: Sudent Adviser, Student Community Services at 03 
+55146018; or drop In: Student Community Services Department, Level 2 Building 2, Monash 
+University, Sunway Campus.
+●Email:(Disability Liaison Unit, Monash University Australia)dlu@monash.edu
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (36) Break----------------
+38
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Hard copy submission: Assignments must include a cover sheet. The coversheet is accessible via 
+the Monash portal page located at http://my.monash.edu.au under the heading ‘Learning and 
+teaching tools.’ Please keep a copy of tasks completed for your records. Any hardcopy 
+assignments are to be submitted via the mailbox/pigeon hole of Dr. Foo Ji Jinn (level 5, building 5).
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work view the VLE site for this unit, which you can access via links in the my.monash portal.
+Feedback to you 
+By submitting written comments you are assisting your Faculty to implement best teaching 
+practices. The Faculty is committed to continually improving the student learning experience.
+Monash is committed to excellence in education and regularly seeks feedback from students, 
+employers and staff. Moreover, continuous improvement of students’ learning is a big concern in 
+Faculty of Engineering. One of the key formal ways students have to provide feedback is through 
+SETU, Student Evaluation of Teacher and Unit. The University’s student evaluation policy requires 
+that every unit is evaluated each year. Students are strongly encouraged to complete the surveys. 
+The feedback is anonymous and provides the Faculty with evidence of aspects that students are 
+satisfied and areas for improvement.
+For more information on Monash’s educational strategy, and on student evaluations, see:
+http://www.monash.edu.au/about/monash-directions/directions.html
+http://www.policy.monash.edu/policy-bank/academic/education/quality/student-evaluation-policy.
+html
+For your part, you have a responsibility to ensure that your comments are constructive and 
+respectful and that you recognize the important professional responsibility that Student Evaluation 
+offers. If you wish to view how previous students rated the units they had, please go to: 
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (37) Break----------------
+39
+In addition to SETU, in this unit, an informal Student Evaluation of Teacher and Unit (iSETU) will 
+be conducted at the end of week 2, and 8 in which students will be invited to fill feedback forms to 
+give their comments on the quality of the lectures and tutorials. These feedbacks are absolutely 
+anonymous and effectively can help lecturer and tutor to reorganise the teaching materials and 
+methods to improve the students’ learning experience. After each round of iSETU, a report and a 
+list of actions planned to be taken for the remaining lectures and tutorials will be announced to the 
+students in the next following week after receiving the feedbacks.
+Previous Student Evaluations of this Unit
+This unit has been completely restructured based on students’ comments. If you wish to view how 
+previous students rated this unit, please go to: https://emuapps.monash.edu.au/unitevaluations
+ /index.jsp
+Learning resources
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (38) Break----------------
+40
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (39) Break----------------
+41
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+MEC3458 Experimental project - Semester 2 (S2-01) - 2017
+----------------Page (40) Break----------------

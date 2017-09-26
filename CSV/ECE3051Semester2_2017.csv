@@ -1,0 +1,1249 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE3051
+Electrical energy systems
+Semester 2, 2017
+Table of contents
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          4
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Demonstrator(s)                                                                                                                           5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Teaching and learning method                                                                                                        7
+Learning outcomes                                                                                                                          8
+Your feedback to us                                                                                                                         8
+Previous student evaluations of this unit                                                                                     8
+Unit schedule - Clayton campus                                                                                                         8
+Assessment requirements                                                                                                                 10
+Assessment summary                                                                                                                   10
+Hurdle requirements                                                                                                                      11
+Assessment tasks                                                                                                                          11
+Examination(s)                                                                                                                               12
+Section B: For Malaysia students                                                                                                      13
+Academic Overview                                                                                                                          14
+Teaching and learning method                                                                                                      15
+Learning outcomes                                                                                                                    16
+OBE requirements to learning outcomes (LOs)                                                                     16
+Relationship between unit learning outcomes and program outcomes                                 16
+Your feedback to us                                                                                                                       16
+Previous student evaluations of this unit                                                                                   17
+Unit schedule - Malaysia campus                                                                                                     18
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Assessment Summary                                                                                                                   19
+Hurdle requirements                                                                                                                  20
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                21
+Relationship between Assessments and Complex Problems/Activities                                    21
+Assessment requirements                                                                                                                 22
+Assessment tasks                                                                                                                          22
+Examination(s)                                                                                                                               22
+Section C: All students                                                                                                                      24
+Extensions and penalties                                                                                                               24
+Returning assignments                                                                                                                  24
+Resubmission of assignments                                                                                                       24
+Plagiarism and collusion                                                                                                                24
+Referencing requirements                                                                                                             25
+Assignment submission                                                                                                                 25
+Feedback to you                                                                                                                            25
+Learning resources                                                                                                                        25
+Required resources                                                                                                                       25
+Other information                                                                                                                              26
+Policies                                                                                                                                          26
+Graduate Attributes Policy                                                                                                             26
+Student Charter                                                                                                                             26
+Student Services                                                                                                                           26
+Monash University Library                                                                                                             26
+Disability Support Services                                                                                                            27
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+The unit begins by considering electrical machines, looking at DC machines, induction motors, 
+synchronous motors and other types of motors under fixed and variable speed operation. Then 
+thyristor rectifiers and switched power converters are presented, looking at their use for electrical 
+energy conversion in general and variable speed motor control in particular. Finally, single and 
+three phase AC networks, power factor correction, and electrical power generation, transmission 
+and distribution networks are explored. Particular focus is given here to three phase transformers, 
+transmission line modelling, quality of electrical supply, electrical protection systems, and power 
+system control.
+Mode of delivery
+Malaysia (Day)
+Workload requirements
+3 hours lectures, 3 hours laboratory and practice classes and 6 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+ECE2061 or TRC2500
+Prohibitions
+ECE3502 and TRC3501
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Manos Varvarigos
+Unit Coordinator(s)
+Name: Dr Behrooz Bahrani
+Email: Behrooz.Bahrani@monash.edu
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Dr Behrooz Bahrani
+ Email: Behrooz.Bahrani@monash.edu
+ 35G17Building: , Room: 
+Consultation hours: TBA
+Lecturer(s) Dr Behrooz BahraniName: 
+ Email: Behrooz.Bahrani@monash.edu
+ 35, Room: G17Building: 
+ 
+ Dr Robin LisnerName: 
+ Email: Robin.Lisner@monash.edu
+ , Room: Building: 
+ 
+  
+Malaysia campus
+Campus Coordinator Prof. Titik  KhawaName: 
+ Email: Titik.Khawa@monash.edu
+ 5 5-5-13Building: , Room: 
+Consultation hours: TBA
+Lecturer(s)Name:  Dr Titik Khawa
+Email: Titik.Khawa@monash.edu
+Building: 5, Room: 5-5-13
+ 
+Demonstrator(s)
+None
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+Stage 1 competencies Activities used in this unit to develop stage 1
+competencies
+PE1.1 Knowledge of science and
+engineering fundamentals
+ 
+Theoretical lecture material, prescribed texts 
+and
+recommended reading, tutorial problems and
+laboratory experiment
+PE1.2 In-depth technical 
+competence
+in at least one engineering 
+discipline
+Appropriately chosen problems for practice 
+classes and laboratory experiments.
+PE1.3 Techniques and resourcesThe laboratory experiments, tutorial questions 
+and
+lecture notes provide a broad understanding of
+equipment and power devices. Students are 
+also
+made aware of relevant tools for analysis and 
+design
+of engineering systems.
+PE1.4 General knowledgeNot Relevant
+PE2.1 Ability to undertake problem
+identification, formulation, and 
+solution
+Laboratory and tutorial exercises are used for 
+the
+identifying problems from word descriptions. 
+These are formulated into a formal specification 
+of this unit outline
+PE2.2 Understanding of social,
+cultural, global, and environmental
+responsibilities and the need to 
+employ
+principles of sustainable 
+development
+The impacts on the environment of design 
+decisions
+are discussed in a general context.
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+PE2.3 Ability to utilise a systems
+approach to complex problems and 
+to
+design and operational performance
+Not relevant.
+PE2.4 Proficiency in engineering 
+design
+Laboratory experiments assignment requires 
+the
+students to consider various engineering and 
+non-engineering factors.
+PE2.5 Ability to conduct an
+engineering project
+The laboratory experiments provide students to
+understand and learn the ability to undertake a 
+large engineering project.
+PE2.6 Understanding of the 
+business
+environment
+Not Relevant
+PE3.1 Ability to communicate
+effectively, with the engineering 
+team
+and with the community at large
+Written assignment report. In practice classes
+student are asked to present solutions to 
+problems to
+tutors. Answering questions during laboratory
+sessions.
+PE3.2 Ability to manage information
+and documentation
+Lab experiments
+PE3.3 Capacity for creativity and
+innovation
+Lab experiments and tutorial classes provide
+students creativity and innovation
+PE3.4 Understanding of 
+professional
+and ethical responsibilities, and
+commitment to them
+Not Relevant
+PE3.5 Ability to function effectively 
+as
+an individual and in multidisciplinary
+and multicultural teams, as a team
+leader or manager as well as an
+effective team member
+Laboratories are conducted in teams of 2 or 3
+students where students discuss exercise 
+problems and collaborate on the 
+implementation of their joint efforts.
+PE3.6 Capacity for lifelong learning
+and professional development
+The lectures and laboratory work illustrate the 
+rapidly changing nature of technology and thus 
+the need for continuing education to keep 
+abreast of the latest developments.
+PE3.7 Professional attitudesThe lectures and laboratory work illustrate the 
+rapidly changing nature of technology and thus 
+the need for continuing education to keep 
+abreast of the latest developments.
+Teaching and learning method
+The unit consists of scheduled lectures and laboratory classes. Learning in the unit is 
+supplemented by a set of prescribed tutorial problems. While tutorial questions contain examinable 
+material they are to be solved as part of the student self-study workload. The purpose of 1-hour 
+tutorial classes scheduled during semester is to allow consultation time to resolve difficulties that 
+students may have with solving tutorial problems.
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+students may have with solving tutorial problems.
+Laboratories will be of 3 hours duration, five weeks during semester.
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Analyse a 3 phase AC network.
+2. Describe DC/AC and DC/DC power conversion techniques.
+3. Apply power conversion techniques to a renewable energy system.
+4. Describe electromechanical conversion systems.
+5. Use power convertors to drive induction and synchronous machines.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+The power electronics part of the unit has been modified in order to reflect more modern power 
+conversion techniques in addition to well-established technologies such as thyristor-based 
+rectifiers. 
+Student feedback has highlighted the following strength(s) in this unit:
+According to past evaluations of this unit, we have set an improvement priority for this semester. It 
+is to make the learning outcomes clearer; to make the unit more stimulating; to improve resources 
+and to improve the level of tutoring and feedback.
+Feedback is welcome at any time throughout the semester. Please use email to send it to the unit 
+coordinator, or in person.
+You may wish to use the open ended questions in the unit evaluation to provide written feedback 
+on your experience of this and whether it has been helpful to you during this semester.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+WeekLecture topicLaboratoryTutorial
+1
+25/7
+Single-phase AC networks (RL)
+Three-phase AC networks, power 
+factor and power factor 
+correction (RL)
+Three-phase AC networks, per unit 
+system (RL)
+No laboratory 
+class in week 1
+Lab group 
+allocation strictly 
+through Allocate+
+No tutorials in week 1
+2
+1/8
+Three-phase synchronous machines, 
+stand-alone operation (RL)
+Three-phase synchronous machines, 
+grid connected operation (RL)
+Three-phase synchronous 
+motors (RL)
+Laboratory safety 
+briefing
+All   studentsmust
+attend to be 
+eligible to 
+conduct lab 
+experiments
+Single-phase and three-
+phase AC circuits (RL)
+3
+8/8
+Introduction to Power Electronics (BB)
+Single-phase diode/SCR rectifiers-
+1 (BB)
+Single-phase diode/SCR circuits-
+2 (BB)
+AC circuitsSynchronous 
+generators (
+RL
+)
+4
+15/8
+Magnetic circuits, introduction to 
+electromagnetic device. (RL )
+Single-phase transformers, 
+equivalent circuit and performance. 
+(RL)
+Three-phase transformers, 
+connections, parallel operation (RL).
+AC circuitsSingle-phase SCR 
+circuits (BB)
+5
+22/8
+Three-phase transformers, 
+harmonics, phase-shifting, 
+unbalanced loads (RL).
+Three-phase induction machines, 
+structure and equivalent circuit. (RL)
+Three-phase induction motors, 
+characteristics and performance. (RL)
+Synchronous 
+Machine Single-
+phase rectifiers
+Synchronous motors (
+RL
+)
+6
+29/8
+Three-phase induction motors, 
+variable speed operation, variable 
+speed AC drives. (RL)
+Single-phase induction motors. (RL)
+Three-phase diode/SCR Rectifiers 
+(BB)
+Synchronous 
+Machine Single-
+phase rectifiers
+Induction machines (
+RL
+)
+7
+5/9
+Three-phase diode/SCR Rectifiers 
+(BB)
+Semiconductor Devices, 
+Commutation Cells and Pulse Width 
+Modulation – 1 (BB)
+Semiconductor Devices, 
+Commutation Cells and Pulse Width 
+Modulation – 2 (BB)
+Synchronous 
+Machine Single-
+phase rectifiers
+Three-phase Diode and 
+SCR Rectifiers (BB)
+8
+12/9
+DC/DC Buck Converters
+DC/AC Converters - 1 (BB)
+DC/AC Converters - 2 (BB)
+Synchronous 
+Machine Single-
+phase rectifiers
+Switching Converters
+/Inverters (BB)
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+9
+19/9
+Application of DC/AC Converters and 
+SCR Rectifiers in HVDC (BB)
+Fundamentals of Solar Energy (BB)
+Fundamentals of Solar/Wind Energy 
+(BB)
+Induction 
+Machine 
+Switching 
+Inverters
+Mid-semester break
+10
+3/10
+Mid-semester Test
+Fundamental of Wind Energy (BB)
+Introduction to Commutator-DC 
+motors and generators (RL).
+Induction 
+Machine 
+Switching 
+Inverters
+11
+10/10
+Speed control of DC motors, DC 
+motor drive systems. (RL)
+Brushless DC Motors, Stepper 
+Motors and Reluctance Motors. (RL) 
+Basics of industrial motor & 
+equipment control, protection of 
+electrical equipment. (RL)
+Induction 
+Machine 
+Switching 
+Inverters
+DC Machines (RL)
+12
+17/10
+Introduction to electric power 
+systems. (RL
+Revision 1 (RL)
+Revision 2 (BB)
+Induction 
+Machine 
+Switching 
+Inverters
+SWOT VAC
+Examinations
+LINK to Assessment Policy:
+www.policy.monash.edu/policybank/academic/education/assessment/assessment-in-
+coursework-policy.html
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Laboratory Experiments20%At the end of each laboratory session (week 3-12)
+Mid-semester Test15 %Week 9
+Quizzes5 %TBA
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+Assessment taskValueDue date
+Final Examination60%To be advised
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component (test, 
+preliminary laboratory assignment, and laboratory experiments) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement (hurdle) will be given a maximum of 45% in the unit.
+Assessment tasks
+Assessment title: Laboratory Experiments
+ N/AMode of delivery:
+Details of task: This task consists of a preliminary work which is to be handed in at the start of 
+each laboratory and the experimental work during each laboratory session. Each student must 
+keep a laboratory record book, paper or electronic, in which all experimental results and on the 
+spot analysis are recorded.
+Preliminary work is to be handed in at the start of each laboratory. It will be marked based on the 
+correctness of results. Each student must submit preliminary work.
+Each student must keep a laboratory record book, paper or electronic, in which all experimental 
+results and on the spot analysis are recorded. Failure to bring and use a laboratory record book 
+will be given an automatic zero for the experimental achievement section of the laboratory 
+assessment.
+Laboratory achievement will be assessed by demonstrators at the end of the laboratory, and will 
+be based on level of student preparedness, level of completion of experimental work and general 
+level of competency and understanding shown during the laboratory session.
+Preliminary work will be marked out of 4, the experimental achievement will be marked out of 6 to 
+make the overall laboratory mark out of 10. Laboratory marks of each student will be totalled and 
+ averaged at the end of the semester to make 20% of the overall assessment.
+N/ARelease dates (where applicable): 
+ N/AWord limit (where applicable):
+At the end of each laboratory session (week 3-12)Due date: 
+20%Value: 
+N/APresentation requirements: 
+Hurdle requirements (where applicable): 45 % (together with assessment task 2)
+N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Laboratory achievement will be assessed by demonstrators at the end of the 
+laboratory, and will be based on the level of student preparedness, the level of completion of 
+experimental work and a general level of competency and understanding shown during the 
+laboratory session.
+ N/AAdditional remarks:
+ 
+Assessment title: Mid-semester Test
+ N/AMode of delivery:
+Students will be given some tutorial-type questions to solve as a class test.Details of task: 
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+ N/AMode of delivery:
+Students will be given some tutorial-type questions to solve as a class test.Details of task: 
+N/ARelease dates (where applicable): 
+ N/AWord limit (where applicable):
+Week 9Due date: 
+15 %Value: 
+N/APresentation requirements: 
+Hurdle requirements (where applicable): 45% (together with the assessment task 1)
+N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking: The marks for the problems will be given according to the correctness of the 
+answers.
+ N/AAdditional remarks:
+ 
+Assessment title: Quizzes
+ Paper-basedMode of delivery:
+TBADetails of task: 
+TBARelease dates (where applicable): 
+ N/AWord limit (where applicable):
+TBADue date: 
+5 %Value: 
+N/APresentation requirements: 
+N/AHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+N/ACriteria for marking: 
+ N/AAdditional remarks:
+ 
+Examination(s)
+Final ExaminationExam title: 
+60%Weighting: 
+2 HoursLength: 
+ Closed BookType (Open/closed book):
+ 45%Hurdle requirements (where applicable):
+No electronic devices are allowed. Electronic devices allowed: 
+N/ARemarks (where applicable): 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+Faculty approved calculators are permitted.
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Section B: For Malaysia students
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who  Electrical and Computer Systems 
+are:
+1. competent in engineering Electrical and Computer Systems 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program  Electrical and Computer Systems 
+Outcomes (POs) for all of its graduates based on the competencies required by the Malaysian 
+Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Electrical and Computer Systems 
+ Apply knowledge of Engineering Knowledge:
+mathematics, natural science, engineering 
+fundamentals and specialisation in  Electrical 
+engineering to the and Computer Systems 
+solution of complex engineering problems
+Cognitive:  Theoretical lecture material, 
+prescribed texts and recommended reading, 
+tutorial problems and laboratory experiments.
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complex Electrical and Computer Systems 
+engineering problems reaching substantiated 
+conclusions using first principles of 
+mathematics, natural sciences and 
+engineering sciences
+Cognitive: Laboratory and tutorial exercises 
+are used for the identifying problems from 
+word descriptions. These are formulated into 
+a formal specification of this unit outline.
+PO3  Design/Development of Solutions:
+Design solutions for complex Electrical and 
+engineering problems and Computer Systems 
+design systems, components or processes 
+that meet specified needs.
+Cognitive: Appropriately chosen problems
+Psychomotor: laboratory experiments
+PO4 Conduct Research-based Investigation: 
+investigations of complex Electrical and 
+engineering problems Computer Systems 
+using research-based knowledge and 
+research methods including design of 
+experiments, (analysis and interpretation of 
+data, and synthesis of information to provide 
+valid conclusions.
+Cognitive: N/A
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex Electrical 
+engineering problems, and Computer Systems 
+with an understanding of the limitations
+Cognitive: N/A
+Psychomotor: N/A
+Affective:  N/A
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Electrical and 
+engineering problemsComputer Systems 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work in 
+the solution of complex Electrical and 
+engineering problems in Computer Systems 
+environmental contexts.
+Cognitive: N/A
+Affective: N/A
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective:  N/A
+PO9  Communicate Communication:
+effectively on complex Electrical and 
+engineering activities with Computer Systems 
+the engineering community and with society at 
+large, such as being able to comprehend and 
+write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective:  N/A
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective:  N/A
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological change
+Affective:  N/A
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: N/A
+Affective: N/A
+Teaching and learning method
+The unit consists of scheduled lectures and laboratory classes. Learning in the unit is 
+supplemented by a set of prescribed tutorial problems. While tutorial questions contain examinable 
+material they are to be solved as part of the student self-study workload. The purpose of 1-hour 
+tutorial classes scheduled during semester is to allow consultation time to resolve difficulties that 
+students may have with solving tutorial problems.
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+students may have with solving tutorial problems.
+Laboratories will be of 3 hours duration, five weeks during semester.
+Learning outcomes
+At the successful completion of this unit you will be able to:
+1. Analyse a 3 phase AC network.
+2. Describe DC/AC and DC/DC power conversion techniques.
+3. Apply power conversion techniques to a renewable energy system.
+4. Describe electromechanical conversion systems.
+5. Use power convertors to drive induction and synchronous machines.
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome Based Education 
+(OBE) requirements
+Handbook Learning Outcomes 
+(LOs)
+LO1) 
+To  electrical power equipment, Analyze and evaluate
+apparatus and systems.
+Describe electromechanical 
+conversion systems.
+LO2) Apply different
+ conversion methods of electrical energy into alternative 
+forms to solve problems involving different load 
+requirements. 
+Describe DC/AC and DC/DC 
+power conversion techniques.
+Use power convertors to drive 
+induction and synchronous 
+machines.
+LO3) Design 
+electrical power generation, transmission and distribution 
+systems.
+Analyse a 3 phase AC network.
+Apply power conversion 
+techniques to a renewable 
+energy system.
+Relationship between unit learning outcomes and program outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√
+LO2√
+LO3√
+Key  
+Your feedback to us
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+The power electronics part of the unit has been modified in order to reflect more modern power 
+conversion techniques in addition to well-established technologies such as thyristor-based 
+rectifiers. 
+Student feedback has highlighted the following strength(s) in this unit:
+According to past evaluations of this unit, we have set an improvement priority for this semester. It 
+is to make the learning outcomes clearer; to make the unit more stimulating; to improve resources 
+and to improve the level of tutoring and feedback.
+Feedback is welcome at any time throughout the semester. Please use email to send it to the unit 
+coordinator, or in person.
+You may wish to use the open ended questions in the unit evaluation to provide written feedback 
+on your experience of this and whether it has been helpful to you during this semester.
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Unit schedule - Malaysia campus
+WeekLecture topicLaboratoryTutorial
+1
+25/7
+Single-phase AC networks (RL)
+Three-phase AC networks, power 
+factor and power factor 
+correction (RL)
+Three-phase AC networks, per unit 
+system (RL)
+No laboratory 
+class in week 1
+Lab group 
+allocation strictly 
+through Allocate+
+No tutorials in week 1
+2
+1/8
+Three-phase synchronous machines, 
+stand-alone operation (RL)
+Three-phase synchronous machines, 
+grid connected operation (RL)
+Three-phase synchronous 
+motors (RL)
+Laboratory safety 
+briefing
+All   studentsmust
+attend to be 
+eligible to 
+conduct lab 
+experiments
+Single-phase and three-
+phase AC circuits (RL)
+3
+8/8
+Introduction to Power Electronics (BB)
+Single-phase diode/SCR rectifiers-
+1 (BB)
+Single-phase diode/SCR circuits-
+2 (BB)
+AC circuitsSynchronous 
+generators (
+RL
+)
+4
+15/8
+Magnetic circuits, introduction to 
+electromagnetic device. (RL )
+Single-phase transformers, 
+equivalent circuit and performance. 
+(RL)
+Three-phase transformers, 
+connections, parallel operation (RL).
+AC circuitsSingle-phase SCR 
+circuits (BB)
+5
+22/8
+Three-phase transformers, 
+harmonics, phase-shifting, 
+unbalanced loads (RL).
+Three-phase induction machines, 
+structure and equivalent circuit. (RL)
+Three-phase induction motors, 
+characteristics and performance. (RL)
+Synchronous 
+Machine Single-
+phase rectifiers
+Synchronous motors (
+RL
+)
+6
+29/8
+Three-phase induction motors, 
+variable speed operation, variable 
+speed AC drives. (RL)
+Single-phase induction motors. (RL)
+Three-phase diode/SCR Rectifiers 
+(BB)
+Synchronous 
+Machine Single-
+phase rectifiers
+Induction machines (
+RL
+)
+7
+5/9
+Three-phase diode/SCR Rectifiers 
+(BB)
+Semiconductor Devices, 
+Commutation Cells and Pulse Width 
+Modulation – 1 (BB)
+Synchronous 
+Machine Single-
+phase rectifiers
+Three-phase Diode and 
+SCR Rectifiers (BB)
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Semiconductor Devices, 
+Commutation Cells and Pulse Width 
+Modulation – 2 (BB)
+8
+12/9
+DC/DC Buck Converters
+DC/AC Converters - 1 (BB)
+DC/AC Converters - 2 (BB)
+Synchronous 
+Machine Single-
+phase rectifiers
+Switching Converters
+/Inverters (BB)
+9
+19/9
+Application of DC/AC Converters and 
+SCR Rectifiers in HVDC (BB)
+Fundamentals of Solar Energy (BB)
+Fundamentals of Solar/Wind Energy 
+(BB)
+Induction 
+Machine 
+Switching 
+Inverters
+Mid-semester break
+10
+3/10
+Mid-semester Test
+Fundamental of Wind Energy (BB)
+Introduction to Commutator-DC 
+motors and generators (RL).
+Induction 
+Machine 
+Switching 
+Inverters
+11
+10/10
+Speed control of DC motors, DC 
+motor drive systems. (RL)
+Brushless DC Motors, Stepper 
+Motors and Reluctance Motors. (RL) 
+Basics of industrial motor & 
+equipment control, protection of 
+electrical equipment. (RL)
+Induction 
+Machine 
+Switching 
+Inverters
+DC Machines (RL)
+12
+17/10
+Introduction to electric power 
+systems. (RL
+Revision 1 (RL)
+Revision 2 (BB)
+Induction 
+Machine 
+Switching 
+Inverters
+SWOT VAC
+Examinations
+LINK to Assessment Policy:
+www.policy.monash.edu/policybank/academic/education/assessment/assessment-in-
+coursework-policy.html
+Assessment Summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Laboratory Experiments20%Weeks 1-10
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Assessment taskValueDue date
+Mid-semester test15%Week 9
+Examination60%To be advised
+Quizzes5%TBA
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component (test, 
+preliminary laboratory assignment, and laboratory experiments) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement (hurdle) will be given a maximum of 45% in the unit.
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+NoLearning OutcomesLabsMid-Sem 
+test
+QuizzesFinal 
+Exam
+1To Analyze and evaluate electrical power 
+equipment, apparatus and systems.
+P4C5C4C6
+2Apply different
+ conversion methods of electrical energy into 
+alternative forms to solve problems involving 
+different load requirements. 
+C4C5C4C6
+3Design 
+electrical power generation, transmission 
+and distribution systems.
+C4C5C4C6
+Relationship between Assessments and Complex Problems
+/Activities
+                                        Complex Problems                            AssessmentComplexActivities
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+1LabsXX
+2Mid-Sem 
+Test
+XXX
+3QuizzesX
+4Final ExamXXX
+Assessment requirements
+Assessment tasks
+Assessment title:  Final Examination
+ Paper-BasedMode of delivery:
+  N/ADetails of task: 
+  N/ARelease dates (where applicable): 
+   N/AWord limit (where applicable): 
+   N/ADue date: 
+   N/AValue: 
+  N/APresentation requirements:  
+45%Hurdle requirements (where applicable):  
+   N/AIndividual assessment in group tasks (where applicable):  
+ N/ACriteria for marking:   
+ N/AAdditional remarks:  
+Examination(s)
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+Faculty approved calculators are permitted.
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+Section C: All students 
+Extensions and penalties
+The due date for the submission of assignments are given in the previous section. Please make 
+every effort to submit work by the due dates. Students are advised to NOT assume that granting of 
+an extension os a matter of the course. 
+If you need an extension for any of the assignments, you must submit a written request 48-hours 
+before the due time and date, and attach supportive evidence such as medical certificates.  
+If you are late in applying for an extension or you don’t have a good reason, you should still submit 
+the work, but 10% of the total marks available for that assessment component will usually be 
+deducted for each day late.
+No assignment will be accepted once an assignment has been returned to the class.
+Deferred tests and examinations may be granted in cases of extenuating personal circumstances 
+such as serious personal illness or bereavement.
+Remember, you are required to keep an up-to-date copy of all submitted assignments to safeguard 
+against the loss of work through accident or error.
+Returning assignments
+Students can expect assignments to be returned within two weeks of the submission date or after 
+receipt, whichever is later.
+Resubmission of assignments
+Students may resubmit an assignment if it is approved by the course coordinator.
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+Refer to the appropriate Faculty or School/Department referencing guide or relevant convention.
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+Assignments must include a cover sheet. The coversheet is accessible via the Monash portal page 
+located at  under the heading 'Learning and teaching tools'. Please keep http://my.monash.edu.au
+a copy of tasks completed for your records.
+Only preliminary work is submitted in hard copy. Laboratory experimental records are kept in the 
+laboratory record book kept by each student.
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Feedback is provided to students on a continuing basis, especially via the assessment process for 
+the prescribed submission tasks. By this means, students are able to evaluate the effectiveness of 
+the approaches they have been adopting towards their assigned coursework, and to take the 
+opportunity to modify these approaches where necessary.
+Learning resources
+Prescribed textbooks
+T. Wildi, “Electrical Machines Drives and Power Systems”, 6th edition, Prentice Hall 2006.
+Recommended textbooks
+Numerous textbooks on electrical machines, power electronics and power systems available in the 
+library.
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE3051 Electrical energy systems - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------

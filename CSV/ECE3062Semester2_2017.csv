@@ -1,0 +1,1209 @@
+1
+                                     
+  
+Unit Guide
+  
+ECE3062
+Electronic systems and control
+Semester 2, 2017
+Table of contents
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (0) Break----------------
+2
+Table of contents
+Unit handbook information                                                                                                                  4
+Synopsis                                                                                                                                          4
+Mode of delivery                                                                                                                              4
+Workload requirements                                                                                                                   4
+Unit relationships                                                                                                                             4
+Prerequisites                                                                                                                                4
+Prohibitions                                                                                                                                  4
+Co-requisites                                                                                                                                4
+Chief Examiner(s)                                                                                                                            4
+Unit Coordinator(s)                                                                                                                          4
+Clayton/Malaysia staff contact details                                                                                          5
+Clayton campus                                                                                                                        5
+Malaysia campus                                                                                                                      5
+Section A: For Clayton students                                                                                                          6
+Engineers Australia Stage 1 competencies                                                                                     6
+Teaching and learning method                                                                                                        6
+Learning outcomes                                                                                                                          6
+Your feedback to us                                                                                                                         6
+Previous student evaluations of this unit                                                                                     6
+Unit schedule - Clayton campus                                                                                                         7
+Assessment requirements                                                                                                                   9
+Assessment summary                                                                                                                     9
+Hurdle requirements                                                                                                                        9
+Assessment tasks                                                                                                                            9
+Examination(s)                                                                                                                               11
+Section B: For Malaysia students                                                                                                      12
+Academic Overview                                                                                                                          13
+Teaching and learning method                                                                                                      14
+Learning outcomes                                                                                                                    15
+OBE requirements to learning outcomes (LOs)                                                                     15
+Relationship between unit learning outcomes and program outcomes                                 16
+Your feedback to us                                                                                                                       16
+Previous student evaluations of this unit                                                                                   16
+Unit schedule - Malaysia campus                                                                                                     18
+Assessment Summary                                                                                                                   19
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (1) Break----------------
+3
+Hurdle requirements                                                                                                                  20
+Relationship between Assessments and OBE Learning Outcomes (LOs)                                21
+Relationship between Assessments and Complex Problems/Activities                                    22
+Assessment requirements                                                                                                                 22
+Assessment tasks                                                                                                                          22
+Examination(s)                                                                                                                               23
+Section C: All students                                                                                                                      25
+Plagiarism and collusion                                                                                                                25
+Referencing requirements                                                                                                             25
+Assignment submission                                                                                                                 25
+Feedback to you                                                                                                                            25
+Learning resources                                                                                                                        25
+Required resources                                                                                                                       26
+Technological requirements                                                                                                          26
+Other information                                                                                                                              26
+Policies                                                                                                                                          26
+Graduate Attributes Policy                                                                                                             26
+Student Charter                                                                                                                             27
+Student Services                                                                                                                           27
+Monash University Library                                                                                                             27
+Disability Support Services                                                                                                            27
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (2) Break----------------
+4
+Unit handbook information
+Synopsis
+The unit further explores the integration of multiple devices on a chip. MOS and BJT single ended 
+as well as differential amplifier circuits, along with basic analogue circuit blocks like the current 
+mirror, are introduced and developed using small signal models. Practical Operational Amplifiers 
+are considered where properties deviate from ideal in terms of frequency response, CMMR, noise, 
+stability and input/output impedance. The use of feedback in electronic circuits is studied, and 
+ways to improve arising stability issues in operational amplifiers (eg using pole compensation) are 
+discussed. Nyquist is presented and frequency domain analysis and design shall be explicitly 
+explored via Bode plots. Concepts of State Space representation, transfer functions, canonical 
+realisation, observability and controllability and discrete-time systems are presented.
+Mode of delivery
+Malaysia (Day)
+Clayton (Day)
+Workload requirements
+2 hours lectures, 3 hours laboratory/practice classes and 7 hours of private study per week
+Unit relationships
+ 
+Prerequisites
+ECE2031 and ECE2061
+Prohibitions
+ECE2062
+Co-requisites
+None
+Chief Examiner(s) 
+Professor Manos Varvarigos
+Unit Coordinator(s)
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (3) Break----------------
+5
+Name: Dr Jean-Michel Redoute
+Email: Jean-Michel.Redoute@monash.edu
+Clayton/Malaysia staff contact details
+ 
+Clayton campus
+Campus CoordinatorName:  Dr Jean-Michel Redoute
+ Email: Jean-Michel.Redoute@monash.edu
+ 72206Building: , Room: 
+Consultation hours: Appointment per email
+Lecturer(s) Dr Jean-Michel RedouteName: 
+ Email: Jean-Michel.Redoute@monash.edu
+ 72, Room: 206Building: 
+ 
+ Dr James SaundersonName: 
+ Email: James.Saunderson@monash.edu
+ 72, Room: 222Building: 
+Consultation hours: Appointment per email
+ 
+  
+Malaysia campus
+Campus Coordinator Dr Masuduzzaman BakaulName: 
+ Email: Bakaul.Masuduzzaman@monash.edu
+ 2-4-25 Building: , Room: 
+Consultation hours: Appointment per email
+Lecturer(s)Name:  Dr Masuduzzaman Bakaul
+Email: Bakaul.Masuduzzaman@monash.edu
+Building: 2-4-25, Room: 
+Consultation hours: Appointment per email
+ 
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (4) Break----------------
+6
+Section A: For Clayton students
+Academic Overview
+Engineers Australia Stage 1 competencies
+The Engineers Australia Policy on Accreditation of Professional Engineering Programs requires 
+that all programs ensure that their engineering graduates develop to a substantial degree the 
+stage 1 competencies. Listed below are the activities in this unit that will help you to achieve these 
+competencies.
+Note: that not all stage 1 competencies are relevant to each unit.
+TBD by the Faculty.
+Teaching and learning method
+ Lectureand tutorials or problem classes seminars
+Lectures will provide the theoretical foundations of this unit. Practice classes will supplement this 
+material with design examples. Laboratories will provide students a hands-on learning.
+Learning outcomes
+1. To extend semiconductor theory to additional electronic devices and to integrated circuit 
+structures.
+2. To gain more detailed knowledge and understanding of electronic amplifier circuits, and to 
+understand how transistors and electronics are used in higher frequency and oscillator 
+applications.
+3. Introduce feedback, stability and dominant pole compensation.
+4. To understand SISO control systems, state space modelling and their relationship to 
+transfer functional representation.
+5. To introduce discrete-time/sampled-data control systems.
+To extend the ability and practical skills to:
+6. design electronic circuits using simulation tools and construct, debug and verify the 
+operation of electronic circuits in the laboratory.
+7. design and experimentally verify the operation of SISO control systems.
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (5) Break----------------
+7
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+●Practical examples of transistor circuits will be added.
+Student feedback has highlighted the following strength(s) in this unit:
+●Recording of lectures and tutorials.
+If you wish to view how previous students rated this unit, please go to:
+https://unitevaluations.connect.monash.edu.au/unitevaluations/index.jsp
+ 
+Unit schedule - Clayton campus
+WeekLecturePracLabAssignment activity
+1
+24 July
+One transistor 
+amplifiers (FET’
+s and BJT’s) – 
+Jaeger chapter 
+14
+One transistor 
+amplifiers (FET’
+s and BJT’s) – 
+Jaeger chapter 
+14
+2
+31 July.
+One transistor 
+amplifiers (FET’
+s and BJT’s) – 
+Jaeger chapter 
+14
+Exercises on 
+single transistor 
+amplifiers
+Design of one 
+transistor amplifiers
+Lab mark
+Differential 
+amplifiers – 
+Jaeger chapter 
+15
+3
+7 Aug.
+Differential 
+amplifiers – 
+Jaeger chapter 
+15
+Exercises on 
+differential pairs
+Current mirrorsLab mark
+Differential 
+amplifiers – 
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (6) Break----------------
+8
+Jaeger chapter 
+15
+4
+14 Aug
+Current mirrors 
+– Jaeger 
+chapter 16
+Exercises on 
+current mirrors
+Multistage amplifiersLab mark
+Current mirrors 
+– Jaeger 
+chapter 16
+5
+21 Aug
+Current mirrors 
+– Jaeger 
+chapter 16
+Exercises on 
+opamp design
+Differential amplifiersLab mark
+Frequency 
+response – 
+Jaeger chapter 
+17
+6
+28 Aug
+Frequency 
+response – 
+Jaeger chapter 
+17 +
+REVISION
+Exercises on 
+Miller 
+compensation 
+and pole splitting
+7
+4 Sept
+Input-output 
+model and 
+analysis of 
+discrete time 
+control systems
+Exercise on 
+continuous 
+feedback 
+control systems
+Analogue control of 
+dc motor speed
+(group 1+2)
+Lab mark
+8
+11 Sept
+Sampled data 
+control systems 
+and discrete 
+equivalents
+Exercise on 
+discrete time I
+/O models and 
+analysis
+Analogue control of 
+dc motor speed
+(group 3+4)
+Lab mark
+9
+18 Sept
+Emulation and 
+direct designs 
+of digital control
+Exercise on 
+digital controller 
+design
+Digital control of dc 
+motor speed
+(group 1+2)
+Lab mark
+Semester break
+10
+2 Oct
+State Space 
+Model and 
+Analysis of 
+discrete time 
+systems
+Exercise on 
+direct designs 
+of digital control
+Digital control of dc 
+motor speed
+(group 3+4)
+Lab mark
+11
+9 Oct
+State Space 
+Based Design 
+of Digital 
+Control 
+Systems
+Exercise on 
+state space 
+analysis and 
+control design
+State feedback 
+control of DC motor 
+speed
+(group 1+2)
+Lab mark
+12
+16 Oct
+State Space 
+Based Design 
+of Digital 
+Control 
+Systems
+Exercise on 
+state space 
+analysis and 
+control design
+State feedback 
+control of DC motor 
+speed
+(group 3+4)
+Lab mark
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (7) Break----------------
+9
+Revision
+13SWOTVAC
+Examination period
+LINK to Assessment Policy:  http://www.policy.monash.edu/policy-bank/academic/e
+ducation/assessment/assessment-in-coursework-policy.html
+Assessment requirements
+Assessment summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue 
+date
+Laboratory safety and 
+equipment briefing
+Compulsory before attending any laboratory 
+session
+Week 2
+Laboratory experiments15% of the total mark (7.5% for the electronics 
+laboratories, and 7.5% for the control 
+laboratories)
+N/A
+Assignments evaluating the 
+electronics and control part of 
+the unit
+25% of the total mark (12.5% for each 
+assignment)
+Weeks 
+6 and 
+12
+Final examination60% of the total markTo be 
+advised
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment tasks
+Assessment title: Laboratory safety and equipment briefing
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (8) Break----------------
+10
+Assessment title: Laboratory safety and equipment briefing
+ Moodle.Mode of delivery:
+Details of task: Laboratory safety and equipment briefing. Completing this assignment is 
+compulsory. 
+Week 1Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Week 2Due date: 
+Compulsory before attending any laboratory sessionValue: 
+N/A.Presentation requirements: 
+Compulsory before attending the labsHurdle requirements (where applicable): 
+N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Completing the laboratory safety and briefing session in Moodle is a 
+mandatory requirement before students are allowed to undertake laboratory work. Students who 
+have not completed and obtained full marks on the safety briefing quiz on Moodle will not be 
+allowed to participate in the laboratory.  In order to complete the laboratory and safety briefing 
+ and quiz, students need to read and understand the Laboratory Safety ProceduresElectrical 
+ (Moodle).Safety lecture slides  
+ N/AAdditional remarks:
+ 
+Assessment title:  Laboratory experiments 
+ LaboratoryMode of delivery:
+Details of task: Each student will do 4+3 specified experiments, scheduled throughout the 
+semester. Students will work in groups of 2. Laboratory sessions are 2 hours. Each laboratory will 
+be marked out of 10 for laboratory achievement, work quality and cooperation. 
+N/ARelease dates (where applicable): 
+ N/AWord limit (where applicable):
+N/ADue date: 
+15% of the total mark (7.5% for the electronics laboratories, and 7.5% for the control Value: 
+laboratories)
+N/APresentation requirements: 
+45% hurdle for the total continuous assessment Hurdle requirements (where applicable): 
+component ( laboratory experiments + the two assignments).
+N/AIndividual assessment in group tasks (where applicable): 
+Criteria for marking: Students coming more than 10 minutes late to an experimental session will 
+not be allowed to do the experiment. Laboratory achievement will be assessed by demonstrators 
+at the end of the laboratory, and will be based on level of student preparedness, level of 
+completion of experimental work and general level of competency and understanding shown 
+during the laboratory session. The assessment will also be based on completeness of procedure 
+and results recorded during the laboratory session, and level of understanding reflected in any 
+comments recorded as part of the experimental work.  Results need be entered in only one 
+laboratory record book for each group for each experiment. Students will be marked as a group of 
+2 for this part of the assessment.
+ N/AAdditional remarks:
+ 
+Assessment title: Assignments evaluating the electronics and control part of the unit
+ MoodleMode of delivery:
+Students will need to complete two assignments: the first will assess the Details of task: 
+electronics part of the unit, and the second will assess the control part of the unit.
+Weeks 6 and 12Release dates (where applicable): 
+ N/AWord limit (where applicable):
+Weeks 6 and 12Due date: 
+25% of the total mark (12.5% for each assignment)Value: 
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (9) Break----------------
+11
+25% of the total mark (12.5% for each assignment)Value: 
+N/APresentation requirements: 
+Hurdle requirements (where applicable): 45% hurdle for the total continuous assessment 
+component ( laboratory experiments + the two assignments).
+N/AIndividual assessment in group tasks (where applicable): 
+N/ACriteria for marking: 
+ N/AAdditional remarks:
+ 
+Examination(s)
+Final examinationExam title: 
+60% of the total markWeighting: 
+2 hours writing time Length: 
+ closed bookType (Open/closed book):
+ 45%Hurdle requirements (where applicable):
+Faculty approved calculatorElectronic devices allowed: 
+Remarks (where applicable): The formal examination will be held after the completion of the unit, 
+and constitutes 60 % of the overall assessment of this unit. The test will be marked out of 100 (45 
+% hurdle). 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (10) Break----------------
+12
+Section B: For Malaysia students
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (11) Break----------------
+13
+Academic Overview
+Program Education Objectives
+The engineering discipline expects to produce graduates, who  Electrical and Computer Systems 
+are:
+1. competent in engineering Electrical and Computer Systems 
+2. responsible and effective global citizens
+3. leaders in their chosen profession or society at large.
+Program Outcomes
+Theengineering discipline has developed a set of Program  Electrical and Computer Systems 
+Outcomes (POs) for all of its graduates based on the competencies required by the Malaysian 
+Engineering Accreditation Council.
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO1 Electrical and Computer Systems 
+ Apply knowledge of Engineering Knowledge:
+mathematics, natural science, engineering 
+fundamentals and specialisation in  Electrical 
+engineering to the and Computer Systems 
+solution of complex engineering problems
+Cognitive:  1. Apply underlying principles of 
+semiconductor components such as diodes, 
+BJTs, FETs, resistors, capacitors and 
+inductors to design complex electronic 
+subsystems and integrated circuits including 
+single and multistage electronic amplifiers, 
+differential amplifiers, current mirrors and 
+operational amplifiers. 2. Apply underlying 
+principles of control engineering such as 
+feedback, stability, dominant pole 
+compensation, controllability, observability etc. 
+to design complex control systems for discrete 
+data SISO/MIMO systems including transform 
+based emulations and state-space modelling 
+representations
+PO2  Identify, formulate, Problem Analysis:
+survey research literature and analyse 
+complex Electrical and Computer Systems 
+engineering problems reaching substantiated 
+conclusions using first principles of 
+mathematics, natural sciences and 
+engineering sciences
+Cognitive: 
+PO3  Design/Development of Solutions:
+Design solutions for complex Electrical and 
+engineering problems and Computer Systems 
+design systems, components or processes 
+that meet specified needs.
+Cognitive: 
+Psychomotor: 
+PO4 Conduct Research-based Investigation: 
+investigations of complex Electrical and 
+engineering problems Computer Systems 
+using research-based knowledge and 
+research methods including design of 
+experiments, (analysis and interpretation of 
+data, and synthesis of information to provide 
+valid conclusions.
+Cognitive: 
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (12) Break----------------
+14
+Program Outcomes (POs)Activities used in this unit to develop POs, 
+achievement of Bloom’s domains and 
+complex problem solving
+PO5 Create, select and Modern Tool Usage: 
+apply appropriate techniques, resources, and 
+modern engineering and IT tools, including 
+prediction and modelling, to complex Electrical 
+engineering and Computer Systems 
+problems, with an understanding of the 
+limitations
+Cognitive: 
+Psychomotor: 
+PO6 Apply reasoning Engineer and Society: 
+informed by contextual knowledge to assess 
+societal, health, safety, legal and cultural 
+issues and the consequent responsibilities 
+relevant to professional engineering practice 
+and solutions to complex Electrical and 
+engineering problemsComputer Systems 
+Affective: 
+PO7 Environment and Sustainability: 
+Understand and evaluate the sustainability 
+and impact of professional engineering work 
+in the solution of complex Electrical and 
+engineering problems in Computer Systems 
+environmental contexts.
+Cognitive: 
+Affective: 
+PO8 Apply ethical principles and Ethics: 
+commit to professional ethics and 
+responsibilities and norms of engineering 
+practice.
+Affective: 
+PO9  Communicate Communication:
+effectively on complex Electrical and 
+engineering activities with Computer Systems 
+the engineering community and with society at 
+large, such as being able to comprehend and 
+write effective reports and design 
+documentation, make effective presentations, 
+and give and receive clear instructions
+Affective: 
+PO10  Function Individual and Team work:
+effectively as an individual, and as a member 
+or leader in diverse teams and in multi-
+disciplinary settings
+Affective: 
+PO11 Recognise the need Lifelong Learning: 
+for, and have the preparation and ability to 
+engage in independent and life-long learning 
+in the broadest context of technological 
+change
+Affective: 
+PO12 Project Management and Finance: 
+Demonstrate knowledge and understanding of 
+engineering management principles and 
+economic decision-making and apply these to 
+manage projects
+Cognitive: 
+Affective: 
+Teaching and learning method
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (13) Break----------------
+15
+Teaching and learning method
+Lecture, Tutorials and Laboratory-based classes
+ 
+Face-to-face lectures will provide a learning environment for theoretical fundamentals of the unit. 
+Several active learning and engaging strategies such group discussion, pause for reflection, think-
+pair-share and informal quiz are embedded to the face-to-face lectures to enhance students 
+learning experience. These active learning and engaging strategies are also expected to provide 
+an opportunity for ongoing feedback.
+Tutorials will provide an opportunity for problem-based learning; taking the concepts from the 
+lectures and providing concrete examples of their application.
+Laboratory-based classes will also provide a problem-based learning environment with elements of 
+enquiry-based and hands-on approaches. They allow students to work on their skills in analysis.
+Learning outcomes
+1. To extend semiconductor theory to additional electronic devices and to integrated circuit 
+structures.
+2. To gain more detailed knowledge and understanding of electronic amplifier circuits, and to 
+understand how transistors and electronics are used in higher frequency and oscillator 
+applications.
+3. Introduce feedback, stability and dominant pole compensation.
+4. To understand SISO control systems, state space modelling and their relationship to 
+transfer functional representation.
+5. To introduce discrete-time/sampled-data control systems.
+To extend the ability and practical skills to:
+6. design electronic circuits using simulation tools and construct, debug and verify the 
+operation of electronic circuits in the laboratory.
+7. design and experimentally verify the operation of SISO control systems.
+OBE requirements to learning outcomes (LOs)
+Learning Outcomes (LOs) for Outcome Based Education 
+(OBE) requirements
+Handbook Learning Outcomes 
+(LOs)
+LO1) 
+Apply underlying principles of semiconductor 
+components such as diodes, BJTs, FETs, resistors, 
+capacitors and inductors to design complex electronic 
+subsystems and integrated circuits including single and 
+multistage electronic amplifiers, differential amplifiers, 
+current mirrors and operational amplifiers.
+LO1)
+To extend semiconductor theory to 
+additional electronic devices and to 
+integrated circuit structures.
+LO2) 
+To gain more detailed knowledge 
+and understanding of electronic 
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (14) Break----------------
+16
+Learning Outcomes (LOs) for Outcome Based Education 
+(OBE) requirements
+Handbook Learning Outcomes 
+(LOs)
+amplifier circuits, and to 
+understand how transistors and 
+electronics are used in higher 
+frequency and oscillator 
+applications.
+LO6) Design electronic circuits 
+using simulation tools and 
+construct, debug and verify the 
+operation of electronic circuits in 
+the laboratory.
+LO2) 
+ Apply underlying principles of control engineering such 
+as feedback, stability, dominant pole compensation, 
+controllability, observability etc. to design complex control 
+systems for discrete data SISO/MIMO systems including 
+transform based emulations and state-space modelling 
+representations
+LO3) 
+To understand SISO control 
+systems, state space modelling 
+and their relationship to transfer 
+functional representation.
+LO4) To introduce discrete-time
+/sampled-data control systems.
+LO5) 
+To introduce discrete-time
+/sampled-data control systems.
+LO7) Design and experimentally 
+verify the operation of SISO control 
+systems.
+Relationship between unit learning outcomes and program outcomes
+No.PO1PO2PO3PO4PO5PO6PO7PO8PO9PO10PO11PO12
+LO1√
+LO2√
+LO3
+LO4
+LO5
+LO6
+LO7
+Your feedback to us
+One of the formal ways students have to provide feedback on teaching and their learning 
+experience is through the Student Evaluation of Teaching and Units (SETU) survey. The feedback 
+is anonymous and provides the Faculty with evidence of aspects that students are satisfied with 
+and areas for improvement.
+Previous student evaluations of this unit
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (15) Break----------------
+17
+Previous student evaluations of this unit
+In response to previous SETU results of this unit, the following changes have been made:
+Based on the SETU comments of the last offer on learning activities and materials, for example, 
+"improvement in the lecture material as they are hard to understand" and "a bit more interactive 
+and more interesting so students are engaged and involve", following changes are introduced:
+1.  introduce  several in-class active learning sessions including brainstorming-in-a-group, think-
+pair-share, quiz and  pause-for-reflection. These are expected to offer immediate feedback on the 
+amount of learning happening and can be used to upgrade/update the course delivery tasks.
+2. complexity of the harder topics will be toned down by introducing post-class directed practices.
+Student feedback has highlighted the following strength(s) in this unit:
+Tutorial sessions were good
+The mid semester exams were helpful.
+If you wish to view how previous students rated this unit, please go to:
+https://emuapps.monash.edu.au/unitevaluations/index.jsp
+ 
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (16) Break----------------
+18
+Unit schedule - Malaysia campus
+WeekLecturePracLabAssignment activity
+1Introduction to 
+the unit
+N/AN/AN/A
+Revision: One 
+transistor 
+amplifiers (FET’
+s and BJT’s) – 
+Jaeger chapter 
+14
+2Revision: One 
+transistor 
+amplifiers (FET’
+s and BJT’s) – 
+Jaeger chapter 
+14
+Elec. Tute 1N/AN/A
+Differential 
+amplifiers – 
+Jaeger chapter 
+15
+3Differential 
+amplifiers – 
+Jaeger chapter 
+15
+Elec. Tute 2Elec. Lab 1N/A
+Differential 
+amplifiers – 
+Jaeger chapter 
+15
+4Current mirrors 
+– Jaeger 
+chapter 16
+Elec. Tute 3N/AN/A
+Current mirrors 
+– Jaeger 
+chapter 16
+5Current mirrors 
+– Jaeger 
+chapter 16
+Elec. Tute 4Elec. Lab 2Elec. Lab Report 1
+Frequency 
+response – 
+Jaeger chapter 
+17
+6Elec. Tute 5N/AN/A
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (17) Break----------------
+19
+Frequency 
+response – 
+Jaeger chapter 
+17 + Electronics
+Mid-Sem Exam
+7Input-output 
+model and 
+analysis of 
+discrete time 
+control systems
+Control Tute 1Elec. Lab 3Elec. Lab Report 2
+8Sampled data 
+control systems 
+and discrete 
+equivalents
+Control Tute 2N/A
+9Emulation and 
+direct designs 
+of digital control
+Control Tute 3Control Lab 1Elec. Lab Report 3
+10State Space 
+Model and 
+Analysis of 
+discrete time 
+systems
++ Control Mid 
+Semester Exam
+Control Tute 4N/A
+11State Space 
+Based Design 
+of Digital 
+Control Systems
+Control Tute 5Control Lab 2Control Lab Report 1
+12State Space 
+Based Design 
+of Digital 
+Control Systems
++ Revision
+RevisionControl Lab Report 2
+13SWOTVAC
+Examination period
+LINK to Assessment Policy:  http://www.policy.monash.edu/policy-bank/academic/e
+ducation/assessment/assessment-in-coursework-policy.html
+Assessment Summary
+Continuous assessment: 40%
+Examination (2 hours): 60%
+Students are required to achieve at least 45% in the total continuous assessment component 
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (18) Break----------------
+20
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Assessment taskValueDue date
+Laboratory Exercise
+- participating in lab 
+classes
+- producing satisfactory 
+lab results
+- submitting lab reports 
+15%Submit previous week's lab report before resuming 
+the current week's lab activity
+Two Mid Semester 
+Examinations (MSE)
+- MSE, Electronics 10%
+- MSE, Control 10%
+20% 
+(10% 
+each)
+6th and 10th weeks of the semester
+ In-class Active Learning 
+Activity
+5%On going
+Final Exam60%TBA
+Hurdle requirements 
+Students are required to achieve at least 45% in the total continuous assessment component 
+(assignments, tests, mid-semester exams, laboratory reports) and at least 45% in the final 
+examination component and an overall mark of 50% to achieve a pass grade in the unit. Students 
+failing to achieve this requirement will be given a maximum of 45% in the unit.
+Bloom’s Taxonomy:
+Three domains of educational activities have been identified under the general taxonomy known 
+as Bloom’s.
+●Cognitive: mental skills ()Head
+●Affective: growth in feelings or emotional areas ()Heart
+●Psychomotor: manual or physical skills ()Hand
+The  domain involves knowledge and the development of intellectual skills. This includes cognitive
+the recall or recognition of specific facts, procedural patterns, and concepts that serve in the 
+development of intellectual abilities and skills.
+The domain includes the attitudes with which someone deals with things emotionally, affective 
+such as feelings, values, appreciation, enthusiasms and motivations.
+The  domain includes physical movement, coordination, and use of the motor-skill psychomotor
+areas. Development of these skills requires practice and is measured in terms of speed, precision, 
+distance, procedures, or techniques in execution.
+Key for the LO-assessment relationship table above:
+Cognitive
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (19) Break----------------
+21
+Cognitive
+C1C2C3C4C5C6
+Knowledge:
+Remembers 
+previously 
+learned 
+material
+Comprehension:
+Grasps the 
+meaning of 
+material (lowest 
+level of 
+understanding)
+Application:
+Uses learning 
+in new and 
+concrete 
+situations 
+(higher level 
+of 
+understanding)
+Analysis:
+Understands 
+both the 
+content and 
+structure of 
+material
+Synthesis:
+ Formulates 
+new 
+structures 
+from 
+existing 
+knowledge 
+and skills
+Evaluation:
+ Judges 
+the value 
+of material 
+for a given 
+purpose
+Psychomotor
+P1P2P3P4P5P6P7
+Perception:
+Senses 
+cues that 
+guide 
+motor 
+activity
+Set:
+Is mentally, 
+emotionally 
+and 
+physically 
+ready to act
+Guided 
+Response:
+Imitates 
+and 
+practices 
+skills, 
+often in 
+discrete 
+steps
+Mechanism:
+Performs 
+acts with 
+increasing 
+efficiency, 
+confidence 
+and 
+proficiency
+Complete 
+Overt 
+Response:
+ Performs 
+automatically
+Adaption:
+ Adapts 
+skill sets 
+to meet 
+a 
+problem 
+situation
+Organisation:
+Creates new 
+patterns for 
+specific 
+situations
+Affective
+A1A2A3A4A5
+Receiving:
+Selectively 
+attends to 
+stimuli
+Responding:
+Responds to 
+stimuli
+Valuing:
+Attaches value 
+or worth to 
+something
+Organisation:
+Conceptualises 
+the value and 
+resolves conflict 
+between it and 
+other values
+Internalising:
+ Integrates the 
+value into a 
+value system 
+that controls 
+behaviour
+Relationship between Assessments and OBE Learning Outcomes 
+(LOs)
+Assessment
+Learning Outcomes
+LO1LO2
+1Laboratory ExerciseP6P6
+2Mid-Semester ExamC6C6
+3Final ExamC6C6
+4In-class Active Learning ActivityC5C5
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (20) Break----------------
+22
+Relationship between Assessments and Complex Problems
+/Activities
+Assessment
+Complex Problems
+(CP)
+Complex 
+Activities
+(CA)
+Open-
+ended 
+Labs
+WP1WP2WP3WP4WP5WP6WP7EA1...
+1Laboratory Exercisexxx
+2Mid-Semester Examxxx
+3Final Examxxx
+4In-class Active Learning Activityxxx
+Assessment requirements
+Assessment tasks
+Assessment title: Lab Activity: Participating in lab classes, producing satisfactory lab results and 
+submitting lab reports 
+ Mode of delivery:On Campus
+ Details of task:Lab participation, completion of tasks, and submitting reports
+ OngoingRelease dates (where applicable): 
+  N/AWord limit (where applicable): 
+  .Due date: 
+  15%Value: 
+  Presentation requirements: No
+Hurdle requirements (where applicable):  Built-in within continuous assessment’s hurdle 
+requirements. Lab attendance is essential
+  YIndividual assessment in group tasks (where applicable): es
+Criteria for marking:  Proactive lab participation (30%), producing satisfactory results (30%), and 
+timely completion and submission of lab report (40%)
+ ..Additional remarks: 
+Assessment title: Two Mid-Semester Exams
+ Mode of delivery:On Campus
+ Details of task:Written examination, closed book, calculator allowed. Preparation on the lecture 
+notes and tutorials as of approximately 50% (25% each) of total course contents altogether.
+ .Release dates (where applicable): 
+  N/AWord limit (where applicable): 
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (21) Break----------------
+23
+  N/AWord limit (where applicable): 
+  Exam will be held on Tuesday’s lecture time at the lecture venue on the 6th and 10th Due date: 
+week of the semester. Exam time 20-30 minutes each. 
+  20% (10% each)Value: 
+  Presentation requirements: No
+Hurdle requirements (where applicable):  Built-in within continuous assessment’s hurdle 
+requirements
+  Individual assessment in group tasks (where applicable):  N/A
+Criteria for marking:  Answering the questions correctly. Partial marking may be considered if the 
+steps towards correct answers are correct, but made mistakes in calculations. 
+ .Additional remarks: 
+Assessment title:  In-class Active Learning Activity
+ On CampusMode of delivery: 
+ Details of task:Group discussion, pause for reflection, think-pair-share and brianstorming
+sessions during the face-to-face lectures
+ 
+ On goingRelease dates (where applicable): 
+  N/AWord limit (where applicable): 
+  On goingDue date: 
+  5%Value: 
+  N/APresentation requirements: 
+Hurdle requirements (where applicable):  Built-in within continuous assessment’s hurdle 
+requirements
+  YesIndividual assessment in group tasks (where applicable): 
+Criteria for marking:  Proactive participation to the planned activities. Only the activities undertaken 
+in the first lecture of the week (Mondays) will be graded.
+ 
+ .Additional remarks: 
+Examination(s)
+  Final ExamExam title: 
+ 60%Weighting: 
+2 hoursLength: 
+ Closed bookType (Open/closed book): 
+  Hurdle requirements (where applicable): Yes
+ Calculators are allowedElectronic devices allowed: 
+ Remarks (where applicable): Answering the questions correctly. Partial marking may be 
+considered if the steps towards correct answers are correct but made mistakes in calculations. 
+ 
+Calculators
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (22) Break----------------
+24
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+A list of the Faculty of Engineering approved calculators and the process for obtaining a sticker is 
+available online at:
+http://www.eng.monash.edu.au/current-students/calculators.html
+: IMPORTANTOnly these listed calculators with the authorised Monash University-Science or 
+Monash University-Engineering STICKER will be allowed into the examination by the invigilators.
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (23) Break----------------
+25
+Section C: All students 
+Plagiarism and collusion
+Intentional plagiarism or collusion amounts to cheating under Part 7 of the Monash University 
+(Council) Regulations.
+Plagiarism: Plagiarism means taking and using another person’s ideas or manner of expressing 
+them and passing them off as one’s own. For example, by failing to give appropriate 
+acknowledgement. The material used can be from any source (staff, students or the internet, 
+published and unpublished works).
+Collusion: Collusion means unauthorised collaboration with another person on assessable written, 
+oral or practical work and includes paying another person to complete all or part of the work. 
+Where there are reasonable grounds for believing that intentional plagiarism or collusion has 
+occurred, this will be reported to the Associate Dean (Education) or delegate,
+Referencing requirements
+N/A
+To build your skills in citing and referencing, and using different referencing styles, see the online 
+tutorial Academic Integrity: Demystifying Citing and Referencing at
+http://www.lib.monash.edu.au/tutorials/citing/
+Assignment submission
+Hard Copy Submission:
+N/A
+Online Submission: If Electronic Submission has been approved for your unit, please submit your 
+work via the Moodle site or other; as directed by your demonstator for this unit.
+Please keep a copy of tasks completed for your records.
+Feedback to you 
+Feedback will be verbal.
+Learning resources
+Prescribed textbooks
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (24) Break----------------
+26
+Prescribed textbooks
+●Richard C. Jaeger, Travis N. Blalock, “Microelectronic Circuit Design”, McGraw-Hill, 4th Ed., 
+2011.
+●G. F. Franklin, D. Powell, A. Emami-Naeini, “Feedback Control of Dynamic Systems”, Sixth 
+Edition, Prentice-Hall, 2009.
+Monash Library Unit Reading List (if applicable to the unit):
+ http://readinglists.lib.monash.edu/index.html
+Required resources
+Students generally must be able to complete the requirements of their course without the 
+imposition of fees that are additional to the student contribution amount or tuition fees. However, 
+students may be charged certain incidental fees or be expected to make certain purchases to 
+support their study. For more information about this, go to Administrative Information for Higher 
+Education Providers: Student Support, Chapter 21, Incidental Fees at: http://www.innovation.gov.
+au/HigherEducation/TertiaryEducation/ResourcesAndPublications/Pages/default.aspx
+Technological requirements
+Required software (and/or hardware)
+●Altium (licenses are available in the lab).
+●Sunway: Matlab
+Equipment and consumables required or provided
+●Electronic prototyping board (supplied by department).
+●Electronics components for laboratory sessions (supplied by department).
+Other information
+Policies
+Monash has educational policies, procedures and guidelines, which are designed to ensure that 
+staff and students are aware of the University's academic standards, and to provide advice on how 
+they might uphold them. You can find Monash's Education Policies at: 
+http://www.policy.monash.edu/policy-bank/academic/education/index.html
+Graduate Attributes Policy
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (25) Break----------------
+27
+http://www.monash.edu/policy-bank/academic/education/course-governance-and-design/course-
+design-policy
+Student Charter
+http://www.monash.edu/students/policies/student-charter.html
+Student Services
+The University provides many different kinds of services to help you gain the most from your 
+studies. Contact your tutor if you need advice and see the range of services available at
+.http://www.monash.edu/students
+Malaysia students go to: .http://www.monash.edu.my/Student-services/
+Monash University Library
+The Monash University Library provides a range of services, resources and programs that enable 
+you to save time and be more effective in your learning and research.
+Go to  or the library tab in  portal for more http://www.monash.edu/libraryhttp://my.monash.edu.au
+information.
+For Malaysia students the Library and Learning Commons, Monash University Malaysia Campus, 
+provides a range of services and resources that enable you to save time and be more effective in 
+your learning and research.
+Go to  or the library tab in my.monash portal for more information.http://www.lib.monash.edu.my
+Disability Support Services
+Students who have a disability, ongoing medical or mental health condition are welcome to contact 
+Disability Support Services.
+Disability Support Services also support students who are carers of a person who is aged and frail 
+or has a disability, medical condition or mental health condition.
+Disability Advisers visit all Victorian campuses on a regular basis.
+●Website: monash.edu/disability
+●Telephone: 03 9905 5704 to book an appointment with an Adviser;
+●Email: disabilitysupportservices@monash.edu
+●Drop In: Level 1, Western Annexe, 21 Chancellors Walk (Campus Centre) Clayton Campus
+At Malaysia campus, for information and referral, telephone: Student Adviser, Student Community 
+Services at 03 55146018 or, drop in at Student Community Services Department, Level 2 Building 
+2, Monash University Malaysia Campus.
+  
+  
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (26) Break----------------
+28
+Copyright © Monash University 2017. All rights reserved. Except as provided in the Copyright Act 1968, this work may 
+not be reproduced in any form without the written permission of the host Faculty and School/Department.
+ECE3062 Electronic systems and control - Semester 2 (S2-01) - 2017
+----------------Page (27) Break----------------
