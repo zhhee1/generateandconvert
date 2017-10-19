@@ -1,0 +1,326 @@
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+</head>
+<body>
+Do learning outcome and stitle
+<script>
+    var lines = [];
+    var write = [["source","target","ttitle","stier","ttier","logic","check","snum","tnum","scompetency","tcompetency","stitle","slearning","tlearning"]];
+    var count = 0;
+    var titles = [];
+    var reconsolidate = [];
+    var absolute = [];
+    var absource = [];
+    var data = [];
+
+    $(document).ready(function () {
+        $.ajax({
+            url: "./data.csv",
+            type: "GET",
+            dataType: "text",
+            success: function (data) {
+                processData(data);
+            }
+        });
+    });
+
+    $(document).ready(function () {
+        $.ajax({
+            url: "./PDF/competency.csv",
+            type: "GET",
+            dataType: "text",
+            success: function (data) {
+                processCompetency(data);
+            }
+        });
+    });
+
+    $(document).ready(function () {
+        $.ajax({
+            url: "./learning.csv",
+            type: "GET",
+            dataType: "text",
+            success: function (data) {
+                processlearning(data);
+            }
+        });
+    });
+
+    function processData(allText) {
+        allTextLines = allText.split(/\r\n/);
+        for(i=0;i<allTextLines.length;i++) {
+            eachline = allTextLines[i].split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+            lines.push(eachline);
+        }
+        for(i=1;i<lines.length;i++) {
+            line = lines[i];
+            if(line[2] != "") {
+                tier = line[0];
+                ttitle = line[1];
+                ttier = tier[3];
+                andparse = line[2].split(" AND ");
+                for(y=0;y<andparse.length;y++) {
+                    orparse = andparse[y].split(" OR ");
+                    for(z=0;z<orparse.length;z++) {
+                        if(orparse[z].includes("VCE")) {
+                        } else if(orparse[z].includes("physics")){
+                        } else if(orparse[z].includes("CP")){
+                        } else {
+                            count+=1;
+                            orparse[z]=orparse[z].replace('"',"");
+                            orparse[z]=orparse[z].replace("(","");
+                            orparse[z]=orparse[z].replace("(","");
+                            orparse[z]=orparse[z].replace(")","");
+                            orparse[z]=orparse[z].replace(")","");
+                            tier = orparse[z];
+                            stier = tier[3];
+                            absolute.push(orparse[z]);
+                            absolute.push(line[0]);
+                            write[count]=[orparse[z],line[0],ttitle,stier,ttier,line[2],"1"];
+                            }
+                        }
+                        if(andparse[y].includes("OR")) {
+                        } else if(andparse[y].includes("VCE")) {
+                        } else if(andparse[y].includes("physics")) {
+                        } else if(andparse[y].includes("CP")) {
+                        } else {
+                        count+=1;
+                        andparse[y]=andparse[y].replace('"',"");
+                        andparse[y]=andparse[y].replace("(","");
+                        andparse[y]=andparse[y].replace("(","");
+                        andparse[y]=andparse[y].replace(")","");
+                        andparse[y]=andparse[y].replace(")","");
+                        tier = andparse[y];
+                        stier = tier[3];
+                        absolute.push(andparse[y]);
+                        write[count]=[andparse[y],line[0],ttitle,stier,ttier,line[2],"0"];
+                    }
+                }
+            }
+            if(line[3] != "") {
+                tier = line[0];
+                ttier = tier[3];
+                ttitle = line[1];
+                andparse = line[3].split(" AND ");
+                for(y=0;y<andparse.length;y++) {
+                    if(andparse[y].includes("OR")) {
+                        orparse = andparse[y].split(" OR ");
+                        for(z=0;z<orparse.length;z++) {
+                            if(orparse[z].includes("VCE")) {
+                            } else if(orparse[z].includes("physics")){
+                            } else if(orparse[z].includes("CP")){
+                            } else {
+                                count+=1;
+                                orparse[z]=orparse[z].replace('"',"");
+                                orparse[z]=orparse[z].replace("(","");
+                                orparse[z]=orparse[z].replace("(","");
+                                orparse[z]=orparse[z].replace(")","");
+                                orparse[z]=orparse[z].replace(")","");
+                                tier = orparse[z];
+                                stier = tier[3];
+                                absolute.push(orparse[z]);
+                                write[count]=[orparse[z],line[0],ttitle,stier,ttier,line[3],"2"];
+                            }
+                        }
+                    } else if(andparse[y].includes("VCE")) {
+                    } else if(andparse[y].includes("physics")) {
+                    } else if(andparse[y].includes("CP")) {
+                    } else {
+                        count+=1;
+                        andparse[y]=andparse[y].replace('"',"");
+                        andparse[y]=andparse[y].replace("(","");
+                        andparse[y]=andparse[y].replace("(","");
+                        andparse[y]=andparse[y].replace(")","");
+                        andparse[y]=andparse[y].replace(")","");
+                        tier = andparse[y];
+                        stier = tier[3];
+                        absolute.push(andparse[y]);
+                        write[count]=[andparse[y],line[0],ttitle,stier,ttier,line[3],"2"];
+                    }
+                }
+            }
+            if (line[2]+line[3] == "") {
+                buff = line[0];
+                if(buff[3]!=5) {
+                    count += 1;
+                    tier = line[0];
+                    stier = tier[3];
+                    ttitle = line[1];
+                    absolute.push(line[0]);
+                    write[count] = [line[0], line[0], ttitle, stier, stier, "", ""];
+                }
+            }
+        }
+        $.each(absolute, function(i, el){
+            if($.inArray(el, absource) === -1) absource.push(el);
+        });
+        positioning();
+    }
+
+    function processCompetency(alltext) {
+        alltextlines = alltext.split(/\r\n|\n/);
+        for(i=1;i<alltextlines.length;i++) {
+            textlines = alltextlines[i].split(/\s/);
+            for(y=0;y<textlines.length;y++) {
+                if(textlines != "") {
+                    singleline = textlines[y].split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+                }
+                reconsolidate.push(singleline);
+            }
+        }
+
+        for (i=1;i<write.length;i++) {
+            check = write[i];
+            for (y = 0; y < reconsolidate.length; y++) {
+                recheck = reconsolidate[y];
+                if (check[0] == recheck[0]) {
+                    write[i].push(recheck[1]);
+                }
+            }
+        }
+
+        for (i=1;i<write.length;i++) {
+            if (write[i].length < 10) {
+                write[i].push("");
+            }
+        }
+
+        for (i=1;i<write.length;i++) {
+            check = write[i];
+            for (y = 0; y < reconsolidate.length; y++) {
+                recheck = reconsolidate[y];
+                if(check[1] == recheck[0]) {
+                    write[i].push(recheck[1]);
+                }
+            }
+        }
+
+        for (i=1;i<write.length;i++) {
+            if (write[i].length < 11) {
+                write[i].push("");
+            }
+        }
+    }
+
+    function positioning() {
+        var t1 = 0;
+        var t2 = 0;
+        var t3 = 0;
+        var t4 = 0;
+
+        for (i=0;i<absource.length;i++) {
+            extract = absource[i];
+            tier = extract[3];
+            absource[i] = [extract,tier];
+            if (tier == 1) {
+                t1 = t1+1;
+                absource[i].push(t1);
+            } else if (tier == 2) {
+                t2 = t2+1;
+                absource[i].push(t2);
+            } else if (tier == 3) {
+                t3 = t3+1;
+                absource[i].push(t3);
+            } else if (tier == "4") {
+                t4 = t4+1;
+                absource[i].push(t4);
+            }
+        }
+
+        for(i=1;i<write.length;i++) {
+            extract_write = write[i];
+            for(y=0;y<absource.length;y++) {
+                extract_ab = absource[y];
+                if(extract_write[0] == extract_ab[0]) {
+                    write[i].push(extract_ab[2]);
+                }
+            }
+            for(y=0;y<absource.length;y++) {
+                extract_ab = absource[y];
+                if(extract_write[1] == extract_ab[0]) {
+                    write[i].push(extract_ab[2]);
+                }
+            }
+        }
+    }
+
+    function processlearning(rawdata) {
+        data = rawdata.split(/\r\n|\n/);
+        for (i = 1; i < data.length; i++) {
+            eachunit = data[i].split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+            if (eachunit != "") {
+                eachunit[1] = eachunit[1].replace('" ', "");
+                eachunit[1] = eachunit[1].replace(' "', "");
+            }
+            titles.push(eachunit);
+        }
+
+        for (i = 1; i < write.length; i++) {
+            push = write[i];
+            for (y = 0; y < titles.length; y++) {
+                title = titles[y];
+                if(push[0] === title[0]) {
+                    write[i].push(title[1])
+                }
+            }
+        }
+
+        for (i = 1; i < write.length; i++) {
+            if (write[i].length < 12) {
+                write[i].push("");
+            }
+        }
+
+        for (i = 1; i < write.length; i++) {
+            push = write[i];
+            for (y = 0; y < titles.length; y++) {
+                title = titles[y];
+                if(push[0] === title[0]) {
+                    write[i].push(title[2])
+                }
+            }
+        }
+
+        for (i = 1; i < write.length; i++) {
+            if (write[i].length < 13) {
+                write[i].push("");
+            }
+        }
+
+        for (i = 1; i < write.length; i++) {
+            push = write[i];
+            for (y = 0; y < titles.length; y++) {
+                title = titles[y];
+                if(push[1] === title[0]) {
+                    write[i].push(title[2])
+                }
+            }
+        }
+
+        for (i = 1; i < write.length; i++) {
+            if (write[i].length < 14) {
+                write[i].push("");
+            }
+        }
+
+        console.log(write);
+        download();
+    }
+
+    function download() {
+        var csvContent = "data:text/csv;charset=utf-8,";
+        write.forEach(function(infoArray, index){
+            dataString = infoArray.join(",");
+            csvContent += dataString + "\n";
+        });
+
+        var encodedUri = encodeURI(csvContent);
+        var link = document.createElement("a");
+        link.setAttribute("href", encodedUri);
+        link.setAttribute("download", "force.csv");
+        document.body.appendChild(link);
+        link.click();
+    }
+</script>
+</body>
+</html>

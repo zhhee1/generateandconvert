@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+</head>
+<body>
+<script>
+
+    let source = ["ENG1001", "ENG1002", "ENG1003", "ENG1005", "ENG1060", "ENG1090",
+        "ENG2005", "ENG2801", "ECE2072", "ECE2111", "ECE2191", "ECE3051", "ECE3062",
+        "ECE3091", "ECE3121", "ECE4032", "ECE4042", "ECE4043", "ECE4053", "ECE4076",
+        "ECE4087", "ECE4094", "ECE4095", "ECE4122","MEC2407", "MEC3458", "MTH1030", "TRC3600"];
+
+    let str = [];
+    let data = [];
+    var count = 0;
+
+    for (i = 0; i < source.length; i++) {
+        let read = "./csv/"+source[i]+"Semester2_2017.csv";
+
+        $(document).ready(function () {
+            $.ajax({
+                url: read,
+                type: "GET",
+                dataType: "text",
+                success: function (data) {
+                    processData(data);
+                }
+            });
+        });
+    }
+
+    function processData(allText) {
+        var allTextLines = allText.split(/\r\n|\n/);
+        var start = "The Engineers Australia Policy on Accreditation of Professional Engineering Programs";
+        var end = "Teaching and learning method";
+        var unit = allTextLines[5];
+
+        for (var i=1; i<allTextLines.length; i++) {
+            if (allTextLines[i].indexOf(start) != -1) {
+                var capturestart = i;
+
+                for (var y=capturestart; y<allTextLines.length; y++) {
+                    if (allTextLines[y].indexOf(end) != -1) {
+                        var captureend = y;
+                        break;
+                    }
+                }
+            }
+        }
+        str+='"';
+        for (i=capturestart; i<captureend; i++) {
+            if (allTextLines[i].indexOf("1.1") != -1) {
+                if (allTextLines[i].indexOf("PE1.1") != -1) {str+="PE1.1,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str+="1.1a,";
+                        break;
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("1.2") != -1) {
+                if (allTextLines[i].indexOf("PE1.2") != -1) {str+="PE1.2,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str+="1.2a,";
+                        break;
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("1.3") != -1) {
+                if (allTextLines[i].indexOf("PE1.3") != -1) {str+="PE1.3,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str+="1.3a,";
+                        break;
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("1.4") != -1) {
+                if (allTextLines[i].indexOf("PE1.4") != -1) {str+="PE1.4,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("1.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("1.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.1") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.1") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str+="1.4a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str+="1.4b,";
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("1.5") != -1) {
+                if (allTextLines[i].indexOf("PE1.5") != -1) {str+="PE1.5,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("1.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.1") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.1") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str+="1.5a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str+="1.5b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str+="1.5c,";
+                    }
+                    if (allTextLines[y].indexOf("d)") != -1) {
+                        str+="1.5d,";
+                    }
+                    if (allTextLines[y].indexOf("e)") != -1) {
+                        str+="1.5e,";
+                    }
+                    if (allTextLines[y].indexOf("f)") != -1) {
+                        str+="1.5f,";
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("1.6") != -1) {
+                if (allTextLines[i].indexOf("PE1.6") != -1) {str+="PE1.6,"}
+                for (y = i; y < captureend; y++) {
+                    if (allTextLines[y].indexOf("2.1") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.1") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str += "1.6a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str += "1.6b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str += "1.6c,";
+                    }
+                    if (allTextLines[y].indexOf("d)") != -1) {
+                        str += "1.6d,";
+                    }
+                    if (allTextLines[y].indexOf("e)") != -1) {
+                        str += "1.6e,";
+                    }
+                }
+            }
+
+            if (allTextLines[i].indexOf("2.1") != -1) {
+                if (allTextLines[i].indexOf("PE2.1") != -1) {str+="PE2.1,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("2.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.1") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str+="2.1a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str+="2.1b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str+="2.1c,";
+                    }
+                    if (allTextLines[y].indexOf("d)") != -1) {
+                        str+="2.1d,";
+                    }
+                    if (allTextLines[y].indexOf("e)") != -1) {
+                        str+="2.1e,";
+                    }
+                    if (allTextLines[y].indexOf("f)") != -1) {
+                        str+="2.1f,";
+                    }
+                    if (allTextLines[y].indexOf("g)") != -1) {
+                        str+="2.1g,";
+                    }
+                    if (allTextLines[y].indexOf("h)") != -1) {
+                        str+="2.1h,";
+                    }
+                    if (allTextLines[y].indexOf("i)") != -1) {
+                        str+="2.1i,";
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("2.2") != -1) {
+                if (allTextLines[i].indexOf("PE2.2") != -1) {str+="PE2.2,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("2.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.1") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str+="2.2a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str+="2.2b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str+="2.2c,";
+                    }
+                    if (allTextLines[y].indexOf("d)") != -1) {
+                        str+="2.2d,";
+                    }
+                    if (allTextLines[y].indexOf("e)") != -1) {
+                        str+="2.2e,";
+                    }
+                    if (allTextLines[y].indexOf("f)") != -1) {
+                        str+="2.2f,";
+                    }
+                    if (allTextLines[y].indexOf("g)") != -1) {
+                        str+="2.2g,";
+                    }
+                    if (allTextLines[y].indexOf("h)") != -1) {
+                        str+="2.2h,";
+                    }
+                    if (allTextLines[y].indexOf("i)") != -1) {
+                        str+="2.2i,";
+                    }
+                    if (allTextLines[y].indexOf("j)") != -1) {
+                        str+="2.2j,";
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("2.3") != -1) {
+                if (allTextLines[i].indexOf("PE2.3") != -1) {str+="PE2.3,"}
+                for (y = i; y < captureend; y++) {
+                    if (allTextLines[y].indexOf("2.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.1") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str += "2.3a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str += "2.3b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str += "2.3c,";
+                    }
+                    if (allTextLines[y].indexOf("d)") != -1) {
+                        str += "2.3d,";
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("2.4") != -1) {
+                if (allTextLines[i].indexOf("PE2.4") != -1) {str+="PE2.4,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("2.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("2.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.1") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str+="2.4a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str+="2.4b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str+="2.4c,";
+                    }
+                    if (allTextLines[y].indexOf("d)") != -1) {
+                        str+="2.4d,";
+                    }
+                    if (allTextLines[y].indexOf("e)") != -1) {
+                        str+="2.4e,";
+                    }
+                    if (allTextLines[y].indexOf("f)") != -1) {
+                        str+="2.4f,";
+                    }
+                }
+            }
+
+            if (allTextLines[i].indexOf("2.5") != -1) {
+                if (allTextLines[i].indexOf("PE2.5") != -1) {str+="PE2.5,"}
+            }
+
+            if (allTextLines[i].indexOf("2.6") != -1) {
+                if (allTextLines[i].indexOf("PE2.6") != -1) {str+="PE2.6,"}
+            }
+
+            if (allTextLines[i].indexOf("3.1") != -1) {
+                if (allTextLines[i].indexOf("PE3.1") != -1) {str+="PE3.1,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("3.2") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str += "3.1a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str += "3.1b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str += "3.1c,";
+                    }
+                    if (allTextLines[y].indexOf("d)") != -1) {
+                        str += "3.1d,";
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("3.2") != -1) {
+                if (allTextLines[i].indexOf("PE3.2") != -1) {str+="PE3.2,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("3.3") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str += "3.2a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str += "3.2b,";
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("3.3") != -1) {
+                if (allTextLines[i].indexOf("PE3.3") != -1) {str+="PE3.3,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("3.4") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str += "3.3a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str += "3.3b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str += "3.3c,";
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("3.4") != -1) {
+                if (allTextLines[i].indexOf("PE3.4") != -1) {str+="PE3.4,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("3.5") != -1) {break;}
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str += "3.4a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str += "3.4b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str += "3.4c,";
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("3.5") != -1) {
+                if (allTextLines[i].indexOf("PE3.5") != -1) {str+="PE3.5,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("3.6") != -1) {break;}
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str += "3.5a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str += "3.5b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str += "3.5c,";
+                    }
+                    if (allTextLines[y].indexOf("d)") != -1) {
+                        str += "3.5d,";
+                    }
+                    if (allTextLines[y].indexOf("e)") != -1) {
+                        str += "3.5e,";
+                    }
+                    if (allTextLines[y].indexOf("f)") != -1) {
+                        str += "3.5f,";
+                    }
+                }
+            }
+            if (allTextLines[i].indexOf("3.6") != -1) {
+                if (allTextLines[i].indexOf("PE3.6") != -1) {str+="PE3.6,"}
+                for (y=i; y<captureend; y++) {
+                    if (allTextLines[y].indexOf("a)") != -1) {
+                        str += "3.6a,";
+                    }
+                    if (allTextLines[y].indexOf("b)") != -1) {
+                        str += "3.6b,";
+                    }
+                    if (allTextLines[y].indexOf("c)") != -1) {
+                        str += "3.6c,";
+                    }
+                    if (allTextLines[y].indexOf("d)") != -1) {
+                        str += "3.6d,";
+                    }
+                    if (allTextLines[y].indexOf("e)") != -1) {
+                        str += "3.6e,";
+                    }
+                    if (allTextLines[y].indexOf("f)") != -1) {
+                        str += "3.6f,";
+                    }
+                }
+            }
+
+        }
+        str+='"';
+        count = count+1;
+        data[count]=[unit,str];
+
+        str = [];
+        if (count==source.length) {
+            console.log(data);
+            var csvContent = "data:text/csv;charset=utf-8,";
+            data.forEach(function(infoArray, index){
+                dataString = infoArray.join(",");
+                csvContent += dataString + "\n";
+            });
+
+            var encodedUri = encodeURI(csvContent);
+            var link = document.createElement("a");
+            link.setAttribute("href", encodedUri);
+            link.setAttribute("download", "competency.csv");
+            document.body.appendChild(link);
+            link.click();
+        }
+    }
+
+</script>
+</body>
+</html>
